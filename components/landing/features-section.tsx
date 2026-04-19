@@ -46,18 +46,18 @@ const features = [
 ];
 
 const tabs = [
-  { 
-    id: "dashboard", 
+  {
+    id: "dashboard",
     label: "Dashboard",
     image: "/dashboard_analytics_bisnisrapi.png",
   },
-  { 
-    id: "orders", 
+  {
+    id: "orders",
     label: "Pesanan",
     image: "/order_tracking_bisnisrapi.png",
   },
-  { 
-    id: "reports", 
+  {
+    id: "reports",
     label: "Tim",
     image: "/team_collaboration_bisnisrapi.png",
   },
@@ -75,7 +75,7 @@ export function FeaturesSection() {
   return (
     <section className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <motion.div 
+        <motion.div
           className="text-center max-w-3xl mx-auto mb-16"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -91,7 +91,7 @@ export function FeaturesSection() {
         </motion.div>
 
         {/* Tab Preview Section */}
-        <motion.div 
+        <motion.div
           className="mb-20"
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -105,11 +105,10 @@ export function FeaturesSection() {
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
-                  className={`relative px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${
-                    activeTab === tab.id
+                  className={`relative px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === tab.id
                       ? "text-primary-foreground"
                       : "text-muted-foreground hover:text-foreground"
-                  }`}
+                    }`}
                 >
                   {activeTab === tab.id && (
                     <motion.div
@@ -146,32 +145,32 @@ export function FeaturesSection() {
             </AnimatePresence>
 
             {/* Floating Elements */}
-            <motion.div 
+            <motion.div
               className="absolute -left-8 top-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl will-change-transform"
               initial={{ opacity: 0, x: -30 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              transition={{ 
-                delay: 0.5, 
-                duration: 4, 
-                repeat: Infinity, 
-                ease: "easeInOut" 
+              transition={{
+                delay: 0.5,
+                duration: 4,
+                repeat: Infinity,
+                ease: "easeInOut"
               }}
               animate={{ y: [0, -8, 0] }}
             >
               <Activity className="w-6 h-6 text-primary" />
             </motion.div>
 
-            <motion.div 
+            <motion.div
               className="absolute -right-8 bottom-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl will-change-transform"
               initial={{ opacity: 0, x: 30 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              transition={{ 
-                delay: 0.6, 
-                duration: 5, 
-                repeat: Infinity, 
-                ease: "easeInOut" 
+              transition={{
+                delay: 0.6,
+                duration: 5,
+                repeat: Infinity,
+                ease: "easeInOut"
               }}
               animate={{ y: [0, 8, 0] }}
             >
@@ -181,7 +180,7 @@ export function FeaturesSection() {
         </motion.div>
 
         {/* Features Grid */}
-        <motion.div 
+        <motion.div
           className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
@@ -200,8 +199,8 @@ export function FeaturesSection() {
             >
               {/* Feature Icon Background Decoration */}
               <div className="absolute top-0 right-0 w-32 h-32 bg-accent/5 rounded-full blur-3xl -mr-16 -mt-16 group-hover:bg-accent/10 transition-colors" />
-              
-              <motion.div 
+
+              <motion.div
                 className="w-16 h-16 rounded-[1.25rem] bg-foreground text-background flex items-center justify-center mb-8 shadow-xl group-hover:bg-accent group-hover:text-white transition-all duration-500"
                 whileHover={{ scale: 1.1, rotate: -5 }}
               >

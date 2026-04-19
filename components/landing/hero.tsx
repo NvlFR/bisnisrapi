@@ -34,45 +34,69 @@ export function Hero() {
     <section ref={containerRef} className="relative min-h-screen flex items-center overflow-hidden">
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-primary/5 via-background to-background" />
-      
+
+      {/* Right - Collaboration Image (True Full Screen Split) */}
+      <div className="hidden lg:block absolute top-0 right-0 w-1/2 h-full overflow-hidden pointer-events-none">
+        <motion.div
+          className="relative w-full h-full"
+          initial={{ opacity: 0, x: 20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 1, ease: "easeOut" }}
+        >
+          <Image
+            src="/hero_collaboration.png"
+            alt="Business team collaborating"
+            fill
+            className="object-cover"
+            style={{
+              maskImage: "linear-gradient(to right, transparent, black 40%), linear-gradient(to top, transparent, black 15%)",
+              WebkitMaskImage: "linear-gradient(to right, transparent, black 40%), linear-gradient(to top, transparent, black 15%)",
+              maskComposite: "intersect",
+              WebkitMaskComposite: "source-in",
+            }}
+            priority
+          />
+        </motion.div>
+      </div>
+
       {/* Animated background blobs */}
-      <motion.div 
+      <motion.div
         className="absolute top-20 left-1/4 w-[500px] h-[500px] bg-primary/8 rounded-full blur-[100px] will-change-transform"
-        animate={{ 
+        animate={{
           x: [0, 30, 0],
           y: [0, -20, 0],
           scale: [1, 1.1, 1],
         }}
-        transition={{ 
-          duration: 15, 
+        transition={{
+          duration: 15,
           repeat: Infinity,
           ease: "easeInOut"
         }}
       />
-      <motion.div 
+      <motion.div
         className="absolute bottom-20 right-1/4 w-[400px] h-[400px] bg-violet-500/5 rounded-full blur-[80px] will-change-transform"
-        animate={{ 
+        animate={{
           x: [0, -20, 0],
           y: [0, 30, 0],
           scale: [1, 1.15, 1],
         }}
-        transition={{ 
-          duration: 12, 
+        transition={{
+          duration: 12,
           repeat: Infinity,
           ease: "easeInOut",
           delay: 2
         }}
       />
-      
-      <motion.div 
-        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28"
+
+      <motion.div
+        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28 w-full"
         style={{ y, opacity }}
       >
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
             {/* Badge */}
-            <motion.div 
+            <motion.div
               initial={{ opacity: 0, y: 30, scale: 0.9 }}
               animate={{ opacity: 1, y: 0, scale: 1 }}
               transition={{ ...springTransition, delay: 0.1 }}
@@ -86,7 +110,7 @@ export function Hero() {
               </span>
             </motion.div>
 
-            <motion.h1 
+            <motion.h1
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.2 }}
@@ -96,7 +120,7 @@ export function Hero() {
               Operasional <span className="text-accent">Efisien</span>
             </motion.h1>
 
-            <motion.p 
+            <motion.p
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.3 }}
@@ -105,7 +129,7 @@ export function Hero() {
               Kami mentransformasi bisnis Anda dengan sistem digital yang scalable. Fokus pada pertumbuhan, serahkan teknisnya kepada kami.
             </motion.p>
 
-            <motion.div 
+            <motion.div
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.4 }}
@@ -134,7 +158,7 @@ export function Hero() {
             </motion.div>
 
             {/* Stats Section */}
-            <motion.div 
+            <motion.div
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.5 }}
@@ -155,58 +179,20 @@ export function Hero() {
             </motion.div>
           </div>
 
-          {/* Right - Premium iPhone Mockup */}
-          <motion.div 
-            className="relative flex justify-center lg:justify-end"
-            initial={{ opacity: 0, scale: 0.8, rotate: 5 }}
-            animate={{ opacity: 1, scale: 1, rotate: 0 }}
-            transition={{ ...springTransition, delay: 0.4 }}
-          >
-            {/* Glow effect background */}
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-accent/20 rounded-full blur-[120px] -z-10" />
-            
-            <motion.div 
-              className="relative w-full max-w-[450px] aspect-[1/1]"
-              whileHover={{ y: -10, scale: 1.02 }}
-              transition={smoothSpring}
-            >
-              <Image
-                src="/hero_iphone_mockup_bisnisrapi.png"
-                alt="Premium Business App Interface"
-                width={800}
-                height={800}
-                className="w-full h-auto drop-shadow-2xl"
-                priority
-              />
-              
-              {/* Floating element 1 */}
-              <motion.div 
-                className="absolute -left-10 top-1/4 p-4 rounded-2xl bg-white/90 backdrop-blur-md border border-white shadow-2xl z-20 will-change-transform"
-        animate={{ y: [0, -15, 0] }}
-                transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-full bg-green-500/10 flex items-center justify-center border border-green-500/20">
-                    <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                  </div>
-                  <div>
-                    <p className="text-xs font-bold text-foreground">System Active</p>
-                    <p className="text-[10px] text-muted-foreground">Monitoring operations...</p>
-                  </div>
-                </div>
-              </motion.div>
+          {/* Spacer for Desktop (the absolute image fills this space) */}
+          <div className="hidden lg:block h-[500px]" />
 
-              {/* Floating element 2 */}
-              <motion.div 
-                className="absolute -right-5 bottom-1/4 p-4 rounded-2xl bg-foreground text-background shadow-2xl z-20 border border-white/10 will-change-transform"
-        animate={{ y: [0, 15, 0] }}
-                transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 1 }}
-              >
-                <p className="text-[10px] font-bold uppercase tracking-widest opacity-60">Avg Response</p>
-                <p className="text-xl font-bold">0.4<span className="text-accent">s</span></p>
-              </motion.div>
-            </motion.div>
-          </motion.div>
+          {/* Mobile Image - Keep it below text on mobile */}
+          <div className="lg:hidden mt-12 w-full">
+            <Image
+              src="/hero_collaboration.png"
+              alt="Business team collaborating"
+              width={800}
+              height={500}
+              className="rounded-2xl shadow-xl object-cover w-full h-[300px]"
+              priority
+            />
+          </div>
         </div>
       </motion.div>
     </section>

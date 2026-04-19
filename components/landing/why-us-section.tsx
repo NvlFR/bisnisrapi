@@ -69,14 +69,14 @@ export function WhyUsSection() {
 
             <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4">
               {highlights.map((highlight, index) => (
-                <motion.div 
-                  key={index} 
+                <motion.div
+                  key={index}
                   className="flex items-center gap-3"
                   initial={{ opacity: 0, x: -20 }}
                   animate={isInView ? { opacity: 1, x: 0 } : {}}
                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
                 >
-                  <motion.div 
+                  <motion.div
                     className="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0"
                     whileHover={{ scale: 1.2, rotate: 10 }}
                     transition={{ type: "spring", stiffness: 400 }}
@@ -89,7 +89,7 @@ export function WhyUsSection() {
             </div>
 
             {/* Image */}
-            <motion.div 
+            <motion.div
               className="mt-12 relative rounded-3xl overflow-hidden shadow-2xl"
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
@@ -107,7 +107,7 @@ export function WhyUsSection() {
           </motion.div>
 
           {/* Right - Reason Cards */}
-          <motion.div 
+          <motion.div
             className="space-y-6"
             initial={{ opacity: 0, x: 40 }}
             animate={isInView ? { opacity: 1, x: 0 } : {}}
@@ -123,7 +123,7 @@ export function WhyUsSection() {
                 className="group p-8 rounded-3xl bg-card border border-border hover:border-primary/30 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300"
               >
                 <div className="flex items-start gap-5">
-                  <motion.div 
+                  <motion.div
                     className="flex-shrink-0 w-14 h-14 rounded-2xl bg-primary/10 group-hover:bg-primary flex items-center justify-center transition-colors duration-300"
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     transition={{ type: "spring", stiffness: 400 }}
@@ -143,7 +143,7 @@ export function WhyUsSection() {
             ))}
 
             {/* Trust badge */}
-            <motion.div 
+            <motion.div
               className="flex items-center gap-4 p-6 rounded-2xl bg-primary/5 border border-primary/20"
               initial={{ opacity: 0, y: 20 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
@@ -151,7 +151,7 @@ export function WhyUsSection() {
             >
               <div className="flex -space-x-3">
                 {[1, 2, 3, 4].map((i) => (
-                  <motion.div 
+                  <motion.div
                     key={i}
                     className="w-10 h-10 rounded-full bg-primary/20 border-2 border-card flex items-center justify-center"
                     initial={{ scale: 0 }}
