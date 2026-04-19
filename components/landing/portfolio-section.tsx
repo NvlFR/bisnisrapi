@@ -8,10 +8,10 @@ const caseStudies = [
   {
     title: "Toko Fashion Online",
     category: "E-Commerce",
-    image: "https://placehold.co/600x400/fce7f3/ec4899?text=Fashion+Store",
+    image: "/dashboard_analytics_bisnisrapi.png",
     problem: "Semua order melalui WhatsApp, sering terlewat, stok tidak akurat",
     solution: "Sistem order terpusat + inventory real-time",
-    result: "Order meningkat 2x, komplain turun 70%",
+    result: "Order meningkat +215%",
     testimonial: "Sekarang tim tidak perlu input manual lagi. Semua otomatis dan data selalu akurat. Sangat membantu operasional harian kami.",
     author: "Sarah Wijaya",
     role: "Pemilik FashionKu",
@@ -20,10 +20,10 @@ const caseStudies = [
   {
     title: "Jaringan Restoran & Kafe",
     category: "Food & Beverage",
-    image: "https://placehold.co/600x400/fef3c7/f59e0b?text=Restaurant+Chain",
+    image: "/business_automation_bisnisrapi_secondary.png",
     problem: "5 cabang dengan laporan masih manual di Excel setiap minggu",
     solution: "Dashboard multi-cabang + reporting otomatis harian",
-    result: "Waktu reporting dari 3 hari menjadi 10 menit",
+    result: "Reporting 10 Menit",
     testimonial: "Dulu butuh 3 hari untuk kompilasi laporan semua cabang. Sekarang tinggal buka dashboard dan semua data tersedia real-time.",
     author: "Budi Santoso",
     role: "Manajer Operasional Kopi Nikmat",
@@ -32,10 +32,10 @@ const caseStudies = [
   {
     title: "Jasa Ekspedisi",
     category: "Logistik",
-    image: "https://placehold.co/600x400/e0f2fe/0ea5e9?text=Logistics+Service",
+    image: "/order_tracking_bisnisrapi.png",
     problem: "Pelacakan manual, pelanggan sering bertanya posisi barang",
     solution: "Sistem tracking real-time + notifikasi otomatis",
-    result: "Pertanyaan CS turun 60%, kepuasan pelanggan meningkat",
+    result: "CS Load -60%",
     testimonial: "Pelanggan sekarang bisa melacak sendiri. Tim customer service jadi bisa fokus pada hal yang lebih penting.",
     author: "Andi Pratama",
     role: "Founder KirimCepat",
@@ -47,7 +47,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function PortfolioSection() {
   return (
@@ -60,14 +60,14 @@ export function PortfolioSection() {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
-            Portfolio & Testimoni
+          <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
+            Success Stories
           </p>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-            Dipercaya oleh berbagai bisnis
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
+            Dampak <span className="text-accent">Nyata</span> untuk Bisnis Anda
           </h2>
-          <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
-            Lihat bagaimana sistem kami membantu berbagai bisnis meningkatkan efisiensi operasional dan membuat keputusan lebih cerdas.
+          <p className="mt-6 text-lg font-medium text-muted-foreground/80 leading-relaxed">
+            Lihat bagaimana solusi kami mentransformasi operasional berbagai sektor bisnis menjadi lebih efisien dan menguntungkan.
           </p>
         </motion.div>
 
@@ -88,19 +88,20 @@ export function PortfolioSection() {
                   src={study.image}
                   alt={study.title}
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 33vw"
                   className="object-cover transition-transform duration-700 group-hover:scale-110"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-card/80 to-transparent" />
-                <div className="absolute bottom-4 left-4">
-                  <span className="px-3 py-1 rounded-full bg-primary/90 text-primary-foreground text-xs font-medium">
+                <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-background via-background/40 to-transparent" />
+                <div className="absolute bottom-4 left-6">
+                  <span className="px-3 py-1 rounded-full bg-accent/20 border border-accent/20 text-accent text-[10px] font-bold uppercase tracking-wider backdrop-blur-md">
                     {study.category}
                   </span>
                 </div>
               </div>
 
-              <div className="p-6">
+              <div className="p-8 pt-4">
                 {/* Rating */}
-                <div className="flex items-center gap-1 mb-4">
+                <div className="flex items-center gap-1 mb-6">
                   {[...Array(study.rating)].map((_, i) => (
                     <motion.div
                       key={i}
@@ -109,16 +110,16 @@ export function PortfolioSection() {
                       viewport={{ once: true }}
                       transition={{ delay: 0.5 + i * 0.1, type: "spring" }}
                     >
-                      <Star className="w-4 h-4 text-yellow-500 fill-yellow-500" />
+                      <Star className="w-4 h-4 text-accent fill-accent" />
                     </motion.div>
                   ))}
                 </div>
 
                 {/* Quote */}
-                <div className="mb-6">
-                  <Quote className="w-8 h-8 text-primary/20 mb-3" />
-                  <p className="text-foreground leading-relaxed">
-                    {study.testimonial}
+                <div className="mb-8 relative">
+                  <Quote className="absolute -top-4 -left-2 w-10 h-10 text-accent/10 mb-3" />
+                  <p className="text-foreground/90 font-medium italic leading-relaxed pl-6">
+                    "{study.testimonial}"
                   </p>
                 </div>
 
@@ -139,11 +140,10 @@ export function PortfolioSection() {
                   </div>
                 </div>
 
-                {/* Result */}
-                <div className="flex items-center justify-between">
+                <div className="flex items-end justify-between">
                   <div>
-                    <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">Hasil</p>
-                    <p className="text-primary font-semibold">{study.result}</p>
+                    <p className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.2em] mb-1">Impact</p>
+                    <p className="text-2xl font-black text-accent tracking-tighter">{study.result}</p>
                   </div>
                   <motion.div 
                     className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"

@@ -40,7 +40,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function ProblemSection() {
   const ref = useRef(null);
@@ -66,11 +66,11 @@ export function ProblemSection() {
                 transition={smoothSpring}
               >
                 <Image
-                  src="https://placehold.co/600x600/fef3c7/d97706?text=Frustrated+Business+Owner"
-                  alt="Pemilik bisnis yang kewalahan dengan sistem manual"
+                  src="/business_automation_bisnisrapi_secondary.png"
+                  alt="Pebisnis yang stres dengan tumpukan tugas manual"
                   width={600}
                   height={600}
-                  className="object-cover"
+                  className="w-full h-auto"
                 />
               </motion.div>
 

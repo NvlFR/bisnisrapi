@@ -36,7 +36,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function Footer() {
   const scrollToTop = () => {

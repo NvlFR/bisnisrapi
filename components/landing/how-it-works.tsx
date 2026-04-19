@@ -12,7 +12,7 @@ const steps = [
     title: "Analisis Kebutuhan",
     description:
       "Kami memulai dengan sesi diskusi mendalam tentang bisnis Anda. Memahami apa yang berjalan baik, apa yang perlu diperbaiki, dan target yang ingin dicapai.",
-    color: "bg-blue-100 text-blue-600",
+    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "02",
@@ -20,7 +20,7 @@ const steps = [
     title: "Perancangan Sistem",
     description:
       "Berdasarkan hasil analisis, kami merancang sistem yang sesuai dengan alur kerja dan kebutuhan spesifik bisnis Anda.",
-    color: "bg-purple-100 text-purple-600",
+    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "03",
@@ -28,7 +28,7 @@ const steps = [
     title: "Pengembangan & Implementasi",
     description:
       "Sistem dikembangkan dan diimplementasikan dengan cermat. Tim Anda dilatih hingga mampu mengoperasikannya secara mandiri.",
-    color: "bg-green-100 text-green-600",
+    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "04",
@@ -36,7 +36,7 @@ const steps = [
     title: "Optimasi Berkelanjutan",
     description:
       "Bisnis berkembang, sistem juga. Kami terus melakukan optimasi seiring pertumbuhan bisnis Anda.",
-    color: "bg-orange-100 text-orange-600",
+    color: "bg-secondary/20 text-accent border border-accent/20",
   },
 ];
 
@@ -44,7 +44,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function HowItWorks() {
   const ref = useRef(null);
@@ -63,17 +63,18 @@ export function HowItWorks() {
             transition={{ ...smoothSpring }}
           >
             <motion.div 
-              className="relative rounded-3xl overflow-hidden shadow-2xl"
+              className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-border/50"
               whileHover={{ scale: 1.02 }}
               transition={smoothSpring}
             >
               <Image
-                src="https://placehold.co/600x700/e0e7ff/6366f1?text=Our+Process"
-                alt="Tim BisnisRapi bekerja sama dengan klien dalam proses pengembangan sistem"
+                src="/team_collaboration_bisnisrapi.png"
+                alt="Tim BisnisRapi bekerja sama dengan klien"
                 width={600}
                 height={700}
                 className="object-cover"
               />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
             </motion.div>
 
             {/* Timeline floating card */}
@@ -120,21 +121,21 @@ export function HowItWorks() {
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ ...smoothSpring }}
             >
-              <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
-                Cara Kerja
+              <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
+                Our Process
               </p>
-              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-                Prosesnya sederhana, hasilnya nyata
+              <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
+                Proses Sederhana, Hasil <span className="text-accent">Dahsyat</span>
               </h2>
-              <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
-                Tidak perlu khawatir soal teknis. Kami yang menangani, Anda fokus pada bisnis.
+              <p className="mt-6 text-lg font-medium text-muted-foreground/80 leading-relaxed">
+                Kami menangani seluruh kerumitan teknis sehingga Anda bisa fokus sepenuhnya pada pertumbuhan bisnis Anda.
               </p>
             </motion.div>
 
             <div className="relative">
               {/* Vertical Line */}
               <motion.div 
-                className="absolute left-6 top-8 bottom-8 w-0.5 bg-gradient-to-b from-primary via-primary/50 to-transparent"
+                className="absolute left-6 top-8 bottom-8 w-[1px] bg-gradient-to-b from-accent/50 via-accent/20 to-transparent"
                 initial={{ scaleY: 0 }}
                 animate={isInView ? { scaleY: 1 } : {}}
                 transition={{ duration: 1, delay: 0.5 }}
@@ -168,8 +169,8 @@ export function HowItWorks() {
                       transition={{ duration: 0.2 }}
                     >
                       <div className="flex items-center gap-3 mb-2">
-                        <span className="text-xs font-bold text-primary">{step.number}</span>
-                        <h3 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors">
+                        <span className="text-xs font-black text-accent">{step.number}</span>
+                        <h3 className="text-2xl font-bold text-foreground group-hover:text-accent transition-colors">
                           {step.title}
                         </h3>
                       </div>

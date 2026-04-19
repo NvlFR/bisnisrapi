@@ -49,17 +49,17 @@ const tabs = [
   { 
     id: "dashboard", 
     label: "Dashboard",
-    image: "https://placehold.co/800x500/e0e7ff/6366f1?text=Dashboard+View",
+    image: "/dashboard_analytics_bisnisrapi.png",
   },
   { 
     id: "orders", 
     label: "Pesanan",
-    image: "https://placehold.co/800x500/dcfce7/22c55e?text=Order+Management",
+    image: "/order_tracking_bisnisrapi.png",
   },
   { 
     id: "reports", 
-    label: "Laporan",
-    image: "https://placehold.co/800x500/fef3c7/f59e0b?text=Reports+Analytics",
+    label: "Tim",
+    image: "/team_collaboration_bisnisrapi.png",
   },
 ];
 
@@ -67,7 +67,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 100,
   damping: 20,
-};
+} as const;
 
 export function FeaturesSection() {
   const [activeTab, setActiveTab] = useState("dashboard");
@@ -82,11 +82,11 @@ export function FeaturesSection() {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
-            Fitur Lengkap
+          <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
+            Capabilities
           </p>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-            Semua yang Anda butuhkan untuk bisnis yang terorganisir
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
+            Sistem Digital yang <span className="text-accent">Memberdayakan</span> Bisnis Anda
           </h2>
         </motion.div>
 
@@ -147,22 +147,32 @@ export function FeaturesSection() {
 
             {/* Floating Elements */}
             <motion.div 
-              className="absolute -left-8 top-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl"
+              className="absolute -left-8 top-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl will-change-transform"
               initial={{ opacity: 0, x: -30 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              transition={{ delay: 0.5, ...smoothSpring }}
+              transition={{ 
+                delay: 0.5, 
+                duration: 4, 
+                repeat: Infinity, 
+                ease: "easeInOut" 
+              }}
               animate={{ y: [0, -8, 0] }}
             >
               <Activity className="w-6 h-6 text-primary" />
             </motion.div>
 
             <motion.div 
-              className="absolute -right-8 bottom-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl"
+              className="absolute -right-8 bottom-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl will-change-transform"
               initial={{ opacity: 0, x: 30 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              transition={{ delay: 0.6, ...smoothSpring }}
+              transition={{ 
+                delay: 0.6, 
+                duration: 5, 
+                repeat: Infinity, 
+                ease: "easeInOut" 
+              }}
               animate={{ y: [0, 8, 0] }}
             >
               <BarChart3 className="w-6 h-6 text-primary" />
@@ -172,7 +182,7 @@ export function FeaturesSection() {
 
         {/* Features Grid */}
         <motion.div 
-          className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"
+          className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
@@ -185,19 +195,22 @@ export function FeaturesSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.05 * index }}
-              whileHover={{ y: -8, transition: { duration: 0.25 } }}
-              className="group p-8 rounded-3xl bg-card border border-border hover:border-primary/30 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300"
+              whileHover={{ y: -10 }}
+              className="group relative p-10 rounded-[2.5rem] bg-secondary/10 border border-border/50 hover:bg-secondary/20 hover:border-accent/30 transition-all duration-500 overflow-hidden"
             >
+              {/* Feature Icon Background Decoration */}
+              <div className="absolute top-0 right-0 w-32 h-32 bg-accent/5 rounded-full blur-3xl -mr-16 -mt-16 group-hover:bg-accent/10 transition-colors" />
+              
               <motion.div 
-                className="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center mb-6 group-hover:bg-primary group-hover:shadow-lg group-hover:shadow-primary/25 transition-all duration-300"
-                whileHover={{ scale: 1.05, rotate: 3 }}
+                className="w-16 h-16 rounded-[1.25rem] bg-foreground text-background flex items-center justify-center mb-8 shadow-xl group-hover:bg-accent group-hover:text-white transition-all duration-500"
+                whileHover={{ scale: 1.1, rotate: -5 }}
               >
-                <feature.icon className="w-7 h-7 text-primary group-hover:text-primary-foreground transition-colors" />
+                <feature.icon className="w-8 h-8" />
               </motion.div>
-              <h3 className="text-xl font-semibold text-foreground mb-3 group-hover:text-primary transition-colors">
+              <h3 className="text-2xl font-bold text-foreground mb-4 group-hover:text-accent transition-colors">
                 {feature.title}
               </h3>
-              <p className="text-muted-foreground leading-relaxed">
+              <p className="text-muted-foreground/80 leading-relaxed text-lg font-medium">
                 {feature.description}
               </p>
             </motion.div>

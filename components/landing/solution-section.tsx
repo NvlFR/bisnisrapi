@@ -10,7 +10,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 const features = [
   "Dashboard real-time",
@@ -33,11 +33,11 @@ export function SolutionSection() {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
+          <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
             Solusi Kami
           </p>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-            Sistem bisnis yang dirancang khusus untuk Anda
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
+            Sistem Bisnis yang Dirancang <span className="text-accent">Khusus</span> untuk Anda
           </h2>
           <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
             Semua yang Anda butuhkan dalam satu platform terintegrasi dengan keamanan data tingkat tinggi.
@@ -111,11 +111,11 @@ export function SolutionSection() {
               transition={smoothSpring}
             >
               <Image
-                src="https://placehold.co/700x500/e0e7ff/6366f1?text=Dashboard+Analytics"
-                alt="Dashboard analytics BisnisRapi dengan grafik dan metrik real-time"
-                width={700}
-                height={500}
-                className="object-cover"
+                src="/dashboard_analytics_bisnisrapi.png"
+                alt="Dashboard Analytics BisnisRapi"
+                width={1200}
+                height={800}
+                className="w-full h-auto"
               />
             </motion.div>
 
@@ -153,19 +153,19 @@ export function SolutionSection() {
               icon: Zap,
               title: "Automasi Proses Bisnis",
               description: "Proses repetitif diotomasi secara cerdas. Notifikasi order, pembaruan stok, hingga laporan harian berjalan otomatis.",
-              image: "https://placehold.co/400x250/fef3c7/f59e0b?text=Automation+Flow",
+              image: "/business_automation_bisnisrapi_secondary.png",
             },
             {
               icon: Settings,
               title: "Sistem Custom",
               description: "Dirancang khusus sesuai alur kerja dan kebutuhan spesifik bisnis Anda, bukan template generik.",
-              image: "https://placehold.co/400x250/e0f2fe/0ea5e9?text=Custom+System",
+              image: "/dashboard_analytics_bisnisrapi.png",
             },
             {
               icon: Database,
               title: "Data Terpusat & Aman",
               description: "Kelola semua data dengan aman menggunakan enkripsi dan sinkronisasi real-time di seluruh perangkat.",
-              image: "https://placehold.co/400x250/f3e8ff/a855f7?text=Secure+Database",
+              image: "/order_tracking_bisnisrapi.png",
             },
           ].map((feature, index) => (
             <motion.div

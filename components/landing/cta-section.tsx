@@ -16,7 +16,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function CTASection() {
   return (
@@ -32,30 +32,31 @@ export function CTASection() {
             transition={{ ...smoothSpring }}
           >
             <motion.div 
-              className="relative rounded-3xl overflow-hidden shadow-2xl"
+              className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-border/50"
               whileHover={{ scale: 1.02 }}
               transition={smoothSpring}
             >
               <Image
-                src="https://placehold.co/600x500/e0e7ff/6366f1?text=Let's+Talk"
-                alt="Tim BisnisRapi siap membantu konsultasi bisnis Anda"
+                src="/team_collaboration_bisnisrapi.png"
+                alt="Konsultasi Bisnis Rapi"
                 width={600}
                 height={500}
                 className="object-cover"
               />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent" />
             </motion.div>
 
             {/* Floating badge */}
             <motion.div 
-              className="absolute -right-4 -bottom-4 p-4 rounded-2xl bg-primary text-primary-foreground shadow-xl"
+              className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-accent text-accent-foreground shadow-2xl shadow-accent/20 border border-white/10"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               transition={{ delay: 0.5, ...smoothSpring }}
               whileHover={{ scale: 1.05 }}
             >
-              <p className="text-2xl font-bold">50+</p>
-              <p className="text-sm opacity-90">Bisnis Terbantu</p>
+              <p className="text-3xl font-black tracking-tighter">50+</p>
+              <p className="text-xs font-bold uppercase tracking-widest opacity-80">Success Stories</p>
             </motion.div>
           </motion.div>
 
@@ -68,23 +69,23 @@ export function CTASection() {
             transition={{ ...smoothSpring }}
           >
             <motion.p 
-              className="text-sm font-semibold text-primary uppercase tracking-wider mb-4"
+              className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring }}
             >
-              Mulai Sekarang
+              Take the next step
             </motion.p>
             
             <motion.h2 
-              className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance mb-6"
+              className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance mb-6"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 }}
             >
-              Siap mengelola bisnis dengan cara yang lebih cerdas?
+              Siap Mengelola Bisnis dengan Cara <span className="text-accent italic">Cerdas?</span>
             </motion.h2>
             
             <motion.p 
@@ -133,7 +134,7 @@ export function CTASection() {
               <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
                 <Button 
                   size="lg" 
-                  className="w-full sm:w-auto gap-2 rounded-full px-8 h-14 text-base shadow-lg shadow-primary/25" 
+                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-base font-bold shadow-2xl shadow-accent/20 bg-accent hover:bg-accent/90 text-accent-foreground" 
                   asChild
                 >
                   <Link
@@ -141,7 +142,7 @@ export function CTASection() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <MessageCircle size={18} />
+                    <MessageCircle size={20} />
                     Diskusi via WhatsApp
                   </Link>
                 </Button>

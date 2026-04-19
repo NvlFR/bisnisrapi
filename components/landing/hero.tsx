@@ -12,13 +12,13 @@ const springTransition = {
   stiffness: 100,
   damping: 15,
   mass: 1,
-};
+} as const;
 
 const smoothSpring = {
   type: "spring",
   stiffness: 50,
   damping: 20,
-};
+} as const;
 
 export function Hero() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -31,13 +31,13 @@ export function Hero() {
   const opacity = useTransform(scrollYProgress, [0, 0.5], [1, 0]);
 
   return (
-    <section ref={containerRef} className="relative min-h-screen flex items-center pt-20 overflow-hidden">
+    <section ref={containerRef} className="relative min-h-screen flex items-center overflow-hidden">
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-primary/5 via-background to-background" />
       
       {/* Animated background blobs */}
       <motion.div 
-        className="absolute top-20 left-1/4 w-[500px] h-[500px] bg-primary/8 rounded-full blur-[100px]"
+        className="absolute top-20 left-1/4 w-[500px] h-[500px] bg-primary/8 rounded-full blur-[100px] will-change-transform"
         animate={{ 
           x: [0, 30, 0],
           y: [0, -20, 0],
@@ -50,7 +50,7 @@ export function Hero() {
         }}
       />
       <motion.div 
-        className="absolute bottom-20 right-1/4 w-[400px] h-[400px] bg-violet-500/5 rounded-full blur-[80px]"
+        className="absolute bottom-20 right-1/4 w-[400px] h-[400px] bg-violet-500/5 rounded-full blur-[80px] will-change-transform"
         animate={{ 
           x: [0, -20, 0],
           y: [0, 30, 0],
@@ -76,15 +76,13 @@ export function Hero() {
               initial={{ opacity: 0, y: 30, scale: 0.9 }}
               animate={{ opacity: 1, y: 0, scale: 1 }}
               transition={{ ...springTransition, delay: 0.1 }}
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-8"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-accent/10 border border-accent/20 mb-8"
             >
-              <motion.span 
-                className="w-2 h-2 rounded-full bg-primary"
-                animate={{ scale: [1, 1.3, 1] }}
-                transition={{ duration: 2, repeat: Infinity }}
-              />
-              <span className="text-xs font-semibold text-primary uppercase tracking-wider">
-                Sistem Bisnis Digital
+              <div className="flex items-center justify-center w-5 h-5 rounded-full bg-accent text-white">
+                <Star size={10} fill="currentColor" />
+              </div>
+              <span className="text-xs font-bold text-accent uppercase tracking-wider">
+                Digital Business Systems
               </span>
             </motion.div>
 
@@ -92,208 +90,121 @@ export function Hero() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.2 }}
-              className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground tracking-tight leading-[1.1] text-balance"
+              className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground tracking-tight leading-[1] text-balance mb-6"
             >
-              Bisnis Lebih{" "}
-              <span className="text-primary">Rapi</span>, Operasional Lebih{" "}
-              <span className="text-primary">Efisien</span>
+              Bisnis <span className="text-accent underline decoration-accent/30 underline-offset-8">Rapi</span>,<br />
+              Operasional <span className="text-accent">Efisien</span>
             </motion.h1>
 
             <motion.p 
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.3 }}
-              className="mt-6 text-lg text-muted-foreground max-w-xl mx-auto lg:mx-0 leading-relaxed text-pretty"
+              className="mt-6 text-xl text-muted-foreground/80 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium"
             >
-              Kami membantu Anda memiliki sistem bisnis digital yang membuat pekerjaan lebih efisien dan scalable. Fokus pada hasil, bukan kerumitan teknis.
+              Kami mentransformasi bisnis Anda dengan sistem digital yang scalable. Fokus pada pertumbuhan, serahkan teknisnya kepada kami.
             </motion.p>
 
             <motion.div 
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.4 }}
-              className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4"
+              className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-5"
             >
-              <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-                <Button size="lg" className="w-full sm:w-auto gap-2 rounded-full px-8 h-14 text-base shadow-lg shadow-primary/25" asChild>
+              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+                <Button size="lg" className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg bg-foreground text-background hover:bg-accent hover:text-white transition-all shadow-xl shadow-foreground/5" asChild>
                   <Link href="#kontak">
-                    Mulai Konsultasi Gratis
-                    <motion.span
-                      animate={{ x: [0, 4, 0] }}
-                      transition={{ duration: 1.5, repeat: Infinity }}
-                    >
-                      <ArrowRight size={18} />
-                    </motion.span>
+                    Free Consultation
+                    <ArrowRight size={20} />
                   </Link>
                 </Button>
               </motion.div>
-              <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
+              <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <Button
                   variant="outline"
                   size="lg"
-                  className="w-full sm:w-auto gap-2 rounded-full px-8 h-14 text-base"
+                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg border-2 hover:bg-secondary/50"
                   asChild
                 >
                   <Link href="#portfolio">
-                    <Play size={16} className="fill-current" />
-                    Lihat Portfolio
+                    View Projects
                   </Link>
                 </Button>
               </motion.div>
             </motion.div>
 
-            {/* Stats */}
+            {/* Stats Section */}
             <motion.div 
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.5 }}
-              className="mt-16 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-8"
+              className="mt-16 pt-8 border-t border-border/50 flex flex-wrap items-center justify-center lg:justify-start gap-12"
             >
-              <motion.div 
-                className="flex items-center gap-4"
-                whileHover={{ y: -2 }}
-                transition={smoothSpring}
-              >
-                <div className="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center">
-                  <Building2 className="w-6 h-6 text-primary" />
-                </div>
-                <div className="text-left">
-                  <motion.div 
-                    className="text-3xl font-bold text-foreground"
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    transition={{ delay: 0.8 }}
-                  >
-                    50+
-                  </motion.div>
-                  <div className="text-sm text-muted-foreground">Bisnis Terbantu</div>
-                </div>
-              </motion.div>
-
-              <div className="hidden sm:block w-px h-12 bg-border" />
-
-              <motion.div 
-                className="flex items-center gap-4"
-                whileHover={{ y: -2 }}
-                transition={smoothSpring}
-              >
-                <div className="w-14 h-14 rounded-2xl bg-primary/10 flex items-center justify-center">
-                  <Star className="w-6 h-6 text-primary fill-primary" />
-                </div>
-                <div className="text-left">
-                  <motion.div 
-                    className="text-3xl font-bold text-foreground"
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    transition={{ delay: 0.9 }}
-                  >
-                    4.9
-                  </motion.div>
-                  <div className="text-sm text-muted-foreground">Rating Kepuasan</div>
-                </div>
-              </motion.div>
+              <div className="text-left">
+                <div className="text-4xl font-bold text-foreground">50+</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Clients</div>
+              </div>
+              <div className="text-left">
+                <div className="text-4xl font-bold text-foreground">98%</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Happiness</div>
+              </div>
+              <div className="text-left">
+                <div className="text-4xl font-bold text-foreground">24/7</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Support</div>
+              </div>
             </motion.div>
           </div>
 
-          {/* Right - Dashboard Preview Image */}
+          {/* Right - Premium iPhone Mockup */}
           <motion.div 
-            className="relative"
-            initial={{ opacity: 0, x: 60, rotateY: -10 }}
-            animate={{ opacity: 1, x: 0, rotateY: 0 }}
+            className="relative flex justify-center lg:justify-end"
+            initial={{ opacity: 0, scale: 0.8, rotate: 5 }}
+            animate={{ opacity: 1, scale: 1, rotate: 0 }}
             transition={{ ...springTransition, delay: 0.4 }}
           >
-            {/* Main Dashboard Card */}
+            {/* Glow effect background */}
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-accent/20 rounded-full blur-[120px] -z-10" />
+            
             <motion.div 
-              className="relative rounded-3xl bg-card border border-border shadow-2xl shadow-primary/10 overflow-hidden"
-              whileHover={{ y: -8, rotateY: 2 }}
+              className="relative w-full max-w-[450px] aspect-[1/1]"
+              whileHover={{ y: -10, scale: 1.02 }}
               transition={smoothSpring}
             >
-              <div className="p-3 bg-secondary/50 border-b border-border">
-                <div className="flex items-center gap-2">
-                  <div className="w-3 h-3 rounded-full bg-red-400" />
-                  <div className="w-3 h-3 rounded-full bg-yellow-400" />
-                  <div className="w-3 h-3 rounded-full bg-green-400" />
-                  <span className="ml-4 text-xs text-muted-foreground">dashboard.bisnisrapi.com</span>
-                </div>
-              </div>
+              <Image
+                src="/hero_iphone_mockup_bisnisrapi.png"
+                alt="Premium Business App Interface"
+                width={800}
+                height={800}
+                className="w-full h-auto drop-shadow-2xl"
+                priority
+              />
               
-              {/* Dashboard Image Placeholder */}
-              <div className="relative aspect-[4/3] bg-gradient-to-br from-secondary/50 to-secondary">
-                <Image
-                  src="https://placehold.co/800x600/e2e8f0/64748b?text=Dashboard+Preview"
-                  alt="Dashboard BisnisRapi - Tampilan utama sistem manajemen bisnis"
-                  fill
-                  className="object-cover"
-                  priority
-                />
-                
-                {/* Overlay Stats */}
-                <motion.div 
-                  className="absolute top-4 left-4 p-4 rounded-2xl bg-card/95 backdrop-blur-sm border border-border shadow-lg"
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                  transition={{ delay: 0.8, ...springTransition }}
-                >
-                  <p className="text-xs text-muted-foreground mb-1">Pendapatan Bulan Ini</p>
-                  <p className="text-2xl font-bold text-foreground">Rp 125.8jt</p>
-                  <span className="text-xs text-green-600 font-medium">+23% dari bulan lalu</span>
-                </motion.div>
-
-                <motion.div 
-                  className="absolute bottom-4 right-4 p-3 rounded-xl bg-card/95 backdrop-blur-sm border border-border shadow-lg"
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                  transition={{ delay: 1, ...springTransition }}
-                >
-                  <div className="flex items-center gap-3">
-                    <div className="flex -space-x-2">
-                      {[1, 2, 3].map((i) => (
-                        <div key={i} className="w-8 h-8 rounded-full bg-primary/20 border-2 border-card flex items-center justify-center">
-                          <span className="text-xs text-primary font-medium">{i}</span>
-                        </div>
-                      ))}
-                    </div>
-                    <p className="text-xs text-muted-foreground">+47 pengguna aktif</p>
+              {/* Floating element 1 */}
+              <motion.div 
+                className="absolute -left-10 top-1/4 p-4 rounded-2xl bg-white/90 backdrop-blur-md border border-white shadow-2xl z-20 will-change-transform"
+        animate={{ y: [0, -15, 0] }}
+                transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+              >
+                <div className="flex items-center gap-3">
+                  <div className="w-10 h-10 rounded-full bg-green-500/10 flex items-center justify-center border border-green-500/20">
+                    <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
                   </div>
-                </motion.div>
-              </div>
-            </motion.div>
+                  <div>
+                    <p className="text-xs font-bold text-foreground">System Active</p>
+                    <p className="text-[10px] text-muted-foreground">Monitoring operations...</p>
+                  </div>
+                </div>
+              </motion.div>
 
-            {/* Floating Cards */}
-            <motion.div 
-              className="absolute -left-8 top-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl"
-              initial={{ opacity: 0, x: -40 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 1.2, ...springTransition }}
-              whileHover={{ scale: 1.05, rotate: -2 }}
-            >
-              <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-xl bg-green-100 flex items-center justify-center">
-                  <span className="text-green-600 text-lg">+</span>
-                </div>
-                <div>
-                  <p className="text-sm font-semibold text-foreground">Order Baru</p>
-                  <p className="text-xs text-muted-foreground">12 pesanan hari ini</p>
-                </div>
-              </div>
-            </motion.div>
-
-            <motion.div 
-              className="absolute -right-4 bottom-1/4 p-4 rounded-2xl bg-card border border-border shadow-xl"
-              initial={{ opacity: 0, x: 40 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 1.4, ...springTransition }}
-              whileHover={{ scale: 1.05, rotate: 2 }}
-            >
-              <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center">
-                  <span className="text-primary text-lg font-bold">!</span>
-                </div>
-                <div>
-                  <p className="text-sm font-semibold text-foreground">Stok Rendah</p>
-                  <p className="text-xs text-muted-foreground">3 produk perlu restock</p>
-                </div>
-              </div>
+              {/* Floating element 2 */}
+              <motion.div 
+                className="absolute -right-5 bottom-1/4 p-4 rounded-2xl bg-foreground text-background shadow-2xl z-20 border border-white/10 will-change-transform"
+        animate={{ y: [0, 15, 0] }}
+                transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 1 }}
+              >
+                <p className="text-[10px] font-bold uppercase tracking-widest opacity-60">Avg Response</p>
+                <p className="text-xl font-bold">0.4<span className="text-accent">s</span></p>
+              </motion.div>
             </motion.div>
           </motion.div>
         </div>

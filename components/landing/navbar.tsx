@@ -18,7 +18,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 100,
   damping: 20,
-};
+} as const;
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -49,76 +49,72 @@ export function Navbar() {
 
   return (
     <motion.header 
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        scrolled 
-          ? "bg-background/80 backdrop-blur-xl border-b border-border/50 shadow-sm" 
-          : "bg-transparent"
-      }`}
+      className={`fixed top-4 md:top-6 left-0 right-0 z-50 flex justify-center px-4 transition-all duration-500`}
       initial={{ y: -100 }}
       animate={{ y: hidden ? -100 : 0 }}
       transition={{ ...smoothSpring }}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ ...smoothSpring, delay: 0.1 }}
-          >
-            <Link href="/" className="flex items-center gap-3 group">
-              <motion.div 
-                className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center shadow-lg shadow-primary/25"
-                whileHover={{ scale: 1.05, rotate: 5 }}
-                transition={{ type: "spring", stiffness: 400 }}
-              >
-                <span className="text-primary-foreground font-bold text-lg">B</span>
-              </motion.div>
-              <span className="text-xl font-bold text-foreground group-hover:text-primary transition-colors">
-                BisnisRapi
-              </span>
-            </Link>
-          </motion.div>
-
-          {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center gap-1">
-            {navLinks.map((link, index) => (
-              <motion.div
-                key={link.href}
-                initial={{ opacity: 0, y: -10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
-              >
-                <Link
-                  href={link.href}
-                  className="relative px-4 py-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors group"
-                >
-                  {link.label}
-                  <motion.span 
-                    className="absolute bottom-0 left-1/2 -translate-x-1/2 w-1 h-1 rounded-full bg-primary opacity-0 group-hover:opacity-100 transition-opacity"
-                    layoutId="navIndicator"
-                  />
-                </Link>
-              </motion.div>
-            ))}
-          </nav>
-
-          <motion.div 
-            className="hidden md:flex items-center gap-3"
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ ...smoothSpring, delay: 0.3 }}
-          >
-            <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-              <Button variant="ghost" size="sm" className="rounded-full" asChild>
-                <Link href="#portfolio">Portfolio</Link>
-              </Button>
+      <div className="w-full max-w-5xl relative">
+        <div className={`
+          flex items-center justify-between px-3 sm:px-6 py-2.5 sm:py-3
+          rounded-full border transition-all duration-500
+          ${scrolled 
+            ? "bg-background/95 backdrop-blur-xl border-border/50 shadow-lg" 
+            : "bg-background/60 backdrop-blur-md border-border/20 shadow-sm"
+          }
+        `}>
+        <motion.div
+          initial={{ opacity: 0, x: -20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ ...smoothSpring, delay: 0.1 }}
+        >
+          <Link href="/" className="flex items-center gap-2 group">
+            <motion.div 
+              className="w-9 h-9 rounded-lg bg-foreground flex items-center justify-center shadow-md"
+              whileHover={{ scale: 1.05, rotate: -5 }}
+              transition={{ type: "spring", stiffness: 400 }}
+            >
+              <div className="w-5 h-5 rounded-sm border-2 border-background flex items-center justify-center">
+                <div className="w-2 h-2 bg-accent rounded-full" />
+              </div>
             </motion.div>
-            <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-              <Button size="sm" className="rounded-full px-6 shadow-lg shadow-primary/25" asChild>
-                <Link href="#kontak">Konsultasi Gratis</Link>
-              </Button>
+            <span className="text-xl font-bold text-foreground tracking-tight">
+              Bisnis<span className="text-accent">Rapi</span>
+            </span>
+          </Link>
+        </motion.div>
+
+        {/* Desktop Navigation */}
+        <nav className="hidden md:flex items-center gap-2">
+          {navLinks.map((link, index) => (
+            <motion.div
+              key={link.href}
+              initial={{ opacity: 0, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
+            >
+              <Link
+                href={link.href}
+                className="px-4 py-2 text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary/50 transition-all rounded-full"
+              >
+                {link.label}
+              </Link>
             </motion.div>
+          ))}
+        </nav>
+
+        <motion.div 
+          className="hidden md:flex items-center gap-3"
+          initial={{ opacity: 0, x: 20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ ...smoothSpring, delay: 0.3 }}
+        >
+          <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
+            <Button size="sm" className="rounded-full px-6 bg-foreground text-background hover:bg-accent hover:text-white transition-all shadow-md active:scale-95" asChild>
+              <Link href="#kontak">Konsultasi Gratis</Link>
+            </Button>
           </motion.div>
+        </motion.div>
 
           {/* Mobile Menu Button */}
           <motion.button
@@ -158,13 +154,13 @@ export function Navbar() {
         <AnimatePresence>
           {isOpen && (
             <motion.div 
-              className="md:hidden fixed inset-0 top-20 bg-background/98 backdrop-blur-xl"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
+              className="md:hidden absolute top-[calc(100%+10px)] left-0 right-0 bg-background/95 backdrop-blur-xl rounded-3xl border border-border/50 shadow-xl overflow-hidden"
+              initial={{ opacity: 0, y: -10, scale: 0.95 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: -10, scale: 0.95 }}
               transition={{ ...smoothSpring }}
             >
-              <nav className="flex flex-col p-6 pt-8">
+              <nav className="flex flex-col p-6">
                 {navLinks.map((link, index) => (
                   <motion.div
                     key={link.href}

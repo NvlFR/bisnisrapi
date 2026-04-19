@@ -39,7 +39,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 80,
   damping: 20,
-};
+} as const;
 
 export function WhyUsSection() {
   const ref = useRef(null);
@@ -97,8 +97,8 @@ export function WhyUsSection() {
               whileHover={{ scale: 1.02 }}
             >
               <Image
-                src="https://placehold.co/600x350/e0e7ff/6366f1?text=Team+Collaboration"
-                alt="Tim BisnisRapi berkolaborasi dalam membangun solusi"
+                src="/team_collaboration_bisnisrapi.png"
+                alt="Tim BisnisRapi"
                 width={600}
                 height={350}
                 className="object-cover w-full"

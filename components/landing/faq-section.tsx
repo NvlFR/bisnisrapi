@@ -44,7 +44,7 @@ const smoothSpring = {
   type: "spring",
   stiffness: 100,
   damping: 20,
-};
+} as const;
 
 export function FAQSection() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
@@ -62,36 +62,37 @@ export function FAQSection() {
             transition={{ ...smoothSpring }}
           >
             <div className="sticky top-32">
-              <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
+              <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
                 Pertanyaan Umum
               </p>
-              <h2 className="text-3xl sm:text-4xl font-bold text-foreground leading-tight text-balance mb-6">
+              <h2 className="text-4xl font-bold text-foreground leading-[1.1] tracking-tight mb-6">
                 Pertanyaan yang Sering Diajukan
               </h2>
-              <p className="text-lg text-muted-foreground leading-relaxed mb-8">
+              <p className="text-lg text-muted-foreground leading-relaxed mb-10">
                 Temukan jawaban untuk pertanyaan yang sering diajukan tentang layanan kami.
               </p>
 
               {/* Image */}
               <motion.div 
-                className="relative rounded-3xl overflow-hidden shadow-xl mb-8"
+                className="relative rounded-[2rem] overflow-hidden shadow-2xl border border-border/50"
                 whileHover={{ scale: 1.02 }}
                 transition={smoothSpring}
               >
                 <Image
-                  src="https://placehold.co/500x300/e0e7ff/6366f1?text=Support+Team"
-                  alt="Tim support BisnisRapi siap membantu"
-                  width={500}
-                  height={300}
-                  className="object-cover w-full"
+                  src="/team_collaboration_bisnisrapi.png"
+                  alt="Konsultasi Bisnis Rapi"
+                  width={400}
+                  height={500}
+                  className="object-cover"
                 />
+                <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
               </motion.div>
 
               <p className="text-muted-foreground mb-4">
                 Masih ada pertanyaan lain?
               </p>
               <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-                <Button className="rounded-full gap-2" asChild>
+                <Button className="rounded-full gap-2 px-8 h-12 bg-accent hover:bg-accent/90 text-accent-foreground font-bold shadow-lg shadow-accent/20" asChild>
                   <Link href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
                     <MessageCircle size={18} />
                     Hubungi Kami
