@@ -31,7 +31,11 @@ export function FeaturesSection() {
           viewport={{ once: true }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-[10px] font-bold text-accent uppercase tracking-[0.2em] mb-4">
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+            background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+          }}>
             Capabilities
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1E293B] leading-[1.2] tracking-tight">

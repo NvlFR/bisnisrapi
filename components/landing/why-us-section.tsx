@@ -55,7 +55,11 @@ export function WhyUsSection() {
             animate={isInView ? { opacity: 1, x: 0 } : {}}
             transition={{ ...smoothSpring }}
           >
-            <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
+            <p className="text-sm font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+              background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+              WebkitBackgroundClip: 'text',
+              WebkitTextFillColor: 'transparent',
+            }}>
               Mengapa BisnisRapi
             </p>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
@@ -125,11 +129,11 @@ export function WhyUsSection() {
               >
                 <div className="flex items-start gap-5">
                   <motion.div
-                    className="flex-shrink-0 w-14 h-14 rounded-2xl bg-primary/10 group-hover:bg-primary flex items-center justify-center transition-colors duration-300"
+                    className="flex-shrink-0 w-14 h-14 rounded-2xl bg-primary/10 group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end flex items-center justify-center transition-all duration-300"
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
-                    <reason.icon className="w-6 h-6 text-primary group-hover:text-primary-foreground transition-colors" />
+                    <reason.icon className="w-6 h-6 text-primary group-hover:text-white transition-colors" />
                   </motion.div>
                   <div>
                     <h3 className="text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">

@@ -67,11 +67,16 @@ export function Footer() {
                 Hubungi kami sekarang untuk konsultasi gratis tanpa komitmen.
               </p>
             </div>
-            <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-              <Button size="lg" className="rounded-full px-8 shadow-lg shadow-primary/25" asChild>
+            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+              <Button 
+                size="lg" 
+                className="rounded-full px-10 h-14 text-white font-bold shadow-xl shadow-brand-end/25 transition-all border-0" 
+                style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
+                asChild
+              >
                 <Link href="#kontak">
                   Konsultasi Gratis
-                  <ArrowUpRight className="ml-2 w-4 h-4" />
+                  <ArrowUpRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
             </motion.div>

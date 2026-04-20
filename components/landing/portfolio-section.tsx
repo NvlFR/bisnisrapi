@@ -61,8 +61,12 @@ export function PortfolioSection() {
           transition={{ ...smoothSpring }}
         >
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-accent/5 border border-accent/10 backdrop-blur-sm mb-6 shadow-sm">
-            <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-accent">
-              Success Stories
+            <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+              background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+              WebkitBackgroundClip: 'text',
+              WebkitTextFillColor: 'transparent',
+            }}>
+              Portfolio
             </span>
           </div>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
@@ -109,11 +113,19 @@ export function PortfolioSection() {
                 <div className="absolute inset-0 p-8 flex flex-col justify-end translate-y-8 group-hover:translate-y-0 transition-transform duration-500">
                    <div className="space-y-4 opacity-0 group-hover:opacity-100 transition-opacity duration-500 delay-100">
                       <div>
-                        <p className="text-[10px] font-bold text-accent uppercase tracking-wider mb-1">Masalah</p>
+                        <p className="text-[10px] font-bold uppercase tracking-wider mb-1" style={{ 
+                          background: 'linear-gradient(to right, #f97316, #ea580c)',
+                          WebkitBackgroundClip: 'text',
+                          WebkitTextFillColor: 'transparent',
+                        }}>Masalah</p>
                         <p className="text-white text-sm line-clamp-2 leading-relaxed">{study.problem}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold text-accent uppercase tracking-wider mb-1">Solusi</p>
+                        <p className="text-[10px] font-bold uppercase tracking-wider mb-1" style={{ 
+                          background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                          WebkitBackgroundClip: 'text',
+                          WebkitTextFillColor: 'transparent',
+                        }}>Solusi</p>
                         <p className="text-white text-sm line-clamp-2 leading-relaxed font-semibold">{study.solution}</p>
                       </div>
                    </div>
@@ -122,13 +134,13 @@ export function PortfolioSection() {
 
               {/* Card Body */}
               <div className="p-8 pt-6 flex flex-col flex-grow">
-                <h3 className="text-xl font-bold text-foreground mb-4 group-hover:text-primary transition-colors">
+                <h3 className="text-xl font-bold text-foreground mb-4 group-hover:text-brand-end transition-colors">
                   {study.title}
                 </h3>
 
                 {/* Testimonial Quote */}
                 <div className="mb-8 relative flex-grow">
-                  <Quote className="absolute -top-2 -left-2 w-8 h-8 text-primary/10" />
+                  <Quote className="absolute -top-2 -left-2 w-8 h-8 text-brand-start/20" />
                   <p className="text-muted-foreground/90 font-medium italic leading-relaxed pl-6 text-[15px]">
                     "{study.testimonial}"
                   </p>
@@ -137,7 +149,7 @@ export function PortfolioSection() {
                 {/* Author Info */}
                 <div className="flex items-center gap-4 mb-8">
                   <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center border border-border shadow-inner">
-                    <span className="text-primary font-bold text-sm">
+                    <span className="text-brand-end font-bold text-sm">
                       {study.author.charAt(0)}
                     </span>
                   </div>
@@ -147,7 +159,7 @@ export function PortfolioSection() {
                   </div>
                   <div className="ml-auto flex items-center gap-0.5">
                     {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-3 h-3 text-accent fill-accent" />
+                      <Star key={i} className="w-3 h-3 text-brand-start fill-brand-start" />
                     ))}
                   </div>
                 </div>
@@ -160,7 +172,7 @@ export function PortfolioSection() {
                       {study.result}
                     </p>
                   </div>
-                  <div className="w-10 h-10 rounded-full bg-muted flex items-center justify-center text-foreground group-hover:bg-primary group-hover:text-white transition-all duration-300">
+                  <div className="w-10 h-10 rounded-full bg-muted flex items-center justify-center text-foreground group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end group-hover:text-white transition-all duration-300">
                     <ArrowUpRight className="w-5 h-5" />
                   </div>
                 </div>

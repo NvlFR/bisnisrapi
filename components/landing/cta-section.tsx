@@ -32,18 +32,18 @@ export function CTASection() {
             transition={{ ...smoothSpring }}
           >
             <motion.div 
-              className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-border/50"
+              className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-border/50 group"
               whileHover={{ scale: 1.02 }}
               transition={smoothSpring}
             >
               <Image
-                src="/team_collaboration_bisnisrapi.png"
-                alt="Konsultasi Bisnis Rapi"
-                width={600}
-                height={500}
-                className="object-cover"
+                src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200"
+                alt="Sesi Konsultasi Strategis Bisnis Rapi"
+                width={800}
+                height={1000}
+                className="object-cover grayscale-[0.2] group-hover:grayscale-0 transition-all duration-700"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent" />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700" />
             </motion.div>
 
             {/* Floating badge */}
@@ -55,8 +55,12 @@ export function CTASection() {
               transition={{ delay: 0.5, ...smoothSpring }}
               whileHover={{ scale: 1.05 }}
             >
-              <p className="text-3xl font-black tracking-tighter">50+</p>
-              <p className="text-xs font-bold uppercase tracking-widest opacity-80">Success Stories</p>
+              <p className="text-3xl font-black tracking-tighter" style={{ 
+                background: 'linear-gradient(to bottom, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>50+</p>
+              <p className="text-[10px] font-bold uppercase tracking-widest opacity-80">Success Stories</p>
             </motion.div>
           </motion.div>
 
@@ -75,7 +79,13 @@ export function CTASection() {
               viewport={{ once: true }}
               transition={{ ...smoothSpring }}
             >
-              Take the next step
+              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>
+                Take the next step
+              </p>
             </motion.p>
             
             <motion.h2 
@@ -85,7 +95,11 @@ export function CTASection() {
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 }}
             >
-              Siap Mengelola Bisnis dengan Cara <span className="text-accent italic">Cerdas?</span>
+              Siap Mengelola Bisnis dengan Cara <span className="italic" style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>Cerdas?</span>
             </motion.h2>
             
             <motion.p 

@@ -62,7 +62,11 @@ export function FAQSection() {
             transition={{ ...smoothSpring }}
           >
             <div className="sticky top-32">
-              <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
+              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>
                 Pertanyaan Umum
               </p>
               <h2 className="text-4xl font-bold text-foreground leading-[1.1] tracking-tight mb-6">
@@ -72,33 +76,22 @@ export function FAQSection() {
                 Temukan jawaban untuk pertanyaan yang sering diajukan tentang layanan kami.
               </p>
 
-              {/* Image */}
+              {/* Image - Realistic & Professional */}
               <motion.div 
-                className="relative rounded-[2rem] overflow-hidden shadow-2xl border border-border/50"
+                className="relative rounded-[2rem] overflow-hidden shadow-2xl border border-border/50 bg-muted/30 group"
                 whileHover={{ scale: 1.02 }}
                 transition={smoothSpring}
               >
                 <Image
-                  src="/team_collaboration_bisnisrapi.png"
-                  alt="Konsultasi Bisnis Rapi"
-                  width={400}
-                  height={500}
-                  className="object-cover"
+                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200"
+                  alt="Sistem Bisnis Rapi Dashboard"
+                  width={600}
+                  height={800}
+                  className="object-cover grayscale-[0.2] group-hover:grayscale-0 transition-all duration-700"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
+                <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent pointer-events-none" />
               </motion.div>
 
-              <p className="text-muted-foreground mb-4">
-                Masih ada pertanyaan lain?
-              </p>
-              <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-                <Button className="rounded-full gap-2 px-8 h-12 bg-accent hover:bg-accent/90 text-accent-foreground font-bold shadow-lg shadow-accent/20" asChild>
-                  <Link href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
-                    <MessageCircle size={18} />
-                    Hubungi Kami
-                  </Link>
-                </Button>
-              </motion.div>
             </div>
           </motion.div>
 
@@ -159,6 +152,31 @@ export function FAQSection() {
             ))}
           </motion.div>
         </div>
+
+        {/* New Centered Bottom CTA */}
+        <motion.div 
+          className="mt-20 text-center border-t border-border/50 pt-12"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ ...smoothSpring, delay: 0.4 }}
+        >
+          <p className="text-muted-foreground mb-6">
+            Masih ada pertanyaan yang belum terjawab?
+          </p>
+          <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="inline-block">
+            <Button 
+              className="rounded-full gap-2 px-10 h-14 text-white font-bold shadow-xl shadow-brand-end/20 text-md border-0 transition-all duration-300" 
+              style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
+              asChild
+            >
+              <Link href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+                <MessageCircle size={20} className="fill-white/20" />
+                Konsultasi via WhatsApp
+              </Link>
+            </Button>
+          </motion.div>
+        </motion.div>
       </div>
     </section>
   );

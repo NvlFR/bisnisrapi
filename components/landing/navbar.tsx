@@ -202,7 +202,12 @@ export function Navbar() {
                       Lihat Portfolio
                     </Link>
                   </Button>
-                  <Button size="lg" className="rounded-full h-14 text-base shadow-lg shadow-primary/25" asChild>
+                  <Button 
+                    size="lg" 
+                    className="rounded-full h-14 text-base text-white font-bold shadow-xl shadow-brand-end/20 border-0" 
+                    style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
+                    asChild
+                  >
                     <Link href="#kontak" onClick={() => setIsOpen(false)}>
                       Konsultasi Gratis
                     </Link>

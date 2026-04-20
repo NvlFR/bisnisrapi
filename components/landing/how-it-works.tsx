@@ -12,7 +12,6 @@ const steps = [
     title: "Analisis Kebutuhan",
     description:
       "Kami memulai dengan sesi diskusi mendalam tentang bisnis Anda. Memahami apa yang berjalan baik, apa yang perlu diperbaiki, dan target yang ingin dicapai.",
-    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "02",
@@ -20,7 +19,6 @@ const steps = [
     title: "Perancangan Sistem",
     description:
       "Berdasarkan hasil analisis, kami merancang sistem yang sesuai dengan alur kerja dan kebutuhan spesifik bisnis Anda.",
-    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "03",
@@ -28,7 +26,6 @@ const steps = [
     title: "Pengembangan & Implementasi",
     description:
       "Sistem dikembangkan dan diimplementasikan dengan cermat. Tim Anda dilatih hingga mampu mengoperasikannya secara mandiri.",
-    color: "bg-secondary/20 text-accent border border-accent/20",
   },
   {
     number: "04",
@@ -36,7 +33,6 @@ const steps = [
     title: "Optimasi Berkelanjutan",
     description:
       "Bisnis berkembang, sistem juga. Kami terus melakukan optimasi seiring pertumbuhan bisnis Anda.",
-    color: "bg-secondary/20 text-accent border border-accent/20",
   },
 ];
 
@@ -53,26 +49,26 @@ export function HowItWorks() {
   return (
     <section id="cara-kerja" className="relative py-24 lg:py-32 bg-muted/30 overflow-hidden">
       
-      {/* Desktop Image — Strategic/Collaboration vibe with Floating Frame */}
+      {/* Desktop Image — Strategic/Collaboration vibe with premium Floating Frame */}
       <div className="absolute inset-y-0 left-0 w-[50%] hidden lg:flex items-center justify-center overflow-hidden pointer-events-none p-12 pl-0">
         <motion.div 
-          className="relative w-full h-[80%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.15)] border-y border-r border-border/50 will-change-transform"
+          className="relative w-full h-[85%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-r border-white/20 will-change-transform bg-muted/40"
           initial={{ opacity: 0, x: -100 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
-          transition={{ duration: 1.2, ease: "easeOut" }}
+          transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
             src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=2000" 
             alt="Strategic Planning Bisnis Rapi"
             fill
-            className="object-cover object-left opacity-90 transition-transform duration-700 hover:scale-105"
+            className="object-cover object-left grayscale-[0.2] transition-transform duration-1000 group-hover:scale-110"
           />
           {/* Seamless Edge Masking */}
-          <div className="absolute inset-0 bg-gradient-to-l from-muted/30 via-transparent to-transparent pointer-events-none" />
+          <div className="absolute inset-0 bg-gradient-to-l from-muted/50 via-transparent to-transparent pointer-events-none" />
           
           {/* subtle decorative glass glow */}
-          <div className="absolute top-0 left-0 w-32 h-full bg-white/10 blur-3xl pointer-events-none" />
+          <div className="absolute top-0 left-0 w-48 h-full bg-white/5 blur-3xl pointer-events-none" />
         </motion.div>
       </div>
 
@@ -93,10 +89,14 @@ export function HowItWorks() {
             >
               <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
                 <span className="relative flex h-2 w-2">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
-                  <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-start"></span>
                 </span>
-                <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-primary">
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>
                   Workflow
                 </span>
               </div>
@@ -133,13 +133,13 @@ export function HowItWorks() {
                   className="flex items-start gap-8 relative z-10 group"
                 >
                   {/* Step Icon Circle */}
-                  <div className="flex-shrink-0 w-16 h-16 rounded-2xl bg-card border border-border shadow-sm flex items-center justify-center group-hover:border-brand-end/30 group-hover:shadow-lg transition-all duration-300">
-                    <step.icon className="w-8 h-8 text-foreground" strokeWidth={1.5} />
+                  <div className="flex-shrink-0 w-16 h-16 rounded-2xl bg-card border border-border shadow-sm flex items-center justify-center group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end group-hover:border-transparent group-hover:shadow-lg group-hover:shadow-brand-end/20 transition-all duration-300">
+                    <step.icon className="w-8 h-8 text-foreground group-hover:text-white transition-colors" strokeWidth={1.5} />
                   </div>
 
                   {/* Text Content */}
                   <div className="pt-2">
-                    <h3 className="text-xl font-bold text-foreground mb-1.5 tracking-tight group-hover:text-primary transition-colors">
+                    <h3 className="text-xl font-bold text-foreground mb-1.5 tracking-tight group-hover:text-brand-end transition-colors">
                       {step.title}
                     </h3>
                     <p className="text-muted-foreground text-[15px] leading-relaxed">
