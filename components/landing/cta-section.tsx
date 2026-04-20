@@ -48,7 +48,7 @@ export function CTASection() {
 
             {/* Floating badge */}
             <motion.div 
-              className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-accent text-accent-foreground shadow-2xl shadow-accent/20 border border-white/10"
+              className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-gradient-to-br from-brand-start to-brand-end text-white shadow-2xl shadow-brand-end/20 border border-white/10"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
@@ -73,7 +73,7 @@ export function CTASection() {
             transition={{ ...smoothSpring }}
           >
             <motion.p 
-              className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4"
+              className="text-xs font-bold text-brand-end uppercase tracking-[0.2em] mb-4"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
@@ -129,8 +129,8 @@ export function CTASection() {
                   viewport={{ once: true }}
                   transition={{ ...smoothSpring, delay: 0.4 + index * 0.1 }}
                 >
-                  <div className="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center">
-                    <CheckCircle2 className="w-4 h-4 text-primary" />
+                  <div className="w-6 h-6 rounded-full bg-brand-start/10 flex items-center justify-center">
+                    <CheckCircle2 className="w-4 h-4 text-brand-end" />
                   </div>
                   <span className="text-foreground font-medium">{benefit}</span>
                 </motion.div>

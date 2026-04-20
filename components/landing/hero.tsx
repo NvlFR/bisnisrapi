@@ -59,7 +59,7 @@ export function Hero() {
 
       {/* Animated background blobs */}
       <motion.div
-        className="absolute top-20 left-1/4 w-[500px] h-[500px] bg-primary/8 rounded-full blur-[100px] will-change-transform"
+        className="absolute top-20 left-1/4 w-[500px] h-[500px] bg-brand-start/10 rounded-full blur-[100px] will-change-transform"
         animate={{
           x: [0, 30, 0],
           y: [0, -20, 0],

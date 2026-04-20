@@ -125,7 +125,7 @@ export function FAQSection() {
                     animate={{ rotate: openIndex === index ? 180 : 0 }}
                     transition={{ ...smoothSpring }}
                     className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center transition-colors ${
-                      openIndex === index ? "bg-primary text-primary-foreground" : "bg-secondary text-muted-foreground"
+                      openIndex === index ? "bg-brand-end text-white" : "bg-secondary text-muted-foreground"
                     }`}
                   >
                     <ChevronDown className="w-4 h-4" />

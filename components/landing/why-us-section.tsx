@@ -81,11 +81,11 @@ export function WhyUsSection() {
                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
                 >
                   <motion.div
-                    className="w-5 h-5 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0"
+                    className="w-5 h-5 rounded-full bg-brand-start/10 flex items-center justify-center flex-shrink-0"
                     whileHover={{ scale: 1.2, rotate: 10 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
-                    <Check className="w-3 h-3 text-primary" />
+                    <Check className="w-3 h-3 text-brand-end" />
                   </motion.div>
                   <span className="text-xs sm:text-sm text-foreground">{highlight}</span>
                 </motion.div>
@@ -129,14 +129,14 @@ export function WhyUsSection() {
               >
                 <div className="flex items-start gap-5">
                   <motion.div
-                    className="flex-shrink-0 w-14 h-14 rounded-2xl bg-primary/10 group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end flex items-center justify-center transition-all duration-300"
+                    className="flex-shrink-0 w-14 h-14 rounded-2xl bg-brand-start/10 group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end flex items-center justify-center transition-all duration-300"
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
-                    <reason.icon className="w-6 h-6 text-primary group-hover:text-white transition-colors" />
+                    <reason.icon className="w-6 h-6 text-brand-end group-hover:text-white transition-colors" />
                   </motion.div>
                   <div>
-                    <h3 className="text-xl font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
+                    <h3 className="text-xl font-semibold text-foreground mb-2 group-hover:text-brand-end transition-colors">
                       {reason.title}
                     </h3>
                     <p className="text-muted-foreground leading-relaxed">
@@ -149,7 +149,7 @@ export function WhyUsSection() {
 
             {/* Trust badge */}
             <motion.div
-              className="flex items-center gap-4 p-6 rounded-2xl bg-primary/5 border border-primary/20"
+              className="flex items-center gap-4 p-6 rounded-2xl bg-brand-start/5 border border-brand-start/20"
               initial={{ opacity: 0, y: 20 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ ...smoothSpring, delay: 0.7 }}
@@ -158,12 +158,12 @@ export function WhyUsSection() {
                 {[1, 2, 3, 4].map((i) => (
                   <motion.div
                     key={i}
-                    className="w-10 h-10 rounded-full bg-primary/20 border-2 border-card flex items-center justify-center"
+                    className="w-10 h-10 rounded-full bg-brand-start/20 border-2 border-card flex items-center justify-center"
                     initial={{ scale: 0 }}
                     animate={isInView ? { scale: 1 } : {}}
                     transition={{ delay: 0.8 + i * 0.1, type: "spring" }}
                   >
-                    <span className="text-xs text-primary font-semibold">{i}</span>
+                    <span className="text-xs text-brand-end font-semibold">{i}</span>
                   </motion.div>
                 ))}
               </div>

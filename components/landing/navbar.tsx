@@ -183,7 +183,7 @@ export function Navbar() {
                   >
                     <Link
                       href={link.href}
-                      className="text-2xl font-medium text-foreground hover:text-primary transition-colors py-4 block border-b border-border/50"
+                      className="text-2xl font-medium text-foreground hover:text-brand-end transition-colors py-4 block border-b border-border/50"
                       onClick={() => setIsOpen(false)}
                     >
                       {link.label}
