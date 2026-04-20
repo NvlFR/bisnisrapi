@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion, AnimatePresence, useScroll, useMotionValueEvent } from "framer-motion";
@@ -54,7 +55,7 @@ export function Navbar() {
       animate={{ y: hidden ? -100 : 0 }}
       transition={{ ...smoothSpring }}
     >
-      <div className="w-full max-w-5xl relative">
+      <div className="w-full max-w-7xl relative">
         <div className={`
           flex items-center justify-between px-3 sm:px-6 py-2.5 sm:py-3
           rounded-full border transition-all duration-500
@@ -69,17 +70,21 @@ export function Navbar() {
             transition={{ ...smoothSpring, delay: 0.1 }}
           >
             <Link href="/" className="flex items-center gap-2 group">
-              <motion.div
-                className="w-9 h-9 rounded-lg bg-foreground flex items-center justify-center shadow-md"
-                whileHover={{ scale: 1.05, rotate: -5 }}
-                transition={{ type: "spring", stiffness: 400 }}
-              >
-                <div className="w-5 h-5 rounded-sm border-2 border-background flex items-center justify-center">
-                  <div className="w-2 h-2 bg-accent rounded-full" />
-                </div>
-              </motion.div>
-              <span className="text-xl font-bold text-foreground tracking-tight">
-                Bisnis<span className="text-accent">Rapi</span>
+              <div className="relative w-10 h-10">
+                <Image
+                  src="/Logo.png"
+                  alt="BisnisRapi Logo"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+              <span className="text-xl font-bold tracking-tight">
+                <span className="text-foreground">Bisnis</span>
+                <span style={{ 
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>Rapi</span>
               </span>
             </Link>
           </motion.div>
@@ -110,8 +115,15 @@ export function Navbar() {
             transition={{ ...smoothSpring, delay: 0.3 }}
           >
             <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-              <Button size="sm" className="rounded-full px-6 bg-foreground text-background hover:bg-accent hover:text-white transition-all shadow-md active:scale-95" asChild>
-                <Link href="#kontak">Konsultasi Gratis</Link>
+              <Button 
+                size="sm" 
+                className="rounded-full px-6 text-white transition-all shadow-md active:scale-95 overflow-hidden relative group"
+                style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
+                asChild
+              >
+                <Link href="#kontak">
+                  <span className="relative z-10 font-bold">Konsultasi Gratis</span>
+                </Link>
               </Button>
             </motion.div>
           </motion.div>

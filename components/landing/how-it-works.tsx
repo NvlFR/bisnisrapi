@@ -51,138 +51,121 @@ export function HowItWorks() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section id="cara-kerja" className="py-24 lg:py-32 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Left - Image */}
-          <motion.div 
-            className="relative"
-            initial={{ opacity: 0, x: -50 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
-            transition={{ ...smoothSpring }}
-          >
-            <motion.div 
-              className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border border-border/50"
-              whileHover={{ scale: 1.02 }}
-              transition={smoothSpring}
-            >
-              <Image
-                src="/team_collaboration_bisnisrapi.png"
-                alt="Tim BisnisRapi bekerja sama dengan klien"
-                width={600}
-                height={700}
-                className="object-cover"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
-            </motion.div>
+    <section id="cara-kerja" className="relative py-24 lg:py-32 bg-muted/30 overflow-hidden">
+      
+      {/* Desktop Image — Strategic/Collaboration vibe with Floating Frame */}
+      <div className="absolute inset-y-0 left-0 w-[50%] hidden lg:flex items-center justify-center overflow-hidden pointer-events-none p-12 pl-0">
+        <motion.div 
+          className="relative w-full h-[80%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.15)] border-y border-r border-border/50 will-change-transform"
+          initial={{ opacity: 0, x: -100 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 1.2, ease: "easeOut" }}
+        >
+          <Image
+            src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=2000" 
+            alt="Strategic Planning Bisnis Rapi"
+            fill
+            className="object-cover object-left opacity-90 transition-transform duration-700 hover:scale-105"
+          />
+          {/* Seamless Edge Masking */}
+          <div className="absolute inset-0 bg-gradient-to-l from-muted/30 via-transparent to-transparent pointer-events-none" />
+          
+          {/* subtle decorative glass glow */}
+          <div className="absolute top-0 left-0 w-32 h-full bg-white/10 blur-3xl pointer-events-none" />
+        </motion.div>
+      </div>
 
-            {/* Timeline floating card */}
+      <div className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
+        <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start" ref={ref}>
+          
+          {/* Left - Spacer for image display on desktop */}
+          <div className="hidden lg:block h-full w-full" />
+
+          {/* Right - Content */}
+          <div className="lg:pl-8 xl:pl-16">
             <motion.div 
-              className="absolute -right-8 top-1/2 -translate-y-1/2 p-6 rounded-2xl bg-card border border-border shadow-xl max-w-[220px]"
-              initial={{ opacity: 0, x: 30 }}
+              className="mb-16"
+              initial={{ opacity: 0, x: 40 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              transition={{ delay: 0.6, ...smoothSpring }}
-              whileHover={{ scale: 1.05 }}
-            >
-              <div className="space-y-3">
-                {["Diskusi", "Desain", "Develop", "Deploy"].map((step, i) => (
-                  <motion.div 
-                    key={step}
-                    className="flex items-center gap-3"
-                    initial={{ opacity: 0, x: 10 }}
-                    whileInView={{ opacity: 1, x: 0 }}
-                    viewport={{ once: true }}
-                    transition={{ delay: 0.8 + i * 0.1, ...smoothSpring }}
-                  >
-                    <motion.div 
-                      className={`w-3 h-3 rounded-full ${i <= 2 ? "bg-primary" : "bg-border"}`}
-                      animate={i === 2 ? { scale: [1, 1.3, 1] } : {}}
-                      transition={{ duration: 1.5, repeat: Infinity }}
-                    />
-                    <span className={`text-sm ${i <= 2 ? "text-foreground font-medium" : "text-muted-foreground"}`}>
-                      {step}
-                    </span>
-                    {i === 2 && (
-                      <span className="text-xs text-primary font-medium ml-auto">Aktif</span>
-                    )}
-                  </motion.div>
-                ))}
-              </div>
-            </motion.div>
-          </motion.div>
-
-          {/* Right - Steps */}
-          <div ref={ref}>
-            <motion.div 
-              className="mb-12"
-              initial={{ opacity: 0, y: 30 }}
-              animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ ...smoothSpring }}
             >
-              <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
-                Our Process
-              </p>
-              <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
-                Proses Sederhana, Hasil <span className="text-accent">Dahsyat</span>
+              <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+                </span>
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-primary">
+                  Workflow
+                </span>
+              </div>
+              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
+                Proses <span style={{ 
+                    background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                    WebkitBackgroundClip: 'text',
+                    WebkitTextFillColor: 'transparent',
+                  }}>Sederhana</span>,<br /> Hasil Dahsyat
               </h2>
-              <p className="mt-6 text-lg font-medium text-muted-foreground/80 leading-relaxed">
+              <p className="mt-5 text-base text-muted-foreground leading-relaxed">
                 Kami menangani seluruh kerumitan teknis sehingga Anda bisa fokus sepenuhnya pada pertumbuhan bisnis Anda.
               </p>
             </motion.div>
 
-            <div className="relative">
-              {/* Vertical Line */}
+            {/* Timeline Steps */}
+            <div className="relative space-y-12">
+              {/* Vertical Connector Line */}
               <motion.div 
-                className="absolute left-6 top-8 bottom-8 w-[1px] bg-gradient-to-b from-accent/50 via-accent/20 to-transparent"
+                className="absolute left-[31px] top-8 bottom-8 w-[2px] bg-gradient-to-b from-brand-start to-brand-end/20"
                 initial={{ scaleY: 0 }}
                 animate={isInView ? { scaleY: 1 } : {}}
-                transition={{ duration: 1, delay: 0.5 }}
+                transition={{ duration: 1.5, ease: "easeInOut", delay: 0.5 }}
                 style={{ originY: 0 }}
               />
 
-              <div className="space-y-6">
-                {steps.map((step, index) => (
-                  <motion.div
-                    key={index}
-                    initial={{ opacity: 0, x: 30 }}
-                    animate={isInView ? { opacity: 1, x: 0 } : {}}
-                    transition={{ ...smoothSpring, delay: 0.2 + index * 0.15 }}
-                    className="relative flex gap-6 group"
-                  >
-                    {/* Step Circle */}
-                    <motion.div 
-                      className="relative z-10 flex-shrink-0"
-                      whileHover={{ scale: 1.1 }}
-                      transition={{ type: "spring", stiffness: 400 }}
-                    >
-                      <div className={`w-12 h-12 rounded-full ${step.color} flex items-center justify-center shadow-lg`}>
-                        <step.icon className="w-5 h-5" />
-                      </div>
-                    </motion.div>
+              {steps.map((step, index) => (
+                <motion.div
+                  key={index}
+                  initial={{ opacity: 0, x: 40 }}
+                  animate={isInView ? { opacity: 1, x: 0 } : {}}
+                  transition={{ ...smoothSpring, delay: 0.3 + index * 0.2 }}
+                  whileHover={{ x: 8 }}
+                  className="flex items-start gap-8 relative z-10 group"
+                >
+                  {/* Step Icon Circle */}
+                  <div className="flex-shrink-0 w-16 h-16 rounded-2xl bg-card border border-border shadow-sm flex items-center justify-center group-hover:border-brand-end/30 group-hover:shadow-lg transition-all duration-300">
+                    <step.icon className="w-8 h-8 text-foreground" strokeWidth={1.5} />
+                  </div>
 
-                    {/* Content */}
-                    <motion.div 
-                      className="flex-1 pb-6"
-                      whileHover={{ x: 4 }}
-                      transition={{ duration: 0.2 }}
-                    >
-                      <div className="flex items-center gap-3 mb-2">
-                        <span className="text-xs font-black text-accent">{step.number}</span>
-                        <h3 className="text-2xl font-bold text-foreground group-hover:text-accent transition-colors">
-                          {step.title}
-                        </h3>
-                      </div>
-                      <p className="text-muted-foreground leading-relaxed">
-                        {step.description}
-                      </p>
-                    </motion.div>
-                  </motion.div>
-                ))}
-              </div>
+                  {/* Text Content */}
+                  <div className="pt-2">
+                    <h3 className="text-xl font-bold text-foreground mb-1.5 tracking-tight group-hover:text-primary transition-colors">
+                      {step.title}
+                    </h3>
+                    <p className="text-muted-foreground text-[15px] leading-relaxed">
+                      {step.description}
+                    </p>
+                  </div>
+                </motion.div>
+              ))}
             </div>
           </div>
+
+          {/* Mobile Image (Visible only on mobile) */}
+          <motion.div 
+            className="lg:hidden mt-8 rounded-3xl overflow-hidden shadow-2xl border border-border aspect-video relative"
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+          >
+            <Image
+              src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200"
+              alt="Strategic Planning"
+              fill
+              className="object-cover"
+            />
+          </motion.div>
+
         </div>
       </div>
     </section>

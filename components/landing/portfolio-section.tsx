@@ -6,39 +6,39 @@ import { motion } from "framer-motion";
 
 const caseStudies = [
   {
-    title: "Toko Fashion Online",
-    category: "E-Commerce",
-    image: "/dashboard_analytics_bisnisrapi.png",
-    problem: "Semua order melalui WhatsApp, sering terlewat, stok tidak akurat",
-    solution: "Sistem order terpusat + inventory real-time",
-    result: "Order meningkat +215%",
-    testimonial: "Sekarang tim tidak perlu input manual lagi. Semua otomatis dan data selalu akurat. Sangat membantu operasional harian kami.",
-    author: "Sarah Wijaya",
-    role: "Pemilik FashionKu",
-    rating: 5,
-  },
-  {
-    title: "Jaringan Restoran & Kafe",
+    title: "Coffee Shop Multi-Cabang",
     category: "Food & Beverage",
-    image: "/business_automation_bisnisrapi_secondary.png",
-    problem: "5 cabang dengan laporan masih manual di Excel setiap minggu",
-    solution: "Dashboard multi-cabang + reporting otomatis harian",
-    result: "Reporting 10 Menit",
-    testimonial: "Dulu butuh 3 hari untuk kompilasi laporan semua cabang. Sekarang tinggal buka dashboard dan semua data tersedia real-time.",
-    author: "Budi Santoso",
-    role: "Manajer Operasional Kopi Nikmat",
+    image: "/portfolio_coffee_shop_real_vibe.png",
+    problem: "Sulit monitor sales & stok harian di 4 cabang yang berjauhan",
+    solution: "Dashboard POS Terpusat & Notifikasi Sales Real-time via Telegram",
+    result: "Growth Profit +45%",
+    testimonial: "Nggak perlu keliling cabang tiap hari buat cek omzet. Semua tinggal buka HP, tim di lapangan juga lebih disiplin.",
+    author: "Rizky Ramadhan",
+    role: "Founder Kopi Senja",
     rating: 5,
   },
   {
-    title: "Jasa Ekspedisi",
-    category: "Logistik",
-    image: "/order_tracking_bisnisrapi.png",
-    problem: "Pelacakan manual, pelanggan sering bertanya posisi barang",
-    solution: "Sistem tracking real-time + notifikasi otomatis",
-    result: "CS Load -60%",
-    testimonial: "Pelanggan sekarang bisa melacak sendiri. Tim customer service jadi bisa fokus pada hal yang lebih penting.",
-    author: "Andi Pratama",
-    role: "Founder KirimCepat",
+    title: "Grosir Sembako Digital",
+    category: "Retail & Distribution",
+    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200",
+    problem: "Stok ribuan SKU berantakan, sering selisih, & input manual yang lambat",
+    solution: "Sistem Manajemen Gudang (WMS) dengan Barcode Scanner",
+    result: "Akurasi Stok 100%",
+    testimonial: "Dulu stok selisih terus. Sekarang setiap barang masuk-keluar tinggal scan, laporan langsung jadi tanpa nunggu sore.",
+    author: "H. Mulyana",
+    role: "Pemilik Toko Sumber Jaya",
+    rating: 5,
+  },
+  {
+    title: "Supply Chain Buah Lokal",
+    category: "Logistik & Agri",
+    image: "https://images.unsplash.com/photo-1595246140625-573b715d11dc?q=80&w=2070",
+    problem: "Distribusi lambat & data buah rusak tidak terdata dengan baik",
+    solution: "Tracking Armada & Digitalisasi Quality Control",
+    result: "Waste Reduction -30%",
+    testimonial: "Koordinasi antar kebun dan gudang jadi jauh lebih rapi. Kita bisa potong rantai distribusi yang nggak perlu.",
+    author: "Dessy Amalia",
+    role: "CEO SayurFresh",
     rating: 5,
   },
 ];
@@ -51,27 +51,33 @@ const smoothSpring = {
 
 export function PortfolioSection() {
   return (
-    <section id="portfolio" className="py-24 lg:py-32 overflow-hidden">
+    <section id="portfolio" className="py-24 lg:py-32 overflow-hidden bg-background">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div 
-          className="text-center max-w-3xl mx-auto mb-16"
+          className="text-center max-w-3xl mx-auto mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
-            Success Stories
-          </p>
-          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
-            Dampak <span className="text-accent">Nyata</span> untuk Bisnis Anda
+          <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-accent/5 border border-accent/10 backdrop-blur-sm mb-6 shadow-sm">
+            <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-accent">
+              Success Stories
+            </span>
+          </div>
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
+            Dampak <span style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>Nyata</span> untuk Bisnis Anda
           </h2>
-          <p className="mt-6 text-lg font-medium text-muted-foreground/80 leading-relaxed">
+          <p className="mt-5 text-base text-muted-foreground leading-relaxed">
             Lihat bagaimana solusi kami mentransformasi operasional berbagai sektor bisnis menjadi lebih efisien dan menguntungkan.
           </p>
         </motion.div>
 
-        <div className="grid lg:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-10">
           {caseStudies.map((study, index) => (
             <motion.div
               key={index}
@@ -79,78 +85,84 @@ export function PortfolioSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 * index }}
-              whileHover={{ y: -8 }}
-              className="group rounded-3xl bg-card border border-border hover:border-primary/30 hover:shadow-2xl hover:shadow-primary/5 transition-all duration-500 overflow-hidden"
+              className="group relative rounded-[2rem] bg-card border border-border transition-all duration-500 overflow-hidden flex flex-col h-full hover:shadow-2xl hover:shadow-primary/5 hover:border-primary/20"
             >
-              {/* Image */}
-              <div className="relative h-48 overflow-hidden">
+              {/* Image & Problem/Solution Overlay */}
+              <div className="relative h-64 overflow-hidden">
                 <Image
                   src={study.image}
                   alt={study.title}
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 33vw"
-                  className="object-cover transition-transform duration-700 group-hover:scale-110"
+                  className="object-cover transition-transform duration-700 group-hover:scale-105"
                 />
-                <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-background via-background/40 to-transparent" />
-                <div className="absolute bottom-4 left-6">
-                  <span className="px-3 py-1 rounded-full bg-accent/20 border border-accent/20 text-accent text-[10px] font-bold uppercase tracking-wider backdrop-blur-md">
+                <div className="absolute inset-0 bg-black/40 group-hover:bg-black/90 transition-all duration-500" />
+                
+                {/* Category Badge */}
+                <div className="absolute top-6 left-6 z-10">
+                  <span className="px-3 py-1 rounded-lg bg-white/10 border border-white/20 text-white text-[10px] font-bold uppercase tracking-wider backdrop-blur-md">
                     {study.category}
                   </span>
                 </div>
+
+                {/* Problem/Solution Hover Overlay Content */}
+                <div className="absolute inset-0 p-8 flex flex-col justify-end translate-y-8 group-hover:translate-y-0 transition-transform duration-500">
+                   <div className="space-y-4 opacity-0 group-hover:opacity-100 transition-opacity duration-500 delay-100">
+                      <div>
+                        <p className="text-[10px] font-bold text-accent uppercase tracking-wider mb-1">Masalah</p>
+                        <p className="text-white text-sm line-clamp-2 leading-relaxed">{study.problem}</p>
+                      </div>
+                      <div>
+                        <p className="text-[10px] font-bold text-accent uppercase tracking-wider mb-1">Solusi</p>
+                        <p className="text-white text-sm line-clamp-2 leading-relaxed font-semibold">{study.solution}</p>
+                      </div>
+                   </div>
+                </div>
               </div>
 
-              <div className="p-8 pt-4">
-                {/* Rating */}
-                <div className="flex items-center gap-1 mb-6">
-                  {[...Array(study.rating)].map((_, i) => (
-                    <motion.div
-                      key={i}
-                      initial={{ opacity: 0, scale: 0 }}
-                      whileInView={{ opacity: 1, scale: 1 }}
-                      viewport={{ once: true }}
-                      transition={{ delay: 0.5 + i * 0.1, type: "spring" }}
-                    >
-                      <Star className="w-4 h-4 text-accent fill-accent" />
-                    </motion.div>
-                  ))}
-                </div>
+              {/* Card Body */}
+              <div className="p-8 pt-6 flex flex-col flex-grow">
+                <h3 className="text-xl font-bold text-foreground mb-4 group-hover:text-primary transition-colors">
+                  {study.title}
+                </h3>
 
-                {/* Quote */}
-                <div className="mb-8 relative">
-                  <Quote className="absolute -top-4 -left-2 w-10 h-10 text-accent/10 mb-3" />
-                  <p className="text-foreground/90 font-medium italic leading-relaxed pl-6">
+                {/* Testimonial Quote */}
+                <div className="mb-8 relative flex-grow">
+                  <Quote className="absolute -top-2 -left-2 w-8 h-8 text-primary/10" />
+                  <p className="text-muted-foreground/90 font-medium italic leading-relaxed pl-6 text-[15px]">
                     "{study.testimonial}"
                   </p>
                 </div>
 
-                {/* Author */}
-                <div className="flex items-center gap-4 mb-6 pb-6 border-b border-border">
-                  <motion.div 
-                    className="w-12 h-12 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center"
-                    whileHover={{ scale: 1.1 }}
-                    transition={{ type: "spring", stiffness: 400 }}
-                  >
-                    <span className="text-primary font-semibold">
+                {/* Author Info */}
+                <div className="flex items-center gap-4 mb-8">
+                  <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center border border-border shadow-inner">
+                    <span className="text-primary font-bold text-sm">
                       {study.author.charAt(0)}
                     </span>
-                  </motion.div>
+                  </div>
                   <div>
-                    <p className="font-semibold text-foreground">{study.author}</p>
-                    <p className="text-sm text-muted-foreground">{study.role}</p>
+                    <p className="font-bold text-foreground text-sm leading-tight">{study.author}</p>
+                    <p className="text-[13px] text-muted-foreground font-medium">{study.role}</p>
+                  </div>
+                  <div className="ml-auto flex items-center gap-0.5">
+                    {[...Array(5)].map((_, i) => (
+                      <Star key={i} className="w-3 h-3 text-accent fill-accent" />
+                    ))}
                   </div>
                 </div>
 
-                <div className="flex items-end justify-between">
+                {/* Impact Metric Footer */}
+                <div className="flex items-center justify-between pt-6 border-t border-border">
                   <div>
-                    <p className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.2em] mb-1">Impact</p>
-                    <p className="text-2xl font-black text-accent tracking-tighter">{study.result}</p>
+                    <p className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.2em] mb-1">Hasil Akhir</p>
+                    <p className="text-lg sm:text-xl font-bold tracking-tight bg-gradient-to-r from-accent to-primary bg-clip-text text-transparent">
+                      {study.result}
+                    </p>
                   </div>
-                  <motion.div 
-                    className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
-                    whileHover={{ scale: 1.1, rotate: 45 }}
-                  >
-                    <ArrowUpRight className="w-5 h-5 text-primary" />
-                  </motion.div>
+                  <div className="w-10 h-10 rounded-full bg-muted flex items-center justify-center text-foreground group-hover:bg-primary group-hover:text-white transition-all duration-300">
+                    <ArrowUpRight className="w-5 h-5" />
+                  </div>
                 </div>
               </div>
             </motion.div>

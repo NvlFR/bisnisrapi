@@ -13,10 +13,10 @@ const smoothSpring = {
 } as const;
 
 const features = [
-  "Dashboard real-time",
-  "Automasi proses",
-  "Laporan otomatis",
-  "Multi-user access",
+  "Tracking Orderan Tanpa Miss",
+  "Data Stok & Inventori Real-time",
+  "Analisis Profit & Laba Rugi Otomatis",
+  "Akses Multi-device (HP/Tablet/PC)",
 ];
 
 export function SolutionSection() {
@@ -24,73 +24,105 @@ export function SolutionSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section id="solusi" className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="solusi" className="relative py-24 lg:py-32 bg-background overflow-hidden">
+
+      {/* Desktop Image with Floating Frame Effect */}
+      <div className="absolute inset-y-0 right-0 w-[50%] hidden lg:flex items-center justify-center overflow-hidden pointer-events-none p-12 pr-0">
         <motion.div 
-          className="text-center max-w-3xl mx-auto mb-20"
+          className="relative w-full h-[80%] rounded-l-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-l border-white/20 will-change-transform"
+          initial={{ opacity: 0, x: 100 }}
+          whileInView={{ opacity: 1, x: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 1.2, ease: "easeOut" }}
+        >
+          <Image
+            src="/solution_image_bisnisrapi.png"
+            alt="Dashboard Bisnis Rapi Analytics"
+            fill
+            className="object-cover object-left opacity-95 transition-transform duration-700 hover:scale-105"
+            priority
+          />
+          {/* Seamless Transition Mask */}
+          <div className="absolute inset-0 bg-gradient-to-r from-background via-transparent to-transparent pointer-events-none" />
+          
+          {/* Decorative glass glow */}
+          <div className="absolute top-0 right-0 w-32 h-full bg-white/5 blur-3xl pointer-events-none" />
+        </motion.div>
+      </div>
+
+      <div className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
+        <motion.div
+          className="text-center lg:text-left lg:max-w-xl mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-xs font-bold text-accent uppercase tracking-[0.2em] mb-4">
-            Solusi Kami
-          </p>
-          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance">
-            Sistem Bisnis yang Dirancang <span className="text-accent">Khusus</span> untuk Anda
+          <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-primary/5 border border-primary/10 backdrop-blur-sm mb-6 shadow-sm">
+            <span className="relative flex h-2 w-2">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+            </span>
+            <span className="text-[11px] font-bold text-primary uppercase tracking-[0.2em]">
+              Solusi Kami
+            </span>
+          </div>
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight text-balance">
+            Sistem yang Dirancang <span style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>Khusus</span> Untuk Bisnis Anda
           </h2>
-          <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
-            Semua yang Anda butuhkan dalam satu platform terintegrasi dengan keamanan data tingkat tinggi.
+          <p className="mt-5 text-base text-muted-foreground leading-relaxed">
+            Semua yang Anda butuhkan dalam satu platform terintegrasi. Kami membangun dashboard yang intuitif untuk kontrol penuh atas bisnis Anda.
           </p>
         </motion.div>
 
-        {/* Main Feature with Image */}
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center mb-20" ref={ref}>
+        {/* Main Feature with Content spacer for image */}
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-24 xl:gap-32 items-center mb-20" ref={ref}>
           {/* Left - Content */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}
             animate={isInView ? { opacity: 1, x: 0 } : {}}
             transition={{ ...smoothSpring, delay: 0.2 }}
+            className="lg:max-w-xl"
           >
-            <motion.div 
-              className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center justify-center mb-6"
-              whileHover={{ scale: 1.1, rotate: 5 }}
-              transition={{ type: "spring", stiffness: 400 }}
-            >
-              <LayoutDashboard className="w-8 h-8 text-primary" />
-            </motion.div>
-            
-            <h3 className="text-2xl sm:text-3xl font-bold text-foreground mb-4">
+            <div className="w-14 h-14 rounded-xl bg-cyan-50 border border-cyan-100 flex items-center justify-center mb-6 shadow-sm">
+              <LayoutDashboard className="w-7 h-7 text-cyan-500" />
+            </div>
+
+            <h3 className="text-2xl lg:text-3xl font-bold text-foreground mb-4">
               Dashboard Kontrol Real-Time
             </h3>
-            <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              Pantau seluruh aspek bisnis dalam satu layar yang intuitif. Data penjualan, stok, dan performa tim semuanya diperbarui secara otomatis tanpa perlu refresh.
+            <p className="text-base text-muted-foreground leading-relaxed mb-8">
+              Pantau seluruh aspek bisnis dalam satu layar. Data penjualan, stok, dan performa tim semuanya diperbarui secara instan. Tidak ada lagi tebak-tebak buah manggis soal profit.
             </p>
 
-            <div className="grid grid-cols-2 gap-4 mb-8">
+            <div className="space-y-4 mb-10">
               {features.map((feature, index) => (
-                <motion.div 
+                <motion.div
                   key={feature}
-                  className="flex items-center gap-3"
+                  className="flex items-center gap-4"
                   initial={{ opacity: 0, x: -20 }}
                   animate={isInView ? { opacity: 1, x: 0 } : {}}
                   transition={{ ...smoothSpring, delay: 0.3 + index * 0.1 }}
                 >
-                  <div className="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
-                    <Check className="w-3.5 h-3.5 text-primary" />
+                  <div className="w-8 h-8 rounded-full bg-cyan-50 border border-cyan-100 flex items-center justify-center flex-shrink-0">
+                    <Check className="w-4 h-4 text-cyan-600" />
                   </div>
-                  <span className="text-sm font-medium text-foreground">{feature}</span>
+                  <span className="text-base font-semibold text-foreground/80">{feature}</span>
                 </motion.div>
               ))}
             </div>
 
             <motion.div
-              whileHover={{ x: 4 }}
-              transition={{ duration: 0.2 }}
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
             >
-              <Link 
-                href="#portfolio" 
-                className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
+              <Link
+                href="#portfolio"
+                className="inline-flex items-center gap-3 px-8 py-3.5 rounded-full bg-primary text-primary-foreground font-bold hover:shadow-lg hover:shadow-primary/20 transition-all"
               >
                 Lihat Contoh Dashboard
                 <ArrowRight className="w-4 h-4" />
@@ -98,51 +130,30 @@ export function SolutionSection() {
             </motion.div>
           </motion.div>
 
-          {/* Right - Image */}
-          <motion.div 
-            className="relative"
-            initial={{ opacity: 0, x: 40 }}
-            animate={isInView ? { opacity: 1, x: 0 } : {}}
-            transition={{ ...smoothSpring, delay: 0.3 }}
+          {/* Right - Mobile Image Replacement (Visible only on mobile) */}
+          <motion.div
+            className="lg:hidden relative"
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
           >
-            <motion.div 
-              className="relative rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border border-border"
-              whileHover={{ y: -8 }}
-              transition={smoothSpring}
-            >
+            <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-border aspect-[4/3]">
               <Image
-                src="/dashboard_analytics_bisnisrapi.png"
+                src="/solution_image_bisnisrapi.png"
                 alt="Dashboard Analytics BisnisRapi"
-                width={1200}
-                height={800}
-                className="w-full h-auto"
+                fill
+                className="object-cover"
               />
-            </motion.div>
-
-            {/* Floating Stats */}
-            <motion.div 
-              className="absolute -bottom-6 -left-6 p-5 rounded-2xl bg-card border border-border shadow-xl"
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={isInView ? { opacity: 1, scale: 1 } : {}}
-              transition={{ delay: 0.8, ...smoothSpring }}
-              whileHover={{ scale: 1.05 }}
-            >
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 rounded-xl bg-green-100 flex items-center justify-center">
-                  <Zap className="w-6 h-6 text-green-600" />
-                </div>
-                <div>
-                  <p className="text-2xl font-bold text-foreground">85%</p>
-                  <p className="text-sm text-muted-foreground">Lebih Efisien</p>
-                </div>
-              </div>
-            </motion.div>
+            </div>
           </motion.div>
+
+          {/* Empty spacer on desktop to let absolute image stay on top */}
+          <div className="hidden lg:block h-full w-full" />
         </div>
 
         {/* Secondary Features Grid */}
         <motion.div 
-          className="grid md:grid-cols-3 gap-6"
+          className="grid md:grid-cols-3 gap-8"
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-100px" }}
@@ -151,21 +162,24 @@ export function SolutionSection() {
           {[
             {
               icon: Zap,
-              title: "Automasi Proses Bisnis",
+              title: "Automasi Bisnis",
               description: "Proses repetitif diotomasi secara cerdas. Notifikasi order, pembaruan stok, hingga laporan harian berjalan otomatis.",
-              image: "/business_automation_bisnisrapi_secondary.png",
+              image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1200",
+              color: "blue"
             },
             {
               icon: Settings,
               title: "Sistem Custom",
-              description: "Dirancang khusus sesuai alur kerja dan kebutuhan spesifik bisnis Anda, bukan template generik.",
-              image: "/dashboard_analytics_bisnisrapi.png",
+              description: "Kami membangun sistem yang mengikuti alur kerja unik bisnis Anda, bukan memaksa Anda mengikuti template kaku.",
+              image: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200",
+              color: "indigo"
             },
             {
               icon: Database,
-              title: "Data Terpusat & Aman",
-              description: "Kelola semua data dengan aman menggunakan enkripsi dan sinkronisasi real-time di seluruh perangkat.",
-              image: "/order_tracking_bisnisrapi.png",
+              title: "Data Terpusat",
+              description: "Seluruh data operasional tersimpan aman di cloud, terenkripsi, dan bisa diakses kapan saja dari mana saja.",
+              image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=1200",
+              color: "blue"
             },
           ].map((feature, index) => (
             <motion.div
@@ -174,28 +188,28 @@ export function SolutionSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 * index }}
-              whileHover={{ y: -8 }}
-              className="group rounded-3xl bg-card border border-border hover:border-primary/30 hover:shadow-xl transition-all duration-300 overflow-hidden"
+              whileHover={{ y: -12 }}
+              className="group relative bg-card rounded-[32px] border border-border shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden"
             >
-              <div className="relative h-40 overflow-hidden">
+              <div className="relative h-48 overflow-hidden">
                 <Image
                   src={feature.image}
                   alt={feature.title}
                   fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  className="object-cover transition-transform duration-700 group-hover:scale-110 grayscale-[0.2] group-hover:grayscale-0"
                 />
+                <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
               </div>
-              <div className="p-6">
-                <motion.div 
-                  className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors"
-                  whileHover={{ scale: 1.1, rotate: 5 }}
-                >
-                  <feature.icon className="w-6 h-6 text-primary" />
-                </motion.div>
-                <h3 className="text-xl font-semibold text-foreground mb-2">
+              
+              <div className="relative p-8">
+                <div className="absolute -top-7 left-8 w-14 h-14 rounded-2xl bg-card border border-border shadow-lg flex items-center justify-center">
+                   <feature.icon className={`w-6 h-6 ${feature.color === 'blue' ? 'text-blue-500' : 'text-indigo-500'}`} />
+                </div>
+
+                <h3 className="text-xl font-bold text-foreground mb-3 mt-4">
                   {feature.title}
                 </h3>
-                <p className="text-muted-foreground leading-relaxed">
+                <p className="text-muted-foreground leading-relaxed text-sm">
                   {feature.description}
                 </p>
               </div>

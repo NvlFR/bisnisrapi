@@ -49,10 +49,8 @@ export function Hero() {
             fill
             className="object-cover"
             style={{
-              maskImage: "linear-gradient(to right, transparent, black 40%), linear-gradient(to top, transparent, black 15%)",
-              WebkitMaskImage: "linear-gradient(to right, transparent, black 40%), linear-gradient(to top, transparent, black 15%)",
-              maskComposite: "intersect",
-              WebkitMaskComposite: "source-in",
+              maskImage: 'linear-gradient(to left, black 60%, transparent 100%)',
+              WebkitMaskImage: 'linear-gradient(to left, black 60%, transparent 100%)',
             }}
             priority
           />
@@ -89,7 +87,7 @@ export function Hero() {
       />
 
       <motion.div
-        className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28 w-full"
+        className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16 py-20 lg:py-28 w-full"
         style={{ y, opacity }}
       >
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
@@ -100,12 +98,12 @@ export function Hero() {
               initial={{ opacity: 0, y: 30, scale: 0.9 }}
               animate={{ opacity: 1, y: 0, scale: 1 }}
               transition={{ ...springTransition, delay: 0.1 }}
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-accent/10 border border-accent/20 mb-8"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-brand-start/10 border border-brand-start/20 mb-8"
             >
-              <div className="flex items-center justify-center w-5 h-5 rounded-full bg-accent text-white">
+              <div className="flex items-center justify-center w-5 h-5 rounded-full bg-brand-start text-white">
                 <Star size={10} fill="currentColor" />
               </div>
-              <span className="text-xs font-bold text-accent uppercase tracking-wider">
+              <span className="text-xs font-bold text-[#185cf8] uppercase tracking-wider">
                 Digital Business Systems
               </span>
             </motion.div>
@@ -116,8 +114,16 @@ export function Hero() {
               transition={{ ...springTransition, delay: 0.2 }}
               className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground tracking-tight leading-[1] text-balance mb-6"
             >
-              Bisnis <span className="text-accent underline decoration-accent/30 underline-offset-8">Rapi</span>,<br />
-              Operasional <span className="text-accent">Efisien</span>
+              Bisnis <span style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }} className="underline decoration-[#59f6e3]/30 underline-offset-8">Rapi</span>,<br />
+              Operasional <span style={{ 
+                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+              }}>Efisien</span>
             </motion.h1>
 
             <motion.p
@@ -136,7 +142,12 @@ export function Hero() {
               className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-5"
             >
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Button size="lg" className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg bg-foreground text-background hover:bg-accent hover:text-white transition-all shadow-xl shadow-foreground/5" asChild>
+                <Button 
+                  size="lg" 
+                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg text-white transition-all shadow-xl shadow-brand-end/20 font-bold"
+                  style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
+                  asChild
+                >
                   <Link href="#kontak">
                     Free Consultation
                     <ArrowRight size={20} />

@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { Instagram, Linkedin, Mail, Phone, Twitter, MapPin, ArrowUpRight } from "lucide-react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
@@ -94,13 +95,25 @@ export function Footer() {
           >
             <Link href="/" className="flex items-center gap-3 group">
               <motion.div 
-                className="w-12 h-12 rounded-xl bg-primary flex items-center justify-center shadow-lg shadow-primary/25"
+                className="relative w-12 h-12 rounded-xl overflow-hidden shadow-lg shadow-brand-start/20 border border-brand-start/20"
                 whileHover={{ scale: 1.05, rotate: 5 }}
                 transition={{ type: "spring", stiffness: 400 }}
               >
-                <span className="text-primary-foreground font-bold text-xl">B</span>
+                <Image
+                  src="/Logo.png"
+                  alt="BisnisRapi Logo"
+                  fill
+                  className="object-contain p-1.5"
+                />
               </motion.div>
-              <span className="text-2xl font-bold text-foreground group-hover:text-primary transition-colors">
+              <span 
+                className="text-2xl font-bold transition-opacity"
+                style={{ 
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}
+              >
                 BisnisRapi
               </span>
             </Link>

@@ -47,103 +47,81 @@ export function ProblemSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section id="masalah" className="py-24 lg:py-32 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* Left - Image */}
-          <motion.div 
-            className="relative order-2 lg:order-1"
-            initial={{ opacity: 0, x: -60 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
-            transition={{ ...smoothSpring, delay: 0.2 }}
-          >
-            <div className="relative aspect-square max-w-lg mx-auto">
-              {/* Main Image */}
-              <motion.div 
-                className="relative rounded-3xl overflow-hidden shadow-2xl"
-                whileHover={{ scale: 1.02 }}
-                transition={smoothSpring}
-              >
-                <Image
-                  src="/business_automation_bisnisrapi_secondary.png"
-                  alt="Pebisnis yang stres dengan tumpukan tugas manual"
-                  width={600}
-                  height={600}
-                  className="w-full h-auto"
-                />
-              </motion.div>
+    <section id="masalah" className="relative py-16 lg:py-32 overflow-hidden bg-background">
+      {/* Background Decorative Element */}
+      <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
+        <div className="absolute -top-[10%] -left-[10%] w-[40%] h-[40%] bg-brand-start/5 rounded-full blur-[120px]" />
+      </div>
 
-              {/* Floating Problem Cards */}
-              <motion.div 
-                className="absolute -top-4 -right-4 p-4 rounded-2xl bg-card border border-border shadow-xl max-w-[200px]"
-                initial={{ opacity: 0, y: -20, rotate: 5 }}
-                whileInView={{ opacity: 1, y: 0, rotate: 3 }}
-                viewport={{ once: true }}
-                transition={{ delay: 0.6, ...smoothSpring }}
-                whileHover={{ rotate: 0, scale: 1.05 }}
-              >
-                <div className="flex items-center gap-2 text-red-500 mb-2">
-                  <FileSpreadsheet className="w-4 h-4" />
-                  <span className="text-xs font-medium">Error!</span>
-                </div>
-                <p className="text-xs text-muted-foreground">Data Excel corrupt, laporan bulanan hilang...</p>
-              </motion.div>
-
-              <motion.div 
-                className="absolute -bottom-4 -left-4 p-4 rounded-2xl bg-card border border-border shadow-xl max-w-[180px]"
-                initial={{ opacity: 0, y: 20, rotate: -5 }}
-                whileInView={{ opacity: 1, y: 0, rotate: -3 }}
-                viewport={{ once: true }}
-                transition={{ delay: 0.8, ...smoothSpring }}
-                whileHover={{ rotate: 0, scale: 1.05 }}
-              >
-                <div className="flex items-center gap-2 text-orange-500 mb-2">
-                  <MessageSquare className="w-4 h-4" />
-                  <span className="text-xs font-medium">999+ pesan</span>
-                </div>
-                <p className="text-xs text-muted-foreground">WhatsApp penuh, order terlewat...</p>
-              </motion.div>
-            </div>
-          </motion.div>
+      <div className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-24 xl:gap-32 items-start">
+          
+          {/* Left - Image with Framed Style (Matching Solution Section) */}
+          <div className="order-2 lg:order-1">
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95, x: -20 }}
+              whileInView={{ opacity: 1, scale: 1, x: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 1.2, ease: "easeOut" }}
+              className="lg:sticky lg:top-32 h-[450px] lg:h-[580px] rounded-[2.5rem] overflow-hidden border border-border/50 shadow-2xl bg-muted/30"
+            >
+              <Image
+                src="/stressed_business_woman.png"
+                alt="Owner Bisnis yang sedang kewalahan dengan operasional manual"
+                fill
+                className="object-cover object-center grayscale-[0.1] contrast-[1.1] transition-transform duration-700 hover:scale-105"
+                priority
+              />
+              {/* Subtle Gradient Overlays for Depth */}
+              <div className="absolute inset-0 bg-gradient-to-t from-background/30 via-transparent to-transparent pointer-events-none" />
+              <div className="absolute inset-0 bg-gradient-to-l from-background/10 via-transparent to-transparent pointer-events-none" />
+            </motion.div>
+          </div>
 
           {/* Right - Content */}
-          <div className="order-1 lg:order-2" ref={ref}>
-            <motion.div 
+          <div ref={ref} className="order-1 lg:order-2 lg:pt-8">
+            <motion.div
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ ...smoothSpring }}
-              className="mb-12"
+              className="mb-10"
             >
-              <p className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">
-                Masalah Umum
-              </p>
+              <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2" style={{ background: 'linear-gradient(to right, #59f6e3, #185cf8)' }}></span>
+                </span>
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>
+                  Masalah Umum
+                </span>
+              </div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
                 Apakah ini yang Anda rasakan saat ini?
               </h2>
-              <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
-                Banyak bisnis yang berkembang terhambat di masalah yang sama. Tidak perlu khawatir, Anda tidak sendirian.
+              <p className="mt-5 text-base text-muted-foreground leading-relaxed">
+                Banyak bisnis yang berkembang terhambat di masalah yang sama.
+                Tidak perlu khawatir, Anda tidak sendirian.
               </p>
             </motion.div>
 
-            <div className="space-y-4">
+            <div className="space-y-3">
               {problems.map((problem, index) => (
                 <motion.div
                   key={index}
                   initial={{ opacity: 0, x: 40 }}
                   animate={isInView ? { opacity: 1, x: 0 } : {}}
                   transition={{ ...smoothSpring, delay: 0.1 * (index + 1) }}
-                  whileHover={{ x: 8, transition: { duration: 0.2 } }}
-                  className="group p-5 rounded-2xl bg-card border border-border hover:border-primary/30 hover:shadow-lg transition-all duration-300 cursor-pointer"
+                  whileHover={{ x: 6, transition: { duration: 0.2 } }}
+                  className="group p-5 rounded-2xl bg-card/50 backdrop-blur-sm border border-border hover:border-primary/30 hover:shadow-md transition-all duration-300"
                 >
-                  <div className="flex items-start gap-4">
-                    <motion.div 
-                      className={`flex-shrink-0 w-12 h-12 rounded-xl ${problem.color} flex items-center justify-center`}
-                      whileHover={{ scale: 1.1, rotate: 5 }}
-                      transition={{ type: "spring", stiffness: 400 }}
-                    >
-                      <problem.icon className="w-5 h-5" />
-                    </motion.div>
+                  <div className="flex items-start gap-5">
+                    <div className={`flex-shrink-0 w-12 h-12 rounded-xl ${problem.color} flex items-center justify-center shadow-sm`}>
+                      <problem.icon className="w-6 h-6" />
+                    </div>
                     <div>
                       <h3 className="text-lg font-semibold text-foreground mb-1 group-hover:text-primary transition-colors">
                         {problem.title}
@@ -157,6 +135,7 @@ export function ProblemSection() {
               ))}
             </div>
           </div>
+
         </div>
       </div>
     </section>

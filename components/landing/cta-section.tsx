@@ -134,7 +134,8 @@ export function CTASection() {
               <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
                 <Button 
                   size="lg" 
-                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-base font-bold shadow-2xl shadow-accent/20 bg-accent hover:bg-accent/90 text-accent-foreground" 
+                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-base font-bold shadow-2xl shadow-brand-end/20 text-white border-0"
+                  style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
                   asChild
                 >
                   <Link

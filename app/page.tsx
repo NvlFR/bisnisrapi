@@ -19,10 +19,10 @@ export default function Home() {
       <SolutionSection />
       <HowItWorks />
       <FeaturesSection />
-      {/* <PortfolioSection />
+      <PortfolioSection />
       <WhyUsSection />
       <FAQSection />
-      <CTASection /> */}
+      <CTASection />
       <Footer />
     </main>
   );

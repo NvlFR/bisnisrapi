@@ -61,7 +61,7 @@ export function WhyUsSection() {
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
               Berbeda dari yang lain
             </h2>
-            <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
+            <p className="mt-5 text-base text-muted-foreground leading-relaxed">
               Kami percaya bahwa teknologi harus membantu bisnis, bukan
               menambah kompleksitas. Karena itu pendekatan kami selalu dimulai dari
               memahami bisnis Anda terlebih dahulu.
@@ -77,32 +77,33 @@ export function WhyUsSection() {
                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
                 >
                   <motion.div
-                    className="w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0"
+                    className="w-5 h-5 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0"
                     whileHover={{ scale: 1.2, rotate: 10 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
-                    <Check className="w-3.5 h-3.5 text-primary" />
+                    <Check className="w-3 h-3 text-primary" />
                   </motion.div>
-                  <span className="text-sm text-foreground">{highlight}</span>
+                  <span className="text-xs sm:text-sm text-foreground">{highlight}</span>
                 </motion.div>
               ))}
             </div>
 
             {/* Image */}
             <motion.div
-              className="mt-12 relative rounded-3xl overflow-hidden shadow-2xl"
+              className="mt-12 relative rounded-3xl overflow-hidden shadow-2xl group"
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ ...smoothSpring, delay: 0.4 }}
               whileHover={{ scale: 1.02 }}
             >
               <Image
-                src="/team_collaboration_bisnisrapi.png"
+                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070"
                 alt="Tim BisnisRapi"
                 width={600}
                 height={350}
-                className="object-cover w-full"
+                className="object-cover w-full transition-transform duration-700 group-hover:scale-110"
               />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
             </motion.div>
           </motion.div>
 
