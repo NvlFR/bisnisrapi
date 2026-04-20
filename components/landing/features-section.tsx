@@ -20,8 +20,8 @@ const smoothSpring = {
 
 export function FeaturesSection() {
   return (
-    <section className="py-24 lg:py-32 bg-white overflow-hidden">
-      <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
+    <section id="fitur" className="py-24 lg:py-32 bg-secondary/20 overflow-hidden">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
         <motion.div
@@ -38,7 +38,7 @@ export function FeaturesSection() {
           }}>
             Capabilities
           </p>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1E293B] leading-[1.2] tracking-tight">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
             Sistem Digital yang <span style={{ 
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
               WebkitBackgroundClip: 'text',
@@ -56,10 +56,10 @@ export function FeaturesSection() {
             title="Real Time Performance Overview"
             description="Pantau arus kas dan performa keuangan bisnis Anda setiap detik dengan akurasi tinggi."
           >
-            <div className="mt-8 p-6 rounded-3xl bg-[#F8FAFC] border border-slate-100 shadow-inner">
+            <div className="mt-8 p-6 rounded-3xl bg-background border border-border/50 shadow-inner">
               <div className="flex justify-between items-start mb-6">
-                <div className="w-12 h-12 rounded-xl bg-white shadow-sm flex items-center justify-center">
-                  <Wallet className="w-6 h-6 text-slate-400" />
+                <div className="w-12 h-12 rounded-xl bg-secondary/20 shadow-sm flex items-center justify-center">
+                  <Wallet className="w-6 h-6 text-foreground" />
                 </div>
                 <div className="px-3 py-1 rounded-full bg-emerald-50 text-emerald-600 text-[10px] font-bold uppercase tracking-wider">
                   Active
@@ -200,10 +200,10 @@ function BentoCard({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ ...smoothSpring }}
-      className={`relative group p-8 lg:p-9 rounded-[2rem] bg-[#F1F3F6] border border-slate-200/50 hover:bg-white hover:border-slate-300 hover:shadow-2xl hover:shadow-slate-200/50 transition-all duration-500 flex flex-col justify-between ${className}`}
+      className={`relative group p-8 lg:p-9 rounded-[2rem] bg-secondary/50 border border-border hover:bg-background hover:border-border/80 hover:shadow-2xl hover:shadow-brand-end/5 transition-all duration-500 flex flex-col justify-between ${className}`}
     >
       <div>
-        <h3 className="text-lg font-bold text-[#1E293B] mb-2 leading-tight tracking-tight">
+        <h3 className="text-lg font-bold text-foreground mb-2 leading-tight tracking-tight">
           {title}
         </h3>
         <p className="text-slate-500 text-[13px] leading-relaxed font-medium max-w-[90%]">

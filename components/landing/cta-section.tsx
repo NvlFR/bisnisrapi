@@ -20,7 +20,7 @@ const smoothSpring = {
 
 export function CTASection() {
   return (
-    <section id="kontak" className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
+    <section id="kontak" className="pt-12 lg:pt-16 pb-24 lg:pb-32 bg-secondary/30 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left - Image */}
@@ -84,7 +84,7 @@ export function CTASection() {
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }}>
-                Take the next step
+                Langkah Berikutnya
               </p>
             </motion.p>
             
@@ -153,7 +153,7 @@ export function CTASection() {
                   asChild
                 >
                   <Link
-                    href="https://wa.me/6281234567890"
+                    href="https://wa.me/6285199256640"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

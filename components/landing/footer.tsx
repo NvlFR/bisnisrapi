@@ -23,7 +23,7 @@ const footerLinks = {
   ],
   kontak: [
     { label: "hello@bisnisrapi.com", href: "mailto:hello@bisnisrapi.com", icon: Mail },
-    { label: "+62 812 3456 7890", href: "tel:+6281234567890", icon: Phone },
+    { label: "+62 851 9925 6640", href: "tel:+6285199256640", icon: Phone },
     { label: "Jakarta, Indonesia", href: "#", icon: MapPin },
   ],
   sosial: [
@@ -253,13 +253,13 @@ export function Footer() {
           </p>
           <div className="flex items-center gap-8">
             <Link
-              href="#"
+              href="/privacy-policy"
               className="text-sm text-muted-foreground hover:text-brand-end transition-colors"
             >
               Privacy Policy
             </Link>
             <Link
-              href="#"
+              href="/terms-of-service"
               className="text-sm text-muted-foreground hover:text-brand-end transition-colors"
             >
               Terms of Service

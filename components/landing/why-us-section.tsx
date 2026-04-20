@@ -46,7 +46,7 @@ export function WhyUsSection() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
-    <section className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
+    <section id="mengapa-kami" className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center" ref={ref}>
           {/* Left - Content */}
@@ -125,7 +125,7 @@ export function WhyUsSection() {
                 animate={isInView ? { opacity: 1, y: 0 } : {}}
                 transition={{ ...smoothSpring, delay: 0.3 + index * 0.1 }}
                 whileHover={{ y: -5, x: 5, transition: { duration: 0.25 } }}
-                className="group p-8 rounded-3xl bg-card border border-border hover:border-primary/30 hover:shadow-xl hover:shadow-primary/5 transition-all duration-300"
+                className="group p-8 rounded-3xl bg-card border border-border hover:border-brand-end/20 hover:shadow-xl hover:shadow-brand-end/5 transition-all duration-300"
               >
                 <div className="flex items-start gap-5">
                   <motion.div

@@ -11,7 +11,9 @@ const navLinks = [
   { href: "#masalah", label: "Masalah" },
   { href: "#solusi", label: "Solusi" },
   { href: "#cara-kerja", label: "Cara Kerja" },
+  { href: "#fitur", label: "Fitur" },
   { href: "#portfolio", label: "Portfolio" },
+  { href: "#mengapa-kami", label: "Mengapa Kami" },
   { href: "#faq", label: "FAQ" },
 ];
 

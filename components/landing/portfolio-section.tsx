@@ -89,7 +89,7 @@ export function PortfolioSection() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 * index }}
-              className="group relative rounded-[2rem] bg-card border border-border transition-all duration-500 overflow-hidden flex flex-col h-full hover:shadow-2xl hover:shadow-primary/5 hover:border-primary/20"
+              className="group relative rounded-[2rem] bg-card border border-border transition-all duration-500 overflow-hidden flex flex-col h-full hover:shadow-2xl hover:shadow-brand-end/5 hover:border-brand-end/20"
             >
               {/* Image & Problem/Solution Overlay */}
               <div className="relative h-64 overflow-hidden">
@@ -168,7 +168,7 @@ export function PortfolioSection() {
                 <div className="flex items-center justify-between pt-6 border-t border-border">
                   <div>
                     <p className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.2em] mb-1">Hasil Akhir</p>
-                    <p className="text-lg sm:text-xl font-bold tracking-tight bg-gradient-to-r from-accent to-primary bg-clip-text text-transparent">
+                    <p className="text-lg sm:text-xl font-bold tracking-tight" style={{ background: 'linear-gradient(to right, #59f6e3, #185cf8)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
                       {study.result}
                     </p>
                   </div>

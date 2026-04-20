@@ -50,7 +50,7 @@ export function FAQSection() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   return (
-    <section id="faq" className="py-24 lg:py-32 overflow-hidden">
+    <section id="faq" className="pt-24 lg:pt-32 pb-12 lg:pb-16 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-5 gap-16">
           {/* Left - Header & Image */}
@@ -170,7 +170,7 @@ export function FAQSection() {
               style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
               asChild
             >
-              <Link href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+              <Link href="https://wa.me/6285199256640" target="_blank" rel="noopener noreferrer">
                 <MessageCircle size={20} className="fill-white/20" />
                 Konsultasi via WhatsApp
               </Link>

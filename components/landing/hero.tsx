@@ -104,7 +104,7 @@ export function Hero() {
                 <Star size={10} fill="currentColor" />
               </div>
               <span className="text-xs font-bold text-[#185cf8] uppercase tracking-wider">
-                Digital Business Systems
+                Sistem Bisnis Digital
               </span>
             </motion.div>
 
@@ -149,7 +149,7 @@ export function Hero() {
                   asChild
                 >
                   <Link href="#kontak">
-                    Free Consultation
+                    Konsultasi Gratis
                     <ArrowRight size={20} />
                   </Link>
                 </Button>
@@ -162,7 +162,7 @@ export function Hero() {
                   asChild
                 >
                   <Link href="#portfolio">
-                    View Projects
+                    Lihat Portfolio
                   </Link>
                 </Button>
               </motion.div>
@@ -177,15 +177,15 @@ export function Hero() {
             >
               <div className="text-left">
                 <div className="text-4xl font-bold text-foreground">50+</div>
-                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Clients</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Klien</div>
               </div>
               <div className="text-left">
                 <div className="text-4xl font-bold text-foreground">98%</div>
-                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Happiness</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Kepuasan</div>
               </div>
               <div className="text-left">
                 <div className="text-4xl font-bold text-foreground">24/7</div>
-                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Support</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Dukungan</div>
               </div>
             </motion.div>
           </div>
