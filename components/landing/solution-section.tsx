@@ -29,7 +29,7 @@ export function SolutionSection() {
       {/* Desktop Image with Floating Frame Effect */}
       <div className="absolute inset-y-0 right-0 w-[50%] hidden lg:flex items-center justify-center overflow-hidden pointer-events-none p-12 pr-0">
         <motion.div
-          className="relative w-full h-[80%] rounded-l-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-l border-white/20 will-change-transform"
+          className="relative w-full h-[550px] xl:h-[650px] max-h-[85%] rounded-l-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-l border-white/20 will-change-transform"
           initial={{ opacity: 0, x: 100 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}

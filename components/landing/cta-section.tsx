@@ -48,7 +48,7 @@ export function CTASection() {
 
             {/* Floating badge */}
             <motion.div 
-              className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-gradient-to-br from-brand-start to-brand-end text-white shadow-2xl shadow-brand-end/20 border border-white/10"
+              className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-white/95 backdrop-blur-xl text-foreground shadow-2xl shadow-brand-end/5 border border-border/50"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
@@ -60,7 +60,7 @@ export function CTASection() {
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }}>50+</p>
-              <p className="text-[10px] font-bold uppercase tracking-widest opacity-80">Success Stories</p>
+              <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">Success Stories</p>
             </motion.div>
           </motion.div>
 
@@ -95,7 +95,7 @@ export function CTASection() {
               viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 }}
             >
-              Siap Mengelola Bisnis dengan Cara <span className="italic" style={{ 
+              Siap Mengelola Bisnis dengan Cara <span className="italic inline-block pr-10 -mr-10" style={{ 
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
