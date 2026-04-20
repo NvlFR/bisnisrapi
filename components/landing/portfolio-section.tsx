@@ -57,7 +57,7 @@ export function PortfolioSection() {
           className="text-center max-w-3xl mx-auto mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "-100px" }}
+          viewport={{ once: false, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
@@ -87,7 +87,7 @@ export function PortfolioSection() {
               key={index}
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.1 * index }}
               className="group relative rounded-[2rem] bg-card border border-border transition-all duration-500 overflow-hidden flex flex-col h-full hover:shadow-2xl hover:shadow-brand-end/5 hover:border-brand-end/20"
             >

@@ -44,7 +44,7 @@ const smoothSpring = {
 
 export function HowItWorks() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, margin: "-100px" });
+  const isInView = useInView(ref, { once: false, margin: "-100px" });
 
   return (
     <section id="cara-kerja" className="relative py-24 lg:py-32 bg-muted/30 overflow-hidden">
@@ -55,7 +55,7 @@ export function HowItWorks() {
           className="relative w-full h-[600px] xl:h-[750px] max-h-[85%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-r border-white/20 will-change-transform bg-muted/40"
           initial={{ opacity: 0, x: -100 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
@@ -84,7 +84,7 @@ export function HowItWorks() {
               className="mb-16"
               initial={{ opacity: 0, x: 40 }}
               whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring }}
             >
               <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
@@ -127,8 +127,8 @@ export function HowItWorks() {
                 <motion.div
                   key={index}
                   initial={{ opacity: 0, x: 40 }}
-                  animate={isInView ? { opacity: 1, x: 0 } : {}}
-                  transition={{ ...smoothSpring, delay: 0.3 + index * 0.2 }}
+                   animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
+                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.1 }}
                   whileHover={{ x: 8 }}
                   className="flex items-start gap-8 relative z-10 group"
                 >
@@ -154,10 +154,10 @@ export function HowItWorks() {
           {/* Mobile Image (Visible only on mobile) */}
           <motion.div 
             className="lg:hidden mt-8 rounded-3xl overflow-hidden shadow-2xl border border-border aspect-video relative"
-            initial={{ opacity: 0, scale: 0.95 }}
-            whileInView={{ opacity: 1, scale: 1 }}
-            viewport={{ once: true }}
-          >
+             initial={{ opacity: 0, scale: 0.95 }}
+             whileInView={{ opacity: 1, scale: 1 }}
+             viewport={{ once: false }}
+           >
             <Image
               src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200"
               alt="Strategic Planning"

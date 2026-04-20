@@ -43,7 +43,7 @@ const smoothSpring = {
 
 export function WhyUsSection() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, margin: "-100px" });
+  const isInView = useInView(ref, { once: false, margin: "-100px" });
 
   return (
     <section id="mengapa-kami" className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
@@ -77,7 +77,8 @@ export function WhyUsSection() {
                   key={index}
                   className="flex items-center gap-3"
                   initial={{ opacity: 0, x: -20 }}
-                  animate={isInView ? { opacity: 1, x: 0 } : {}}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: false }}
                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
                 >
                   <motion.div
@@ -96,7 +97,7 @@ export function WhyUsSection() {
             <motion.div
               className="mt-12 relative rounded-3xl overflow-hidden shadow-2xl group"
               initial={{ opacity: 0, y: 30 }}
-              animate={isInView ? { opacity: 1, y: 0 } : {}}
+              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
               transition={{ ...smoothSpring, delay: 0.4 }}
               whileHover={{ scale: 1.02 }}
             >
@@ -115,15 +116,15 @@ export function WhyUsSection() {
           <motion.div
             className="space-y-6"
             initial={{ opacity: 0, x: 40 }}
-            animate={isInView ? { opacity: 1, x: 0 } : {}}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
             transition={{ ...smoothSpring, delay: 0.2 }}
           >
             {reasons.map((reason, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, y: 30 }}
-                animate={isInView ? { opacity: 1, y: 0 } : {}}
-                transition={{ ...smoothSpring, delay: 0.3 + index * 0.1 }}
+                animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
+                transition={{ ...smoothSpring, delay: 0.2 + index * 0.1 }}
                 whileHover={{ y: -5, x: 5, transition: { duration: 0.25 } }}
                 className="group p-8 rounded-3xl bg-card border border-border hover:border-brand-end/20 hover:shadow-xl hover:shadow-brand-end/5 transition-all duration-300"
               >

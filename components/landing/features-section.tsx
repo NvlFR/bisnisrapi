@@ -28,7 +28,7 @@ export function FeaturesSection() {
           className="text-center max-w-3xl mx-auto mb-16"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ ...smoothSpring }}
         >
           <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-4" style={{ 
@@ -93,7 +93,7 @@ export function FeaturesSection() {
                     key={i}
                     initial={{ height: 0 }}
                     whileInView={{ height: `${height}%` }}
-                    viewport={{ once: true }}
+                    viewport={{ once: false }}
                     transition={{ delay: 0.1 * i, duration: 1, ease: "easeOut" }}
                     className={`w-full rounded-t-lg ${i === 3 ? 'bg-brand-end' : 'bg-slate-200'} relative group cursor-pointer`}
                   >
@@ -198,7 +198,7 @@ function BentoCard({
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }}
+      viewport={{ once: false }}
       transition={{ ...smoothSpring }}
       className={`relative group p-8 lg:p-9 rounded-[2rem] bg-secondary/50 border border-border hover:bg-background hover:border-border/80 hover:shadow-2xl hover:shadow-brand-end/5 transition-all duration-500 flex flex-col justify-between ${className}`}
     >

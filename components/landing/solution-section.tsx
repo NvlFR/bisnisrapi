@@ -32,7 +32,7 @@ export function SolutionSection() {
           className="relative w-full h-[550px] xl:h-[650px] max-h-[85%] rounded-l-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-l border-white/20 will-change-transform"
           initial={{ opacity: 0, x: 100 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ duration: 1.2, ease: "easeOut" }}
         >
           <Image
@@ -55,7 +55,7 @@ export function SolutionSection() {
           className="text-center lg:text-left lg:max-w-xl mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "-100px" }}
+          viewport={{ once: false, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
@@ -88,7 +88,7 @@ export function SolutionSection() {
           {/* Left - Content */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}
-            animate={isInView ? { opacity: 1, x: 0 } : {}}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -40 }}
             transition={{ ...smoothSpring, delay: 0.2 }}
             className="lg:max-w-xl"
           >
@@ -109,7 +109,7 @@ export function SolutionSection() {
                   key={feature}
                   className="flex items-center gap-4"
                   initial={{ opacity: 0, x: -20 }}
-                  animate={isInView ? { opacity: 1, x: 0 } : {}}
+                  animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -20 }}
                   transition={{ ...smoothSpring, delay: 0.3 + index * 0.1 }}
                 >
                   <div className="w-8 h-8 rounded-full bg-brand-start/10 border border-brand-start/20 flex items-center justify-center flex-shrink-0">
@@ -140,7 +140,7 @@ export function SolutionSection() {
             className="lg:hidden relative"
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
-            viewport={{ once: true }}
+            viewport={{ once: false }}
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-border aspect-[4/3]">
               <Image

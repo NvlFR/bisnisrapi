@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown, MessageCircle } from "lucide-react";
+import { ChevronDown, MessageCircle, ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
@@ -50,19 +50,44 @@ export function FAQSection() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   return (
-    <section id="faq" className="pt-24 lg:pt-32 pb-12 lg:pb-16 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="faq" className="relative pt-24 lg:pt-32 pb-12 lg:pb-16 overflow-hidden bg-background">
+      {/* Background Decorative Elements */}
+      <div className="absolute inset-0 pointer-events-none overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:32px_32px] opacity-[0.4] dark:opacity-[0.1]" />
+
+        {/* Animated Blobs */}
+        <motion.div
+          animate={{
+            x: [0, 50, 0],
+            y: [0, 30, 0],
+            scale: [1, 1.1, 1],
+          }}
+          transition={{ duration: 20, repeat: Infinity, ease: "easeInOut" }}
+          className="absolute top-1/4 -left-20 w-96 h-96 bg-brand-start/5 rounded-full blur-[100px]"
+        />
+        <motion.div
+          animate={{
+            x: [0, -30, 0],
+            y: [0, 60, 0],
+            scale: [1, 1.2, 1],
+          }}
+          transition={{ duration: 25, repeat: Infinity, ease: "easeInOut", delay: 5 }}
+          className="absolute bottom-1/4 -right-20 w-[500px] h-[500px] bg-brand-end/5 rounded-full blur-[120px]"
+        />
+      </div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid lg:grid-cols-5 gap-16">
           {/* Left - Header & Image */}
-          <motion.div 
+          <motion.div
             className="lg:col-span-2"
             initial={{ opacity: 0, x: -40 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
+            viewport={{ once: false, margin: "-100px" }}
             transition={{ ...smoothSpring }}
           >
             <div className="sticky top-32">
-              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
@@ -77,7 +102,7 @@ export function FAQSection() {
               </p>
 
               {/* Image - Realistic & Professional */}
-              <motion.div 
+              <motion.div
                 className="relative rounded-[2rem] overflow-hidden shadow-2xl border border-border/50 bg-muted/30 group"
                 whileHover={{ scale: 1.02 }}
                 transition={smoothSpring}
@@ -96,11 +121,11 @@ export function FAQSection() {
           </motion.div>
 
           {/* Right - FAQ Items */}
-          <motion.div 
+          <motion.div
             className="lg:col-span-3 space-y-4"
             initial={{ opacity: 0, x: 40 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
+            viewport={{ once: false, margin: "-100px" }}
             transition={{ ...smoothSpring, delay: 0.2 }}
           >
             {faqs.map((faq, index) => (
@@ -108,11 +133,10 @@ export function FAQSection() {
                 key={index}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
+                viewport={{ once: false }}
                 transition={{ ...smoothSpring, delay: index * 0.05 }}
-                className={`rounded-2xl border bg-card overflow-hidden transition-all duration-300 ${
-                  openIndex === index ? "border-primary/30 shadow-lg" : "border-border"
-                }`}
+                className={`rounded-2xl border bg-card overflow-hidden transition-all duration-300 ${openIndex === index ? "border-primary/30 shadow-lg" : "border-border"
+                  }`}
               >
                 <button
                   onClick={() => setOpenIndex(openIndex === index ? null : index)}
@@ -124,9 +148,8 @@ export function FAQSection() {
                   <motion.div
                     animate={{ rotate: openIndex === index ? 180 : 0 }}
                     transition={{ ...smoothSpring }}
-                    className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center transition-colors ${
-                      openIndex === index ? "bg-brand-end text-white" : "bg-secondary text-muted-foreground"
-                    }`}
+                    className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center transition-colors ${openIndex === index ? "bg-brand-end text-white" : "bg-secondary text-muted-foreground"
+                      }`}
                   >
                     <ChevronDown className="w-4 h-4" />
                   </motion.div>
@@ -153,29 +176,49 @@ export function FAQSection() {
           </motion.div>
         </div>
 
-        {/* New Centered Bottom CTA */}
-        <motion.div 
-          className="mt-20 text-center border-t border-border/50 pt-12"
-          initial={{ opacity: 0, y: 20 }}
+        <motion.div
+          className="mt-24 relative"
+          initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          transition={{ ...smoothSpring, delay: 0.4 }}
+          transition={{ duration: 0.8, ease: "easeOut" }}
         >
-          <p className="text-muted-foreground mb-6">
-            Masih ada pertanyaan yang belum terjawab?
-          </p>
-          <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="inline-block">
-            <Button 
-              className="rounded-full gap-2 px-10 h-14 text-white font-bold shadow-xl shadow-brand-end/20 text-md border-0 transition-all duration-300" 
-              style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
-              asChild
-            >
-              <Link href="https://wa.me/6285199256640" target="_blank" rel="noopener noreferrer">
-                <MessageCircle size={20} className="fill-white/20" />
-                Konsultasi via WhatsApp
-              </Link>
-            </Button>
-          </motion.div>
+          <div className="relative p-6 sm:p-12 lg:p-20 rounded-[3rem] bg-slate-50/50 dark:bg-slate-900/50 border border-slate-200/60 dark:border-slate-800/60 backdrop-blur-sm text-center overflow-hidden">
+            <div className="relative z-10">
+              <h3 className="text-2xl sm:text-4xl lg:text-[2.75rem] font-bold text-slate-900 dark:text-white leading-tight mb-6">
+                Masih ada pertanyaan yang belum terjawab?
+              </h3>
+              <p className="text-base sm:text-lg text-slate-600 dark:text-slate-400 mb-10 max-w-2xl mx-auto">
+                Tim kami siap membantu menjelaskan lebih detail bagaimana BisnisRapi dapat merapikan operasional bisnis Anda.
+              </p>
+
+              <motion.div
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                className="inline-block"
+              >
+                <Button
+                  size="lg"
+                  className="rounded-full gap-3 px-10 h-16 text-white font-bold shadow-lg shadow-blue-500/20 text-lg border-0 transition-all duration-300"
+                  style={{ background: 'linear-gradient(to right, #59f6e3, #185cf8)' }}
+                  asChild
+                >
+                  <Link href="https://wa.me/6285199256640" target="_blank" rel="noopener noreferrer">
+                    <MessageCircle size={22} className="opacity-80" />
+                    <span>Konsultasi via WhatsApp</span>
+                  </Link>
+                </Button>
+              </motion.div>
+
+              <div className="mt-8">
+
+              </div>
+            </div>
+
+            {/* Subtle background pattern/glow like in screenshot */}
+            <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_left,rgba(89,246,227,0.05),transparent_40%)]" />
+            <div className="absolute bottom-0 right-0 w-full h-full bg-[radial-gradient(circle_at_bottom_right,rgba(24,92,248,0.05),transparent_40%)]" />
+          </div>
         </motion.div>
       </div>
     </section>

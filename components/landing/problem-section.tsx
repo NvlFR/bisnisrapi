@@ -48,7 +48,7 @@ const smoothSpring = {
 
 export function ProblemSection() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, margin: "-100px" });
+  const isInView = useInView(ref, { once: false, margin: "-100px" });
 
   return (
     <section id="masalah" className="relative py-16 lg:py-24 overflow-hidden">
@@ -58,7 +58,7 @@ export function ProblemSection() {
           className="relative w-full h-[600px] xl:h-[700px] max-h-[85%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-r border-white/20 will-change-transform bg-muted/30"
           initial={{ opacity: 0, x: -100 }}
           whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
@@ -86,7 +86,7 @@ export function ProblemSection() {
           <div ref={ref} className="lg:pl-10 xl:pl-16 py-12">
             <motion.div
               initial={{ opacity: 0, y: 30 }}
-              animate={isInView ? { opacity: 1, y: 0 } : {}}
+              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
               transition={{ ...smoothSpring }}
               className="mb-10"
             >
@@ -117,7 +117,7 @@ export function ProblemSection() {
                 <motion.div
                   key={index}
                   initial={{ opacity: 0, x: 40 }}
-                  animate={isInView ? { opacity: 1, x: 0 } : {}}
+                  animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
                   transition={{ ...smoothSpring, delay: 0.1 * (index + 1) }}
                   whileHover={{ x: 6, transition: { duration: 0.2 } }}
                   className="group p-5 rounded-2xl bg-card border border-border hover:border-brand-end/20 hover:shadow-xl hover:shadow-brand-end/5 transition-all duration-300"
