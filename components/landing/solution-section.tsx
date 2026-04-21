@@ -21,7 +21,7 @@ const features = [
 
 export function SolutionSection() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, margin: "-100px" });
+  const isInView = useInView(ref, { once: false, margin: "-100px" });
 
   return (
     <section id="solusi" className="relative py-24 lg:py-32 bg-background overflow-hidden">

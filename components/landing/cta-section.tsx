@@ -28,7 +28,7 @@ export function CTASection() {
             className="relative order-2 lg:order-1"
             initial={{ opacity: 0, x: -50 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
+            viewport={{ once: false, margin: "-100px" }}
             transition={{ ...smoothSpring }}
           >
             <motion.div
@@ -51,7 +51,7 @@ export function CTASection() {
               className="absolute -right-4 -bottom-4 p-6 rounded-[2rem] bg-white/95 backdrop-blur-xl text-foreground shadow-2xl shadow-brand-end/5 border border-border/50"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ delay: 0.5, ...smoothSpring }}
               whileHover={{ scale: 1.05 }}
             >
@@ -69,30 +69,30 @@ export function CTASection() {
             className="order-1 lg:order-2"
             initial={{ opacity: 0, x: 50 }}
             whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
+            viewport={{ once: false, margin: "-100px" }}
             transition={{ ...smoothSpring }}
           >
-            <motion.p
-              className="text-xs font-bold text-brand-end uppercase tracking-[0.2em] mb-4"
+            <motion.div
+              className="mb-4"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring }}
             >
-              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{
+              <p className="text-xs font-bold uppercase tracking-[0.2em]" style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }}>
                 Langkah Berikutnya
               </p>
-            </motion.p>
+            </motion.div>
 
             <motion.h2
               className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-[1.1] tracking-tight text-balance mb-6"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.1 }}
             >
               Siap Mengelola Bisnis dengan Cara <span className="italic inline-block pr-10 -mr-10" style={{
@@ -106,7 +106,7 @@ export function CTASection() {
               className="text-lg text-muted-foreground leading-relaxed mb-8"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.2 }}
             >
               Hubungi kami untuk diskusi awal. Kami akan membantu menganalisis kebutuhan bisnis Anda dan memberikan solusi terbaik.
@@ -117,7 +117,7 @@ export function CTASection() {
               className="space-y-3 mb-10"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.3 }}
             >
               {benefits.map((benefit, index) => (
@@ -126,7 +126,7 @@ export function CTASection() {
                   className="flex items-center gap-3"
                   initial={{ opacity: 0, x: -20 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true }}
+                  viewport={{ once: false }}
                   transition={{ ...smoothSpring, delay: 0.4 + index * 0.1 }}
                 >
                   <div className="w-6 h-6 rounded-full bg-brand-start/10 flex items-center justify-center">
@@ -142,7 +142,7 @@ export function CTASection() {
               className="flex flex-col sm:flex-row gap-4"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
+              viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.5 }}
             >
               <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>

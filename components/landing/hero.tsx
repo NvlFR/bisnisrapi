@@ -114,12 +114,12 @@ export function Hero() {
               transition={{ ...springTransition, delay: 0.2 }}
               className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground tracking-tight leading-[1] text-balance mb-6"
             >
-              Bisnis <span style={{ 
+              Bisnis <span style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }} className="underline decoration-[#59f6e3]/30 underline-offset-8">Rapi</span>,<br />
-              Operasional <span style={{ 
+              Operasional <span style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
@@ -142,8 +142,8 @@ export function Hero() {
               className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-5"
             >
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Button 
-                  size="lg" 
+                <Button
+                  size="lg"
                   className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg text-white transition-all shadow-xl shadow-brand-end/20 font-bold"
                   style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
                   asChild

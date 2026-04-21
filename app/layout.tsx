@@ -14,11 +14,40 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+}
+
 export const metadata: Metadata = {
+  metadataBase: new URL('https://bisnis-rapi.my.id'),
   title: 'BisnisRapi - Bisnis Lebih Rapi, Operasional Lebih Efisien',
   description: 'Kami membantu Anda memiliki sistem bisnis digital yang membuat pekerjaan lebih efisien dan scalable. Fokus pada sistem, bukan sekadar tampilan.',
   generator: 'v0.app',
-  keywords: ['sistem bisnis digital', 'web app manajemen bisnis', 'software bisnis custom', 'digitalisasi bisnis'],
+  keywords: ['sistem bisnis digital', 'web app manajemen bisnis', 'software bisnis custom', 'digitalisasi bisnis', 'otomatisasi bisnis', 'bisnis rapi'],
+  authors: [{ name: 'BisnisRapi Team' }],
+  openGraph: {
+    title: 'BisnisRapi - Bisnis Lebih Rapi, Operasional Lebih Efisien',
+    description: 'Solusi sistem bisnis digital kustom untuk UMKM dan startup. Bangun operasional yang scalable dan efisien.',
+    url: 'https://bisnis-rapi.my.id',
+    siteName: 'BisnisRapi',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'BisnisRapi - Transformasi Digital Bisnis',
+      },
+    ],
+    locale: 'id_ID',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'BisnisRapi - Bisnis Lebih Rapi, Operasional Lebih Efisien',
+    description: 'Transformasi operasional bisnis Anda dengan sistem kustom yang efisien.',
+    images: ['/og-image.png'],
+  },
   icons: {
     icon: [
       {

@@ -55,7 +55,7 @@ export function Footer() {
           className="mb-16 p-8 sm:p-12 rounded-3xl bg-gradient-to-br from-primary/10 via-primary/5 to-transparent border border-primary/20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ ...smoothSpring }}
         >
           <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
@@ -87,7 +87,7 @@ export function Footer() {
           className="grid md:grid-cols-2 lg:grid-cols-5 gap-12 lg:gap-8"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ ...smoothSpring, delay: 0.2 }}
         >
           {/* Brand */}
@@ -95,7 +95,7 @@ export function Footer() {
             className="lg:col-span-2"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: false }}
             transition={{ ...smoothSpring, delay: 0.1 }}
           >
             <Link href="/" className="flex items-center gap-3 group">
@@ -154,7 +154,7 @@ export function Footer() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: false }}
             transition={{ ...smoothSpring, delay: 0.2 }}
           >
             <h3 className="font-semibold text-foreground mb-6">Navigasi</h3>
@@ -164,7 +164,7 @@ export function Footer() {
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true }}
+                  viewport={{ once: false }}
                   transition={{ ...smoothSpring, delay: 0.3 + index * 0.05 }}
                 >
                   <Link
@@ -183,7 +183,7 @@ export function Footer() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: false }}
             transition={{ ...smoothSpring, delay: 0.3 }}
           >
             <h3 className="font-semibold text-foreground mb-6">Layanan</h3>
@@ -193,7 +193,7 @@ export function Footer() {
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true }}
+                  viewport={{ once: false }}
                   transition={{ ...smoothSpring, delay: 0.4 + index * 0.05 }}
                 >
                   <Link
@@ -212,7 +212,7 @@ export function Footer() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
+            viewport={{ once: false }}
             transition={{ ...smoothSpring, delay: 0.4 }}
           >
             <h3 className="font-semibold text-foreground mb-6">Kontak</h3>
@@ -222,7 +222,7 @@ export function Footer() {
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: true }}
+                  viewport={{ once: false }}
                   transition={{ ...smoothSpring, delay: 0.5 + index * 0.05 }}
                 >
                   <Link
@@ -245,7 +245,7 @@ export function Footer() {
           className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
+          viewport={{ once: false }}
           transition={{ ...smoothSpring, delay: 0.5 }}
         >
           <p className="text-sm text-muted-foreground">
