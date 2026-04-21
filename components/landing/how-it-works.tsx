@@ -9,30 +9,23 @@ const steps = [
   {
     number: "01",
     icon: Search,
-    title: "Analisis Kebutuhan",
+    title: "1. Ngobrol Santai (Mapping)",
     description:
-      "Kami memulai dengan sesi diskusi mendalam tentang bisnis Anda. Memahami apa yang berjalan baik, apa yang perlu diperbaiki, dan target yang ingin dicapai.",
+      "Kami bedah alur bisnis Anda saat ini secara mendalam untuk menemukan 'kebocoran' dan titik 'ribet' yang bisa dirapikan.",
   },
   {
     number: "02",
     icon: PenTool,
-    title: "Perancangan Sistem",
+    title: "2. Blueprint & Development (Build)",
     description:
-      "Berdasarkan hasil analisis, kami merancang sistem yang sesuai dengan alur kerja dan kebutuhan spesifik bisnis Anda.",
+      "Kami rancang dan bangun sistem custom yang 100% eksklusif mengikuti alur bisnis Anda, bukan template kaku.",
   },
   {
     number: "03",
     icon: Rocket,
-    title: "Pengembangan & Implementasi",
+    title: "3. Training & Pendampingan (Launch)",
     description:
-      "Sistem dikembangkan dan diimplementasikan dengan cermat. Tim Anda dilatih hingga mampu mengoperasikannya secara mandiri.",
-  },
-  {
-    number: "04",
-    icon: TrendingUp,
-    title: "Optimasi Berkelanjutan",
-    description:
-      "Bisnis berkembang, sistem juga. Kami terus melakukan optimasi seiring pertumbuhan bisnis Anda.",
+      "Kami latih tim Anda sampai benar-benar lancar menggunakan sistemnya, dan dampingi terus sampai operasional berjalan rapi.",
   },
 ];
 
@@ -101,14 +94,14 @@ export function HowItWorks() {
                 </span>
               </div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
-                Proses <span style={{ 
+                Kami <span style={{ 
                     background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                     WebkitBackgroundClip: 'text',
                     WebkitTextFillColor: 'transparent',
-                  }}>Sederhana</span>,<br /> Hasil Dahsyat
+                  }}>Rapikan</span> Sistemnya,<br /> Anda Jalankan Bisnisnya
               </h2>
-              <p className="mt-5 text-base text-muted-foreground leading-relaxed">
-                Kami menangani seluruh kerumitan teknis sehingga Anda bisa fokus sepenuhnya pada pertumbuhan bisnis Anda.
+              <p className="mt-5 text-base text-muted-foreground leading-relaxed font-medium">
+                Tidak perlu paham teknis — kami yang urus semuanya.
               </p>
             </motion.div>
 

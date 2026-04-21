@@ -39,52 +39,49 @@ export function FeaturesSection() {
             Capabilities
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
-            Sistem Digital yang <span style={{ 
+            👉 Kenapa Harus Punya <span style={{ 
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
-            }}>Memberdayakan</span> Bisnis Anda
+            }}>Sistem Sendiri?</span>
           </h2>
         </motion.div>
 
         {/* Bento Grid — Inspired by Reference #2 */}
-        <div className="grid grid-cols-1 md:grid-cols-6 gap-6 lg:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 lg:gap-8">
           
-          {/* Card 1: Balance Overview (2 cols on md) */}
+          {/* Card 1: Real-Time Monitoring */}
           <BentoCard 
-            className="md:col-span-3"
-            title="Real Time Performance Overview"
-            description="Pantau arus kas dan performa keuangan bisnis Anda setiap detik dengan akurasi tinggi."
+            className="md:col-span-2"
+            title="Real-Time Monitoring"
+            description="Pantau kondisi bisnis kapan saja & di mana saja."
           >
             <div className="mt-8 p-6 rounded-3xl bg-background border border-border/50 shadow-inner">
               <div className="flex justify-between items-start mb-6">
                 <div className="w-12 h-12 rounded-xl bg-secondary/20 shadow-sm flex items-center justify-center">
-                  <Wallet className="w-6 h-6 text-foreground" />
+                  <BarChart3 className="w-6 h-6 text-foreground" />
                 </div>
                 <div className="px-3 py-1 rounded-full bg-emerald-50 text-emerald-600 text-[10px] font-bold uppercase tracking-wider">
-                  Active
+                  Live
                 </div>
               </div>
               <div className="space-y-1">
-                <p className="text-slate-400 text-xs font-medium">Total Balance</p>
-                <h4 className="text-3xl font-bold text-slate-800 tracking-tight">$10,000.80</h4>
+                <p className="text-slate-400 text-xs font-medium">Status Operasional</p>
+                <h4 className="text-2xl font-bold text-slate-800 tracking-tight">Semua Berjalan Lancar</h4>
               </div>
               <div className="mt-8 flex gap-2">
-                <div className="h-10 px-4 rounded-full bg-white border border-slate-200 flex items-center text-xs font-bold text-slate-600">
-                  Withdrawal
-                </div>
                 <div className="h-10 px-4 rounded-full bg-slate-900 flex items-center text-xs font-bold text-white shadow-lg">
-                  Send Money
+                  Buka Dashboard
                 </div>
               </div>
             </div>
           </BentoCard>
 
-          {/* Card 2: Revenue Growth (3 cols on md) */}
+          {/* Card 2: Automated Reports */}
           <BentoCard 
-            className="md:col-span-3"
-            title="Recent Revenue Analysis"
-            description="Visualisasi data pendapatan harian dan bulanan untuk pengambilan keputusan yang lebih tajam."
+            className="md:col-span-2"
+            title="Automated Reports"
+            description="Laporan harian/bulanan otomatis. Tidak perlu rekap manual."
           >
             <div className="mt-8 h-full">
               <div className="flex items-end justify-between h-40 gap-2 mb-2 px-2">
@@ -96,34 +93,27 @@ export function FeaturesSection() {
                     viewport={{ once: false }}
                     transition={{ delay: 0.1 * i, duration: 1, ease: "easeOut" }}
                     className={`w-full rounded-t-lg ${i === 3 ? 'bg-brand-end' : 'bg-slate-200'} relative group cursor-pointer`}
-                  >
-                    {i === 3 && (
-                      <div className="absolute -top-10 left-1/2 -translate-x-1/2 bg-slate-900 text-white text-[10px] py-1 px-2 rounded font-bold whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity">
-                        $2,450.00
-                      </div>
-                    )}
-                  </motion.div>
+                  />
                 ))}
               </div>
               <div className="flex justify-between text-[10px] text-slate-400 font-bold px-2 uppercase tracking-tighter">
-                <span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span><span>Sun</span>
+                <span>Min</span><span>Sen</span><span>Sel</span><span>Rab</span><span>Kam</span><span>Jum</span><span>Sab</span>
               </div>
             </div>
           </BentoCard>
 
-          {/* Card 3: Growth Transfers (3 cols on md) */}
+          {/* Card 3: Scalable System */}
           <BentoCard 
-            className="md:col-span-4"
-            title="Growth Transfers & Payments"
-            description="Konfirmasi transaksi otomatis dan sistem pembayaran terintegrasi untuk efisiensi operasional maksimal."
+            className="md:col-span-2"
+            title="Scalable System"
+            description="Sistem yang bisa terus ditambah fitur seiring bisnis tumbuh."
           >
             <div className="mt-8 space-y-3">
               {[
-                { name: 'Sammie B.', amount: '- $12.00', status: 'Pending', icon: 'SB' },
-                { name: 'Next Tech Corp', amount: '+ $1,240.00', status: 'Completed', icon: 'NT' },
-                { name: 'Cloud Services', amount: '- $45.00', status: 'Completed', icon: 'CS' },
+                { name: 'Modul Inventory', amount: 'Ready', status: 'Active', icon: 'IV' },
+                { name: 'Modul Payroll', amount: 'Update', status: 'Ready to Add', icon: 'PR' },
               ].map((item, i) => (
-                <div key={i} className="flex items-center justify-between p-4 rounded-2xl bg-white border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300">
+                <div key={i} className="flex items-center justify-between p-4 rounded-2xl bg-white border border-slate-100 shadow-sm">
                   <div className="flex items-center gap-4">
                     <div className="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-xs font-bold text-slate-600">
                       {item.icon}
@@ -133,19 +123,17 @@ export function FeaturesSection() {
                       <p className="text-[10px] font-medium text-slate-400 uppercase tracking-wider">{item.status}</p>
                     </div>
                   </div>
-                  <p className={`text-sm font-bold ${item.amount.startsWith('+') ? 'text-emerald-500' : 'text-slate-800'}`}>
-                    {item.amount}
-                  </p>
+                  <TrendingUp className="w-5 h-5 text-emerald-500" />
                 </div>
               ))}
             </div>
           </BentoCard>
 
-          {/* Card 4: Secure Wallet (2 cols on md) */}
+          {/* Card 4: Data Security */}
           <BentoCard 
             className="md:col-span-2"
-            title="Secure Asset Management"
-            description="Sistem keamanan tingkat perbankan untuk seluruh aset digital bisnis Anda."
+            title="Data Security"
+            description="Data bisnis Anda aman, terpusat, dan hanya bisa diakses oleh Anda."
           >
             <div className="mt-8 relative h-48 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-950 p-6 overflow-hidden shadow-xl border border-slate-700">
               <div className="absolute top-0 right-0 w-32 h-32 bg-white/5 rounded-full -mr-16 -mt-16 blur-2xl" />
@@ -153,8 +141,7 @@ export function FeaturesSection() {
               
               <div className="relative flex justify-between items-start">
                 <div className="flex flex-col">
-                  <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-1 italic">VISA</p>
-                  <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest leading-none mt-1">BUSINESS</p>
+                  <p className="text-[10px] font-bold text-white uppercase tracking-widest mb-1 italic">ENCRYPTED</p>
                 </div>
                 <div className="w-10 h-10 rounded-xl bg-white/10 backdrop-blur-md flex items-center justify-center">
                   <ShieldCheck className="w-5 h-5 text-brand-start" />
@@ -162,17 +149,8 @@ export function FeaturesSection() {
               </div>
               
               <div className="mt-auto pt-8">
-                <p className="text-white text-lg font-mono tracking-[0.2em] mb-2">**** **** 5621</p>
-                <div className="flex justify-between items-end">
-                  <div>
-                    <p className="text-[8px] font-medium text-white/30 uppercase tracking-wider mb-0.5">Card Holder</p>
-                    <p className="text-[10px] font-bold text-white">RAJA NYA</p>
-                  </div>
-                  <div className="text-right">
-                    <p className="text-[8px] font-medium text-white/30 uppercase tracking-wider mb-0.5">Exp</p>
-                    <p className="text-[10px] font-bold text-white">12/28</p>
-                  </div>
-                </div>
+                <p className="text-white/40 text-xs font-medium mb-2">Akses Terenkripsi</p>
+                <p className="text-white text-lg font-mono tracking-[0.1em]">********-****-****</p>
               </div>
             </div>
           </BentoCard>

@@ -90,7 +90,7 @@ export function Hero() {
         className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16 py-20 lg:py-28 w-full"
         style={{ y, opacity }}
       >
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+        <div className="grid lg:grid-cols-[1.4fr,1fr] gap-12 lg:gap-20 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
             {/* Badge */}
@@ -104,7 +104,7 @@ export function Hero() {
                 <Star size={10} fill="currentColor" />
               </div>
               <span className="text-xs font-bold text-[#185cf8] uppercase tracking-wider">
-                Sistem Bisnis Digital
+                Manajemen Bisnis Digital
               </span>
             </motion.div>
 
@@ -112,18 +112,19 @@ export function Hero() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.2 }}
-              className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground tracking-tight leading-[1] text-balance mb-6"
+              className="text-4xl sm:text-5xl lg:text-5xl font-bold text-foreground tracking-tight leading-[1.1] mb-6"
             >
-              Bisnis <span style={{
+              Data Berantakan, Order <span style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
-              }} className="underline decoration-[#59f6e3]/30 underline-offset-8">Rapi</span>,<br />
-              Operasional <span style={{
+              }}>Keteteran?</span>
+              <br />
+              Saatnya punya <span style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
-              }}>Efisien</span>
+              }}>Manajemen Sistem yang Rapi</span>
             </motion.h1>
 
             <motion.p
@@ -132,8 +133,20 @@ export function Hero() {
               transition={{ ...springTransition, delay: 0.3 }}
               className="mt-6 text-xl text-muted-foreground/80 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium"
             >
-              Kami mentransformasi bisnis Anda dengan sistem digital yang scalable. Fokus pada pertumbuhan, serahkan teknisnya kepada kami.
+              Kami bantu digitalisasi sistem manajemen bisnis Anda agar operasional lebih tertata, stok terkontrol, dan laporan tersaji real-time. Fokuslah membesarkan bisnis, biar kami yang rapikan sistemnya.
             </motion.p>
+
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ ...springTransition, delay: 0.35 }}
+              className="mt-6 inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-accent/10 border border-accent/20"
+            >
+              <span className="text-sm font-semibold text-accent-foreground flex items-center gap-2 italic">
+                <span className="flex h-2 w-2 rounded-full bg-accent animate-pulse" />
+                💸 Mulai dari 299rb — bisa request fitur sesuai kebutuhan bisnis Anda
+              </span>
+            </motion.div>
 
             <motion.div
               initial={{ opacity: 0, y: 40 }}
@@ -149,7 +162,7 @@ export function Hero() {
                   asChild
                 >
                   <Link href="#kontak">
-                    Konsultasi Gratis
+                    Konsultasi Gratis Sekarang
                     <ArrowRight size={20} />
                   </Link>
                 </Button>
@@ -158,7 +171,7 @@ export function Hero() {
                 <Button
                   variant="outline"
                   size="lg"
-                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg border-2 hover:bg-secondary/50"
+                  className="w-full sm:w-auto gap-2 rounded-full px-10 h-16 text-lg border-2 hover:bg-secondary/50 font-bold"
                   asChild
                 >
                   <Link href="#portfolio">
@@ -185,7 +198,7 @@ export function Hero() {
               </div>
               <div className="text-left">
                 <div className="text-4xl font-bold text-foreground">24/7</div>
-                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Dukungan</div>
+                <div className="text-sm font-semibold text-muted-foreground uppercase tracking-widest mt-1">Support</div>
               </div>
             </motion.div>
           </div>

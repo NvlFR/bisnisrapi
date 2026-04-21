@@ -7,9 +7,9 @@ import { ArrowRight, MessageCircle, CheckCircle2 } from "lucide-react";
 import { motion } from "framer-motion";
 
 const benefits = [
-  "Konsultasi pertama gratis",
-  "Tanpa komitmen awal",
-  "Proses cepat & transparan",
+  "✅ Gratis tanpa komitmen",
+  "✅ Diskusi santai via WhatsApp",
+  "✅ Kami bantu mapping kebutuhan bisnis Anda",
 ];
 
 const smoothSpring = {
@@ -95,21 +95,22 @@ export function CTASection() {
               viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.1 }}
             >
-              Siap Mengelola Bisnis dengan Cara <span className="italic inline-block pr-10 -mr-10" style={{
+              Ubah Sistem Sekarang,<br />
+              <span className="italic inline-block pr-10 -mr-10" style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
-              }}>Cerdas?</span>
+              }}>Rasakan Bedanya Besok</span>
             </motion.h2>
 
             <motion.p
-              className="text-lg text-muted-foreground leading-relaxed mb-8"
+              className="text-lg text-muted-foreground leading-relaxed mb-8 font-medium"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: false }}
               transition={{ ...smoothSpring, delay: 0.2 }}
             >
-              Hubungi kami untuk diskusi awal. Kami akan membantu menganalisis kebutuhan bisnis Anda dan memberikan solusi terbaik.
+              Jangan Biarkan Bisnis Anda 'Boncos' Karena Data Berantakan. Jadwalkan Konsultasi Gratis Sekarang.
             </motion.p>
 
             {/* Benefits */}
@@ -158,7 +159,7 @@ export function CTASection() {
                     rel="noopener noreferrer"
                   >
                     <MessageCircle size={20} />
-                    Diskusi via WhatsApp
+                    Amankan Jadwal Konsultasi
                   </Link>
                 </Button>
               </motion.div>

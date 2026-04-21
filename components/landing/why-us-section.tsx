@@ -8,21 +8,21 @@ import { useRef } from "react";
 const reasons = [
   {
     icon: Award,
-    title: "Fokus pada Sistem, Bukan Sekadar Tampilan",
+    title: "🧠 Fokus ke Sistem yang Benar-Benar Dipakai",
     description:
-      "Kami tidak hanya membuat yang indah dipandang. Yang terpenting adalah sistem yang benar-benar digunakan dan membuat pekerjaan lebih mudah.",
+      "Kami tidak hanya membuat yang indah dipandang, tapi sistem yang benar-benar membantu kerja harian Anda.",
   },
   {
     icon: Users,
-    title: "Solusi Custom Sesuai Kebutuhan",
+    title: "🛠 100% Custom",
     description:
-      "Setiap bisnis berbeda. Kami membuat solusi yang tepat untuk Anda, bukan template yang dipaksakan.",
+      "Setiap bisnis memiliki alur unik. Kami membuat sistem yang mengikuti cara kerja Anda, bukan sebaliknya.",
   },
   {
     icon: Zap,
-    title: "Siap untuk Pertumbuhan",
+    title: "📈 Siap untuk Bertumbuh",
     description:
-      "Sistem yang kami bangun siap berkembang bersama bisnis Anda. Tidak perlu memulai dari nol saat melakukan scale up.",
+      "Sistem yang kami bangun fleksibel dan bisa terus dikembangkan mengikuti skala bisnis Anda yang semakin besar.",
   },
 ];
 
@@ -63,7 +63,7 @@ export function WhyUsSection() {
               Mengapa BisnisRapi
             </p>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-              Berbeda dari yang lain
+              Kenapa BisnisRapi Berbeda?
             </h2>
             <p className="mt-5 text-base text-muted-foreground leading-relaxed">
               Kami percaya bahwa teknologi harus membantu bisnis, bukan

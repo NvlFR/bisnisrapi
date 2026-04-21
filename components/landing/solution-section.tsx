@@ -13,10 +13,11 @@ const smoothSpring = {
 } as const;
 
 const features = [
-  "Tracking Orderan Tanpa Miss",
-  "Data Stok & Inventori Real-time",
-  "Analisis Profit & Laba Rugi Otomatis",
-  "Akses Multi-device (HP/Tablet/PC)",
+  { title: "Dashboard Real-time", description: "Pantau angka penjualan, pengeluaran, dan performa tim detik ini juga. Tidak perlu tanya staf." },
+  { title: "Automasi Admin", description: "Hilangkan kerjaan repetitif. Biarkan sistem yang kirim kuitansi, update stok, dan rekap laporan." },
+  { title: "Kontrol Stok Anti-Bocor", description: "Setiap barang masuk dan keluar tercatat otomatis dengan validasi yang ketat. Hilangkan selisih stok." },
+  { title: "Akses Mobile dari Mana Saja", description: "Pantau bisnis sambil liburan atau dari luar kota. Semua data ada di genggaman Anda." },
+  { title: "Sistem 100% Sesuai Alur Anda", description: "Kami tidak memaksa Anda pakai template kaku. Kami bangun sistem mengikuti cara Anda bekerja." },
 ];
 
 export function SolutionSection() {
@@ -72,14 +73,14 @@ export function SolutionSection() {
             </span>
           </div>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight text-balance">
-            Sistem yang Dirancang <span style={{
+            Bangun Sistem Manajemen Bisnis yang <span style={{
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
-            }}>Khusus</span> Untuk Bisnis Anda
+            }}>Rapi & Terkontrol</span>
           </h2>
-          <p className="mt-5 text-base text-muted-foreground leading-relaxed">
-            Semua yang Anda butuhkan dalam satu platform terintegrasi. Kami membangun dashboard yang intuitif untuk kontrol penuh atas bisnis Anda.
+          <p className="mt-5 text-base text-muted-foreground leading-relaxed font-medium">
+            Kami membantu Anda membangun <span className="text-foreground font-bold italic">sistem manajemen bisnis</span> yang membuat operasional lebih jelas, bukan lebih rumit.
           </p>
         </motion.div>
 
@@ -97,28 +98,40 @@ export function SolutionSection() {
             </div>
 
             <h3 className="text-2xl lg:text-3xl font-bold text-foreground mb-4">
-              Dashboard Kontrol Real-Time
+              Konsep "Bisnis Rapi"
             </h3>
-            <p className="text-base text-muted-foreground leading-relaxed mb-8">
-              Pantau seluruh aspek bisnis dalam satu layar. Data penjualan, stok, dan performa tim semuanya diperbarui secara instan. Tidak ada lagi tebak-tebak buah manggis soal profit.
+            <p className="text-base text-muted-foreground leading-relaxed mb-8 font-medium">
+              Sistem yang kami bangun fokus pada keteraturan dan kemudahan kontrol.
             </p>
 
-            <div className="space-y-4 mb-10">
+            <div className="space-y-6 mb-10">
               {features.map((feature, index) => (
                 <motion.div
-                  key={feature}
-                  className="flex items-center gap-4"
+                  key={feature.title}
+                  className="flex items-start gap-4"
                   initial={{ opacity: 0, x: -20 }}
                   animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -20 }}
                   transition={{ ...smoothSpring, delay: 0.3 + index * 0.1 }}
                 >
-                  <div className="w-8 h-8 rounded-full bg-brand-start/10 border border-brand-start/20 flex items-center justify-center flex-shrink-0">
+                  <div className="w-8 h-8 rounded-full bg-brand-start/10 border border-brand-start/20 flex items-center justify-center flex-shrink-0 mt-1">
                     <Check className="w-4 h-4 text-brand-end" />
                   </div>
-                  <span className="text-base font-semibold text-foreground/80">{feature}</span>
+                  <div>
+                    <span className="text-base font-bold text-foreground block mb-0.5">{feature.title}</span>
+                    <p className="text-sm text-muted-foreground/80 leading-relaxed">{feature.description}</p>
+                  </div>
                 </motion.div>
               ))}
             </div>
+
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+              transition={{ ...smoothSpring, delay: 0.8 }}
+              className="mt-8 p-4 rounded-xl bg-brand-start/5 border border-brand-start/10 italic text-cyan-600 font-semibold mb-8"
+            >
+              👉 Hasilnya: bisnis lebih rapi, lebih mudah dikontrol, dan lebih siap berkembang.
+            </motion.div>
 
             <motion.div
               whileHover={{ scale: 1.05 }}

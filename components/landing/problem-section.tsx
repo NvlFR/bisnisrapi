@@ -7,34 +7,34 @@ import { useRef } from "react";
 
 const problems = [
   {
-    icon: FileSpreadsheet,
-    title: "Data Tidak Terorganisir",
+    icon: Clock,
+    title: "Capek input data manual yang sama berulang kali?",
     description:
-      "Masih menggunakan Excel yang harus diperbarui manual? Data tersebar di berbagai tempat dan sulit diakses saat dibutuhkan.",
+      "Staf Anda menghabiskan jam kerja hanya untuk memindahkan data dari satu kertas/Excel ke Excel lainnya.",
     color: "bg-orange-500/10 text-orange-600 border-orange-500/20",
     hoverColor: "group-hover:bg-orange-500 group-hover:text-white",
   },
   {
-    icon: MessageSquare,
-    title: "Operasional via WhatsApp",
+    icon: FileSpreadsheet,
+    title: "Data mencar-mencar di Excel, WA, dan Catatan?",
     description:
-      "Semua order, komplain, dan koordinasi melalui chat? Pesan menumpuk, informasi sering terlewat, dan sulit dilacak.",
+      "Susah cari data stok atau laporan penjualan karena terserlip di mana-mana. Rawan salah input data.",
     color: "bg-blue-500/10 text-blue-600 border-blue-500/20",
     hoverColor: "group-hover:bg-blue-500 group-hover:text-white",
   },
   {
-    icon: Clock,
-    title: "Pekerjaan Manual & Repetitif",
+    icon: TrendingDown,
+    title: "Stok sering selisih tapi nggak tahu bocornya?",
     description:
-      "Proses yang sama diulang-ulang setiap hari? Banyak waktu terbuang untuk hal-hal yang seharusnya dapat diotomasi.",
+      "Stok fisik dan catatan tidak pernah akurat. Anda tidak tahu apakah ada barang hilang atau salah hitung.",
     color: "bg-purple-500/10 text-purple-600 border-purple-500/20",
     hoverColor: "group-hover:bg-purple-500 group-hover:text-white",
   },
   {
-    icon: TrendingDown,
-    title: "Kesulitan Berkembang",
+    icon: MessageSquare,
+    title: "OWNER stres karena nggak bisa pantau dari jauh?",
     description:
-      "Bisnis mulai berkembang tapi sistem tidak mampu mengikuti? Menambah tim justru menambah kerumitan, bukan efisiensi.",
+      "Bisnis harus ditungguin terus. Kalau ditinggal sebentar saja, operasional berantakan dan laporan stuck.",
     color: "bg-red-500/10 text-red-600 border-red-500/20",
     hoverColor: "group-hover:bg-red-500 group-hover:text-white",
   },
@@ -104,11 +104,10 @@ export function ProblemSection() {
                 </span>
               </div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-tight text-balance">
-                Apakah ini yang Anda rasakan saat ini?
+                Bisnis Anda Jalan… Tapi Tidak Terkontrol?
               </h2>
-              <p className="mt-5 text-base text-muted-foreground leading-relaxed">
-                Banyak bisnis yang berkembang terhambat di masalah yang sama.
-                Tidak perlu khawatir, Anda tidak sendirian.
+              <p className="mt-5 text-base text-muted-foreground leading-relaxed font-medium">
+                Banyak bisnis sebenarnya sudah jalan, tapi operasionalnya masih berantakan:
               </p>
             </motion.div>
 
@@ -138,6 +137,15 @@ export function ProblemSection() {
                 </motion.div>
               ))}
             </div>
+            
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+              transition={{ ...smoothSpring, delay: 0.6 }}
+              className="mt-8 p-4 rounded-xl bg-red-500/5 border border-red-500/10 italic text-center text-red-600 font-semibold"
+            >
+              👉 Masalahnya bukan di bisnis Anda. Tapi di sistemnya yang belum rapi.
+            </motion.div>
           </div>
 
         </div>
