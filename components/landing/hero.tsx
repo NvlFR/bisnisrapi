@@ -133,20 +133,9 @@ export function Hero() {
               transition={{ ...springTransition, delay: 0.3 }}
               className="mt-6 text-xl text-muted-foreground/80 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium"
             >
-              Kami membantu digitalisasi bisnis Anda — mulai dari sistem manajemen internal yang rapi, pembuatan website profesional, hingga sistem e-commerce mandiri. Fokuslah membesarkan bisnis, biar kami yang urus teknisnya.
+              Kami membantu digitalisasi bisnis Anda mulai dari sistem manajemen internal yang rapi, pembuatan website profesional, hingga sistem e-commerce mandiri. Fokuslah membesarkan bisnis, biar kami yang urus teknisnya.
             </motion.p>
 
-            {/* <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ ...springTransition, delay: 0.35 }}
-              className="mt-6 inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-accent/10 border border-accent/20"
-            >
-              <span className="text-sm font-semibold text-accent-foreground flex items-center gap-2 italic">
-                <span className="flex h-2 w-2 rounded-full bg-accent animate-pulse" />
-                Mulai dari 299rb — bisa request fitur sesuai kebutuhan bisnis Anda
-              </span>
-            </motion.div> */}
 
             <motion.div
               initial={{ opacity: 0, y: 40 }}

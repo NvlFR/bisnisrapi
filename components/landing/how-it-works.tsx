@@ -41,10 +41,10 @@ export function HowItWorks() {
 
   return (
     <section id="cara-kerja" className="relative py-24 lg:py-32 bg-muted/30 overflow-hidden">
-      
+
       {/* Desktop Image — Strategic/Collaboration vibe with premium Floating Frame */}
       <div className="absolute inset-y-0 left-0 w-[50%] hidden lg:flex items-center justify-center overflow-hidden pointer-events-none p-12 pl-0">
-        <motion.div 
+        <motion.div
           className="relative w-full h-[600px] xl:h-[750px] max-h-[85%] rounded-r-[48px] overflow-hidden shadow-[0_32px_80px_-15px_rgba(0,0,0,0.3)] border-y border-r border-white/20 will-change-transform bg-muted/40"
           initial={{ opacity: 0, x: -100 }}
           whileInView={{ opacity: 1, x: 0 }}
@@ -52,14 +52,14 @@ export function HowItWorks() {
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
-            src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=2000" 
+            src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=2000"
             alt="Strategic Planning Bisnis Rapi"
             fill
             className="object-cover object-left grayscale-[0.2] transition-transform duration-1000 group-hover:scale-110"
           />
           {/* Seamless Edge Masking */}
           <div className="absolute inset-0 bg-gradient-to-l from-muted/50 via-transparent to-transparent pointer-events-none" />
-          
+
           {/* subtle decorative glass glow */}
           <div className="absolute top-0 left-0 w-48 h-full bg-white/5 blur-3xl pointer-events-none" />
         </motion.div>
@@ -67,13 +67,13 @@ export function HowItWorks() {
 
       <div className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-start" ref={ref}>
-          
+
           {/* Left - Spacer for image display on desktop */}
           <div className="hidden lg:block h-full w-full" />
 
           {/* Right - Content */}
           <div className="lg:pl-8 xl:pl-16">
-            <motion.div 
+            <motion.div
               className="mb-16"
               initial={{ opacity: 0, x: 40 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -85,20 +85,20 @@ export function HowItWorks() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-start"></span>
                 </span>
-                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{
                   background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
                 }}>
-                  Workflow
+                  Cara Kerja
                 </span>
               </div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
-                Kami <span style={{ 
-                    background: 'linear-gradient(to right, #59f6e3, #185cf8)',
-                    WebkitBackgroundClip: 'text',
-                    WebkitTextFillColor: 'transparent',
-                  }}>Rapikan</span> Sistemnya,<br /> Anda Jalankan Bisnisnya
+                Kami <span style={{
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>Rapikan</span> Sistemnya,<br /> Anda Jalankan Bisnisnya
               </h2>
               <p className="mt-5 text-base text-muted-foreground leading-relaxed font-medium">
                 Tidak perlu paham teknis — kami yang urus semuanya.
@@ -108,7 +108,7 @@ export function HowItWorks() {
             {/* Timeline Steps */}
             <div className="relative space-y-12">
               {/* Vertical Connector Line */}
-              <motion.div 
+              <motion.div
                 className="absolute left-[31px] top-8 bottom-8 w-[2px] bg-gradient-to-b from-brand-start to-brand-end/20"
                 initial={{ scaleY: 0 }}
                 animate={isInView ? { scaleY: 1 } : {}}
@@ -120,8 +120,8 @@ export function HowItWorks() {
                 <motion.div
                   key={index}
                   initial={{ opacity: 0, x: 40 }}
-                   animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
-                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.1 }}
+                  animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
+                  transition={{ ...smoothSpring, delay: 0.1 + index * 0.1 }}
                   whileHover={{ x: 8 }}
                   className="flex items-start gap-8 relative z-10 group"
                 >
@@ -145,12 +145,12 @@ export function HowItWorks() {
           </div>
 
           {/* Mobile Image (Visible only on mobile) */}
-          <motion.div 
+          <motion.div
             className="lg:hidden mt-8 rounded-3xl overflow-hidden shadow-2xl border border-border aspect-video relative"
-             initial={{ opacity: 0, scale: 0.95 }}
-             whileInView={{ opacity: 1, scale: 1 }}
-             viewport={{ once: false }}
-           >
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: false }}
+          >
             <Image
               src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200"
               alt="Strategic Planning"

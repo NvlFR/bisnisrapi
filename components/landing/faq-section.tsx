@@ -91,13 +91,19 @@ export function FAQSection() {
             transition={{ ...smoothSpring }}
           >
             <div className="sticky top-32">
-              <p className="text-xs font-bold uppercase tracking-[0.2em] mb-4" style={{
-                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
-                WebkitBackgroundClip: 'text',
-                WebkitTextFillColor: 'transparent',
-              }}>
-                Pertanyaan Umum
-              </p>
+              <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-start"></span>
+                </span>
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>
+                  Pertanyaan Umum
+                </span>
+              </div>
               <h2 className="text-4xl font-bold text-foreground leading-[1.1] tracking-tight mb-6">
                 Pertanyaan yang Sering Diajukan
               </h2>
@@ -188,29 +194,29 @@ export function FAQSection() {
         >
           <div className="relative p-8 sm:p-16 lg:p-24 rounded-[3.5rem] bg-slate-50/50 dark:bg-slate-900/50 border border-slate-200/60 dark:border-slate-800/60 backdrop-blur-md text-center overflow-hidden">
             {/* Animated Glows */}
-            <motion.div 
-              animate={{ 
+            <motion.div
+              animate={{
                 scale: [1, 1.2, 1],
                 opacity: [0.3, 0.5, 0.3],
                 x: [0, 20, 0],
                 y: [0, -20, 0]
               }}
               transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
-              className="absolute -top-24 -left-24 w-96 h-96 bg-brand-start/20 rounded-full blur-[100px] pointer-events-none" 
+              className="absolute -top-24 -left-24 w-96 h-96 bg-brand-start/20 rounded-full blur-[100px] pointer-events-none"
             />
-            <motion.div 
-              animate={{ 
+            <motion.div
+              animate={{
                 scale: [1, 1.3, 1],
                 opacity: [0.2, 0.4, 0.2],
                 x: [0, -30, 0],
                 y: [0, 30, 0]
               }}
               transition={{ duration: 10, repeat: Infinity, ease: "easeInOut", delay: 2 }}
-              className="absolute -bottom-32 -right-32 w-[30rem] h-[30rem] bg-brand-end/20 rounded-full blur-[120px] pointer-events-none" 
+              className="absolute -bottom-32 -right-32 w-[30rem] h-[30rem] bg-brand-end/20 rounded-full blur-[120px] pointer-events-none"
             />
 
             <div className="relative z-10">
-              <motion.h3 
+              <motion.h3
                 className="text-3xl sm:text-4xl lg:text-[3.25rem] font-bold text-slate-900 dark:text-white leading-[1.1] mb-6 tracking-tight"
                 initial={{ opacity: 0, y: 20 }}
                 animate={isCtaInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
@@ -218,8 +224,8 @@ export function FAQSection() {
               >
                 Masih ada pertanyaan yang <br className="hidden sm:block" /> belum terjawab?
               </motion.h3>
-              
-              <motion.p 
+
+              <motion.p
                 className="text-lg sm:text-xl text-slate-600 dark:text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed"
                 initial={{ opacity: 0, y: 20 }}
                 animate={isCtaInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}

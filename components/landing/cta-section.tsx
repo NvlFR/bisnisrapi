@@ -79,13 +79,19 @@ export function CTASection() {
               viewport={{ once: false }}
               transition={{ ...smoothSpring }}
             >
-              <p className="text-xs font-bold uppercase tracking-[0.2em]" style={{
-                background: 'linear-gradient(to right, #59f6e3, #185cf8)',
-                WebkitBackgroundClip: 'text',
-                WebkitTextFillColor: 'transparent',
-              }}>
-                Langkah Berikutnya
-              </p>
+              <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-start"></span>
+                </span>
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{
+                  background: 'linear-gradient(to right, #59f6e3, #185cf8)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                }}>
+                  Langkah Berikutnya
+                </span>
+              </div>
             </motion.div>
 
             <motion.h2

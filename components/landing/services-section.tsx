@@ -42,7 +42,7 @@ export function ServicesSection() {
     <section id="layanan" className="py-24 lg:py-32 bg-background relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-brand-start/5 rounded-full blur-[120px] -mr-64 -mt-64 opacity-50" />
-      
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <motion.div
           className="text-center max-w-3xl mx-auto mb-20"
@@ -61,10 +61,10 @@ export function ServicesSection() {
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
             }}>
-              Our Services
+              Layanan Kami
             </span>
           </div>
-          
+
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
             Layanan Digital Untuk <span style={{
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
@@ -97,7 +97,7 @@ export function ServicesSection() {
               <h3 className="text-xl font-bold text-foreground mb-4 tracking-tight relative z-10">
                 {service.title}
               </h3>
-              
+
               <p className="text-sm text-muted-foreground leading-relaxed mb-8 font-medium relative z-10">
                 {service.description}
               </p>
