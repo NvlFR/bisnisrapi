@@ -133,7 +133,7 @@ export function Hero() {
               transition={{ ...springTransition, delay: 0.3 }}
               className="mt-6 text-xl text-muted-foreground/80 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium"
             >
-              Kami bantu digitalisasi sistem manajemen bisnis Anda agar operasional lebih tertata, stok terkontrol, dan laporan tersaji real-time. Fokuslah membesarkan bisnis, biar kami yang rapikan sistemnya.
+              Kami membantu digitalisasi bisnis Anda — mulai dari sistem manajemen internal yang rapi, pembuatan website profesional, hingga sistem e-commerce mandiri. Fokuslah membesarkan bisnis, biar kami yang urus teknisnya.
             </motion.p>
 
             {/* <motion.div

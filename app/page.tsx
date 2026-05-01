@@ -3,6 +3,7 @@ import { Hero } from "@/components/landing/hero";
 
 const ProblemSection = dynamic(() => import("@/components/landing/problem-section").then(mod => mod.ProblemSection), { ssr: true });
 const SolutionSection = dynamic(() => import("@/components/landing/solution-section").then(mod => mod.SolutionSection), { ssr: true });
+const ServicesSection = dynamic(() => import("@/components/landing/services-section").then(mod => mod.ServicesSection), { ssr: true });
 const HowItWorks = dynamic(() => import("@/components/landing/how-it-works").then(mod => mod.HowItWorks), { ssr: true });
 const FeaturesSection = dynamic(() => import("@/components/landing/features-section").then(mod => mod.FeaturesSection), { ssr: true });
 const PortfolioSection = dynamic(() => import("@/components/landing/portfolio-section").then(mod => mod.PortfolioSection), { ssr: true });
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <ProblemSection />
       <SolutionSection />
+      <ServicesSection />
       <HowItWorks />
       <FeaturesSection />
       <PortfolioSection />

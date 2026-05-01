@@ -16,10 +16,10 @@ const footerLinks = {
     { label: "FAQ", href: "#faq" },
   ],
   layanan: [
-    { label: "Sistem Custom", href: "#solusi" },
-    { label: "Dashboard Bisnis", href: "#solusi" },
-    { label: "Automasi Proses", href: "#solusi" },
-    { label: "Integrasi Data", href: "#solusi" },
+    { label: "Sistem Manajemen", href: "#layanan" },
+    { label: "Website Bisnis", href: "#layanan" },
+    { label: "E-Commerce", href: "#layanan" },
+    { label: "Automasi Proses", href: "#fitur" },
   ],
   kontak: [
     { label: "hello@bisnisrapi.com", href: "mailto:hello@bisnisrapi.com", icon: Mail },
