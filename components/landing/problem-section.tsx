@@ -70,7 +70,7 @@ export function ProblemSection() {
           />
           {/* Seamless Transition Mask */}
           <div className="absolute inset-0 bg-gradient-to-l from-background/20 via-transparent to-transparent pointer-events-none" />
-          
+
           {/* Decorative glass glow */}
           <div className="absolute top-0 left-0 w-32 h-full bg-white/5 blur-3xl pointer-events-none" />
         </motion.div>
@@ -78,7 +78,7 @@ export function ProblemSection() {
 
       <div className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-24 xl:gap-32 items-center min-h-[640px]">
-          
+
           {/* Spacer kiri (buat ruang Floating Frame desktop) */}
           <div className="hidden lg:block h-full w-full" />
 
@@ -95,7 +95,7 @@ export function ProblemSection() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2" style={{ background: 'linear-gradient(to right, #59f6e3, #185cf8)' }}></span>
                 </span>
-                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+                <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{
                   background: 'linear-gradient(to right, #59f6e3, #185cf8)',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
@@ -137,14 +137,14 @@ export function ProblemSection() {
                 </motion.div>
               ))}
             </div>
-            
+
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
               transition={{ ...smoothSpring, delay: 0.6 }}
               className="mt-8 p-4 rounded-xl bg-red-500/5 border border-red-500/10 italic text-center text-red-600 font-semibold"
             >
-              👉 Masalahnya bukan di bisnis Anda. Tapi di sistemnya yang belum rapi.
+              Masalahnya bukan di bisnis Anda. Tapi di sistemnya yang belum rapi.
             </motion.div>
           </div>
 

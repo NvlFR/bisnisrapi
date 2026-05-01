@@ -1,12 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { 
-  BarChart3, 
-  ArrowUpRight, 
-  Wallet, 
-  CreditCard, 
-  ShieldCheck, 
+import {
+  BarChart3,
+  ArrowUpRight,
+  Wallet,
+  CreditCard,
+  ShieldCheck,
   TrendingUp,
   Mail,
   MoreHorizontal
@@ -22,7 +22,7 @@ export function FeaturesSection() {
   return (
     <section id="fitur" className="py-24 lg:py-32 bg-secondary/20 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
+
         {/* Section Header */}
         <motion.div
           className="text-center max-w-3xl mx-auto mb-16"
@@ -31,7 +31,7 @@ export function FeaturesSection() {
           viewport={{ once: false }}
           transition={{ ...smoothSpring }}
         >
-          <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-4" style={{ 
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-4" style={{
             background: 'linear-gradient(to right, #59f6e3, #185cf8)',
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent',
@@ -39,7 +39,7 @@ export function FeaturesSection() {
             Capabilities
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground leading-[1.2] tracking-tight">
-            👉 Kenapa Harus Punya <span style={{ 
+            Kenapa Harus Punya <span style={{
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
@@ -49,9 +49,9 @@ export function FeaturesSection() {
 
         {/* Bento Grid — Inspired by Reference #2 */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 lg:gap-8">
-          
+
           {/* Card 1: Real-Time Monitoring */}
-          <BentoCard 
+          <BentoCard
             className="md:col-span-2"
             title="Real-Time Monitoring"
             description="Pantau kondisi bisnis kapan saja & di mana saja."
@@ -78,7 +78,7 @@ export function FeaturesSection() {
           </BentoCard>
 
           {/* Card 2: Automated Reports */}
-          <BentoCard 
+          <BentoCard
             className="md:col-span-2"
             title="Automated Reports"
             description="Laporan harian/bulanan otomatis. Tidak perlu rekap manual."
@@ -86,7 +86,7 @@ export function FeaturesSection() {
             <div className="mt-8 h-full">
               <div className="flex items-end justify-between h-40 gap-2 mb-2 px-2">
                 {[40, 70, 45, 90, 65, 80, 55].map((height, i) => (
-                  <motion.div 
+                  <motion.div
                     key={i}
                     initial={{ height: 0 }}
                     whileInView={{ height: `${height}%` }}
@@ -103,7 +103,7 @@ export function FeaturesSection() {
           </BentoCard>
 
           {/* Card 3: Scalable System */}
-          <BentoCard 
+          <BentoCard
             className="md:col-span-2"
             title="Scalable System"
             description="Sistem yang bisa terus ditambah fitur seiring bisnis tumbuh."
@@ -130,7 +130,7 @@ export function FeaturesSection() {
           </BentoCard>
 
           {/* Card 4: Data Security */}
-          <BentoCard 
+          <BentoCard
             className="md:col-span-2"
             title="Data Security"
             description="Data bisnis Anda aman, terpusat, dan hanya bisa diakses oleh Anda."
@@ -138,7 +138,7 @@ export function FeaturesSection() {
             <div className="mt-8 relative h-48 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-950 p-6 overflow-hidden shadow-xl border border-slate-700">
               <div className="absolute top-0 right-0 w-32 h-32 bg-white/5 rounded-full -mr-16 -mt-16 blur-2xl" />
               <div className="absolute bottom-0 right-0 w-16 h-16 bg-brand-start/10 rounded-full mr-8 mb-8 blur-xl" />
-              
+
               <div className="relative flex justify-between items-start">
                 <div className="flex flex-col">
                   <p className="text-[10px] font-bold text-white uppercase tracking-widest mb-1 italic">ENCRYPTED</p>
@@ -147,7 +147,7 @@ export function FeaturesSection() {
                   <ShieldCheck className="w-5 h-5 text-brand-start" />
                 </div>
               </div>
-              
+
               <div className="mt-auto pt-8">
                 <p className="text-white/40 text-xs font-medium mb-2">Akses Terenkripsi</p>
                 <p className="text-white text-lg font-mono tracking-[0.1em]">********-****-****</p>
@@ -161,15 +161,15 @@ export function FeaturesSection() {
   );
 }
 
-function BentoCard({ 
-  className, 
-  title, 
-  description, 
-  children 
-}: { 
-  className?: string; 
-  title: string; 
-  description: string; 
+function BentoCard({
+  className,
+  title,
+  description,
+  children
+}: {
+  className?: string;
+  title: string;
+  description: string;
   children: React.ReactNode;
 }) {
   return (
@@ -188,7 +188,7 @@ function BentoCard({
           {description}
         </p>
       </div>
-      
+
       {children}
     </motion.div>
   );

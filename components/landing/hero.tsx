@@ -44,7 +44,7 @@ export function Hero() {
           transition={{ duration: 1, ease: "easeOut" }}
         >
           <Image
-            src="/hero_collaboration.png"
+            src="/hero.png"
             alt="Business team collaborating"
             fill
             className="object-cover"
@@ -87,10 +87,10 @@ export function Hero() {
       />
 
       <motion.div
-        className="relative max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16 py-20 lg:py-28 w-full"
+        className="relative z-10 max-w-[1440px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 xl:px-16 py-20 lg:py-28 w-full"
         style={{ y, opacity }}
       >
-        <div className="grid lg:grid-cols-[1.4fr,1fr] gap-12 lg:gap-20 items-center">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
             {/* Badge */}
@@ -112,7 +112,7 @@ export function Hero() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.2 }}
-              className="text-4xl sm:text-5xl lg:text-5xl font-bold text-foreground tracking-tight leading-[1.1] mb-6"
+              className="text-4xl sm:text-5xl lg:text-5xl font-bold text-foreground tracking-tight leading-[1.1] mb-6 max-w-2xl"
             >
               Data Berantakan, Order <span style={{
                 background: 'linear-gradient(to right, #59f6e3, #185cf8)',
@@ -136,7 +136,7 @@ export function Hero() {
               Kami bantu digitalisasi sistem manajemen bisnis Anda agar operasional lebih tertata, stok terkontrol, dan laporan tersaji real-time. Fokuslah membesarkan bisnis, biar kami yang rapikan sistemnya.
             </motion.p>
 
-            <motion.div
+            {/* <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.35 }}
@@ -144,9 +144,9 @@ export function Hero() {
             >
               <span className="text-sm font-semibold text-accent-foreground flex items-center gap-2 italic">
                 <span className="flex h-2 w-2 rounded-full bg-accent animate-pulse" />
-                💸 Mulai dari 299rb — bisa request fitur sesuai kebutuhan bisnis Anda
+                Mulai dari 299rb — bisa request fitur sesuai kebutuhan bisnis Anda
               </span>
-            </motion.div>
+            </motion.div> */}
 
             <motion.div
               initial={{ opacity: 0, y: 40 }}
@@ -186,7 +186,7 @@ export function Hero() {
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ ...springTransition, delay: 0.5 }}
-              className="mt-16 pt-8 border-t border-border/50 flex flex-wrap items-center justify-center lg:justify-start gap-12"
+              className="mt-16 pt-8 flex flex-wrap items-center justify-center lg:justify-start gap-12"
             >
               <div className="text-left">
                 <div className="text-4xl font-bold text-foreground">50+</div>

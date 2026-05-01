@@ -64,7 +64,7 @@ export function SolutionSection() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-start opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2" style={{ background: 'linear-gradient(to right, #59f6e3, #185cf8)' }}></span>
             </span>
-            <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{ 
+            <span className="text-[11px] font-bold uppercase tracking-[0.2em]" style={{
               background: 'linear-gradient(to right, #59f6e3, #185cf8)',
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
@@ -130,7 +130,7 @@ export function SolutionSection() {
               transition={{ ...smoothSpring, delay: 0.8 }}
               className="mt-8 p-4 rounded-xl bg-brand-start/5 border border-brand-start/10 italic text-cyan-600 font-semibold mb-8"
             >
-              👉 Hasilnya: bisnis lebih rapi, lebih mudah dikontrol, dan lebih siap berkembang.
+              Hasilnya: bisnis lebih rapi, lebih mudah dikontrol, dan lebih siap berkembang.
             </motion.div>
 
             <motion.div
