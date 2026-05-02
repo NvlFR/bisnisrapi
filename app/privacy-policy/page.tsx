@@ -128,7 +128,7 @@ export default function PrivacyPolicyPage() {
             <div className="mt-4 p-6 rounded-2xl bg-secondary/50 border border-border space-y-2">
               <p className="font-semibold text-foreground">BisnisRapi</p>
               <p className="text-muted-foreground text-sm">Email: <a href="mailto:hello@bisnisrapi.com" className="text-brand-end hover:underline">hello@bisnisrapi.com</a></p>
-              <p className="text-muted-foreground text-sm">WhatsApp: <a href="https://wa.me/6285199256640" className="text-brand-end hover:underline">+62 851 9925 6640</a></p>
+              <p className="text-muted-foreground text-sm">WhatsApp: <a href="https://wa.me/6285199256640?text=Halo%20BisnisRapi%2C%20saya%20memiliki%20pertanyaan%20terkait%20Kebijakan%20Privasi%20Anda." className="text-brand-end hover:underline">+62 851 9925 6640</a></p>
             </div>
           </section>
         </div>

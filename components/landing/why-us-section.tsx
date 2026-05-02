@@ -2,27 +2,27 @@
 
 import Image from "next/image";
 import { Check, Award, Users, Zap } from "lucide-react";
-import { motion, useInView } from "framer-motion";
+import { m, useInView } from "framer-motion";
 import { useRef } from "react";
 
 const reasons = [
   {
     icon: Award,
-    title: "🧠 Fokus ke Sistem yang Benar-Benar Dipakai",
+    title: "Sistem yang Praktis & Relevan",
     description:
-      "Kami tidak hanya membuat yang indah dipandang, tapi sistem yang benar-benar membantu kerja harian Anda.",
+      "Kami tidak sekadar membuat UI indah, tapi membangun sistem yang benar-benar mempermudah kerja harian tim Anda.",
   },
   {
     icon: Users,
-    title: "🛠 100% Custom",
+    title: "100% Mengikuti Alur Anda",
     description:
-      "Setiap bisnis memiliki alur unik. Kami membuat sistem yang mengikuti cara kerja Anda, bukan sebaliknya.",
+      "Setiap bisnis punya cara kerja unik. Kami mendesain sistem yang menyesuaikan alur Anda, bukan sebaliknya.",
   },
   {
     icon: Zap,
-    title: "📈 Siap untuk Bertumbuh",
+    title: "Skalabel & Masa Depan",
     description:
-      "Sistem yang kami bangun fleksibel dan bisa terus dikembangkan mengikuti skala bisnis Anda yang semakin besar.",
+      "Sistem yang kami bangun siap berkembang seiring bertambahnya skala bisnis Anda tanpa perlu bongkar ulang.",
   },
 ];
 
@@ -43,14 +43,14 @@ const smoothSpring = {
 
 export function WhyUsSection() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-100px" });
+  const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   return (
     <section id="mengapa-kami" className="py-24 lg:py-32 bg-secondary/30 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center" ref={ref}>
           {/* Left - Content */}
-          <motion.div
+          <m.div
             initial={{ opacity: 0, x: -40 }}
             animate={isInView ? { opacity: 1, x: 0 } : {}}
             transition={{ ...smoothSpring }}
@@ -79,28 +79,28 @@ export function WhyUsSection() {
 
             <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4">
               {highlights.map((highlight, index) => (
-                <motion.div
+                <m.div
                   key={index}
                   className="flex items-center gap-3"
                   initial={{ opacity: 0, x: -20 }}
                   whileInView={{ opacity: 1, x: 0 }}
-                  viewport={{ once: false }}
+                  viewport={{ once: true }}
                   transition={{ ...smoothSpring, delay: 0.1 + index * 0.05 }}
                 >
-                  <motion.div
+                  <m.div
                     className="w-5 h-5 rounded-full bg-brand-start/10 flex items-center justify-center flex-shrink-0"
                     whileHover={{ scale: 1.2, rotate: 10 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
                     <Check className="w-3 h-3 text-brand-end" />
-                  </motion.div>
+                  </m.div>
                   <span className="text-xs sm:text-sm text-foreground">{highlight}</span>
-                </motion.div>
+                </m.div>
               ))}
             </div>
 
             {/* Image */}
-            <motion.div
+            <m.div
               className="mt-12 relative rounded-3xl overflow-hidden shadow-2xl group"
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
@@ -108,25 +108,26 @@ export function WhyUsSection() {
               whileHover={{ scale: 1.02 }}
             >
               <Image
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070"
+                src="/team_agency.webp"
                 alt="Tim BisnisRapi"
                 width={600}
                 height={350}
                 className="object-cover w-full transition-transform duration-700 group-hover:scale-110"
+                quality={75}
               />
               <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-            </motion.div>
-          </motion.div>
+            </m.div>
+          </m.div>
 
           {/* Right - Reason Cards */}
-          <motion.div
+          <m.div
             className="space-y-6"
             initial={{ opacity: 0, x: 40 }}
             animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 40 }}
             transition={{ ...smoothSpring, delay: 0.2 }}
           >
             {reasons.map((reason, index) => (
-              <motion.div
+              <m.div
                 key={index}
                 initial={{ opacity: 0, y: 30 }}
                 animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
@@ -135,13 +136,13 @@ export function WhyUsSection() {
                 className="group p-8 rounded-3xl bg-card border border-border hover:border-brand-end/20 hover:shadow-xl hover:shadow-brand-end/5 transition-all duration-300"
               >
                 <div className="flex items-start gap-5">
-                  <motion.div
+                  <m.div
                     className="flex-shrink-0 w-14 h-14 rounded-2xl bg-brand-start/10 group-hover:bg-gradient-to-br group-hover:from-brand-start group-hover:to-brand-end flex items-center justify-center transition-all duration-300"
                     whileHover={{ scale: 1.1, rotate: 5 }}
                     transition={{ type: "spring", stiffness: 400 }}
                   >
                     <reason.icon className="w-6 h-6 text-brand-end group-hover:text-white transition-colors" />
-                  </motion.div>
+                  </m.div>
                   <div>
                     <h3 className="text-xl font-semibold text-foreground mb-2 group-hover:text-brand-end transition-colors">
                       {reason.title}
@@ -151,11 +152,11 @@ export function WhyUsSection() {
                     </p>
                   </div>
                 </div>
-              </motion.div>
+              </m.div>
             ))}
 
             {/* Trust badge */}
-            <motion.div
+            <m.div
               className="flex items-center gap-4 p-6 rounded-2xl bg-brand-start/5 border border-brand-start/20"
               initial={{ opacity: 0, y: 20 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
@@ -163,7 +164,7 @@ export function WhyUsSection() {
             >
               <div className="flex -space-x-3">
                 {[1, 2, 3, 4].map((i) => (
-                  <motion.div
+                  <m.div
                     key={i}
                     className="w-10 h-10 rounded-full bg-brand-start/20 border-2 border-card flex items-center justify-center"
                     initial={{ scale: 0 }}
@@ -171,15 +172,15 @@ export function WhyUsSection() {
                     transition={{ delay: 0.8 + i * 0.1, type: "spring" }}
                   >
                     <span className="text-xs text-brand-end font-semibold">{i}</span>
-                  </motion.div>
+                  </m.div>
                 ))}
               </div>
               <div>
                 <p className="font-semibold text-foreground">Dipercaya 50+ Bisnis</p>
                 <p className="text-sm text-muted-foreground">dengan rating 4.9/5</p>
               </div>
-            </motion.div>
-          </motion.div>
+            </m.div>
+          </m.div>
         </div>
       </div>
     </section>

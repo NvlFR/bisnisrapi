@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Instagram, Linkedin, Mail, Phone, Twitter, MapPin, ArrowUpRight } from "lucide-react";
-import { motion } from "framer-motion";
+import { Instagram, Mail, Phone, MapPin, ArrowUpRight, MessageCircle } from "lucide-react";
+import { m } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
 const footerLinks = {
@@ -27,9 +27,8 @@ const footerLinks = {
     { label: "Majalengka, Indonesia", href: "#", icon: MapPin },
   ],
   sosial: [
-    { label: "Instagram", href: "https://instagram.com/bisnisrapi", icon: Instagram },
-    { label: "LinkedIn", href: "https://linkedin.com/company/bisnisrapi", icon: Linkedin },
-    { label: "Twitter", href: "https://twitter.com/bisnisrapi", icon: Twitter },
+    { label: "Instagram", href: "https://instagram.com/bisnisrapi.my.id", icon: Instagram },
+    { label: "WhatsApp", href: "https://wa.me/6285199256640?text=Halo%20BisnisRapi%2C%20saya%20menemukan%20Anda%20melalui%20website%20dan%20ingin%20menjalin%20komunikasi.", icon: MessageCircle },
   ],
 };
 
@@ -51,7 +50,7 @@ export function Footer() {
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Newsletter/CTA Banner */}
-        <motion.div
+        <m.div
           className="mb-16 p-8 sm:p-12 rounded-3xl bg-gradient-to-br from-primary/10 via-primary/5 to-transparent border border-primary/20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -67,23 +66,27 @@ export function Footer() {
                 Hubungi kami sekarang untuk konsultasi gratis tanpa komitmen.
               </p>
             </div>
-            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+            <m.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               <Button
                 size="lg"
                 className="rounded-full px-10 h-14 text-white font-bold shadow-xl shadow-brand-end/25 transition-all border-0"
                 style={{ background: 'linear-gradient(135deg, #59f6e3 0%, #185cf8 100%)' }}
                 asChild
               >
-                <Link href="#kontak">
+                <Link 
+                  href="https://wa.me/6285199256640?text=Halo%20BisnisRapi%2C%20saya%20ingin%20konsultasi%20gratis%20sekarang%21" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Konsultasi Gratis
                   <ArrowUpRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
-            </motion.div>
+            </m.div>
           </div>
-        </motion.div>
+        </m.div>
 
-        <motion.div
+        <m.div
           className="grid md:grid-cols-2 lg:grid-cols-5 gap-12 lg:gap-8"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
@@ -91,7 +94,7 @@ export function Footer() {
           transition={{ ...smoothSpring, delay: 0.2 }}
         >
           {/* Brand */}
-          <motion.div
+          <m.div
             className="lg:col-span-2"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -99,18 +102,18 @@ export function Footer() {
             transition={{ ...smoothSpring, delay: 0.1 }}
           >
             <Link href="/" className="flex items-center gap-3 group">
-              <motion.div
+              <m.div
                 className="relative w-12 h-12 rounded-xl overflow-hidden shadow-lg shadow-brand-start/20 border border-brand-start/20"
                 whileHover={{ scale: 1.05, rotate: 5 }}
                 transition={{ type: "spring", stiffness: 400 }}
               >
                 <Image
-                  src="/Logo.png"
+                  src="/Logo.webp"
                   alt="BisnisRapi Logo"
                   fill
                   className="object-contain p-1.5"
                 />
-              </motion.div>
+              </m.div>
               <span
                 className="text-2xl font-bold transition-opacity"
                 style={{
@@ -130,7 +133,7 @@ export function Footer() {
             {/* Social Links */}
             <div className="mt-8 flex gap-3">
               {footerLinks.sosial.map((link) => (
-                <motion.div
+                <m.div
                   key={link.label}
                   whileHover={{ scale: 1.1, y: -3 }}
                   whileTap={{ scale: 0.95 }}
@@ -145,13 +148,13 @@ export function Footer() {
                   >
                     <link.icon className="w-5 h-5" />
                   </Link>
-                </motion.div>
+                </m.div>
               ))}
             </div>
-          </motion.div>
+          </m.div>
 
           {/* Navigation */}
-          <motion.div
+          <m.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: false }}
@@ -160,7 +163,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-6">Navigasi</h3>
             <ul className="space-y-4">
               {footerLinks.navigasi.map((link, index) => (
-                <motion.li
+                <m.li
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
@@ -174,13 +177,13 @@ export function Footer() {
                     {link.label}
                     <ArrowUpRight className="w-3 h-3 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
                   </Link>
-                </motion.li>
+                </m.li>
               ))}
             </ul>
-          </motion.div>
+          </m.div>
 
           {/* Services */}
-          <motion.div
+          <m.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: false }}
@@ -189,7 +192,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-6">Layanan</h3>
             <ul className="space-y-4">
               {footerLinks.layanan.map((link, index) => (
-                <motion.li
+                <m.li
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
@@ -203,13 +206,13 @@ export function Footer() {
                     {link.label}
                     <ArrowUpRight className="w-3 h-3 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
                   </Link>
-                </motion.li>
+                </m.li>
               ))}
             </ul>
-          </motion.div>
+          </m.div>
 
           {/* Contact */}
-          <motion.div
+          <m.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: false }}
@@ -218,7 +221,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-6">Kontak</h3>
             <ul className="space-y-4">
               {footerLinks.kontak.map((link, index) => (
-                <motion.li
+                <m.li
                   key={link.label}
                   initial={{ opacity: 0, x: -10 }}
                   whileInView={{ opacity: 1, x: 0 }}
@@ -234,14 +237,14 @@ export function Footer() {
                     </div>
                     <span className="text-sm">{link.label}</span>
                   </Link>
-                </motion.li>
+                </m.li>
               ))}
             </ul>
-          </motion.div>
-        </motion.div>
+          </m.div>
+        </m.div>
 
         {/* Bottom */}
-        <motion.div
+        <m.div
           className="mt-16 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
@@ -264,7 +267,7 @@ export function Footer() {
             >
               Terms of Service
             </Link>
-            <motion.button
+            <m.button
               onClick={scrollToTop}
               className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:text-brand-end hover:bg-brand-start/10 transition-all"
               whileHover={{ scale: 1.1, y: -2 }}
@@ -274,9 +277,9 @@ export function Footer() {
               <svg className="w-4 h-4 rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
               </svg>
-            </motion.button>
+            </m.button>
           </div>
-        </motion.div>
+        </m.div>
       </div>
     </footer>
   );

@@ -303,7 +303,7 @@ export default function TermsOfServicePage() {
               <p className="text-muted-foreground text-sm">
                 WhatsApp:{" "}
                 <a
-                  href="https://wa.me/6285199256640"
+                  href="https://wa.me/6285199256640?text=Halo%20BisnisRapi%2C%20saya%20memiliki%20pertanyaan%20terkait%20Terms%20of%20Service%20Anda."
                   className="text-brand-end hover:underline"
                 >
                   +62 851 9925 6640

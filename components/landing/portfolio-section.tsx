@@ -2,13 +2,13 @@
 
 import Image from "next/image";
 import { ArrowUpRight, Quote, Star } from "lucide-react";
-import { motion } from "framer-motion";
+import { m } from "framer-motion";
 
 const caseStudies = [
   {
     title: "Coffee Shop Multi-Cabang",
     category: "Food & Beverage",
-    image: "/portfolio_coffee_shop_real_vibe.png",
+    image: "/portfolio_coffee_shop.webp",
     problem: "Sulit monitor sales & stok harian di 4 cabang yang berjauhan",
     solution: "Dashboard POS Terpusat & Notifikasi Sales Real-time via Telegram",
     result: "Growth Profit +45%",
@@ -20,7 +20,7 @@ const caseStudies = [
   {
     title: "Grosir Sembako Digital",
     category: "Retail & Distribution",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1200",
+    image: "/portfolio_retail.webp",
     problem: "Stok ribuan SKU berantakan, sering selisih, & input manual yang lambat",
     solution: "Sistem Manajemen Gudang (WMS) dengan Barcode Scanner",
     result: "Akurasi Stok 100%",
@@ -32,7 +32,7 @@ const caseStudies = [
   {
     title: "Supply Chain Buah Lokal",
     category: "Logistik & Agri",
-    image: "https://images.unsplash.com/photo-1595246140625-573b715d11dc?q=80&w=2070",
+    image: "/portfolio_logistics.webp",
     problem: "Distribusi lambat & data buah rusak tidak terdata dengan baik",
     solution: "Tracking Armada & Digitalisasi Quality Control",
     result: "Waste Reduction -30%",
@@ -53,11 +53,11 @@ export function PortfolioSection() {
   return (
     <section id="portfolio" className="py-24 lg:py-32 overflow-hidden bg-background">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <motion.div 
+        <m.div 
           className="text-center max-w-3xl mx-auto mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: false, margin: "-100px" }}
+          viewport={{ once: true, margin: "-100px" }}
           transition={{ ...smoothSpring }}
         >
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
@@ -79,15 +79,15 @@ export function PortfolioSection() {
           <p className="mt-5 text-base text-muted-foreground leading-relaxed">
             Lihat bagaimana solusi kami mentransformasi operasional berbagai sektor bisnis menjadi lebih efisien dan menguntungkan.
           </p>
-        </motion.div>
+        </m.div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-10">
           {caseStudies.map((study, index) => (
-            <motion.div
+            <m.div
               key={index}
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: false }}
+              viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: 0.1 * index }}
               className="group relative rounded-[2rem] bg-card border border-border transition-all duration-500 overflow-hidden flex flex-col h-full hover:shadow-2xl hover:shadow-brand-end/5 hover:border-brand-end/20"
             >
@@ -99,6 +99,7 @@ export function PortfolioSection() {
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 33vw"
                   className="object-cover transition-transform duration-700 group-hover:scale-105"
+                  quality={70}
                 />
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/90 transition-all duration-500" />
                 
@@ -177,7 +178,7 @@ export function PortfolioSection() {
                   </div>
                 </div>
               </div>
-            </motion.div>
+            </m.div>
           ))}
         </div>
       </div>

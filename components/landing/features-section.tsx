@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { m } from "framer-motion";
 import {
   BarChart3,
   ArrowUpRight,
@@ -24,11 +24,11 @@ export function FeaturesSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Section Header */}
-        <motion.div
+        <m.div
           className="text-center max-w-3xl mx-auto mb-16"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
           transition={{ ...smoothSpring }}
         >
           {/* <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-4" style={{
@@ -58,7 +58,7 @@ export function FeaturesSection() {
               WebkitTextFillColor: 'transparent',
             }}>Sistem Sendiri?</span>
           </h2>
-        </motion.div>
+        </m.div>
 
         {/* Bento Grid — Inspired by Reference #2 */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 lg:gap-8">
@@ -99,11 +99,11 @@ export function FeaturesSection() {
             <div className="mt-8 h-full">
               <div className="flex items-end justify-between h-40 gap-2 mb-2 px-2">
                 {[40, 70, 45, 90, 65, 80, 55].map((height, i) => (
-                  <motion.div
+                  <m.div
                     key={i}
                     initial={{ height: 0 }}
                     whileInView={{ height: `${height}%` }}
-                    viewport={{ once: false }}
+                    viewport={{ once: true }}
                     transition={{ delay: 0.1 * i, duration: 1, ease: "easeOut" }}
                     className={`w-full rounded-t-lg ${i === 3 ? 'bg-brand-end' : 'bg-slate-200'} relative group cursor-pointer`}
                   />
@@ -186,10 +186,10 @@ function BentoCard({
   children: React.ReactNode;
 }) {
   return (
-    <motion.div
+    <m.div
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: false }}
+      viewport={{ once: true }}
       transition={{ ...smoothSpring }}
       className={`relative group p-8 lg:p-9 rounded-[2rem] bg-secondary/50 border border-border hover:bg-background hover:border-border/80 hover:shadow-2xl hover:shadow-brand-end/5 transition-all duration-500 flex flex-col justify-between ${className}`}
     >
@@ -203,6 +203,6 @@ function BentoCard({
       </div>
 
       {children}
-    </motion.div>
+    </m.div>
   );
 }

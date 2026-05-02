@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { m } from "framer-motion";
 import { Globe, ShoppingBag, Settings, ArrowRight, CheckCircle2 } from "lucide-react";
 import Link from "next/link";
 
@@ -12,27 +12,30 @@ const smoothSpring = {
 
 const services = [
   {
-    title: "Sistem Manajemen Bisnis",
-    description: "Digitalisasi alur kerja, stok, payroll, hingga laporan keuangan dalam satu sistem custom yang rapi.",
+    title: "Sistem Manajemen Custom",
+    description: "Satu sistem untuk semua. Pantau stok, keuangan, hingga operasional dalam satu dashboard yang rapi.",
     icon: Settings,
     features: ["Dashboard Real-time", "Automasi Laporan", "Kontrol Stok Ketat"],
     color: "from-blue-500 to-cyan-500",
+    waMessage: "Halo BisnisRapi, saya ingin konsultasi tentang pembuatan Sistem Manajemen Custom untuk bisnis saya.",
     delay: 0.1,
   },
   {
-    title: "Website Profil Bisnis",
-    description: "Tingkatkan kredibilitas brand Anda dengan website profesional yang cepat, responsif, dan SEO-friendly.",
+    title: "Website Profil Premium",
+    description: "Wajah bisnis Anda di internet. Cepat, elegan, dan didesain khusus untuk meningkatkan kepercayaan pelanggan.",
     icon: Globe,
     features: ["Desain Premium", "Kecepatan Tinggi", "Optimasi SEO"],
     color: "from-emerald-500 to-teal-500",
+    waMessage: "Halo BisnisRapi, saya tertarik untuk membuat Website Profil Premium agar brand saya terlihat lebih profesional.",
     delay: 0.2,
   },
   {
-    title: "E-Commerce & Marketplace",
-    description: "Pindahkan pembeli dari marketplace ke sistem sendiri. Kelola order, stok, dan member tanpa potongan biaya.",
+    title: "Toko Online Mandiri",
+    description: "Kelola order dan pelanggan tanpa potongan biaya marketplace. Miliki database pembeli Anda sendiri.",
     icon: ShoppingBag,
     features: ["Sistem Order Mandiri", "Database Pelanggan", "Tanpa Biaya Admin"],
     color: "from-purple-500 to-blue-500",
+    waMessage: "Halo BisnisRapi, saya ingin punya Toko Online sendiri agar bisa kelola database pembeli tanpa potongan biaya.",
     delay: 0.3,
   },
 ];
@@ -44,11 +47,11 @@ export function ServicesSection() {
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-brand-start/5 rounded-full blur-[120px] -mr-64 -mt-64 opacity-50" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <motion.div
+        <m.div
           className="text-center max-w-3xl mx-auto mb-20"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
           transition={{ ...smoothSpring }}
         >
           <div className="inline-flex items-center gap-3 px-4 py-2 rounded-full bg-brand-start/5 border border-brand-start/10 backdrop-blur-sm mb-6 shadow-sm">
@@ -75,15 +78,15 @@ export function ServicesSection() {
           <p className="mt-6 text-base text-muted-foreground font-medium max-w-2xl mx-auto">
             Dari manajemen internal yang rapi hingga wajah bisnis yang memukau di internet, kami bantu digitalisasi bisnis Anda secara menyeluruh.
           </p>
-        </motion.div>
+        </m.div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {services.map((service, i) => (
-            <motion.div
+            <m.div
               key={service.title}
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: false }}
+              viewport={{ once: true }}
               transition={{ ...smoothSpring, delay: service.delay }}
               className="group p-8 rounded-[2.5rem] bg-secondary/30 border border-border/50 hover:bg-background hover:border-border transition-all duration-500 flex flex-col shadow-sm hover:shadow-2xl hover:shadow-brand-end/5 relative overflow-hidden"
             >
@@ -111,16 +114,18 @@ export function ServicesSection() {
                 ))}
               </div>
 
-              <motion.div whileHover={{ x: 5 }} transition={{ type: "spring", stiffness: 400 }} className="relative z-10">
+              <m.div whileHover={{ x: 5 }} transition={{ type: "spring", stiffness: 400 }} className="relative z-10">
                 <Link
-                  href="#kontak"
+                  href={`https://wa.me/6285199256640?text=${encodeURIComponent(service.waMessage)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-sm font-bold text-brand-end group-hover:text-brand-start transition-colors"
                 >
                   Konsultasi Layanan
                   <ArrowRight className="w-4 h-4" />
                 </Link>
-              </motion.div>
-            </motion.div>
+              </m.div>
+            </m.div>
           ))}
         </div>
       </div>
