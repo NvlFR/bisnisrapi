@@ -1,3 +1,5 @@
+"use client";
+
 import dynamic from "next/dynamic";
 import { Hero } from "@/components/landing/hero";
 import { LazySection } from "@/components/landing/lazy-section";

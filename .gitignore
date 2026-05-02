@@ -15,3 +15,5 @@ node_modules
 .next/
 .DS_Store
 update.md
+out/
+deploy-htaccess.txt
