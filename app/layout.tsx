@@ -4,6 +4,7 @@ import { Analytics } from '@vercel/analytics/next'
 import { Navbar } from '@/components/landing/navbar'
 import { FramerProvider } from '@/components/providers/framer-provider'
 import { SmoothScroll } from '@/components/providers/smooth-scroll'
+import Script from 'next/script'
 import './globals.css'
 
 const geistSans = Geist({
@@ -94,6 +95,21 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://wa.me" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-B068PV07RS"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-B068PV07RS');
+          `}
+        </Script>
+
         <FramerProvider>
           <SmoothScroll>
             <Navbar />

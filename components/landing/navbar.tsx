@@ -8,13 +8,14 @@ import { Button } from "@/components/ui/button";
 import { m, AnimatePresence, useScroll, useMotionValueEvent } from "framer-motion";
 
 const navLinks = [
-  { href: "#masalah", label: "Masalah" },
-  { href: "#solusi", label: "Solusi" },
-  { href: "#layanan", label: "Layanan" },
-  { href: "#cara-kerja", label: "Cara Kerja" },
-  { href: "#fitur", label: "Fitur" },
-  { href: "#portfolio", label: "Portfolio" },
-  { href: "#faq", label: "FAQ" },
+  { href: "/#masalah", label: "Masalah" },
+  { href: "/#solusi", label: "Solusi" },
+  { href: "/#layanan", label: "Layanan" },
+  { href: "/#cara-kerja", label: "Cara Kerja" },
+  { href: "/#fitur", label: "Fitur" },
+  { href: "/#portfolio", label: "Portfolio" },
+  { href: "/blog", label: "Blog" },
+  { href: "/#faq", label: "FAQ" },
 ];
 
 const smoothSpring = {
