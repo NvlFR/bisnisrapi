@@ -12,14 +12,15 @@ import {
   Clock, 
   ShieldCheck, 
   Zap, 
-  Server, 
   PhoneCall,
   BarChart3,
   Users,
   Database,
   Lock,
   Headset,
-  Smartphone
+  Smartphone,
+  Star,
+  ChevronRight
 } from 'lucide-react';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
 
@@ -33,16 +34,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   
   if (!data) return {};
 
-  const title = `Sistem Bisnis Digital & Kasir Terbaik Untuk ${data.name} | BisnisRapi`;
-  const description = `Tinggalkan cara manual! Solusi digitalisasi sistem kasir dan manajemen operasional khusus untuk ${data.name}. Atasi masalah ${data.painPoint.toLowerCase()} dengan BisnisRapi.`;
+  const title = `Sistem Kasir & Manajemen Digital untuk ${data.name} | BisnisRapi`;
+  const description = `Solusi digitalisasi khusus ${data.name}: atasi ${data.painPoint.toLowerCase()} dengan sistem kasir, manajemen stok, dan laporan otomatis dari BisnisRapi.`;
 
   return {
     title,
     description,
+    keywords: [`sistem kasir ${data.name}`, `software ${data.name}`, `digitalisasi ${data.name}`, 'BisnisRapi', 'sistem bisnis UMKM'],
     openGraph: {
       title,
       description,
       type: 'website',
+    },
+    alternates: {
+      canonical: `https://bisnisrapi.com/solusi/${industri}`,
     },
   };
 }
@@ -61,467 +66,563 @@ export default async function IndustrySolutionPage({ params }: Props) {
     notFound();
   }
 
+  // JSON-LD structured data for SEO
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: `Sistem Bisnis Digital untuk ${data.name}`,
+    description: `Solusi kasir dan manajemen operasional khusus ${data.name} dari BisnisRapi`,
+    provider: {
+      '@type': 'Organization',
+      name: 'BisnisRapi',
+      url: 'https://bisnisrapi.com',
+    },
+    serviceType: 'Software as a Service',
+    areaServed: 'ID',
+  };
+
   return (
     <main className="min-h-screen bg-background flex flex-col font-sans">
+      {/* JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <Navbar />
 
-      {/* 1. HERO SECTION */}
-      <section className="pt-32 pb-20 md:pt-48 md:pb-32 px-4 relative overflow-hidden">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1000px] h-[1000px] bg-brand-start/20 rounded-full blur-[120px] -z-10" />
-        
-        <div className="container mx-auto max-w-5xl text-center">
-          <div className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-secondary border border-border text-foreground font-medium text-sm mb-8 animate-fade-in shadow-sm">
-            <span className="text-2xl">{data.icon}</span> Solusi Digitalisasi {data.name}
-          </div>
-          
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-8 leading-[1.15]">
-            Sistem Digital & Kasir Pintar <br className="hidden md:block" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-start to-brand-end">
-              Khusus Untuk {data.name}
-            </span>
-          </h1>
-          
-          <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mb-10 leading-relaxed">
-            Berhenti membuang waktu dengan operasional manual yang rentan kesalahan. BisnisRapi hadir untuk mengintegrasikan seluruh alur kerja {data.name.toLowerCase()} Anda ke dalam satu ekosistem digital yang cerdas, rapi, dan otomatis. Skalakan bisnis Anda tanpa batasan.
-          </p>
-          
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link 
-              href={`https://wa.me/6285156358380?text=Halo%20BisnisRapi,%20saya%20tertarik%20dengan%20sistem%20untuk%20${data.name}`}
-              target="_blank"
-              className="w-full sm:w-auto px-8 py-4 bg-foreground text-background rounded-full font-bold hover:scale-105 transition-all flex items-center justify-center gap-2 text-lg shadow-xl shadow-foreground/10"
-            >
-              Konsultasi Gratis <ArrowRight className="w-5 h-5" />
-            </Link>
-            <Link 
-              href="#problem"
-              className="w-full sm:w-auto px-8 py-4 bg-secondary text-secondary-foreground border border-border rounded-full font-bold hover:bg-secondary/80 transition-all flex items-center justify-center text-lg"
-            >
-              Pelajari Lebih Lanjut
-            </Link>
-          </div>
+      {/* ── 1. HERO ── */}
+      <section className="pt-28 pb-16 md:pt-40 md:pb-24 px-4 relative overflow-hidden">
+        {/* Ambient glow */}
+        <div className="absolute inset-0 -z-10 pointer-events-none">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[600px] bg-gradient-to-br from-brand-start/15 to-brand-end/15 rounded-full blur-[120px]" />
         </div>
-      </section>
 
-      {/* 2. PROBLEM & AGITATION SECTION */}
-      <section id="problem" className="py-24 bg-muted/30 border-y border-border/50">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Realita Pahit di Bisnis {data.name}</h2>
-            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Banyak pengusaha {data.name.toLowerCase()} terjebak dalam operasional harian yang melelahkan. Jika Anda sering mengalami hal-hal di bawah ini, ini pertanda bisnis Anda butuh transformasi segera.
+        <div className="container mx-auto max-w-5xl">
+          {/* Breadcrumb */}
+          <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-sm text-muted-foreground mb-8 justify-center">
+            <Link href="/" className="hover:text-foreground transition-colors">Beranda</Link>
+            <ChevronRight className="w-4 h-4" />
+            <Link href="/solusi" className="hover:text-foreground transition-colors">Solusi</Link>
+            <ChevronRight className="w-4 h-4" />
+            <span className="text-foreground font-medium">{data.name}</span>
+          </nav>
+
+          <div className="text-center">
+            {/* Badge */}
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-secondary border border-border text-sm font-medium mb-6 shadow-sm">
+              <span className="text-xl">{data.icon}</span>
+              Solusi Khusus {data.name}
+            </div>
+
+            <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-[1.15]">
+              Sistem Kasir & Manajemen{' '}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-start to-brand-end">
+                Khusus {data.name}
+              </span>
+            </h1>
+
+            <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
+              Berhenti kelola bisnis secara manual. BisnisRapi mengintegrasikan kasir, stok, laporan, dan tim Anda dalam satu sistem digital yang mudah dipakai siapa saja.
             </p>
-          </div>
 
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="flex items-start gap-4 p-8 bg-background rounded-3xl border border-red-500/20 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
-              <XCircle className="w-10 h-10 text-red-500 shrink-0 mt-1" />
-              <div>
-                <h3 className="text-2xl font-bold mb-3">Masalah Klasik: {data.painPoint}</h3>
-                <p className="text-muted-foreground text-lg leading-relaxed">
-                  Ini adalah keluhan nomor satu yang sering kami dengar dari pelaku usaha {data.name.toLowerCase()}. Ketidakmampuan mengatasi hal ini membuat operasional lambat, karyawan stres, dan pelanggan lari ke kompetitor.
-                </p>
-              </div>
-            </div>
-            
-            <div className="flex items-start gap-4 p-8 bg-background rounded-3xl border border-red-500/20 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
-              <XCircle className="w-10 h-10 text-red-500 shrink-0 mt-1" />
-              <div>
-                <h3 className="text-2xl font-bold mb-3">Laporan Keuangan Buta</h3>
-                <p className="text-muted-foreground text-lg leading-relaxed">
-                  Uang masuk dan keluar tidak tercatat dengan presisi. Di akhir bulan, Anda kesulitan mengetahui berapa laba bersih yang sebenarnya. Risiko kebocoran dana dari karyawan pun sangat tinggi karena minimnya pengawasan.
-                </p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-4 p-8 bg-background rounded-3xl border border-red-500/20 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
-              <XCircle className="w-10 h-10 text-red-500 shrink-0 mt-1" />
-              <div>
-                <h3 className="text-2xl font-bold mb-3">Ketergantungan Ekstrem pada Owner</h3>
-                <p className="text-muted-foreground text-lg leading-relaxed">
-                  Anda tidak bisa liburan tenang. Jika Anda tidak ada di tempat, operasional kacau. Bisnis yang seharusnya memberikan kebebasan waktu justru berubah menjadi penjara 24/7 bagi pemiliknya.
-                </p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-4 p-8 bg-background rounded-3xl border border-red-500/20 shadow-sm transition-all hover:-translate-y-1 hover:shadow-md">
-              <XCircle className="w-10 h-10 text-red-500 shrink-0 mt-1" />
-              <div>
-                <h3 className="text-2xl font-bold mb-3">Data Stok Berantakan & Hilang</h3>
-                <p className="text-muted-foreground text-lg leading-relaxed">
-                  Stok di gudang tidak sesuai dengan catatan manual. Banyak barang yang expired, hilang, atau dibeli terlalu banyak karena minimnya visibilitas data inventaris yang akurat.
-                </p>
-              </div>
-            </div>
-          </div>
-          
-          <div className="mt-16 text-center">
-            <p className="text-2xl font-semibold text-foreground mb-4">Sudah saatnya Anda lepas dari masalah ini.</p>
-          </div>
-        </div>
-      </section>
-
-      {/* 3. SOLUTION & CORE APPROACH SECTION */}
-      <section className="py-24 relative overflow-hidden">
-        <div className="container mx-auto px-4 max-w-5xl text-center">
-          <div className="inline-block mb-6 p-4 bg-brand-start/10 rounded-full">
-            <ShieldCheck className="w-10 h-10 text-brand-start" />
-          </div>
-          <h2 className="text-3xl md:text-5xl font-bold mb-6">Masa Depan Bisnis {data.name} Ada di Sini</h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto mb-16 leading-relaxed">
-            BisnisRapi bukan sekadar aplikasi kasir pasaran. Kami membangun ekosistem perangkat lunak yang disesuaikan secara khusus untuk merapikan alur kerja {data.name.toLowerCase()}.
-          </p>
-
-          <div className="grid md:grid-cols-3 gap-8 text-left">
-            <div className="p-8 rounded-3xl bg-secondary/30 border border-border hover:bg-secondary/50 transition-colors">
-              <div className="w-16 h-16 bg-background rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-border">
-                <Database className="w-8 h-8 text-brand-start" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4">Database Terpusat</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed">
-                Tidak ada lagi data yang tercecer. Mulai dari data transaksi, stok produk, absensi karyawan, hingga profil pelanggan loyal, semuanya terpusat dalam satu server cloud yang aman.
-              </p>
-            </div>
-            
-            <div className="p-8 rounded-3xl bg-secondary/30 border border-border hover:bg-secondary/50 transition-colors relative overflow-hidden">
-              <div className="absolute top-0 right-0 p-6 opacity-5 pointer-events-none">
-                <span className="text-9xl">{data.icon}</span>
-              </div>
-              <div className="w-16 h-16 bg-background rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-border relative z-10">
-                <Zap className="w-8 h-8 text-brand-end" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4 relative z-10">Otomatisasi Cerdas</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed relative z-10">
-                Laporan keuangan yang terbentuk otomatis tiap detik, sinkronisasi stok antara gudang dan etalase, serta notifikasi peringatan dini ketika ada ketidakwajaran data.
-              </p>
-            </div>
-            
-            <div className="p-8 rounded-3xl bg-secondary/30 border border-border hover:bg-secondary/50 transition-colors">
-              <div className="w-16 h-16 bg-background rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-border">
-                <Smartphone className="w-8 h-8 text-brand-start" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4">Akses Darimana Saja</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed">
-                Kelola bisnis dari rumah, saat liburan, atau saat meeting. Dashboard eksklusif kami memungkinkan owner memantau seluruh aktivitas cabang via smartphone secara real-time.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* 4. COMPREHENSIVE FEATURES SECTION */}
-      <section className="py-24 bg-card border-y border-border/50">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <div className="text-center mb-20">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Fitur Canggih yang Mentransformasi Bisnis Anda</h2>
-            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Sistem kami dirancang untuk langsung memberikan dampak positif pada operasional dan efisiensi waktu Anda sejak hari pertama digunakan.
-            </p>
-          </div>
-
-          <div className="space-y-12">
-            {/* Fitur Industri */}
-            <div className="flex flex-col md:flex-row gap-10 items-center p-10 bg-background rounded-[2.5rem] border border-border shadow-sm">
-              <div className="flex-1">
-                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-start/10 text-brand-start font-bold text-sm mb-6 tracking-wider uppercase">
-                  ⭐ Solusi Eksklusif
-                </div>
-                <h3 className="text-3xl font-bold mb-6">Spesialisasi {data.name}</h3>
-                <p className="text-xl text-muted-foreground mb-6 leading-relaxed">
-                  Kami mengerti bahwa bisnis Anda unik. Oleh karena itu, sistem kami dilengkapi dengan alur kerja khusus: <span className="text-foreground font-semibold">"{data.solution}"</span>
-                </p>
-                <ul className="space-y-3">
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-brand-start" /> Menjawab langsung {data.painPoint.toLowerCase()}</li>
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-brand-start" /> Disesuaikan dengan best-practice industri</li>
-                </ul>
-              </div>
-              <div className="w-full md:w-[45%] aspect-square md:aspect-video bg-secondary rounded-3xl flex items-center justify-center text-8xl shadow-inner relative overflow-hidden">
-                {data.icon}
-                <div className="absolute inset-0 bg-gradient-to-tr from-brand-start/10 to-transparent mix-blend-overlay" />
-              </div>
-            </div>
-
-            {/* Fitur Dashboard */}
-            <div className="flex flex-col md:flex-row-reverse gap-10 items-center p-10 bg-background rounded-[2.5rem] border border-border shadow-sm">
-              <div className="flex-1">
-                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 text-blue-500 font-bold text-sm mb-6 tracking-wider uppercase">
-                  📊 Analitik
-                </div>
-                <h3 className="text-3xl font-bold mb-6">Dashboard Real-Time & Laporan Otomatis</h3>
-                <p className="text-xl text-muted-foreground mb-6 leading-relaxed">
-                  Tidak perlu lagi merekap data di Excel. Setiap transaksi penjualan, pengeluaran kas, dan pergerakan inventaris langsung terkalkulasi secara otomatis menjadi grafik laporan yang mudah dibaca.
-                </p>
-                <ul className="space-y-3">
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-blue-500" /> Pantau Omzet & Profit kapan saja</li>
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-blue-500" /> Deteksi produk paling laris & barang mati</li>
-                </ul>
-              </div>
-              <div className="w-full md:w-[45%] aspect-square md:aspect-video bg-secondary rounded-3xl flex items-center justify-center shadow-inner p-8">
-                <div className="w-full h-full border-2 border-dashed border-muted-foreground/30 rounded-2xl flex flex-col items-center justify-center text-muted-foreground">
-                  <BarChart3 className="w-16 h-16 mb-4 opacity-50" />
-                  <span className="font-mono">Realtime_Analytics_UI</span>
-                </div>
-              </div>
-            </div>
-
-            {/* Fitur Manajemen Karyawan */}
-            <div className="flex flex-col md:flex-row gap-10 items-center p-10 bg-background rounded-[2.5rem] border border-border shadow-sm">
-              <div className="flex-1">
-                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-purple-500/10 text-purple-500 font-bold text-sm mb-6 tracking-wider uppercase">
-                  👥 SDM
-                </div>
-                <h3 className="text-3xl font-bold mb-6">Manajemen Karyawan & Hak Akses</h3>
-                <p className="text-xl text-muted-foreground mb-6 leading-relaxed">
-                  Amankan aset bisnis Anda dari kecurangan. Berikan hak akses (role) yang berbeda untuk kasir, admin gudang, manager, dan owner. Segala aktivitas di dalam sistem akan tercatat log-nya.
-                </p>
-                <ul className="space-y-3">
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-purple-500" /> Pembatasan edit/hapus transaksi</li>
-                  <li className="flex items-center gap-3 text-lg"><CheckCircle2 className="w-6 h-6 text-purple-500" /> Laporan shift kasir presisi tanpa selisih</li>
-                </ul>
-              </div>
-              <div className="w-full md:w-[45%] aspect-square md:aspect-video bg-secondary rounded-3xl flex items-center justify-center shadow-inner p-8">
-                <div className="w-full h-full border-2 border-dashed border-muted-foreground/30 rounded-2xl flex flex-col items-center justify-center text-muted-foreground">
-                  <Users className="w-16 h-16 mb-4 opacity-50" />
-                  <span className="font-mono">Role_Management_UI</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* 8. CTA TENGAH - BOLD & PERSUASIVE */}
-      <section className="py-24 relative overflow-hidden">
-        <div className="container mx-auto px-4 max-w-5xl">
-          <div className="bg-gradient-to-br from-brand-start to-brand-end rounded-[3rem] p-12 md:p-20 text-center text-white relative overflow-hidden shadow-2xl">
-            {/* Decorative elements */}
-            <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full blur-3xl translate-x-1/2 -translate-y-1/2" />
-            <div className="absolute bottom-0 left-0 w-64 h-64 bg-black/10 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2" />
-            
-            <div className="relative z-10">
-              <h2 className="text-3xl md:text-5xl font-bold mb-8 leading-tight">Jangan Biarkan Masalah Operasional Menghambat Skala Bisnis Anda</h2>
-              <p className="text-xl md:text-2xl text-white/90 mb-12 max-w-3xl mx-auto leading-relaxed">
-                Kompetitor Anda mungkin sudah beralih ke sistem digital. Jangan sampai tertinggal. Mari diskusi tentang kondisi {data.name.toLowerCase()} Anda saat ini, kami berikan rekomendasi setup yang paling ideal.
-              </p>
-              <Link 
-                href="https://wa.me/6285156358380"
+            {/* CTA Buttons */}
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
+              <Link
+                href={`https://wa.me/6285156358380?text=Halo%20BisnisRapi,%20saya%20tertarik%20dengan%20sistem%20untuk%20${encodeURIComponent(data.name)}`}
                 target="_blank"
-                className="inline-flex px-10 py-5 bg-background text-foreground rounded-full font-bold hover:scale-105 transition-transform items-center justify-center gap-3 text-xl shadow-xl"
+                rel="noopener noreferrer"
+                className="w-full sm:w-auto px-8 py-4 bg-foreground text-background rounded-full font-bold hover:scale-105 transition-all flex items-center justify-center gap-2 text-base shadow-xl shadow-foreground/10"
               >
-                Konsultasi Via WhatsApp <PhoneCall className="w-6 h-6" />
+                Konsultasi Gratis <ArrowRight className="w-5 h-5" />
+              </Link>
+              <Link
+                href="#masalah"
+                className="w-full sm:w-auto px-8 py-4 bg-secondary text-secondary-foreground border border-border rounded-full font-semibold hover:bg-secondary/80 transition-all flex items-center justify-center text-base"
+              >
+                Lihat Masalah yang Kami Selesaikan
               </Link>
             </div>
-          </div>
-        </div>
-      </section>
 
-      {/* 5. BENEFIT (Hasil Nyata / ROI) */}
-      <section className="py-24 bg-muted/30 border-y border-border/50">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <div className="text-center mb-20">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Investasi yang Menguntungkan</h2>
-            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Berpindah ke BisnisRapi bukan tentang pengeluaran biaya, melainkan investasi teknologi yang memberikan *Return of Investment* nyata bagi kelangsungan usaha Anda.
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-3 gap-10">
-            <div className="bg-background p-10 rounded-3xl border border-border shadow-sm text-center hover:border-brand-start/50 transition-colors">
-              <div className="w-20 h-20 bg-green-500/10 text-green-500 rounded-full flex items-center justify-center mx-auto mb-8">
-                <Clock className="w-10 h-10" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4">Efisiensi Waktu 70%</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed">
-                Pekerjaan administratif, pembukuan manual, dan pengecekan stok yang memakan waktu berjam-jam kini selesai secara otomatis dan real-time. Anda bisa fokus memikirkan strategi marketing.
-              </p>
-            </div>
-            
-            <div className="bg-background p-10 rounded-3xl border border-border shadow-sm text-center hover:border-blue-500/50 transition-colors">
-              <div className="w-20 h-20 bg-blue-500/10 text-blue-500 rounded-full flex items-center justify-center mx-auto mb-8">
-                <Lock className="w-10 h-10" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4">Cegah Kebocoran Dana</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed">
-                Selamat tinggal pada selisih laci kasir dan barang gudang yang hilang misterius. Tingkat keamanan sistem yang ketat memastikan tidak ada transaksi yang lolos dari pantauan Anda.
-              </p>
-            </div>
-
-            <div className="bg-background p-10 rounded-3xl border border-border shadow-sm text-center hover:border-purple-500/50 transition-colors">
-              <div className="w-20 h-20 bg-purple-500/10 text-purple-500 rounded-full flex items-center justify-center mx-auto mb-8">
-                <TrendingUp className="w-10 h-10" />
-              </div>
-              <h3 className="text-2xl font-bold mb-4">Skalabilitas Mudah</h3>
-              <p className="text-muted-foreground text-lg leading-relaxed">
-                Punya SOP yang terintegrasi di dalam sistem berarti Anda siap melakukan ekspansi. Membuka cabang ke-2 atau ke-10 menjadi jauh lebih mudah ketika pondasi sistem pusat sudah kuat.
-              </p>
+            {/* Trust indicators */}
+            <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground">
+              {[
+                '✅ Setup 3–7 hari kerja',
+                '✅ Tanpa biaya konsultasi',
+                '✅ Support langsung via WhatsApp',
+              ].map((item) => (
+                <span key={item} className="font-medium">{item}</span>
+              ))}
             </div>
           </div>
         </div>
       </section>
 
-      {/* 6. TRUST / SOCIAL PROOF */}
-      <section className="py-24 bg-background">
-        <div className="container mx-auto px-4 max-w-5xl text-center">
-          <h2 className="text-3xl md:text-5xl font-bold mb-16">Telah Dipercaya oleh Ratusan Pengusaha</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
-            {/* Placeholder untuk logo client - in real app you'd use actual logos */}
-            <div className="h-20 flex items-center justify-center font-bold text-2xl border-2 border-border rounded-xl">Brand 1</div>
-            <div className="h-20 flex items-center justify-center font-bold text-2xl border-2 border-border rounded-xl">Brand 2</div>
-            <div className="h-20 flex items-center justify-center font-bold text-2xl border-2 border-border rounded-xl">Brand 3</div>
-            <div className="h-20 flex items-center justify-center font-bold text-2xl border-2 border-border rounded-xl">Brand 4</div>
-          </div>
-          <div className="mt-16 p-8 bg-secondary/50 rounded-3xl max-w-3xl mx-auto relative">
-            <div className="text-6xl text-brand-start absolute top-4 left-6 opacity-20">"</div>
-            <p className="text-xl md:text-2xl italic font-medium leading-relaxed mb-6 relative z-10">
-              "Semenjak pakai sistem dari BisnisRapi, operasional {data.name.toLowerCase()} saya jadi sangat tertata. Nggak pusing lagi mikirin data hilang atau kasir yang error. Saya bisa pantau toko dari rumah sambil ngopi."
-            </p>
-            <div className="font-bold text-lg">— Salah satu klien {data.name} kami</div>
-          </div>
-        </div>
-      </section>
-
-      {/* 7. HOW IT WORKS / STEP BY STEP */}
-      <section className="py-24 bg-card border-y border-border/50">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <div className="text-center mb-20">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">4 Langkah Mudah Go Digital</h2>
-            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Proses implementasi sistem dirancang agar terstruktur, tidak mengganggu operasional berjalan, dan didampingi penuh oleh tim profesional kami.
+      {/* ── 2. MASALAH ── */}
+      <section id="masalah" className="py-20 bg-muted/30 border-y border-border/50">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-12">
+            <span className="inline-block px-4 py-1.5 rounded-full bg-red-500/10 text-red-500 text-sm font-semibold mb-4">
+              Masalah Umum
+            </span>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Kenapa Bisnis {data.name} Sering Stuck?
+            </h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
+              Kalau Anda pernah mengalami salah satu hal di bawah ini, Anda tidak sendirian — dan ada solusinya.
             </p>
           </div>
 
-          <div className="grid md:grid-cols-4 gap-8 relative">
-            {/* Connecting line for desktop */}
-            <div className="hidden md:block absolute top-12 left-[12%] right-[12%] h-1 bg-border -z-10" />
-            
+          <div className="grid sm:grid-cols-2 gap-5">
             {[
-              { 
-                step: '1', 
-                title: 'Konsultasi Awal', 
-                desc: `Kita berdiskusi mendalam tentang bagaimana flow bisnis ${data.name.toLowerCase()} Anda saat ini, masalah apa yang dihadapi, dan ekspektasi sistem.` 
+              {
+                title: data.painPoint,
+                desc: `Ini masalah utama yang paling sering dikeluhkan pemilik ${data.name.toLowerCase()}. Tanpa sistem yang tepat, masalah ini terus berulang dan menguras energi.`,
               },
-              { 
-                step: '2', 
-                title: 'Rancangan & Setup', 
-                desc: 'Tim engineer kami akan men-setup arsitektur cloud, mengonfigurasi fitur, dan menyesuaikan modul (customization) sesuai hasil diskusi.' 
+              {
+                title: 'Laporan keuangan tidak akurat',
+                desc: 'Uang masuk dan keluar tidak tercatat rapi. Di akhir bulan bingung berapa laba bersih, dan risiko kebocoran kas dari karyawan sangat tinggi.',
               },
-              { 
-                step: '3', 
-                title: 'Migrasi & Training', 
-                desc: 'Kami bantu memindahkan data lama Anda (produk, stok, pelanggan) ke sistem baru, lalu men-training karyawan Anda sampai mahir.' 
+              {
+                title: 'Bisnis terlalu bergantung pada owner',
+                desc: 'Kalau Anda tidak ada, operasional kacau. Bisnis yang harusnya memberi kebebasan malah jadi penjara 24/7.',
               },
-              { 
-                step: '4', 
-                title: 'Go-Live & Support', 
-                desc: 'Sistem siap beroperasi penuh! Jika ke depan ada kendala teknis, tim Customer Support kami siap sedia membantu Anda dengan cepat.' 
+              {
+                title: 'Data stok tidak bisa dipercaya',
+                desc: 'Stok fisik tidak cocok dengan catatan. Barang expired, hilang, atau over-stock karena tidak ada visibilitas data yang akurat.',
               },
             ].map((item, i) => (
-              <div key={i} className="flex flex-col items-center text-center relative">
-                <div className="w-24 h-24 rounded-full bg-background border-4 border-brand-start flex items-center justify-center text-3xl font-black text-brand-start mb-6 shadow-lg shadow-brand-start/20">
-                  {item.step}
+              <div
+                key={i}
+                className="flex gap-4 p-6 bg-background rounded-2xl border border-red-500/15 hover:border-red-500/30 hover:shadow-sm transition-all"
+              >
+                <div className="shrink-0 mt-0.5">
+                  <div className="w-8 h-8 rounded-full bg-red-500/10 flex items-center justify-center">
+                    <XCircle className="w-5 h-5 text-red-500" />
+                  </div>
                 </div>
-                <h3 className="text-2xl font-bold mb-4">{item.title}</h3>
-                <p className="text-muted-foreground text-lg leading-relaxed">{item.desc}</p>
+                <div>
+                  <h3 className="font-bold text-lg mb-2">{item.title}</h3>
+                  <p className="text-muted-foreground leading-relaxed">{item.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div className="mt-10 text-center">
+            <p className="text-lg font-semibold text-foreground">
+              Kabar baiknya — semua masalah di atas bisa diselesaikan dengan sistem yang tepat. 👇
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 3. SOLUSI INTI ── */}
+      <section className="py-20 relative overflow-hidden">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-14">
+            <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-brand-start/10 mb-5">
+              <ShieldCheck className="w-7 h-7 text-brand-start" />
+            </div>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Satu Sistem, Semua Terkontrol
+            </h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto text-lg leading-relaxed">
+              BisnisRapi bukan aplikasi kasir biasa. Ini ekosistem digital yang dirancang khusus untuk merapikan alur kerja {data.name.toLowerCase()} dari A sampai Z.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              {
+                icon: <Database className="w-6 h-6 text-brand-start" />,
+                color: 'bg-brand-start/10',
+                title: 'Data Terpusat',
+                desc: 'Transaksi, stok, karyawan, dan pelanggan tersimpan di satu tempat yang aman. Tidak ada lagi data tercecer di buku atau Excel.',
+              },
+              {
+                icon: <Zap className="w-6 h-6 text-brand-end" />,
+                color: 'bg-brand-end/10',
+                title: 'Otomatis & Cerdas',
+                desc: 'Laporan keuangan terbentuk sendiri, stok berkurang otomatis saat transaksi, dan notifikasi muncul kalau ada yang tidak wajar.',
+              },
+              {
+                icon: <Smartphone className="w-6 h-6 text-brand-start" />,
+                color: 'bg-brand-start/10',
+                title: 'Pantau dari Mana Saja',
+                desc: 'Lihat omzet, stok, dan aktivitas karyawan langsung dari HP Anda — kapan saja, di mana saja, tanpa harus ada di toko.',
+              },
+            ].map((item, i) => (
+              <div
+                key={i}
+                className="p-7 rounded-2xl bg-secondary/30 border border-border hover:bg-secondary/50 hover:-translate-y-1 transition-all"
+              >
+                <div className={`w-12 h-12 ${item.color} rounded-xl flex items-center justify-center mb-5`}>
+                  {item.icon}
+                </div>
+                <h3 className="text-xl font-bold mb-3">{item.title}</h3>
+                <p className="text-muted-foreground leading-relaxed">{item.desc}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* 9. COMPREHENSIVE FAQ SECTION */}
-      <section className="py-24 bg-background">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <div className="text-center mb-16">
-            <div className="inline-flex items-center justify-center p-4 bg-secondary rounded-full mb-6">
-              <Headset className="w-8 h-8 text-foreground" />
-            </div>
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">Pertanyaan Seputar Sistem Kami</h2>
-            <p className="text-xl text-muted-foreground">Menjawab keraguan Anda sebelum memulai transisi ke ekosistem digital BisnisRapi.</p>
+      {/* ── 4. FITUR UNGGULAN ── */}
+      <section className="py-20 bg-card border-y border-border/50">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-14">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Fitur yang Langsung Terasa Manfaatnya
+            </h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
+              Dirancang agar mudah dipakai karyawan baru sekalipun, tapi cukup canggih untuk kebutuhan bisnis yang berkembang.
+            </p>
           </div>
 
-          <Accordion type="single" collapsible className="w-full space-y-6">
-            <AccordionItem value="q1" className="bg-card px-8 rounded-3xl border border-border shadow-sm">
-              <AccordionTrigger className="text-left font-bold text-xl hover:no-underline py-8">
-                Apakah sistem ini cocok untuk {data.name.toLowerCase()} skala UMKM yang baru mulai?
-              </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground text-lg leading-relaxed pb-8">
-                Sangat cocok! Justru dengan memakai sistem sejak awal berdiri, Anda telah membangun fondasi data dan SOP operasional yang benar. Ketika nanti orderan Anda meledak, Anda sudah tidak kaget lagi mengaturnya karena semua by-system.
-              </AccordionContent>
-            </AccordionItem>
-            
-            <AccordionItem value="q2" className="bg-card px-8 rounded-3xl border border-border shadow-sm">
-              <AccordionTrigger className="text-left font-bold text-xl hover:no-underline py-8">
-                Apakah karyawan saya butuh keahlian IT khusus untuk menggunakannya?
-              </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground text-lg leading-relaxed pb-8">
-                Tentu tidak. Antarmuka (UI/UX) BisnisRapi dirancang dengan sangat intuitif agar semudah mungkin digunakan oleh orang awam atau karyawan baru sekalipun. Waktu orientasi (learning curve) sistem ini sangat singkat, rata-rata karyawan mahir dalam 1-2 hari.
-              </AccordionContent>
-            </AccordionItem>
-            
-            <AccordionItem value="q3" className="bg-card px-8 rounded-3xl border border-border shadow-sm">
-              <AccordionTrigger className="text-left font-bold text-xl hover:no-underline py-8">
-                Bagaimana jika alur bisnis {data.name.toLowerCase()} saya sangat spesifik dan berbeda dari yang lain?
-              </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground text-lg leading-relaxed pb-8">
-                Itulah keunggulan utama kami dibandingkan software berlangganan biasa. Kami menyediakan opsi kustomisasi (custom development) di mana modul sistem bisa di-tweak, ditambah, atau dikurangi agar benar-benar mengikuti SOP perusahaan Anda, bukan sebaliknya.
-              </AccordionContent>
-            </AccordionItem>
-            
-            <AccordionItem value="q4" className="bg-card px-8 rounded-3xl border border-border shadow-sm">
-              <AccordionTrigger className="text-left font-bold text-xl hover:no-underline py-8">
-                Apakah data bisnis saya aman tersimpan di cloud?
-              </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground text-lg leading-relaxed pb-8">
-                Keamanan data adalah prioritas tertinggi kami. Server kami di-hosting pada infrastruktur cloud tier-1 dengan enkripsi tingkat tinggi, backup harian otomatis, dan firewall canggih untuk mencegah akses tidak sah. Data Anda 100% aman dan hanya bisa diakses oleh akun dengan hak izin yang valid.
-              </AccordionContent>
-            </AccordionItem>
+          <div className="space-y-6">
+            {/* Fitur Spesifik Industri */}
+            <div className="grid md:grid-cols-2 gap-6 items-center p-8 bg-background rounded-2xl border border-border">
+              <div>
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-brand-start/10 text-brand-start text-xs font-bold uppercase tracking-wider mb-4">
+                  ⭐ Eksklusif untuk {data.name}
+                </span>
+                <h3 className="text-2xl font-bold mb-3">Solusi Spesifik Industri Anda</h3>
+                <p className="text-muted-foreground mb-5 leading-relaxed">
+                  Sistem kami dilengkapi alur kerja khusus:{' '}
+                  <span className="text-foreground font-semibold">"{data.solution}"</span>
+                </p>
+                <ul className="space-y-2.5">
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-brand-start shrink-0" />
+                    Menjawab langsung: {data.painPoint.toLowerCase()}
+                  </li>
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-brand-start shrink-0" />
+                    Disesuaikan dengan best-practice industri
+                  </li>
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-brand-start shrink-0" />
+                    Bisa dikustomisasi sesuai SOP bisnis Anda
+                  </li>
+                </ul>
+              </div>
+              <div className="aspect-video bg-secondary rounded-xl flex items-center justify-center text-7xl relative overflow-hidden">
+                {data.icon}
+                <div className="absolute inset-0 bg-gradient-to-tr from-brand-start/10 to-transparent" />
+              </div>
+            </div>
 
-            <AccordionItem value="q5" className="bg-card px-8 rounded-3xl border border-border shadow-sm">
-              <AccordionTrigger className="text-left font-bold text-xl hover:no-underline py-8">
-                Berapa lama proses setup hingga sistem siap dipakai di lapangan?
-              </AccordionTrigger>
-              <AccordionContent className="text-muted-foreground text-lg leading-relaxed pb-8">
-                Untuk setup paket standar, biasanya memakan waktu 3-7 hari kerja termasuk migrasi data master (produk, harga, stok awal) dan pengaturan server. Namun, jika ada permintaan kustomisasi fitur tambahan, waktu penyelesaian akan diestimasikan kembali sesuai tingkat kerumitannya.
-              </AccordionContent>
-            </AccordionItem>
+            {/* Fitur Dashboard & Laporan */}
+            <div className="grid md:grid-cols-2 gap-6 items-center p-8 bg-background rounded-2xl border border-border">
+              <div className="order-2 md:order-1 aspect-video bg-secondary rounded-xl flex flex-col items-center justify-center gap-3 text-muted-foreground p-6">
+                <BarChart3 className="w-12 h-12 opacity-40" />
+                <span className="text-sm font-mono opacity-60">Dashboard Real-Time</span>
+              </div>
+              <div className="order-1 md:order-2">
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/10 text-blue-500 text-xs font-bold uppercase tracking-wider mb-4">
+                  📊 Laporan Otomatis
+                </span>
+                <h3 className="text-2xl font-bold mb-3">Laporan Keuangan Tanpa Rekap Manual</h3>
+                <p className="text-muted-foreground mb-5 leading-relaxed">
+                  Setiap transaksi langsung terhitung otomatis. Lihat omzet, laba, dan pergerakan stok dalam grafik yang mudah dibaca — tanpa perlu buka Excel.
+                </p>
+                <ul className="space-y-2.5">
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-blue-500 shrink-0" />
+                    Pantau omzet & profit kapan saja
+                  </li>
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-blue-500 shrink-0" />
+                    Deteksi produk terlaris & barang mati
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            {/* Fitur Manajemen Karyawan */}
+            <div className="grid md:grid-cols-2 gap-6 items-center p-8 bg-background rounded-2xl border border-border">
+              <div>
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-500/10 text-purple-500 text-xs font-bold uppercase tracking-wider mb-4">
+                  👥 Manajemen Tim
+                </span>
+                <h3 className="text-2xl font-bold mb-3">Kontrol Penuh atas Karyawan</h3>
+                <p className="text-muted-foreground mb-5 leading-relaxed">
+                  Berikan hak akses berbeda untuk kasir, admin, dan manager. Semua aktivitas tercatat — tidak ada yang bisa diedit atau dihapus tanpa izin.
+                </p>
+                <ul className="space-y-2.5">
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-purple-500 shrink-0" />
+                    Pembatasan edit & hapus transaksi
+                  </li>
+                  <li className="flex items-center gap-2.5 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-purple-500 shrink-0" />
+                    Laporan shift kasir tanpa selisih
+                  </li>
+                </ul>
+              </div>
+              <div className="aspect-video bg-secondary rounded-xl flex flex-col items-center justify-center gap-3 text-muted-foreground p-6">
+                <Users className="w-12 h-12 opacity-40" />
+                <span className="text-sm font-mono opacity-60">Role Management</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── CTA TENGAH ── */}
+      <section className="py-16 px-4">
+        <div className="container mx-auto max-w-4xl">
+          <div className="bg-gradient-to-br from-brand-start to-brand-end rounded-3xl p-10 md:p-16 text-center text-white relative overflow-hidden shadow-2xl">
+            <div className="absolute top-0 right-0 w-48 h-48 bg-white/10 rounded-full blur-3xl translate-x-1/2 -translate-y-1/2 pointer-events-none" />
+            <div className="absolute bottom-0 left-0 w-48 h-48 bg-black/10 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2 pointer-events-none" />
+            <div className="relative z-10">
+              <h2 className="text-2xl md:text-4xl font-bold mb-4 leading-tight">
+                Jangan Biarkan Masalah Operasional Menghambat Pertumbuhan Bisnis Anda
+              </h2>
+              <p className="text-white/85 mb-8 max-w-2xl mx-auto text-lg leading-relaxed">
+                Kompetitor Anda mungkin sudah pakai sistem digital. Diskusikan kondisi {data.name.toLowerCase()} Anda sekarang — gratis, tanpa komitmen.
+              </p>
+              <Link
+                href="https://wa.me/6285156358380"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-8 py-4 bg-background text-foreground rounded-full font-bold hover:scale-105 transition-transform text-base shadow-xl"
+              >
+                Konsultasi via WhatsApp <PhoneCall className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 5. MANFAAT / ROI ── */}
+      <section className="py-20 bg-muted/30 border-y border-border/50">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Apa yang Berubah Setelah Pakai BisnisRapi?
+            </h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
+              Bukan sekadar janji — ini hasil nyata yang dirasakan klien kami.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              {
+                icon: <Clock className="w-8 h-8" />,
+                color: 'text-green-500',
+                bg: 'bg-green-500/10',
+                title: 'Hemat Waktu 70%',
+                desc: 'Pekerjaan administratif yang biasanya makan berjam-jam kini selesai otomatis. Anda bisa fokus ke strategi dan pengembangan bisnis.',
+              },
+              {
+                icon: <Lock className="w-8 h-8" />,
+                color: 'text-blue-500',
+                bg: 'bg-blue-500/10',
+                title: 'Cegah Kebocoran Dana',
+                desc: 'Tidak ada lagi selisih laci kasir atau barang gudang yang hilang misterius. Setiap transaksi terpantau dan tercatat.',
+              },
+              {
+                icon: <TrendingUp className="w-8 h-8" />,
+                color: 'text-purple-500',
+                bg: 'bg-purple-500/10',
+                title: 'Siap Ekspansi',
+                desc: 'SOP yang terintegrasi di sistem membuat Anda siap buka cabang ke-2 atau ke-10 tanpa harus mulai dari nol lagi.',
+              },
+            ].map((item, i) => (
+              <div
+                key={i}
+                className="bg-background p-8 rounded-2xl border border-border text-center hover:shadow-sm transition-all"
+              >
+                <div className={`w-16 h-16 ${item.bg} ${item.color} rounded-full flex items-center justify-center mx-auto mb-5`}>
+                  {item.icon}
+                </div>
+                <h3 className="text-xl font-bold mb-3">{item.title}</h3>
+                <p className="text-muted-foreground leading-relaxed">{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── 6. TESTIMONI ── */}
+      <section className="py-20 bg-background">
+        <div className="container mx-auto px-4 max-w-4xl text-center">
+          <h2 className="text-3xl md:text-4xl font-bold mb-12">
+            Dipercaya Ratusan Pengusaha Indonesia
+          </h2>
+
+          {/* Stars */}
+          <div className="flex justify-center gap-1 mb-6">
+            {[...Array(5)].map((_, i) => (
+              <Star key={i} className="w-6 h-6 fill-yellow-400 text-yellow-400" />
+            ))}
+          </div>
+
+          <blockquote className="relative p-8 bg-secondary/50 rounded-2xl max-w-2xl mx-auto">
+            <div className="text-5xl text-brand-start absolute top-3 left-5 opacity-20 font-serif leading-none">"</div>
+            <p className="text-lg md:text-xl italic font-medium leading-relaxed mb-5 relative z-10">
+              Semenjak pakai sistem dari BisnisRapi, operasional {data.name.toLowerCase()} saya jadi sangat tertata. Nggak pusing lagi mikirin data hilang atau kasir yang error. Saya bisa pantau toko dari rumah sambil ngopi.
+            </p>
+            <footer className="font-semibold text-foreground">
+              — Pemilik {data.name}, Klien BisnisRapi
+            </footer>
+          </blockquote>
+        </div>
+      </section>
+
+      {/* ── 7. CARA KERJA ── */}
+      <section className="py-20 bg-card border-y border-border/50">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-14">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Proses Onboarding yang Mudah
+            </h2>
+            <p className="text-muted-foreground max-w-xl mx-auto text-lg">
+              4 langkah terstruktur, didampingi tim kami dari awal sampai sistem berjalan lancar.
+            </p>
+          </div>
+
+          <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 relative">
+            {/* Connecting line desktop */}
+            <div className="hidden md:block absolute top-10 left-[14%] right-[14%] h-px bg-border -z-10" />
+
+            {[
+              {
+                step: '1',
+                title: 'Konsultasi Awal',
+                desc: `Diskusi mendalam tentang alur bisnis ${data.name.toLowerCase()} Anda, masalah yang dihadapi, dan ekspektasi sistem.`,
+              },
+              {
+                step: '2',
+                title: 'Setup & Konfigurasi',
+                desc: 'Tim engineer kami setup server cloud dan konfigurasi fitur sesuai kebutuhan spesifik bisnis Anda.',
+              },
+              {
+                step: '3',
+                title: 'Migrasi & Training',
+                desc: 'Data lama dipindahkan ke sistem baru, lalu karyawan Anda ditraining sampai mahir menggunakannya.',
+              },
+              {
+                step: '4',
+                title: 'Go-Live & Support',
+                desc: 'Sistem aktif beroperasi. Tim support kami siap membantu kapan pun ada kendala teknis.',
+              },
+            ].map((item, i) => (
+              <div key={i} className="flex flex-col items-center text-center">
+                <div className="w-20 h-20 rounded-full bg-background border-4 border-brand-start flex items-center justify-center text-2xl font-black text-brand-start mb-5 shadow-md shadow-brand-start/10 relative z-10">
+                  {item.step}
+                </div>
+                <h3 className="text-lg font-bold mb-2">{item.title}</h3>
+                <p className="text-muted-foreground text-sm leading-relaxed">{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── 8. FAQ ── */}
+      <section className="py-20 bg-background">
+        <div className="container mx-auto px-4 max-w-3xl">
+          <div className="text-center mb-12">
+            <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-secondary mb-4">
+              <Headset className="w-6 h-6 text-foreground" />
+            </div>
+            <h2 className="text-3xl md:text-4xl font-bold mb-3">
+              Pertanyaan yang Sering Ditanyakan
+            </h2>
+            <p className="text-muted-foreground text-lg">
+              Jawaban jujur sebelum Anda memutuskan untuk mulai.
+            </p>
+          </div>
+
+          <Accordion type="single" collapsible className="w-full space-y-3">
+            {[
+              {
+                id: 'q1',
+                q: `Apakah cocok untuk ${data.name.toLowerCase()} skala UMKM yang baru mulai?`,
+                a: 'Sangat cocok. Justru mulai dari awal dengan sistem yang benar akan membangun fondasi data dan SOP yang kuat. Ketika bisnis berkembang, Anda sudah siap — tidak kaget lagi mengaturnya.',
+              },
+              {
+                id: 'q2',
+                q: 'Apakah karyawan perlu keahlian IT khusus?',
+                a: 'Tidak perlu. Antarmuka BisnisRapi dirancang sangat intuitif. Rata-rata karyawan baru bisa mahir dalam 1–2 hari setelah training.',
+              },
+              {
+                id: 'q3',
+                q: `Bagaimana kalau alur bisnis ${data.name.toLowerCase()} saya sangat spesifik?`,
+                a: 'Itu justru keunggulan kami. Kami menyediakan opsi kustomisasi penuh — modul bisa ditambah, diubah, atau disesuaikan agar mengikuti SOP Anda, bukan sebaliknya.',
+              },
+              {
+                id: 'q4',
+                q: 'Apakah data bisnis saya aman di cloud?',
+                a: 'Keamanan data adalah prioritas utama kami. Server menggunakan enkripsi tingkat tinggi, backup harian otomatis, dan firewall canggih. Data Anda hanya bisa diakses oleh akun dengan izin yang valid.',
+              },
+              {
+                id: 'q5',
+                q: 'Berapa lama proses setup hingga sistem siap dipakai?',
+                a: 'Untuk paket standar, biasanya 3–7 hari kerja termasuk migrasi data dan konfigurasi server. Jika ada kustomisasi tambahan, waktu akan diestimasikan sesuai tingkat kerumitannya.',
+              },
+            ].map((item) => (
+              <AccordionItem
+                key={item.id}
+                value={item.id}
+                className="bg-card px-6 rounded-2xl border border-border"
+              >
+                <AccordionTrigger className="text-left font-semibold text-base hover:no-underline py-5">
+                  {item.q}
+                </AccordionTrigger>
+                <AccordionContent className="text-muted-foreground leading-relaxed pb-5">
+                  {item.a}
+                </AccordionContent>
+              </AccordionItem>
+            ))}
           </Accordion>
         </div>
       </section>
 
-      {/* 10. FINAL CTA / STRONG CLOSING */}
-      <section className="py-32 relative overflow-hidden bg-card border-t border-border">
-        {/* Background Gradients */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[800px] bg-brand-start/10 rounded-full blur-[100px] pointer-events-none" />
-        
-        <div className="container mx-auto px-4 max-w-4xl text-center relative z-10">
-          <div className="inline-flex items-center justify-center p-6 bg-background rounded-3xl border border-border shadow-xl mb-10 transform -rotate-3 hover:rotate-0 transition-transform">
-            <span className="text-6xl">{data.icon}</span>
+      {/* ── 9. FINAL CTA ── */}
+      <section className="py-24 relative overflow-hidden bg-card border-t border-border">
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[400px] bg-brand-start/10 rounded-full blur-[100px] pointer-events-none" />
+
+        <div className="container mx-auto px-4 max-w-3xl text-center relative z-10">
+          <div className="inline-flex items-center justify-center w-20 h-20 bg-background rounded-2xl border border-border shadow-lg mb-8 hover:rotate-3 transition-transform">
+            <span className="text-4xl">{data.icon}</span>
           </div>
-          
-          <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-8 leading-[1.1]">
-            Saatnya Merapikan <br />
+
+          <h2 className="text-3xl md:text-5xl font-bold mb-5 leading-[1.15]">
+            Saatnya Merapikan{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-start to-brand-end">
               Bisnis {data.name} Anda
             </span>
           </h2>
-          
-          <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed">
-            Mulai langkah besar Anda hari ini. Ambil kendali penuh atas operasional bisnis, minimalkan risiko kerugian, dan bersiaplah untuk tumbuh lebih pesat dari sebelumnya.
+
+          <p className="text-muted-foreground text-lg mb-10 max-w-xl mx-auto leading-relaxed">
+            Ambil kendali penuh atas operasional bisnis Anda. Mulai langkah pertama hari ini — konsultasi gratis, tanpa komitmen biaya.
           </p>
-          
-          <div className="flex flex-col sm:flex-row justify-center gap-6">
-            <Link 
+
+          <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <Link
               href="https://wa.me/6285156358380"
               target="_blank"
-              className="px-12 py-6 bg-foreground text-background rounded-full font-bold hover:scale-105 transition-transform text-xl shadow-2xl shadow-foreground/20 flex items-center justify-center gap-3 group"
+              rel="noopener noreferrer"
+              className="px-10 py-5 bg-foreground text-background rounded-full font-bold hover:scale-105 transition-transform text-base shadow-2xl shadow-foreground/20 flex items-center justify-center gap-2 group"
             >
-              Hubungi Kami Sekarang 
-              <ArrowRight className="w-6 h-6 group-hover:translate-x-2 transition-transform" />
+              Hubungi Kami Sekarang
+              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </Link>
+            <Link
+              href="/solusi"
+              className="px-10 py-5 bg-secondary text-secondary-foreground border border-border rounded-full font-semibold hover:bg-secondary/80 transition-all flex items-center justify-center gap-2 text-base"
+            >
+              Lihat Industri Lain
             </Link>
           </div>
-          
-          <p className="mt-8 text-muted-foreground text-sm">
-            Respons cepat via WhatsApp. Tidak ada komitmen biaya untuk sesi konsultasi pertama.
+
+          <p className="mt-6 text-muted-foreground text-sm">
+            Respons cepat via WhatsApp. Konsultasi pertama gratis, tanpa komitmen.
           </p>
         </div>
       </section>

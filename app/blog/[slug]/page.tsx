@@ -1,13 +1,15 @@
-import { getPostBySlug, getAllPosts } from '@/lib/blog';
+import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/blog';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Footer } from '@/components/landing/footer';
-import { Calendar, User, ArrowLeft } from 'lucide-react';
+import { Calendar, User, ArrowLeft, Clock, ArrowRight } from 'lucide-react';
 import { Metadata } from 'next';
 import { ShareButtons } from '@/components/blog/share-buttons';
+
+const BASE_URL = 'https://bisnis-rapi.my.id';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -16,119 +18,246 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const post = getPostBySlug(slug);
-  
+
   if (!post) return {};
+
+  const ogImage = post.image
+    ? `${BASE_URL}${post.image}`
+    : `${BASE_URL}/og-image.png`;
 
   return {
     title: `${post.title} | Blog BisnisRapi`,
     description: post.excerpt,
+    alternates: {
+      canonical: `${BASE_URL}/blog/${slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.excerpt,
       type: 'article',
       publishedTime: post.date,
       authors: [post.author],
-      images: post.image ? [{ url: post.image }] : [],
+      url: `${BASE_URL}/blog/${slug}`,
+      siteName: 'BisnisRapi',
+      images: [{ url: ogImage, width: 1200, height: 630, alt: post.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.excerpt,
+      images: [ogImage],
     },
   };
 }
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+  return posts.map((post) => ({ slug: post.slug }));
 }
 
 export default async function BlogPostPage({ params }: Props) {
   const { slug } = await params;
   const post = getPostBySlug(slug);
 
-  if (!post) {
-    notFound();
-  }
+  if (!post) notFound();
+
+  const related = getRelatedPosts(post.slug, post.category, 3);
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: post.title,
+    description: post.excerpt,
+    image: post.image ? `${BASE_URL}${post.image}` : `${BASE_URL}/og-image.png`,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      '@type': 'Organization',
+      name: post.author,
+      url: BASE_URL,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'BisnisRapi',
+      url: BASE_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${BASE_URL}/Logo.webp`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${BASE_URL}/blog/${slug}`,
+    },
+    inLanguage: 'id-ID',
+    keywords: post.tags.join(', ') || post.category,
+  };
 
   return (
-    <main className="min-h-screen bg-background">
-      {/* Post Header */}
-      <article className="pt-32 pb-20">
-        <div className="container px-4 mx-auto max-w-4xl">
-          <Link 
-            href="/blog" 
-            className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary mb-8 transition-colors group"
-          >
-            <ArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
-            Kembali ke Blog
-          </Link>
+    <>
+      {/* JSON-LD Structured Data — critical for Google */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
 
-          <div className="mb-10">
-            <span className="inline-block px-3 py-1 text-xs font-semibold bg-primary/10 text-primary rounded-full mb-4">
-              {post.category}
-            </span>
-            <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-6 leading-tight">
-              {post.title}
-            </h1>
-            <div className="flex flex-wrap items-center gap-6 text-sm text-muted-foreground">
-              <div className="flex items-center gap-2">
-                <div className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center">
-                  <User className="w-4 h-4 text-primary" />
+      <main className="min-h-screen bg-background">
+        {/* Post Header */}
+        <article className="pt-32 pb-20">
+          <div className="container px-4 mx-auto max-w-4xl">
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary mb-8 transition-colors group"
+            >
+              <ArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
+              Kembali ke Blog
+            </Link>
+
+            <div className="mb-10">
+              <span className="inline-block px-3 py-1 text-xs font-semibold bg-primary/10 text-primary rounded-full mb-4">
+                {post.category}
+              </span>
+              <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-6 leading-tight">
+                {post.title}
+              </h1>
+              <div className="flex flex-wrap items-center gap-6 text-sm text-muted-foreground">
+                <div className="flex items-center gap-2">
+                  <div className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center">
+                    <User className="w-4 h-4 text-primary" />
+                  </div>
+                  <span className="font-medium text-foreground">{post.author}</span>
                 </div>
-                <span className="font-medium text-foreground">{post.author}</span>
+                <div className="flex items-center gap-2">
+                  <Calendar className="w-4 h-4" />
+                  {new Date(post.date).toLocaleDateString('id-ID', {
+                    day: 'numeric',
+                    month: 'long',
+                    year: 'numeric',
+                  })}
+                </div>
+                <div className="flex items-center gap-2">
+                  <Clock className="w-4 h-4" />
+                  {post.readingTime} menit baca
+                </div>
               </div>
-              <div className="flex items-center gap-2">
-                <Calendar className="w-4 h-4" />
-                {new Date(post.date).toLocaleDateString('id-ID', {
-                  day: 'numeric',
-                  month: 'long',
-                  year: 'numeric'
-                })}
+            </div>
+
+            {post.image && (
+              <div className="relative aspect-[21/9] rounded-3xl overflow-hidden mb-12 shadow-2xl shadow-primary/5">
+                <Image
+                  src={post.image}
+                  alt={post.title}
+                  fill
+                  priority
+                  className="object-cover"
+                />
+              </div>
+            )}
+
+            {/* Article Content */}
+            <div
+              className="prose prose-lg dark:prose-invert max-w-none
+                prose-headings:font-bold prose-headings:tracking-tight
+                prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
+                prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+                prose-p:text-muted-foreground prose-p:leading-relaxed
+                prose-a:text-primary prose-a:no-underline hover:prose-a:underline
+                prose-strong:text-foreground
+                prose-ul:text-muted-foreground prose-ol:text-muted-foreground
+                prose-li:leading-relaxed
+                prose-blockquote:border-primary prose-blockquote:bg-primary/5 prose-blockquote:rounded-r-xl prose-blockquote:py-2
+                prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm
+                prose-img:rounded-3xl prose-img:shadow-xl
+                prose-hr:border-border
+                mb-16"
+            >
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {post.content}
+              </ReactMarkdown>
+            </div>
+
+            {/* Tags */}
+            {post.tags.length > 0 && (
+              <div className="flex flex-wrap gap-2 mb-10">
+                {post.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="px-3 py-1 text-xs font-medium bg-muted text-muted-foreground rounded-full"
+                  >
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+            )}
+
+            {/* Share + CTA */}
+            <div className="border-t border-border pt-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
+              <ShareButtons title={post.title} />
+              <div className="flex items-center gap-4">
+                <Link
+                  href="/#cta"
+                  className="px-6 py-3 bg-primary text-primary-foreground rounded-full font-bold hover:shadow-lg hover:shadow-primary/20 transition-all text-sm whitespace-nowrap"
+                >
+                  Konsultasi Bisnis Gratis
+                </Link>
               </div>
             </div>
           </div>
+        </article>
 
-          {post.image && (
-            <div className="relative aspect-[21/9] rounded-3xl overflow-hidden mb-12 shadow-2xl shadow-primary/5">
-              <Image 
-                src={post.image} 
-                alt={post.title}
-                fill
-                priority
-                className="object-cover"
-              />
+        {/* Related Posts */}
+        {related.length > 0 && (
+          <section className="py-16 bg-muted/30">
+            <div className="container px-4 mx-auto max-w-6xl">
+              <h2 className="text-2xl font-bold mb-8">Artikel Terkait</h2>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {related.map((relPost) => (
+                  <article
+                    key={relPost.slug}
+                    className="group flex flex-col bg-background rounded-2xl overflow-hidden border border-border/50 hover:border-primary/50 transition-all duration-300 hover:shadow-xl hover:shadow-primary/5"
+                  >
+                    <Link href={`/blog/${relPost.slug}`} className="block relative aspect-[16/10] overflow-hidden">
+                      {relPost.image ? (
+                        <Image
+                          src={relPost.image}
+                          alt={relPost.title}
+                          fill
+                          className="object-cover transition-transform duration-500 group-hover:scale-105"
+                        />
+                      ) : (
+                        <div className="w-full h-full bg-gradient-to-br from-primary/20 to-blue-500/20 flex items-center justify-center text-primary/30 font-bold">
+                          BisnisRapi
+                        </div>
+                      )}
+                    </Link>
+                    <div className="p-5 flex flex-col flex-1">
+                      <span className="text-xs text-primary font-medium mb-2">{relPost.category}</span>
+                      <h3 className="font-bold mb-2 line-clamp-2 group-hover:text-primary transition-colors text-sm leading-snug">
+                        <Link href={`/blog/${relPost.slug}`}>{relPost.title}</Link>
+                      </h3>
+                      <p className="text-xs text-muted-foreground line-clamp-2 flex-1 mb-4">{relPost.excerpt}</p>
+                      <div className="flex items-center justify-between text-xs text-muted-foreground">
+                        <div className="flex items-center gap-1">
+                          <Clock className="w-3 h-3" />
+                          {relPost.readingTime} mnt
+                        </div>
+                        <Link
+                          href={`/blog/${relPost.slug}`}
+                          className="flex items-center gap-1 text-primary font-semibold group/link"
+                        >
+                          Baca <ArrowRight className="w-3 h-3 transition-transform group-hover/link:translate-x-0.5" />
+                        </Link>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
             </div>
-          )}
+          </section>
+        )}
 
-          {/* Content */}
-          <div className="prose prose-lg dark:prose-invert max-w-none 
-            prose-headings:font-bold prose-headings:tracking-tight
-            prose-p:text-muted-foreground prose-p:leading-relaxed
-            prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-            prose-strong:text-foreground
-            prose-img:rounded-3xl prose-img:shadow-xl
-            mb-20"
-          >
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-              {post.content}
-            </ReactMarkdown>
-          </div>
-
-          {/* Share Section */}
-          <div className="border-t border-border pt-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
-            <ShareButtons title={post.title} />
-
-            <div className="flex items-center gap-4">
-               <Link 
-                href="/#cta"
-                className="px-6 py-3 bg-primary text-primary-foreground rounded-full font-bold hover:shadow-lg hover:shadow-primary/20 transition-all text-sm"
-               >
-                Konsultasi Bisnis Gratis
-               </Link>
-            </div>
-          </div>
-        </div>
-      </article>
-
-      <Footer />
-    </main>
+        <Footer />
+      </main>
+    </>
   );
 }

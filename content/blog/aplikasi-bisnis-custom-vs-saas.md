@@ -4,7 +4,7 @@ date: "2025-03-22"
 excerpt: "Bayar software per bulan selamanya, atau invest sekali bangun sistem sendiri? Ini analisis jujur biaya, risiko, dan kapan masing-masing pilihan masuk akal untuk bisnis kamu."
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
-image: "/blog/aplikasi-bisnis-custom-vs-saas/thumbnail.png"
+image: "/blog/aplikasi-bisnis-custom-vs-saas/thumbnail.webp"
 
 ---
 
@@ -12,7 +12,7 @@ image: "/blog/aplikasi-bisnis-custom-vs-saas/thumbnail.png"
 
 Setiap pemilik bisnis yang mau go digital menghadapi pertanyaan yang sama: **bangun sistem sendiri, atau pakai software yang sudah ada?**
 
-Ini bukan pertanyaan dengan jawaban universal. Tapi ada framework yang bisa membantu kamu membuat keputusan yang tepat — berdasarkan stage bisnis, kebutuhan spesifik, dan kalkulasi biaya jangka panjang.
+Ini bukan pertanyaan dengan jawaban universal. Tapi ada framework yang bisa membantu kamu membuat keputusan yang tepat berdasarkan stage bisnis, kebutuhan spesifik, dan kalkulasi biaya jangka panjang.
 
 ---
 
@@ -31,7 +31,7 @@ SaaS adalah software yang kamu sewa, biasanya dengan model berlangganan bulanan 
 
 ### Custom Application / Software
 
-Aplikasi yang dibangun khusus sesuai kebutuhan spesifik bisnis kamu — oleh tim internal, freelancer, atau vendor seperti BisnisRapi.
+Aplikasi yang dibangun khusus sesuai kebutuhan spesifik bisnis kamu  oleh tim internal, freelancer, atau vendor seperti BisnisRapi.
 
 **Karakteristik:**
 - Biaya di depan lebih besar (development)
@@ -77,7 +77,7 @@ Mari kita hitung secara konkret untuk skenario UMKM menengah yang butuh: sistem 
 
 **Pilih SaaS jika:** Kebutuhan kamu standar dan sudah ada SaaS yang cover dengan baik. Email marketing? Pakai Mailchimp. Tidak ada alasan bangun dari scratch.
 
-**Pilih Custom jika:** Proses bisnis kamu unik — ada workflow khusus, integrasi dengan sistem lama yang tidak bisa diganggu, atau regulasi industri yang sangat spesifik.
+**Pilih Custom jika:** Proses bisnis kamu unik  ada workflow khusus, integrasi dengan sistem lama yang tidak bisa diganggu, atau regulasi industri yang sangat spesifik.
 
 ### 2. Kecepatan vs Kustomisasi
 
@@ -89,7 +89,7 @@ Pertanyaannya: apakah kamu punya waktu untuk menunggu sistem yang sempurna, atau
 
 ### 3. Data Sensitivity dan Ownership
 
-Jika bisnis kamu handle data sensitif pelanggan — data pribadi, finansial, atau kesehatan — kamu harus sangat berhati-hati tentang di mana data itu disimpan.
+Jika bisnis kamu handle data sensitif pelanggan  data pribadi, finansial, atau kesehatan  kamu harus sangat berhati-hati tentang di mana data itu disimpan.
 
 Banyak SaaS global menyimpan data di server luar negeri. Dengan regulasi PDPA Indonesia yang semakin ketat, ini bisa jadi risiko kepatuhan.
 
@@ -105,7 +105,7 @@ Kalau jawabannya tidak ada keduanya, custom system bisa jadi beban operasional y
 
 ### 5. Volume dan Scale
 
-SaaS pricing biasanya naik seiring volume — lebih banyak user, lebih banyak data, lebih mahal. Untuk bisnis yang growing cepat, ini bisa jadi pain point.
+SaaS pricing biasanya naik seiring volume  lebih banyak user, lebih banyak data, lebih mahal. Untuk bisnis yang growing cepat, ini bisa jadi pain point.
 
 Custom system biasanya punya biaya marginal yang jauh lebih rendah untuk setiap user atau transaksi tambahan.
 
@@ -113,7 +113,7 @@ Custom system biasanya punya biaya marginal yang jauh lebih rendah untuk setiap 
 
 Berapa banyak tool yang perlu "ngobrol" satu sama lain?
 
-Integrasi SaaS-ke-SaaS memang bisa melalui tools seperti Zapier — tapi ini menambah lapisan kompleksitas, biaya, dan potential failure point.
+Integrasi SaaS-ke-SaaS memang bisa melalui tools seperti Zapier  tapi ini menambah lapisan kompleksitas, biaya, dan potential failure point.
 
 Custom system bisa didesain dari awal untuk terintegrasi seamlessly dengan semua yang kamu butuhkan.
 
@@ -121,7 +121,7 @@ Custom system bisa didesain dari awal untuk terintegrasi seamlessly dengan semua
 
 Apakah sistem yang kamu pakai bisa jadi keunggulan kompetitif?
 
-Jika prosesmu standar dan kompetitor juga pakai tools yang sama — tidak ada advantage dari custom.
+Jika prosesmu standar dan kompetitor juga pakai tools yang sama  tidak ada advantage dari custom.
 
 Tapi jika cara kamu operate adalah differentiator bisnis, memiliki sistem yang secara eksklusif mendukung cara kerja tersebut bisa jadi moat yang nyata.
 
@@ -151,7 +151,7 @@ Pertanyaan 4: Apakah kamu punya akses ke vendor/developer yang bisa support jang
 
 ## Middle Ground: Custom + SaaS yang Tepat
 
-Pilihan terbaik seringkali bukan salah satu — tapi **kombinasi strategis**:
+Pilihan terbaik seringkali bukan salah satu  tapi **kombinasi strategis**:
 
 **Gunakan SaaS untuk:**
 - Fungsi yang benar-benar standar (email marketing, video call, file storage)
@@ -171,12 +171,12 @@ Ini persis pendekatan yang BisnisRapi gunakan: membangun **sistem bisnis inti ya
 
 Sebelum commit ke proyek custom development, tanyakan:
 
-1. **"Siapa yang punya hak atas source code?"** — Harus milik kamu sepenuhnya.
-2. **"Apa teknologi yang digunakan?"** — Pastikan bukan teknologi proprietary yang membuat kamu tergantung pada vendor.
-3. **"Berapa biaya maintenance per tahun?"** — Harus transparan dari awal.
-4. **"Bagaimana proses jika saya mau pindah vendor?"** — Ada exit plan yang jelas?
-5. **"Apa timeline dan milestone yang konkret?"** — Project tanpa milestone jelas sering terlambat.
-6. **"Berapa lama garansi bug-fixing setelah launch?"** — Minimal 3-6 bulan.
+1. **"Siapa yang punya hak atas source code?"**  Harus milik kamu sepenuhnya.
+2. **"Apa teknologi yang digunakan?"**  Pastikan bukan teknologi proprietary yang membuat kamu tergantung pada vendor.
+3. **"Berapa biaya maintenance per tahun?"**  Harus transparan dari awal.
+4. **"Bagaimana proses jika saya mau pindah vendor?"**  Ada exit plan yang jelas?
+5. **"Apa timeline dan milestone yang konkret?"**  Project tanpa milestone jelas sering terlambat.
+6. **"Berapa lama garansi bug-fixing setelah launch?"**  Minimal 3-6 bulan.
 
 ---
 
@@ -188,10 +188,10 @@ Tidak ada jawaban universal. Yang ada adalah keputusan yang tepat berdasarkan si
 
 **Pertimbangkan Custom kalau:** proses bisnis unik, growing cepat, data-sensitive, dan mau control penuh jangka panjang.
 
-**Konsultasikan dulu kalau:** tidak yakin — dan hitung biaya 5 tahun sebelum memutuskan.
+**Konsultasikan dulu kalau:** tidak yakin  dan hitung biaya 5 tahun sebelum memutuskan.
 
-BisnisRapi hadir untuk membantu kamu membuat keputusan ini dengan informasi yang tepat — bukan karena kami punya kepentingan menjual satu solusi, tapi karena sistem yang salah akan cost kamu lebih mahal dalam jangka panjang.
+BisnisRapi hadir untuk membantu kamu membuat keputusan ini dengan informasi yang tepat  bukan karena kami punya kepentingan menjual satu solusi, tapi karena sistem yang salah akan cost kamu lebih mahal dalam jangka panjang.
 
 ---
 
-*Mau diskusi kebutuhan spesifik bisnis kamu dan pilihan sistem yang paling tepat? [Konsultasi gratis dengan tim BisnisRapi](#) — kami bantu kamu buat keputusan yang tepat.*
+*Mau diskusi kebutuhan spesifik bisnis kamu dan pilihan sistem yang paling tepat? [Konsultasi gratis dengan tim BisnisRapi](#)  kami bantu kamu buat keputusan yang tepat.*

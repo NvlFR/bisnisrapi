@@ -4,12 +4,12 @@ date: "2025-02-15"
 excerpt: "Banyak seller marketplace yang tidak sadar mereka sedang membangun bisnis di atas tanah orang lain. Pelajari kapan harus punya toko online sendiri dan bagaimana caranya."
 author: "BisnisRapi Team"
 category: "E-Commerce"
-image: "/blog/toko-online-custom-vs-marketplace/thumbnail.png"
+image: "/blog/toko-online-custom-vs-marketplace/thumbnail.webp"
 ---
 
 # Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan?
 
-Jutaan UMKM Indonesia berjualan di Tokopedia, Shopee, atau Lazada. Dan memang ada alasan kuat untuk itu — traffic sudah ada, sistem pembayaran sudah ada, pelanggan sudah familiar.
+Jutaan UMKM Indonesia berjualan di Tokopedia, Shopee, atau Lazada. Dan memang ada alasan kuat untuk itu traffic sudah ada, sistem pembayaran sudah ada, pelanggan sudah familiar.
 
 Tapi ada hal yang jarang dibicarakan: **kamu tidak punya bisnis, kamu punya lapak**.
 
@@ -33,7 +33,7 @@ Kamu tahu tidak berapa email pelanggan yang sudah pernah beli dari toko marketpl
 
 ### Aturan yang Berubah Sewaktu-waktu
 
-Kebijakan marketplace bisa berubah kapanpun. Produkmu bisa di-takedown, rating bisa direset, akun bisa diblokir — dan kamu tidak punya kontrol atas itu.
+Kebijakan marketplace bisa berubah kapanpun. Produkmu bisa di-takedown, rating bisa direset, akun bisa diblokir dan kamu tidak punya kontrol atas itu.
 
 ---
 
@@ -41,13 +41,13 @@ Kebijakan marketplace bisa berubah kapanpun. Produkmu bisa di-takedown, rating b
 
 Bukan berarti marketplace harus dihindari. Ada situasi di mana marketplace sangat masuk akal:
 
-✅ **Baru mulai dan butuh traffic cepat** — marketplace sudah punya jutaan pengunjung aktif
+✅ **Baru mulai dan butuh traffic cepat** marketplace sudah punya jutaan pengunjung aktif
 
-✅ **Produk komoditas yang compete di harga** — di sini memang battle-ground-nya marketplace
+✅ **Produk komoditas yang compete di harga** di sini memang battle-ground-nya marketplace
 
-✅ **Ingin test produk baru** — validasi demand tanpa perlu invest di marketing besar
+✅ **Ingin test produk baru** validasi demand tanpa perlu invest di marketing besar
 
-✅ **Sebagai channel tambahan** — bukan satu-satunya
+✅ **Sebagai channel tambahan** bukan satu-satunya
 
 Kuncinya: gunakan marketplace sebagai *saluran distribusi*, bukan sebagai *fondasi bisnis*.
 
@@ -67,7 +67,7 @@ Di toko online sendiri, kamu bisa collect email, WhatsApp, dan data perilaku bel
 
 ### 3. Brand Identity yang Kuat
 
-Di marketplace, brand kamu tenggelam dalam lautan kompetitor. Di toko sendiri, setiap elemen — dari warna, font, layout, sampai tone of voice — mencerminkan identitas brand kamu secara konsisten.
+Di marketplace, brand kamu tenggelam dalam lautan kompetitor. Di toko sendiri, setiap elemen dari warna, font, layout, sampai tone of voice mencerminkan identitas brand kamu secara konsisten.
 
 ### 4. Pengalaman Belanja yang Bisa Dikontrol
 
@@ -99,13 +99,13 @@ Toko online yang baik bisa terintegrasi dengan sistem manajemen stok, akuntansi,
 - Marketing digital (SEO + iklan) = Rp 2-4 juta
 - **Total cost: Rp 3.3-5.5 juta/bulan**
 
-Selisihnya bisa Rp 2-6 juta per bulan — yang artinya toko online sendiri seharga Rp 20 juta bisa balik modal dalam **3-4 bulan**.
+Selisihnya bisa Rp 2-6 juta per bulan yang artinya toko online sendiri seharga Rp 20 juta bisa balik modal dalam **3-4 bulan**.
 
 ---
 
 ## Strategi Terbaik: Kombinasi Keduanya
 
-Bukan marketplace vs toko sendiri — tapi **bagaimana menggunakan keduanya secara strategis**:
+Bukan marketplace vs toko sendiri tapi **bagaimana menggunakan keduanya secara strategis**:
 
 ```
 Marketplace → Generate awareness dan transaksi pertama
@@ -167,9 +167,9 @@ Ini estimasi untuk berbagai skala:
 
 ## Kesimpulan
 
-Marketplace adalah alat, bukan rumah. Bisnis yang serius membangun **ekosistem digital sendiri** — dengan toko online custom sebagai pusatnya.
+Marketplace adalah alat, bukan rumah. Bisnis yang serius membangun **ekosistem digital sendiri** dengan toko online custom sebagai pusatnya.
 
-Jika kamu masih 100% bergantung pada marketplace, sekarang adalah waktu yang tepat untuk mulai transisi. Tidak perlu langsung meninggalkan marketplace — tapi mulailah bangun "rumah digital" yang benar-benar milik kamu.
+Jika kamu masih 100% bergantung pada marketplace, sekarang adalah waktu yang tepat untuk mulai transisi. Tidak perlu langsung meninggalkan marketplace tapi mulailah bangun "rumah digital" yang benar-benar milik kamu.
 
 ---
 

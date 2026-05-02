@@ -11,8 +11,16 @@ export interface BlogPost {
   excerpt: string;
   author: string;
   category: string;
+  tags: string[];
   image: string;
   content: string;
+  readingTime: number; // in minutes
+}
+
+function calculateReadingTime(content: string): number {
+  const wordsPerMinute = 200; // avg Indonesian reading speed
+  const wordCount = content.trim().split(/\s+/).length;
+  return Math.max(1, Math.ceil(wordCount / wordsPerMinute));
 }
 
 export function getAllPosts(): BlogPost[] {
@@ -34,10 +42,12 @@ export function getAllPosts(): BlogPost[] {
         title: data.title,
         date: data.date,
         excerpt: data.excerpt,
-        author: data.author,
+        author: data.author ?? 'BisnisRapi Team',
         category: data.category,
-        image: data.image,
+        tags: data.tags ?? [],
+        image: data.image ?? '',
         content,
+        readingTime: calculateReadingTime(content),
       } as BlogPost;
     });
 
@@ -55,12 +65,27 @@ export function getPostBySlug(slug: string): BlogPost | null {
       title: data.title,
       date: data.date,
       excerpt: data.excerpt,
-      author: data.author,
+      author: data.author ?? 'BisnisRapi Team',
       category: data.category,
-      image: data.image,
+      tags: data.tags ?? [],
+      image: data.image ?? '',
       content,
+      readingTime: calculateReadingTime(content),
     } as BlogPost;
-  } catch (error) {
+  } catch {
     return null;
   }
+}
+
+export function getRelatedPosts(currentSlug: string, category: string, limit = 3): BlogPost[] {
+  const all = getAllPosts();
+  return all
+    .filter((p) => p.slug !== currentSlug && p.category === category)
+    .slice(0, limit)
+    .concat(
+      all
+        .filter((p) => p.slug !== currentSlug && p.category !== category)
+        .slice(0, Math.max(0, limit - all.filter((p) => p.slug !== currentSlug && p.category === category).length))
+    )
+    .slice(0, limit);
 }

@@ -4,7 +4,7 @@ date: "2025-03-08"
 excerpt: "Pengusaha sukses bukan yang paling sibuk, tapi yang paling cerdas menggunakan waktu. Ini 10 workflow bisnis yang bisa langsung diotomasi untuk membebaskan waktu kamu."
 author: "BisnisRapi Team"
 category: "Otomasi & Produktivitas"
-image: "/blog/otomasi-bisnis-workflow/thumbnail.png"
+image: "/blog/otomasi-bisnis-workflow/thumbnail.webp"
 ---
 
 # Otomasi Bisnis: 10 Workflow yang Bisa Diotomasi Sekarang
@@ -23,12 +23,12 @@ Ini bukan tentang teknologi yang ribet atau mahal. Ini tentang mengidentifikasi 
 
 Otomasi bekerja paling baik untuk tugas yang:
 
-✅ **Berulang** — dilakukan dengan cara yang sama setiap kali  
-✅ **Berbasis aturan** — jika X terjadi, maka lakukan Y  
+✅ **Berulang** dilakukan dengan cara yang sama setiap kali  
+✅ **Berbasis aturan** jika X terjadi, maka lakukan Y  
 ✅ **Tidak butuh kreativitas atau judgment kompleks**  
 ✅ **Datanya sudah digital** (atau bisa didigitalisasi)
 
-Tugas yang butuh empati, kreativitas, negosiasi kompleks, atau judgment situasional — itu tetap butuh manusia.
+Tugas yang butuh empati, kreativitas, negosiasi kompleks, atau judgment situasional itu tetap butuh manusia.
 
 ---
 
@@ -144,7 +144,7 @@ Transaksi selesai → survey singkat terkirim otomatis H+3 → respon negatif tr
 **Dengan otomasi:**  
 Backup otomatis ke cloud setiap hari → verifikasi integritas backup → notifikasi jika backup gagal
 
-**Estimasi waktu yang dihemat:** Minimal — tapi mencegah disaster yang bisa cost Rp puluhan juta dalam data recovery atau bisnis terganggu
+**Estimasi waktu yang dihemat:** Minimal tapi mencegah disaster yang bisa cost Rp puluhan juta dalam data recovery atau bisnis terganggu
 
 ---
 
@@ -153,9 +153,9 @@ Backup otomatis ke cloud setiap hari → verifikasi integritas backup → notifi
 ### Prioritaskan Berdasarkan ROI
 
 Tidak semua otomasi diciptakan sama. Prioritaskan berdasarkan:
-1. **Waktu yang dihemat × frekuensi** — makin sering, makin valuable
-2. **Biaya error** — tugas yang kalau salah cost-nya besar harus diotomasi
-3. **Kemudahan implementasi** — mulai dari yang paling mudah untuk bangun momentum
+1. **Waktu yang dihemat × frekuensi** makin sering, makin valuable
+2. **Biaya error** tugas yang kalau salah cost-nya besar harus diotomasi
+3. **Kemudahan implementasi** mulai dari yang paling mudah untuk bangun momentum
 
 ### Framework 3 Langkah
 
@@ -173,15 +173,15 @@ Pilih tools yang tepat dan implementasikan. Mulai dengan versi simple, iterasi k
 ## Tools Otomasi yang Direkomendasikan
 
 **No-code automation:**
-- **Zapier / Make (Integromat)** — connect ratusan apps tanpa coding
-- **n8n** — open source, bisa self-host
+- **Zapier / Make (Integromat)** connect ratusan apps tanpa coding
+- **n8n** open source, bisa self-host
 
 **Marketing automation:**
-- **Mailchimp / Klaviyo** — email automation
-- **WhatsApp Business API** — WA automation (butuh approved number)
+- **Mailchimp / Klaviyo** email automation
+- **WhatsApp Business API** WA automation (butuh approved number)
 
 **Business operations:**
-- **BisnisRapi** — sistem terintegrasi dengan built-in workflow automation untuk UMKM
+- **BisnisRapi** sistem terintegrasi dengan built-in workflow automation untuk UMKM
 
 ---
 
@@ -191,7 +191,7 @@ Kalau kamu menghemat 10 jam/minggu dari otomasi, dan nilai 1 jam kerja kamu seba
 
 10 jam × Rp 200.000 × 4 minggu = **Rp 8.000.000/bulan**
 
-Itu nilai yang diciptakan dari otomasi — yang bisa kamu arahkan ke aktivitas strategis yang benar-benar menumbuhkan bisnis.
+Itu nilai yang diciptakan dari otomasi yang bisa kamu arahkan ke aktivitas strategis yang benar-benar menumbuhkan bisnis.
 
 ---
 

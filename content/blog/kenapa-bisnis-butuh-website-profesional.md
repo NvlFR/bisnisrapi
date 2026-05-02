@@ -4,7 +4,7 @@ date: "2025-02-01"
 excerpt: "Banyak UMKM yang mikir Instagram sudah cukup buat marketing. Nyatanya, bisnis tanpa website profesional kehilangan 70% potensi pelanggan. Ini alasannya dan cara mengatasinya."
 author: "BisnisRapi Team"
 category: "Tips Bisnis Digital"
-image: "/blog/kenapa-bisnis-butuh-website/thumbnail.png"
+image: "/blog/kenapa-bisnis-butuh-website/thumbnail.webp"
 ---
 
 # Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)
@@ -25,7 +25,7 @@ Bayangkan kamu sudah 5 tahun membangun bisnis di Instagram. Ratusan konten, ribu
 
 Dalam semua skenario di atas, **bisnis kamu berhenti**. Tidak ada jalan lain.
 
-Ini yang disebut *platform dependency risk* — ketergantungan fatal pada platform pihak ketiga yang tidak bisa kamu kontrol.
+Ini yang disebut *platform dependency risk* ketergantungan fatal pada platform pihak ketiga yang tidak bisa kamu kontrol.
 
 ---
 
@@ -45,17 +45,17 @@ Coba bayangkan: kamu mau sewa jasa senilai Rp 50 juta dari seseorang yang tidak 
 
 ### 3. Ditemukan di Google
 
-Instagram tidak muncul di Google Search untuk keyword bisnis spesifik. Ketika calon pelanggan search "jasa desain interior Bandung" atau "supplier baju anak grosir", mereka tidak akan menemukan profil Instagram kamu — kecuali kamu punya **website yang SEO-nya dioptimasi**.
+Instagram tidak muncul di Google Search untuk keyword bisnis spesifik. Ketika calon pelanggan search "jasa desain interior Bandung" atau "supplier baju anak grosir", mereka tidak akan menemukan profil Instagram kamu kecuali kamu punya **website yang SEO-nya dioptimasi**.
 
 ### 4. Informasi yang Komprehensif
 
 Instagram punya batasan caption, tidak bisa menampilkan tabel harga yang rapi, tidak bisa punya halaman FAQ yang proper, tidak bisa menjelaskan proses kerja secara detail.
 
-Website bisa menampilkan semua informasi yang dibutuhkan calon pelanggan — kapanpun, tanpa keterbatasan format.
+Website bisa menampilkan semua informasi yang dibutuhkan calon pelanggan kapanpun, tanpa keterbatasan format.
 
 ### 5. Kontrol Penuh atas Tampilan
 
-Di Instagram, kamu terkunci dengan layout grid yang sama untuk semua orang. Di website, brand kamu bisa tampil persis seperti yang kamu inginkan — font, warna, layout, animasi, semuanya.
+Di Instagram, kamu terkunci dengan layout grid yang sama untuk semua orang. Di website, brand kamu bisa tampil persis seperti yang kamu inginkan font, warna, layout, animasi, semuanya.
 
 ---
 
@@ -73,11 +73,11 @@ Instagram bagus untuk awareness. Tapi ketika seseorang serius mau beli, mereka b
 
 ### Fungsi 3: Portofolio dan Bukti Sosial yang Terstruktur
 
-Case studies, testimonial dengan foto, before-after, penghargaan, media coverage — semua ini jauh lebih powerful ketika ditampilkan dengan layout website yang dirancang untuk membangun kepercayaan.
+Case studies, testimonial dengan foto, before-after, penghargaan, media coverage semua ini jauh lebih powerful ketika ditampilkan dengan layout website yang dirancang untuk membangun kepercayaan.
 
 ### Fungsi 4: Sistem Email Marketing
 
-Dengan website, kamu bisa bangun email list. Dan email marketing masih salah satu channel dengan ROI tertinggi — rata-rata $42 kembali untuk setiap $1 yang diinvestasikan.
+Dengan website, kamu bisa bangun email list. Dan email marketing masih salah satu channel dengan ROI tertinggi rata-rata $42 kembali untuk setiap $1 yang diinvestasikan.
 
 Newsletter mingguan dengan konten berguna bisa menjaga hubungan dengan ratusan calon dan existing pelanggan secara otomatis.
 
@@ -120,17 +120,17 @@ Custom, tergantung kebutuhan spesifik
 
 ## Cara Memulai
 
-1. **Tentukan tujuan website kamu** — lead generation? E-commerce? Company profile?
-2. **Kumpulkan aset konten** — foto produk/tim yang berkualitas, deskripsi bisnis, testimoni
-3. **Pilih platform atau vendor yang tepat** — pastikan ada dukungan SEO dan mobile-responsive
-4. **Rencanakan konten** — setidaknya punya 5-10 halaman yang informatif
-5. **Hubungkan dengan tools lain** — Google Analytics, WhatsApp, payment gateway
+1. **Tentukan tujuan website kamu** lead generation? E-commerce? Company profile?
+2. **Kumpulkan aset konten** foto produk/tim yang berkualitas, deskripsi bisnis, testimoni
+3. **Pilih platform atau vendor yang tepat** pastikan ada dukungan SEO dan mobile-responsive
+4. **Rencanakan konten** setidaknya punya 5-10 halaman yang informatif
+5. **Hubungkan dengan tools lain** Google Analytics, WhatsApp, payment gateway
 
 ---
 
 ## Kesimpulan
 
-Instagram dan media sosial lainnya adalah channel marketing yang valuable — tapi mereka seharusnya jadi pintu masuk ke **ekosistem digital bisnis kamu yang sesungguhnya**, bukan fondasi utamanya.
+Instagram dan media sosial lainnya adalah channel marketing yang valuable tapi mereka seharusnya jadi pintu masuk ke **ekosistem digital bisnis kamu yang sesungguhnya**, bukan fondasi utamanya.
 
 Website profesional adalah fondasi digital bisnis yang sesungguhnya: milik kamu, bekerja terus-menerus, dan membangun aset jangka panjang.
 

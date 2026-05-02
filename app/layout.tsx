@@ -31,8 +31,6 @@ export const metadata: Metadata = {
 
   description: 'Sistem manajemen bisnis digital untuk UMKM dan startup. Digitalisasi operasional, website profesional, dan e-commerce dalam satu sistem terpusat yang siap scale.',
 
-  generator: 'v0.app',
-
   keywords: [
     'sistem bisnis digital',
     'web app manajemen bisnis',
