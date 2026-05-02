@@ -14,6 +14,7 @@ const navLinks = [
   { href: "/#cara-kerja", label: "Cara Kerja" },
   { href: "/#fitur", label: "Fitur" },
   { href: "/#portfolio", label: "Portfolio" },
+  { href: "/solusi", label: "Solusi Industri" },
   { href: "/blog", label: "Blog" },
   { href: "/#faq", label: "FAQ" },
 ];
