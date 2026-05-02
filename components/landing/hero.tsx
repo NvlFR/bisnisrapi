@@ -44,10 +44,10 @@ export function Hero() {
           transition={{ duration: 1, ease: "easeOut" }}
         >
           <Image
-            src="/Hero1.svg"
+            src="/Hero1.webp"
             alt="Business team collaborating"
             fill
-            className="object-cover"
+            className="object-cover transition-opacity duration-1000"
             sizes="(max-width: 1024px) 100vw, 50vw"
             style={{
               maskImage: 'linear-gradient(to left, black 60%, transparent 100%)',
@@ -55,7 +55,7 @@ export function Hero() {
             }}
             priority
             fetchPriority="high"
-            quality={90}
+            quality={80}
           />
         </m.div>
       </div>
