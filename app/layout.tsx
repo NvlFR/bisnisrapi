@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { Navbar } from '@/components/landing/navbar'
+import { Footer } from '@/components/landing/footer'
 import { FramerProvider } from '@/components/providers/framer-provider'
 import { SmoothScroll } from '@/components/providers/smooth-scroll'
 import Script from 'next/script'
@@ -25,33 +26,35 @@ export const viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bisnis-rapi.my.id'),
+  metadataBase: new URL('https://bisnisrapi.com'),
 
-  title: 'BisnisRapi | Digitalisasi Operasional Bisnis Kamu Jadi Lebih Rapi & Terstruktur',
+  title: {
+    default: 'BisnisRapi | Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
+    template: '%s | BisnisRapi',
+  },
 
-  description: 'Sistem manajemen bisnis digital untuk UMKM dan startup. Digitalisasi operasional, website profesional, dan e-commerce dalam satu sistem terpusat yang siap scale.',
+  description: 'Digitalisasi operasional bisnis UMKM dengan sistem kasir, manajemen stok, dan laporan otomatis. Solusi custom untuk 100+ industri di Indonesia. Konsultasi gratis!',
 
   keywords: [
     'sistem bisnis digital',
-    'web app manajemen bisnis',
-    'software bisnis custom',
-    'digitalisasi bisnis UMKM',
+    'aplikasi kasir UMKM',
+    'software manajemen bisnis',
+    'digitalisasi bisnis Indonesia',
     'sistem operasional bisnis',
     'website bisnis profesional',
-    'ecommerce custom indonesia',
-    'bisnis rapi'
+    'toko online custom',
+    'BisnisRapi',
+    'sistem kasir Indonesia',
+    'software UMKM',
   ],
 
   authors: [{ name: 'BisnisRapi Team' }],
 
   openGraph: {
-    title: 'BisnisRapi - Digitalisasi Operasional Bisnis Jadi Lebih Rapi & Efisien',
-
-    description: 'Solusi sistem bisnis digital kustom untuk UMKM dan startup. Satukan operasional, data, dan workflow dalam satu sistem yang terstruktur dan scalable.',
-
-    url: 'https://bisnis-rapi.my.id',
+    title: 'BisnisRapi - Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
+    description: 'Digitalisasi operasional bisnis UMKM dengan sistem kasir, manajemen stok, dan laporan otomatis. Solusi custom untuk 100+ industri. Konsultasi gratis!',
+    url: 'https://bisnisrapi.com',
     siteName: 'BisnisRapi',
-
     images: [
       {
         url: '/og-image.png',
@@ -60,24 +63,24 @@ export const metadata: Metadata = {
         alt: 'BisnisRapi - Sistem Bisnis Digital Terpusat',
       },
     ],
-
     locale: 'id_ID',
     type: 'website',
   },
 
   twitter: {
     card: 'summary_large_image',
-
-    title: 'BisnisRapi - Operasional Bisnis Lebih Rapi dengan Sistem Digital',
-
-    description: 'Bukan sekadar tools, tapi sistem bisnis digital yang membantu operasional lebih terstruktur dan siap berkembang.',
-
+    title: 'BisnisRapi - Sistem Manajemen Bisnis Digital UMKM',
+    description: 'Digitalisasi operasional bisnis dengan sistem kasir, stok, dan laporan otomatis untuk 100+ industri di Indonesia.',
     images: ['/og-image.png'],
   },
 
   icons: {
     icon: '/Logo.png',
     apple: '/Logo.png',
+  },
+
+  alternates: {
+    canonical: 'https://bisnisrapi.com',
   },
 }
 
@@ -112,6 +115,7 @@ export default function RootLayout({
           <SmoothScroll>
             <Navbar />
             {children}
+            <Footer />
           </SmoothScroll>
         </FramerProvider>
         {process.env.NODE_ENV === 'production' && <Analytics />}

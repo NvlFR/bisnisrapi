@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { Footer } from '@/components/landing/footer';
-import { Navbar } from '@/components/landing/navbar';
 import { 
   ArrowRight, 
   CheckCircle2, 
@@ -14,12 +13,9 @@ import {
   Zap, 
   PhoneCall,
   BarChart3,
-  Users,
   Database,
-  Lock,
   Headset,
   Smartphone,
-  Star,
   ChevronRight
 } from 'lucide-react';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
@@ -35,19 +31,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!data) return {};
 
   const title = `Sistem Kasir & Manajemen Digital untuk ${data.name} | BisnisRapi`;
-  const description = `Solusi digitalisasi khusus ${data.name}: atasi ${data.painPoint.toLowerCase()} dengan sistem kasir, manajemen stok, dan laporan otomatis dari BisnisRapi.`;
+  const description = data.metaDescription;
 
   return {
     title,
     description,
-    keywords: [`sistem kasir ${data.name}`, `software ${data.name}`, `digitalisasi ${data.name}`, 'BisnisRapi', 'sistem bisnis UMKM'],
+    keywords: data.keywords,
     openGraph: {
       title,
       description,
       type: 'website',
+      images: [{ url: `/og/solusi/${industri}.png`, width: 1200, height: 630, alt: data.imageAlt }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
     },
     alternates: {
-      canonical: `https://bisnisrapi.com/solusi/${industri}`,
+      canonical: `https://bisnis-rapi.my.id/solusi/${industri}`,
     },
   };
 }
@@ -67,29 +69,68 @@ export default async function IndustrySolutionPage({ params }: Props) {
   }
 
   // JSON-LD structured data for SEO
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Service',
-    name: `Sistem Bisnis Digital untuk ${data.name}`,
-    description: `Solusi kasir dan manajemen operasional khusus ${data.name} dari BisnisRapi`,
-    provider: {
-      '@type': 'Organization',
-      name: 'BisnisRapi',
-      url: 'https://bisnisrapi.com',
+  const jsonLd = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Service',
+      name: `Sistem Bisnis Digital untuk ${data.name}`,
+      description: `Solusi kasir dan manajemen operasional khusus ${data.name} dari BisnisRapi`,
+      provider: {
+        '@type': 'Organization',
+        name: 'BisnisRapi',
+        url: 'https://bisnis-rapi.my.id',
+        contactPoint: {
+          '@type': 'ContactPoint',
+          contactType: 'customer service',
+          availableLanguage: 'Indonesian',
+        },
+      },
+      serviceType: 'Software as a Service',
+      areaServed: 'ID',
     },
-    serviceType: 'Software as a Service',
-    areaServed: 'ID',
-  };
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: `Apakah sistem BisnisRapi cocok untuk ${data.name.toLowerCase()} skala UMKM?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Sangat cocok. Justru memulai dengan sistem yang benar dari awal akan membangun fondasi data dan SOP yang kuat untuk bisnis Anda berkembang.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Berapa lama proses setup hingga sistem siap dipakai?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Untuk paket standar, biasanya 3–7 hari kerja termasuk migrasi data dan konfigurasi. Jika ada kustomisasi tambahan, waktu disesuaikan tingkat kerumitannya.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Apakah karyawan perlu keahlian IT khusus?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Tidak perlu. Antarmuka dirancang sangat intuitif. Rata-rata karyawan baru bisa mahir dalam 1–2 hari setelah training.',
+          },
+        },
+      ],
+    },
+  ];
 
   return (
     <main className="min-h-screen bg-background flex flex-col font-sans">
       {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd[0]) }}
       />
-
-      <Navbar />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd[1]) }}
+      />
 
       {/* ── 1. HERO ── */}
       <section className="pt-28 pb-16 md:pt-40 md:pb-24 px-4 relative overflow-hidden">
@@ -307,17 +348,54 @@ export default async function IndustrySolutionPage({ params }: Props) {
                   </li>
                 </ul>
               </div>
-              <div className="aspect-video bg-secondary rounded-xl flex items-center justify-center text-7xl relative overflow-hidden">
-                {data.icon}
-                <div className="absolute inset-0 bg-gradient-to-tr from-brand-start/10 to-transparent" />
+              <div className="aspect-video bg-secondary rounded-xl overflow-hidden relative border border-border">
+                <div className="absolute inset-0 flex flex-col p-4 gap-2">
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-2xl">{data.icon}</span>
+                    <div className="h-2 w-24 bg-brand-start/30 rounded-full" />
+                  </div>
+                  <div className="flex-1 grid grid-cols-2 gap-2">
+                    {[...Array(4)].map((_, i) => (
+                      <div key={i} className="bg-background/60 rounded-lg p-2 border border-border/50">
+                        <div className="h-1.5 w-12 bg-muted-foreground/20 rounded mb-1" />
+                        <div className="h-3 w-16 bg-brand-start/30 rounded" />
+                      </div>
+                    ))}
+                  </div>
+                  <div className="h-6 bg-brand-start/20 rounded-lg flex items-center px-2">
+                    <div className="h-2 w-32 bg-brand-start/40 rounded" />
+                  </div>
+                </div>
+                <div className="absolute inset-0 bg-gradient-to-tr from-brand-start/5 to-transparent" />
               </div>
             </div>
 
             {/* Fitur Dashboard & Laporan */}
             <div className="grid md:grid-cols-2 gap-6 items-center p-8 bg-background rounded-2xl border border-border">
-              <div className="order-2 md:order-1 aspect-video bg-secondary rounded-xl flex flex-col items-center justify-center gap-3 text-muted-foreground p-6">
-                <BarChart3 className="w-12 h-12 opacity-40" />
-                <span className="text-sm font-mono opacity-60">Dashboard Real-Time</span>
+              <div className="order-2 md:order-1 aspect-video bg-secondary rounded-xl overflow-hidden relative border border-border">
+                <div className="absolute inset-0 flex flex-col p-4 gap-2">
+                  <div className="text-xs font-semibold text-muted-foreground mb-1">📊 Laporan Hari Ini</div>
+                  <div className="flex gap-2 flex-1">
+                    <div className="flex-1 bg-background/60 rounded-lg p-2 border border-border/50 flex flex-col justify-between">
+                      <div className="h-1.5 w-10 bg-muted-foreground/20 rounded" />
+                      <div className="space-y-1">
+                        {[60, 80, 45, 90, 70].map((h, i) => (
+                          <div key={i} className="flex items-end gap-0.5 h-8">
+                            <div className="w-3 bg-brand-start/40 rounded-sm" style={{ height: `${h}%` }} />
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                    <div className="flex flex-col gap-2">
+                      {['Omzet', 'Transaksi', 'Laba'].map((label) => (
+                        <div key={label} className="bg-background/60 rounded-lg p-2 border border-border/50">
+                          <div className="text-[9px] text-muted-foreground">{label}</div>
+                          <div className="h-2.5 w-12 bg-brand-end/30 rounded mt-0.5" />
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
               </div>
               <div className="order-1 md:order-2">
                 <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/10 text-blue-500 text-xs font-bold uppercase tracking-wider mb-4">
@@ -361,9 +439,30 @@ export default async function IndustrySolutionPage({ params }: Props) {
                   </li>
                 </ul>
               </div>
-              <div className="aspect-video bg-secondary rounded-xl flex flex-col items-center justify-center gap-3 text-muted-foreground p-6">
-                <Users className="w-12 h-12 opacity-40" />
-                <span className="text-sm font-mono opacity-60">Role Management</span>
+              <div className="aspect-video bg-secondary rounded-xl overflow-hidden relative border border-border">
+                <div className="absolute inset-0 flex flex-col p-4 gap-2">
+                  <div className="text-xs font-semibold text-muted-foreground mb-1">👥 Manajemen Akses</div>
+                  {['Owner', 'Manager', 'Kasir'].map((role, i) => (
+                    <div key={role} className="flex items-center justify-between bg-background/60 rounded-lg px-3 py-1.5 border border-border/50">
+                      <div className="flex items-center gap-2">
+                        <div className={`w-5 h-5 rounded-full text-[8px] flex items-center justify-center font-bold ${
+                          i === 0 ? 'bg-brand-start/30 text-brand-start' :
+                          i === 1 ? 'bg-blue-500/30 text-blue-500' :
+                          'bg-muted-foreground/20 text-muted-foreground'
+                        }`}>{role[0]}</div>
+                        <span className="text-xs font-medium">{role}</span>
+                      </div>
+                      <div className="flex gap-1">
+                        {[...Array(i === 0 ? 3 : i === 1 ? 2 : 1)].map((_, j) => (
+                          <div key={j} className="w-2 h-2 rounded-full bg-brand-start/40" />
+                        ))}
+                        {[...Array(3 - (i === 0 ? 3 : i === 1 ? 2 : 1))].map((_, j) => (
+                          <div key={j} className="w-2 h-2 rounded-full bg-border" />
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
@@ -396,80 +495,123 @@ export default async function IndustrySolutionPage({ params }: Props) {
         </div>
       </section>
 
-      {/* ── 5. MANFAAT / ROI ── */}
+      {/* ── 5. PERBANDINGAN SEBELUM vs SESUDAH ── */}
       <section className="py-20 bg-muted/30 border-y border-border/50">
         <div className="container mx-auto px-4 max-w-5xl">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Apa yang Berubah Setelah Pakai BisnisRapi?
+              Sebelum & Sesudah Pakai Sistem Digital
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
-              Bukan sekadar janji — ini hasil nyata yang dirasakan klien kami.
+              Ini perbedaan nyata yang biasanya pemilik {data.name.toLowerCase()} rasakan setelah sistemnya rapi.
             </p>
           </div>
 
-          <div className="grid md:grid-cols-3 gap-6">
-            {[
-              {
-                icon: <Clock className="w-8 h-8" />,
-                color: 'text-green-500',
-                bg: 'bg-green-500/10',
-                title: 'Hemat Waktu 70%',
-                desc: 'Pekerjaan administratif yang biasanya makan berjam-jam kini selesai otomatis. Anda bisa fokus ke strategi dan pengembangan bisnis.',
-              },
-              {
-                icon: <Lock className="w-8 h-8" />,
-                color: 'text-blue-500',
-                bg: 'bg-blue-500/10',
-                title: 'Cegah Kebocoran Dana',
-                desc: 'Tidak ada lagi selisih laci kasir atau barang gudang yang hilang misterius. Setiap transaksi terpantau dan tercatat.',
-              },
-              {
-                icon: <TrendingUp className="w-8 h-8" />,
-                color: 'text-purple-500',
-                bg: 'bg-purple-500/10',
-                title: 'Siap Ekspansi',
-                desc: 'SOP yang terintegrasi di sistem membuat Anda siap buka cabang ke-2 atau ke-10 tanpa harus mulai dari nol lagi.',
-              },
-            ].map((item, i) => (
-              <div
-                key={i}
-                className="bg-background p-8 rounded-2xl border border-border text-center hover:shadow-sm transition-all"
-              >
-                <div className={`w-16 h-16 ${item.bg} ${item.color} rounded-full flex items-center justify-center mx-auto mb-5`}>
-                  {item.icon}
-                </div>
-                <h3 className="text-xl font-bold mb-3">{item.title}</h3>
-                <p className="text-muted-foreground leading-relaxed">{item.desc}</p>
+          <div className="grid md:grid-cols-2 gap-6">
+            {/* Before */}
+            <div className="p-7 rounded-2xl bg-red-500/5 border border-red-500/20">
+              <div className="flex items-center gap-2 mb-5">
+                <span className="text-lg">😓</span>
+                <h3 className="font-bold text-lg text-red-500">Tanpa Sistem Digital</h3>
               </div>
-            ))}
+              <ul className="space-y-3">
+                {[
+                  `${data.painPoint}`,
+                  'Laporan keuangan dikerjakan manual di akhir bulan',
+                  'Stok tidak bisa dipercaya — sering ada selisih',
+                  'Kalau pemilik tidak ada, operasional kacau',
+                  'Sulit tahu produk mana yang untung, mana yang tidak',
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3 text-sm">
+                    <XCircle className="w-4 h-4 text-red-500 mt-0.5 flex-shrink-0" />
+                    <span className="text-muted-foreground">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* After */}
+            <div className="p-7 rounded-2xl bg-brand-start/5 border border-brand-start/20">
+              <div className="flex items-center gap-2 mb-5">
+                <span className="text-lg">✅</span>
+                <h3 className="font-bold text-lg text-brand-start">Dengan BisnisRapi</h3>
+              </div>
+              <ul className="space-y-3">
+                {[
+                  data.solution,
+                  'Laporan keuangan terbentuk otomatis setiap hari',
+                  'Stok akurat — setiap transaksi langsung terpotong',
+                  'Pantau bisnis dari HP, di mana saja kapan saja',
+                  'Lihat produk terlaris dan margin keuntungan real-time',
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3 text-sm">
+                    <CheckCircle2 className="w-4 h-4 text-brand-start mt-0.5 flex-shrink-0" />
+                    <span className="text-muted-foreground">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* ── 6. TESTIMONI ── */}
+      {/* ── 6. HASIL NYATA ── */}
       <section className="py-20 bg-background">
-        <div className="container mx-auto px-4 max-w-4xl text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-12">
-            Dipercaya Ratusan Pengusaha Indonesia
-          </h2>
-
-          {/* Stars */}
-          <div className="flex justify-center gap-1 mb-6">
-            {[...Array(5)].map((_, i) => (
-              <Star key={i} className="w-6 h-6 fill-yellow-400 text-yellow-400" />
-            ))}
+        <div className="container mx-auto px-4 max-w-5xl">
+          <div className="text-center mb-14">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Hasil yang Bisa Kamu Ekspektasikan
+            </h2>
+            <p className="text-muted-foreground max-w-xl mx-auto text-lg">
+              Berdasarkan pola umum yang kami lihat dari bisnis yang berpindah dari sistem manual ke digital.
+            </p>
           </div>
 
-          <blockquote className="relative p-8 bg-secondary/50 rounded-2xl max-w-2xl mx-auto">
-            <div className="text-5xl text-brand-start absolute top-3 left-5 opacity-20 font-serif leading-none">"</div>
-            <p className="text-lg md:text-xl italic font-medium leading-relaxed mb-5 relative z-10">
-              Semenjak pakai sistem dari BisnisRapi, operasional {data.name.toLowerCase()} saya jadi sangat tertata. Nggak pusing lagi mikirin data hilang atau kasir yang error. Saya bisa pantau toko dari rumah sambil ngopi.
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mb-16">
+            {[
+              {
+                metric: '< 10 menit',
+                label: 'Waktu tutup kasir harian',
+                before: 'Sebelumnya: 45–60 menit rekap manual',
+                icon: Clock,
+              },
+              {
+                metric: '~95%',
+                label: 'Akurasi stok barang',
+                before: 'Sebelumnya: Sering selisih, susah dilacak',
+                icon: TrendingUp,
+              },
+              {
+                metric: 'Real-time',
+                label: 'Laporan omzet harian',
+                before: 'Sebelumnya: Baru tahu angka saat akhir bulan',
+                icon: BarChart3,
+              },
+            ].map((item, i) => {
+              const Icon = item.icon;
+              return (
+                <div key={i} className="p-6 rounded-2xl bg-card border border-border/50 text-center hover:shadow-lg transition-shadow">
+                  <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-brand-start to-brand-end flex items-center justify-center mx-auto mb-4">
+                    <Icon className="w-6 h-6 text-white" />
+                  </div>
+                  <div className="text-3xl font-black text-foreground mb-1">{item.metric}</div>
+                  <div className="font-semibold text-foreground mb-3">{item.label}</div>
+                  <div className="text-xs text-muted-foreground bg-secondary/50 rounded-lg px-3 py-2">
+                    {item.before}
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          {/* Disclaimer honest */}
+          <div className="flex items-start gap-3 p-5 bg-secondary/40 rounded-xl border border-border/50 max-w-2xl mx-auto text-sm text-muted-foreground">
+            <ShieldCheck className="w-5 h-5 text-brand-start flex-shrink-0 mt-0.5" />
+            <p>
+              Angka di atas adalah estimasi umum berdasarkan perbandingan operasional manual vs. digital. 
+              Hasil aktual bervariasi tergantung skala bisnis, konsistensi penggunaan, dan kondisi spesifik masing-masing usaha.
             </p>
-            <footer className="font-semibold text-foreground">
-              — Pemilik {data.name}, Klien BisnisRapi
-            </footer>
-          </blockquote>
+          </div>
         </div>
       </section>
 
@@ -627,6 +769,7 @@ export default async function IndustrySolutionPage({ params }: Props) {
         </div>
       </section>
 
+      {/* ── FOOTER ── */}
       <Footer />
     </main>
   );

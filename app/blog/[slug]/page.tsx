@@ -4,7 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Footer } from '@/components/landing/footer';
+
 import { Calendar, User, ArrowLeft, Clock, ArrowRight } from 'lucide-react';
 import { Metadata } from 'next';
 import { ShareButtons } from '@/components/blog/share-buttons';
@@ -256,7 +256,7 @@ export default async function BlogPostPage({ params }: Props) {
           </section>
         )}
 
-        <Footer />
+
       </main>
     </>
   );

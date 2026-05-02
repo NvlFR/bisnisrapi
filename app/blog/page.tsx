@@ -1,6 +1,5 @@
 import { getAllPosts } from '@/lib/blog';
-import { Navbar } from '@/components/landing/navbar';
-import { Footer } from '@/components/landing/footer';
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -26,7 +25,6 @@ export default function BlogPage() {
 
   return (
     <main className="min-h-screen bg-background">
-      <Navbar />
 
       {/* Hero Section */}
       <section className="relative pt-32 pb-16 overflow-hidden">
@@ -199,7 +197,7 @@ export default function BlogPage() {
         </div>
       </section>
 
-      <Footer />
+
     </main>
   );
 }

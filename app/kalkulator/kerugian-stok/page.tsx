@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { Footer } from '@/components/landing/footer';
+
 import { KalkulatorKerugianStokClient } from '@/components/tools/kalkulator-kerugian-stok';
 
 export const metadata: Metadata = {
@@ -16,7 +16,7 @@ export default function KalkulatorKerugianStokPage() {
   return (
     <main className="min-h-screen bg-background flex flex-col pt-24">
       <KalkulatorKerugianStokClient />
-      <Footer />
+
     </main>
   );
 }
