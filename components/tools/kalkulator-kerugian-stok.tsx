@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { ArrowRight, Calculator, AlertTriangle } from 'lucide-react';
 import Link from 'next/link';
-import { motion } from 'framer-motion';
+import { m } from 'framer-motion';
 
 export function KalkulatorKerugianStokClient() {
   const [stokBulanan, setStokBulanan] = useState<number>(50000000);
@@ -40,7 +40,7 @@ export function KalkulatorKerugianStokClient() {
 
         <div className="grid md:grid-cols-2 gap-8 items-start">
           {/* Form Input */}
-          <motion.div 
+          <m.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             className="bg-card p-6 md:p-8 rounded-3xl border border-border/50 shadow-sm"
@@ -86,10 +86,10 @@ export function KalkulatorKerugianStokClient() {
                 </p>
               </div>
             </div>
-          </motion.div>
+          </m.div>
 
           {/* Result Panel */}
-          <motion.div 
+          <m.div 
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.2 }}
@@ -125,7 +125,7 @@ export function KalkulatorKerugianStokClient() {
                 </Link>
               </div>
             </div>
-          </motion.div>
+          </m.div>
         </div>
       </div>
     </section>
