@@ -4,8 +4,7 @@ date: "2025-03-01"
 excerpt: "Scale up bukan sekadar 'nambah omzet'. Ada 7 tanda kamu sudah siap tumbuh, dan ada pola yang membedakan bisnis yang berhasil scale dari yang malah collapse."
 author: "BisnisRapi Team"
 category: "Strategi Pertumbuhan"
-image:
-  prompt: "Growth chart illustration with an ascending line representing business growth, with milestone markers. Small business icons evolving from a single stall to a multi-branch operation. Indonesian business aesthetic, green and gold color palette, optimistic and energetic style."
+image: "/blog/cara-scale-up-bisnis-umkm/thumbnail.png"
 ---
 
 # Cara Scale Up Bisnis UMKM: Tanda Kamu Siap dan Langkah Konkretnya

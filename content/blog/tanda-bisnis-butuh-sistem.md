@@ -4,7 +4,7 @@ date: "2026-05-02"
 excerpt: "Pernah ngerasa capek banget tapi untung nggak kelihatan? Bisa jadi bisnis lu butuh sistem. Cek 5 tandanya di sini!"
 author: "Team BisnisRapi"
 category: "Tips Bisnis"
-image: "/blog/tanda-bisnis-butuh-sistem.webp"
+image: "/blog/tanda-bisnis-butuh-sistem/thumbnail.webp"
 ---
 
 Halo Boss! Pernah nggak sih lu ngerasa udah kerja dari pagi sampe malem, barang laku keras, tapi pas akhir bulan ditanya untungnya berapa... lu malah bingung? 

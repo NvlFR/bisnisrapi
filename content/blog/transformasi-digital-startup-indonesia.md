@@ -4,7 +4,7 @@ date: "2025-03-15"
 excerpt: "Banyak startup Indonesia bagus di produk tapi lemah di sistem internal. Akibatnya, pertumbuhan malah jadi masalah. Ini panduan membangun infrastruktur digital yang mendukung pertumbuhan cepat."
 author: "BisnisRapi Team"
 category: "Startup & Teknologi"
-image: "blog/09-transformasi-digital-startup-indonesia/"
+image: "/blog/transformasi-digital-startup-indonesia/thumbnail.png"
 
 ---
 

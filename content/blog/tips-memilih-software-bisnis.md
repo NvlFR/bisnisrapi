@@ -4,7 +4,7 @@ date: "2026-04-10"
 excerpt: "Jangan asal beli software mahal tapi nggak kepake. Ini panduan buat milih sistem yang bener-bener lu butuhin."
 author: "Team BisnisRapi"
 category: "Edukasi"
-image: "/blog/pilih-software.webp"
+image: "/blog/tips-memilih-software-bisnis/thumbnail.png"
 ---
 
 Sekarang banyak banget software bisnis di luar sana. Ada yang murah, ada yang jutaan per bulan. Masalahnya, nggak semua cocok buat bisnis lu.

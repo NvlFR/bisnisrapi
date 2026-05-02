@@ -4,7 +4,7 @@ date: "2025-01-15"
 excerpt: "Mau digitalisasi bisnis UMKM tapi bingung mulai dari mana? Panduan lengkap ini membahas langkah-langkah konkret, tools yang dibutuhkan, dan kesalahan umum yang harus dihindari."
 author: "BisnisRapi Team"
 category: "Panduan Bisnis"
-image: "blog/cara-digitalisasi-bisnis-umkm/1.jpg" 
+image: "/blog/cara-digitalisasi-bisnis-umkm/thumbnail.jpg" 
 # ada lagi gambarnya di cara-digitalisasi-bisnis-umkm/
 
 ---

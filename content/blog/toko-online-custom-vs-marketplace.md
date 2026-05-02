@@ -4,8 +4,7 @@ date: "2025-02-15"
 excerpt: "Banyak seller marketplace yang tidak sadar mereka sedang membangun bisnis di atas tanah orang lain. Pelajari kapan harus punya toko online sendiri dan bagaimana caranya."
 author: "BisnisRapi Team"
 category: "E-Commerce"
-image:
-  prompt: "Side-by-side comparison illustration: left shows a colorful marketplace (like Tokopedia/Shopee) crowded with competing products, right shows a clean branded e-commerce website with a single highlighted product. Indonesian e-commerce context, modern flat design, warm tones."
+image: "/blog/toko-online-custom-vs-marketplace/thumbnail.png"
 ---
 
 # Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan?

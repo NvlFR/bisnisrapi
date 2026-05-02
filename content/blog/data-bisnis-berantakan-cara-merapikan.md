@@ -4,8 +4,7 @@ date: "2025-02-22"
 excerpt: "Sebagian besar UMKM punya banyak data bisnis tapi tidak tahu cara membacanya. Pelajari cara mengorganisir data bisnis kamu dan menggunakannya sebagai kompas pertumbuhan."
 author: "BisnisRapi Team"
 category: "Manajemen Data"
-image:
-  prompt: "Abstract data visualization illustration: scattered colorful data points on the left transforming into organized, clean charts and dashboards on the right. Business context with small icons of receipts, customer profiles, and inventory. Dark blue and teal color scheme, modern tech aesthetic."
+image: "/blog/data-bisnis-berantakan-cara-merapikan/thumbnail.png"
 ---
 
 # Data Bisnis Berantakan? Cara Merapikan dan Memanfaatkannya

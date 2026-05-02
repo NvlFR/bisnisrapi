@@ -4,7 +4,7 @@ date: "2026-04-25"
 excerpt: "Website bukan cuma pajangan, tapi kantor digital lu yang buka 24 jam. Yuk cari tau kenapa lu butuh website profesional."
 author: "Team BisnisRapi"
 category: "Strategi"
-image: "/blog/manfaat-website.png"
+image: "/blog/manfaat-website-profesional/thumbnail.png"
 ---
 
 Pernah nggak lu mau beli barang mahal tapi pas nyari di Google, tokonya nggak ada websitenya? Pasti lu agak ragu kan?

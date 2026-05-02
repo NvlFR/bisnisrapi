@@ -4,7 +4,7 @@ date: "2026-04-05"
 excerpt: "Mau buka cabang tapi takut berantakan? Teknologi adalah kunci buat bikin bisnis lu bisa diduplikasi dengan mudah."
 author: "Team BisnisRapi"
 category: "Strategi"
-image: "/blog/scale-up-bisnis.webp"
+image: "/blog/scale-up-dengan-teknologi/thumbnail.png"
 ---
 
 Mimpi setiap pengusaha adalah punya bisnis yang makin gede dan punya banyak cabang. Tapi faktanya, makin banyak cabang, makin pusing ngontrolnya.

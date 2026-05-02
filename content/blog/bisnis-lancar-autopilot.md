@@ -4,7 +4,7 @@ date: "2026-03-20"
 excerpt: "Pengen bisnis jalan sendiri biar lu bisa liburan? Sistem adalah 'karyawan' terbaik yang pernah lu punya."
 author: "Team BisnisRapi"
 category: "Operasional"
-image: "/blog/bisnis-autopilot.webp"
+image: "/blog/bisnis-lancar-autopilot/thumbnail.png"
 ---
 
 Definisi bisnis yang sehat adalah bisnis yang tetep jalan meskipun owner-nya lagi tidur atau liburan. Kalau bisnis lu berhenti pas lu nggak ada, itu namanya lu bukan punya bisnis, tapi "punya pekerjaan".

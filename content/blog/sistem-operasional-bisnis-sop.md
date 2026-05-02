@@ -4,8 +4,7 @@ date: "2025-02-08"
 excerpt: "Bisnis yang bergantung 100% pada pemiliknya adalah bisnis yang rentan. Pelajari cara membangun sistem operasional yang membuat bisnis tetap berjalan — bahkan ketika kamu lagi liburan."
 author: "BisnisRapi Team"
 category: "Manajemen Operasional"
-image:
-  prompt: "Illustration of a business process flowchart floating above a desk, with arrows connecting different departments like Sales, Finance, Operations, and Customer Service. Clean corporate style with Indonesian elements, teal and orange accent colors, modern flat design."
+image: "/blog/sistem-operasional-bisnis-sop/thumbnail.png"
 ---
 
 # Sistem Operasional Bisnis: Cara Buat SOP yang Membuat Bisnis Berjalan Tanpa Kamu

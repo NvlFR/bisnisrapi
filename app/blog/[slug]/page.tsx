@@ -5,8 +5,9 @@ import remarkGfm from 'remark-gfm';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Footer } from '@/components/landing/footer';
-import { Calendar, User, ArrowLeft, Share2, Facebook, Twitter, LinkIcon } from 'lucide-react';
+import { Calendar, User, ArrowLeft } from 'lucide-react';
 import { Metadata } from 'next';
+import { ShareButtons } from '@/components/blog/share-buttons';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -113,20 +114,7 @@ export default async function BlogPostPage({ params }: Props) {
 
           {/* Share Section */}
           <div className="border-t border-border pt-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
-            <div className="flex items-center gap-4">
-              <span className="text-sm font-semibold">Bagikan:</span>
-              <div className="flex gap-2">
-                <button className="w-10 h-10 rounded-full border border-border flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all">
-                  <Facebook className="w-4 h-4" />
-                </button>
-                <button className="w-10 h-10 rounded-full border border-border flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all">
-                  <Twitter className="w-4 h-4" />
-                </button>
-                <button className="w-10 h-10 rounded-full border border-border flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all">
-                  <LinkIcon className="w-4 h-4" />
-                </button>
-              </div>
-            </div>
+            <ShareButtons title={post.title} />
 
             <div className="flex items-center gap-4">
                <Link 

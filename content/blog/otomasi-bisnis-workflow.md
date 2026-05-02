@@ -4,8 +4,7 @@ date: "2025-03-08"
 excerpt: "Pengusaha sukses bukan yang paling sibuk, tapi yang paling cerdas menggunakan waktu. Ini 10 workflow bisnis yang bisa langsung diotomasi untuk membebaskan waktu kamu."
 author: "BisnisRapi Team"
 category: "Otomasi & Produktivitas"
-image:
-  prompt: "Futuristic automation concept illustration: robotic arms and gears working alongside human hands on a conveyor belt of business tasks. Workflow arrows, clock icons, and checkmarks floating around. Clean tech aesthetic, dark background with neon cyan and orange accents."
+image: "/blog/otomasi-bisnis-workflow/thumbnail.png"
 ---
 
 # Otomasi Bisnis: 10 Workflow yang Bisa Diotomasi Sekarang

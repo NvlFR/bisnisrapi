@@ -4,7 +4,7 @@ date: "2026-04-28"
 excerpt: "Banyak yang bilang digitalisasi itu penting, tapi kenapa sih? Ternyata ada alasan kuat di balik 'paksaan' jaman ini."
 author: "Team BisnisRapi"
 category: "Edukasi"
-image: "/blog/digitalisasi-bisnis.png"
+image: "/blog/kenapa-digitalisasi-bisnis-wajib/thumbnail.png"
 ---
 
 Halo Boss! Lu pasti sering denger istilah "Digitalisasi Bisnis". Tapi jujur deh, lu ngerasa itu emang butuh atau cuma ikut-ikutan tren doang?

@@ -4,7 +4,7 @@ date: "2025-03-22"
 excerpt: "Bayar software per bulan selamanya, atau invest sekali bangun sistem sendiri? Ini analisis jujur biaya, risiko, dan kapan masing-masing pilihan masuk akal untuk bisnis kamu."
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
-image: "blog/aplikasi-bisnis-custom-vs-saas/"
+image: "/blog/aplikasi-bisnis-custom-vs-saas/thumbnail.png"
 
 ---
 

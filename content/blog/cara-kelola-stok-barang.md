@@ -4,7 +4,7 @@ date: "2026-04-20"
 excerpt: "Barang sering ilang atau stok tiba-tiba abis? Ini tips jitu buat ngatur gudang biar lu nggak pusing lagi."
 author: "Team BisnisRapi"
 category: "Operasional"
-image: "/blog/manajemen-stok.png"
+image: "/blog/cara-kelola-stok-barang/thumbnail.png"
 ---
 
 Masalah klasik bisnis retail: **Selisih Stok**. 

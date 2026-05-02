@@ -4,7 +4,7 @@ date: "2025-01-22"
 excerpt: "Bingung pilih software manajemen bisnis yang cocok untuk UMKM kamu? Kami bandingkan 7 pilihan terbaik dari yang gratis sampai enterprise, lengkap dengan kelebihan, kekurangan, dan harga."
 author: "BisnisRapi Team"
 category: "Review & Perbandingan"
-image: "blog/software-manajemen-bisnis-umkm/"
+image: "/blog/software-manajemen-bisnis-umkm/thumbnail.png"
  
 ---
 

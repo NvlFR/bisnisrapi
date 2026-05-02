@@ -4,7 +4,7 @@ date: "2026-03-30"
 excerpt: "Banyak yang gagal digitalisasi karena salah langkah. Hindari 3 kesalahan ini biar proses transisi bisnis lu lancar."
 author: "Team BisnisRapi"
 category: "Edukasi"
-image: "/blog/kesalahan-umkm.webp"
+image: "/blog/kesalahan-go-digital/thumbnail.png"
 ---
 
 Digitalisasi bukan cuma soal "beli laptop baru". Ini soal mindset dan proses. Banyak yang gagal karena:

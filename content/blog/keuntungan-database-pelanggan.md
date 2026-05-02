@@ -4,7 +4,7 @@ date: "2026-03-25"
 excerpt: "Tahu nggak siapa pelanggan lu yang paling setia? Database pelanggan bisa bantu lu jualan 3x lebih banyak lewat retensi."
 author: "Team BisnisRapi"
 category: "Strategi"
-image: "/blog/database-pelanggan.webp"
+image: "/blog/keuntungan-database-pelanggan/thumbnail.png"
 ---
 
 Nyari pelanggan baru itu mahal, Boss! Lebih murah pertahanin pelanggan lama.

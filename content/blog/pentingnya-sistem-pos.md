@@ -4,7 +4,7 @@ date: "2026-04-15"
 excerpt: "Kasir manual rawan manipulasi. Yuk pelajari gimana sistem POS bisa ngelindungin duit hasil jualan lu."
 author: "Team BisnisRapi"
 category: "Teknologi"
-image: "/blog/sistem-kasir.webp"
+image: "/blog/pentingnya-sistem-pos/thumbnail.png"
 ---
 
 Banyak owner bisnis yang stres karena ngerasa jualan rame tapi pas diitung duitnya kok nggak ada? 
