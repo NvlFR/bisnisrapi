@@ -5,21 +5,42 @@ import { ArrowRight, CheckCircle } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Solusi Sistem Kasir & Manajemen per Industri | BisnisRapi",
+  title: "Aplikasi Kasir & Sistem Manajemen per Industri | BisnisRapi",
   description:
-    "Sistem bisnis digital yang dirancang khusus untuk 35+ industri UMKM Indonesia. Bukan solusi generik — kami memahami alur kerja spesifik industri Anda, dari F&B, Retail, hingga Jasa.",
+    "Aplikasi kasir untuk UMKM yang dirancang khusus per industri. Sistem kasir digital, manajemen stok otomatis, dan laporan keuangan real-time untuk 100+ industri — dari F&B, Retail, hingga Jasa.",
   keywords: [
-    "solusi bisnis digital Indonesia",
-    "sistem kasir per industri",
-    "software manajemen bisnis UMKM",
-    "digitalisasi UMKM Indonesia",
-    "aplikasi kasir kustom",
-    "sistem POS industri spesifik",
+    // Tier 1
+    "aplikasi kasir untuk umkm",
+    "sistem kasir digital umkm",
+    "aplikasi kasir untuk bisnis toko",
+    "aplikasi kasir untuk bisnis jasa",
+    // Tier 2
+    "aplikasi kasir pos",
+    "software manajemen stok umkm",
+    "point of sale indonesia",
+    "digitalisasi bisnis umkm",
+    // Tier 3 — industri populer
+    "aplikasi kasir untuk kedai kopi",
+    "aplikasi kasir untuk minimarket",
+    "sistem kasir salon dan klinik kecantikan",
+    "aplikasi kasir untuk apotek kecil",
+    "sistem pos untuk bengkel",
+    "aplikasi kasir untuk warung makan",
+    "sistem kasir untuk toko baju",
+    "aplikasi kasir untuk laundry",
+    // Keyword masalah
+    "kasir sering selisih solusi",
+    "stok barang sering selisih solusi",
+    "software kasir dengan kontrol karyawan",
+    // Keyword solusi
+    "jasa pembuatan sistem pos custom",
+    "vendor software kasir indonesia",
+    "jasa digitalisasi bisnis umkm",
   ],
   openGraph: {
-    title: "Solusi Sistem Kasir & Manajemen per Industri | BisnisRapi",
+    title: "Aplikasi Kasir & Sistem Manajemen per Industri | BisnisRapi",
     description:
-      "35+ solusi sistem bisnis yang dirancang khusus sesuai industri Anda. Pilih industri dan lihat solusi yang relevan.",
+      "100+ solusi sistem kasir digital yang dirancang khusus sesuai industri Anda. Pilih industri dan lihat solusi yang relevan.",
     type: "website",
     url: "https://bisnisrapi.my.id/solusi",
   },

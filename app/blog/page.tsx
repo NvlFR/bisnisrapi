@@ -8,11 +8,28 @@ import { Metadata } from 'next';
 import { Calendar, User, ArrowRight, Clock, BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Blog BisnisRapi | Edukasi & Tips Digitalisasi Bisnis UMKM',
-  description: 'Temukan artikel menarik seputar manajemen bisnis, tips operasional, dan tren digitalisasi untuk membantu UMKM Indonesia naik kelas.',
+  title: 'Blog BisnisRapi | Tips Digitalisasi & Manajemen Bisnis UMKM',
+  description: 'Artikel praktis tentang cara merapikan operasional bisnis, aplikasi kasir UMKM, manajemen stok otomatis, dan laporan keuangan. Tips langsung bisa diterapkan untuk pemilik UMKM Indonesia.',
+  keywords: [
+    'cara merapikan operasional bisnis',
+    'laporan keuangan otomatis usaha kecil',
+    'software manajemen stok umkm',
+    'pantau bisnis dari hp',
+    'digitalisasi bisnis umkm',
+    'aplikasi hitung penjualan',
+    'cara merapikan operasional bisnis kecil',
+    'tanda bisnis tidak sehat secara keuangan',
+    'kesalahan umum dalam mengelola usaha',
+    'tips mengelola bisnis tanpa excel',
+    'kenapa bisnis umkm gagal berkembang',
+    'pembukuan manual berantakan solusi',
+    'stok barang sering selisih solusi',
+    'kasir sering selisih solusi',
+    'usaha tidak tahu untung atau rugi',
+  ],
   openGraph: {
-    title: 'Blog BisnisRapi | Edukasi & Tips Digitalisasi Bisnis UMKM',
-    description: 'Temukan artikel menarik seputar manajemen bisnis, tips operasional, dan tren digitalisasi untuk membantu UMKM Indonesia naik kelas.',
+    title: 'Blog BisnisRapi | Tips Digitalisasi & Manajemen Bisnis UMKM',
+    description: 'Artikel praktis tentang cara merapikan operasional bisnis, aplikasi kasir UMKM, dan manajemen stok otomatis untuk pemilik UMKM Indonesia.',
     url: 'https://bisnisrapi.my.id/blog',
     type: 'website',
   },

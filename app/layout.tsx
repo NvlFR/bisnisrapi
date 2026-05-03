@@ -29,30 +29,48 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://bisnisrapi.my.id'),
 
   title: {
-    default: 'BisnisRapi | Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
+    default: 'BisnisRapi | Aplikasi Kasir & Sistem Manajemen Bisnis UMKM Indonesia',
     template: '%s | BisnisRapi',
   },
 
-  description: 'Digitalisasi operasional bisnis UMKM dengan sistem kasir, manajemen stok, dan laporan otomatis. Solusi custom untuk 100+ industri di Indonesia. Konsultasi gratis!',
+  description: 'Aplikasi kasir untuk UMKM, sistem kasir digital, dan software manajemen stok otomatis. Digitalisasi operasional bisnis Anda — pantau dari HP, laporan keuangan otomatis, stok akurat. Konsultasi gratis!',
 
   keywords: [
-    'sistem bisnis digital',
-    'aplikasi kasir UMKM',
-    'software manajemen bisnis',
-    'digitalisasi bisnis Indonesia',
-    'sistem operasional bisnis',
-    'website bisnis profesional',
-    'toko online custom',
+    // Tier 1 — Utama
+    'aplikasi kasir untuk umkm',
+    'aplikasi kasir untuk bisnis toko',
+    'sistem kasir digital umkm',
+    'aplikasi pencatatan usaha',
+    'aplikasi pencatatan pengeluaran dan pemasukan',
+    'digitalisasi bisnis umkm',
+    'aplikasi pencatatan umkm',
+    // Tier 2 — Tambahan
+    'aplikasi kasir pos',
+    'software manajemen stok umkm',
+    'pantau bisnis dari hp',
+    'laporan keuangan otomatis usaha kecil',
+    'cara merapikan operasional bisnis',
+    'aplikasi stok barang umkm',
+    'dashboard bisnis umkm',
+    'sistem manajemen bisnis kecil',
+    // Keyword masalah
+    'kasir sering selisih solusi',
+    'stok barang sering selisih solusi',
+    'bisnis tidak bisa ditinggal solusi',
+    'cara mengontrol bisnis dari hp',
+    'laporan keuangan umkm otomatis',
+    // Keyword solusi
+    'jasa digitalisasi bisnis umkm',
+    'software bisnis custom indonesia',
+    'sistem bisnis autopilot indonesia',
     'BisnisRapi',
-    'sistem kasir Indonesia',
-    'software UMKM',
   ],
 
   authors: [{ name: 'BisnisRapi Team' }],
 
   openGraph: {
-    title: 'BisnisRapi - Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
-    description: 'Digitalisasi operasional bisnis UMKM dengan sistem kasir, manajemen stok, dan laporan otomatis. Solusi custom untuk 100+ industri. Konsultasi gratis!',
+    title: 'BisnisRapi - Aplikasi Kasir & Sistem Manajemen Bisnis UMKM Indonesia',
+    description: 'Aplikasi kasir untuk UMKM, manajemen stok otomatis, dan laporan keuangan real-time. Pantau bisnis dari HP. Solusi custom untuk 100+ industri. Konsultasi gratis!',
     url: 'https://bisnisrapi.my.id',
     siteName: 'BisnisRapi',
     images: [
@@ -60,7 +78,7 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'BisnisRapi - Sistem Bisnis Digital Terpusat',
+        alt: 'BisnisRapi - Aplikasi Kasir & Sistem Manajemen Bisnis UMKM',
       },
     ],
     locale: 'id_ID',
@@ -69,13 +87,17 @@ export const metadata: Metadata = {
 
   twitter: {
     card: 'summary_large_image',
-    title: 'BisnisRapi - Sistem Manajemen Bisnis Digital UMKM',
-    description: 'Digitalisasi operasional bisnis dengan sistem kasir, stok, dan laporan otomatis untuk 100+ industri di Indonesia.',
+    title: 'BisnisRapi - Aplikasi Kasir & Sistem Manajemen Bisnis UMKM',
+    description: 'Sistem kasir digital, manajemen stok otomatis, dan laporan keuangan real-time untuk 100+ industri UMKM Indonesia.',
     images: ['/og-image.png'],
   },
 
   icons: {
-    icon: '/Logo.png',
+    icon: [
+      { url: '/Logo.png', type: 'image/png' },
+      { url: '/Logo.webp', type: 'image/webp' },
+    ],
+    shortcut: '/Logo.png',
     apple: '/Logo.png',
   },
 

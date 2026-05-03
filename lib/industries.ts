@@ -21,7 +21,7 @@ export const industries: Industry[] = [
     solution: 'Sistem POS super cepat dengan manajemen inventaris resep otomatis, bikin operasional cafe jalan sendiri.',
     imageAlt: 'Sistem kasir digital untuk kedai kopi dan cafe',
     metaDescription: 'Solusi sistem kasir & manajemen stok bahan baku khusus kedai kopi dan cafe. Atasi antrean panjang, waste bahan, dan laporan keuangan manual dengan BisnisRapi.',
-    keywords: ['sistem kasir cafe', 'aplikasi kasir kedai kopi', 'manajemen stok cafe', 'software cafe indonesia', 'pos cafe'],
+    keywords: ['sistem kasir cafe', 'aplikasi kasir kedai kopi', 'manajemen stok cafe', 'software cafe indonesia', 'pos cafe', 'aplikasi kasir untuk kedai kopi', 'sistem kasir coffee shop', 'aplikasi kasir cafe terbaik indonesia'],
   },
   {
     slug: 'toko-baju',
@@ -31,7 +31,7 @@ export const industries: Industry[] = [
     solution: 'Katalog digital terintegrasi kasir, pantau pergerakan tiap varian ukuran & warna secara real-time.',
     imageAlt: 'Sistem kasir digital untuk toko baju dan fashion',
     metaDescription: 'Kelola stok varian ukuran & warna toko baju lebih mudah dengan BisnisRapi. Kurangi barang mati dan tingkatkan penjualan fashion kamu.',
-    keywords: ['sistem kasir toko baju', 'aplikasi pos fashion', 'manajemen stok toko pakaian', 'software toko baju indonesia', 'kasir toko fashion'],
+    keywords: ['sistem kasir toko baju', 'aplikasi pos fashion', 'manajemen stok toko pakaian', 'software toko baju indonesia', 'kasir toko fashion', 'sistem kasir untuk toko baju', 'aplikasi kasir untuk konveksi', 'software kasir toko fashion'],
   },
   {
     slug: 'bengkel',
@@ -41,7 +41,7 @@ export const industries: Industry[] = [
     solution: 'Catatan riwayat servis kendaraan digital, reminder ganti oli otomatis, dan integrasi stok sparepart.',
     imageAlt: 'Aplikasi manajemen bengkel dan servis otomotif',
     metaDescription: 'Kelola bengkel lebih profesional dengan BisnisRapi. Riwayat servis digital, reminder ganti oli, dan stok sparepart terintegrasi dalam satu sistem.',
-    keywords: ['aplikasi bengkel', 'sistem manajemen bengkel', 'software bengkel otomotif', 'kasir bengkel', 'aplikasi servis kendaraan'],
+    keywords: ['aplikasi bengkel', 'sistem manajemen bengkel', 'software bengkel otomotif', 'kasir bengkel', 'aplikasi servis kendaraan', 'sistem pos untuk bengkel', 'aplikasi kasir bengkel motor', 'software manajemen bengkel mobil'],
   },
   {
     slug: 'apotek',
@@ -51,7 +51,7 @@ export const industries: Industry[] = [
     solution: 'Sistem POS dengan notifikasi otomatis untuk obat hampir kedaluwarsa & laporan mutasi stok presisi.',
     imageAlt: 'Sistem manajemen stok obat untuk apotek dan klinik',
     metaDescription: 'Kelola stok obat apotek dengan BisnisRapi. Notifikasi expired date otomatis, laporan mutasi stok, dan kasir apotek yang cepat dan akurat.',
-    keywords: ['software apotek', 'sistem kasir apotek', 'aplikasi manajemen apotek', 'pos apotek indonesia', 'aplikasi stok obat'],
+    keywords: ['software apotek', 'sistem kasir apotek', 'aplikasi manajemen apotek', 'pos apotek indonesia', 'aplikasi stok obat', 'aplikasi kasir untuk apotek kecil', 'software kasir untuk apotek', 'sistem kasir apotek indonesia'],
   },
   {
     slug: 'minimarket',
@@ -61,7 +61,7 @@ export const industries: Industry[] = [
     solution: 'Barcode scanner support, laporan shift otomatis, dan deteksi pergerakan uang kas tanpa celah.',
     imageAlt: 'Sistem kasir minimarket dan toko retail modern',
     metaDescription: 'Solusi kasir minimarket terpercaya dari BisnisRapi. Barcode scanner, laporan shift otomatis, dan kontrol kas harian tanpa selisih.',
-    keywords: ['sistem kasir minimarket', 'aplikasi pos retail', 'software minimarket indonesia', 'kasir toko retail', 'manajemen minimarket'],
+    keywords: ['sistem kasir minimarket', 'aplikasi pos retail', 'software minimarket indonesia', 'kasir toko retail', 'manajemen minimarket', 'aplikasi kasir untuk minimarket', 'software minimarket sederhana', 'sistem stok toko retail kecil', 'aplikasi toko kelontong digital'],
   },
   {
     slug: 'salon',
@@ -71,7 +71,7 @@ export const industries: Industry[] = [
     solution: 'Sistem booking online, hitung komisi otomatis tiap kapster, dan database pelanggan buat kirim promo diskon.',
     imageAlt: 'Aplikasi booking dan kasir untuk salon dan barbershop',
     metaDescription: 'Kelola salon & barbershop lebih rapi dengan BisnisRapi. Booking online, komisi kapster otomatis, dan program loyalitas pelanggan dalam satu aplikasi.',
-    keywords: ['aplikasi salon', 'sistem booking barbershop', 'software kasir salon', 'manajemen salon indonesia', 'aplikasi barbershop'],
+    keywords: ['aplikasi salon', 'sistem booking barbershop', 'software kasir salon', 'manajemen salon indonesia', 'aplikasi barbershop', 'sistem kasir salon dan klinik kecantikan', 'aplikasi kasir salon kecantikan', 'sistem booking salon kasir'],
   },
   {
     slug: 'laundry',
@@ -81,7 +81,7 @@ export const industries: Industry[] = [
     solution: 'Tracking status cucian via WhatsApp, nota digital, dan manajemen rak otomatis.',
     imageAlt: 'Sistem manajemen order untuk jasa laundry',
     metaDescription: 'Kelola jasa laundry tanpa ribet dengan BisnisRapi. Tracking status cucian, nota digital, dan notifikasi WhatsApp otomatis ke pelanggan.',
-    keywords: ['aplikasi laundry', 'sistem manajemen laundry', 'software laundry indonesia', 'kasir laundry', 'aplikasi tracking laundry'],
+    keywords: ['aplikasi laundry', 'sistem manajemen laundry', 'software laundry indonesia', 'kasir laundry', 'aplikasi tracking laundry', 'aplikasi kasir untuk laundry', 'sistem tracking laundry digital', 'software manajemen laundry'],
   },
   {
     slug: 'toko-bangunan',
@@ -111,7 +111,7 @@ export const industries: Industry[] = [
     solution: 'Aplikasi order QR menu di meja, langsung nge-print ke dapur, dan laporan waste bahan baku.',
     imageAlt: 'Sistem POS restoran dengan order QR code dan manajemen dapur',
     metaDescription: 'Tingkatkan efisiensi restoran dengan BisnisRapi. Order QR menu, cetak otomatis ke dapur, dan kontrol waste bahan baku untuk laba maksimal.',
-    keywords: ['sistem kasir restoran', 'aplikasi pos rumah makan', 'software restoran indonesia', 'aplikasi order meja restoran', 'manajemen restoran'],
+    keywords: ['sistem kasir restoran', 'aplikasi pos rumah makan', 'software restoran indonesia', 'aplikasi order meja restoran', 'manajemen restoran', 'aplikasi kasir untuk warung makan', 'sistem pos untuk warung makan', 'software manajemen restoran kecil'],
   },
   {
     slug: 'petshop',
@@ -181,7 +181,7 @@ export const industries: Industry[] = [
     solution: 'Update harga massal dalam 1 klik dan sistem tier harga (ecer, grosir, member) otomatis.',
     imageAlt: 'Sistem kasir grosir sembako dengan tier harga otomatis',
     metaDescription: 'Kelola grosir sembako lebih efisien dengan BisnisRapi. Update harga massal, tier harga ecer-grosir otomatis, dan laporan penjualan harian akurat.',
-    keywords: ['software grosir sembako', 'aplikasi kasir sembako', 'sistem manajemen sembako', 'pos grosir sembako', 'aplikasi toko sembako'],
+    keywords: ['software grosir sembako', 'aplikasi kasir sembako', 'sistem manajemen sembako', 'pos grosir sembako', 'aplikasi toko sembako', 'software kasir untuk toko kelontong', 'aplikasi pencatatan penjualan untuk warung', 'sistem kasir toko sembako'],
   },
   {
     slug: 'konter-pulsa',
@@ -321,7 +321,7 @@ export const industries: Industry[] = [
     solution: 'Digitalisasi rekam medis pasien terintegrasi dengan reminder WhatsApp otomatis jadwal kontrol.',
     imageAlt: 'Sistem manajemen rekam medis klinik dokter gigi',
     metaDescription: 'Kelola klinik gigi lebih modern dengan BisnisRapi. Rekam medis digital, reminder jadwal kontrol WhatsApp, dan manajemen pasien terpusat.',
-    keywords: ['software klinik gigi', 'aplikasi manajemen klinik gigi', 'sistem rekam medis gigi', 'kasir klinik gigi', 'aplikasi dokter gigi'],
+    keywords: ['software klinik gigi', 'aplikasi manajemen klinik gigi', 'sistem rekam medis gigi', 'kasir klinik gigi', 'aplikasi dokter gigi', 'sistem kasir klinik gigi', 'software klinik gigi sederhana', 'aplikasi manajemen pasien klinik kecil'],
   },
   {
     slug: 'toko-sepatu',

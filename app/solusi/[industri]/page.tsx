@@ -30,13 +30,33 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   
   if (!data) return {};
 
-  const title = `Sistem Kasir & Manajemen Digital untuk ${data.name} | BisnisRapi`;
+  const title = `Aplikasi Kasir & Sistem Manajemen untuk ${data.name} | BisnisRapi`;
   const description = data.metaDescription;
+
+  // Tier 3 keywords per industri + keyword masalah & solusi
+  const keywords = [
+    ...data.keywords,
+    `aplikasi kasir untuk ${data.name.toLowerCase()}`,
+    `sistem kasir ${data.name.toLowerCase()}`,
+    `software manajemen ${data.name.toLowerCase()}`,
+    `digitalisasi ${data.name.toLowerCase()}`,
+    `aplikasi pencatatan usaha ${data.name.toLowerCase()}`,
+    // Keyword masalah universal
+    'kasir sering selisih solusi',
+    'stok barang sering selisih solusi',
+    'laporan keuangan umkm otomatis',
+    'pantau bisnis dari hp',
+    'bisnis tidak bisa ditinggal solusi',
+    // Keyword solusi
+    'jasa digitalisasi bisnis umkm',
+    'software bisnis custom indonesia',
+    'sistem kasir digital umkm',
+  ];
 
   return {
     title,
     description,
-    keywords: data.keywords,
+    keywords,
     openGraph: {
       title,
       description,
