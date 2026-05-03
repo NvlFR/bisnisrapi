@@ -1,11 +1,18 @@
 ---
-title: "Cara Kelola Toko Buah Segar: Pantau Masa Simpan dan Kurangi Waste"
-date: "2025-07-01"
-excerpt: "Toko buah segar menghadapi tantangan waste yang tinggi. Begini cara mengelola stok dan masa simpan untuk meminimalkan kerugian."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko buah", "manajemen stok", "food waste", "masa simpan", "retail segar"]
-image: "/blog/cara-kelola-toko-buah-segar/thumbnail.svg"
+title: 'Cara Kelola Toko Buah Segar: Pantau Masa Simpan dan Kurangi Waste'
+date: '2025-07-01'
+excerpt: >-
+  Toko buah segar menghadapi tantangan waste yang tinggi. Begini cara mengelola
+  stok dan masa simpan untuk meminimalkan kerugian.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko buah
+  - manajemen stok
+  - food waste
+  - masa simpan
+  - retail segar
+image: /blog/cara-kelola-toko-buah-segar/thumbnail.svg
 ---
 
 Bisnis toko buah segar punya daya tarik tersendiri: produk yang selalu dibutuhkan, margin yang bisa cukup baik, dan permintaan yang relatif stabil. Tapi ada satu tantangan besar yang membuat banyak pemilik toko buah pusing: waste atau pemborosan akibat buah yang tidak terjual sebelum rusak.
@@ -13,6 +20,8 @@ Bisnis toko buah segar punya daya tarik tersendiri: produk yang selalu dibutuhka
 Waste adalah musuh utama profitabilitas toko buah. Setiap buah yang dibuang adalah uang yang hilang. Mengelola ini dengan baik adalah kunci untuk membuat bisnis toko buah yang benar-benar menguntungkan.
 
 ## Memahami Pola Waste di Toko Buah
+
+![Ilustrasi Cara Kelola Toko Buah Segar: Pantau Masa Simpan dan Kurangi Waste](https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Buah Segar: Pantau Masa Simpan dan Kurangi Waste")
 
 Sebelum bisa mengurangi waste, kamu perlu memahami dari mana waste itu berasal:
 
@@ -49,7 +58,7 @@ Untuk buah yang masa simpannya sangat pendek (seperti stroberi atau buah naga ya
 
 ### 3. Terapkan FIFO dengan Ketat
 
-FIFO (First In, First Out) — produk yang masuk lebih dulu harus dijual lebih dulu. Untuk toko buah, ini berarti:
+FIFO (First In, First Out) produk yang masuk lebih dulu harus dijual lebih dulu. Untuk toko buah, ini berarti:
 - Buah baru yang datang ditempatkan di belakang atau bawah
 - Buah lama diambil dari depan atau atas untuk dijual lebih dulu
 - Jangan mencampur buah lama dan baru dalam satu wadah display
@@ -65,8 +74,8 @@ Buah yang mulai menunjukkan tanda-tanda akan rusak (mulai lunak, warna berubah) 
 ### 5. Manfaatkan Buah yang Hampir Rusak
 
 Buah yang tidak bisa dijual utuh tidak harus langsung dibuang. Ada beberapa opsi:
-- **Jual dengan diskon** sebagai "buah matang" — banyak pelanggan yang sengaja mencari ini untuk langsung dikonsumsi atau dibuat jus
-- **Buat produk olahan** — jus, smoothie, rujak, atau buah potong yang bisa dijual dengan harga lebih tinggi
+- **Jual dengan diskon** sebagai "buah matang" banyak pelanggan yang sengaja mencari ini untuk langsung dikonsumsi atau dibuat jus
+- **Buat produk olahan** jus, smoothie, rujak, atau buah potong yang bisa dijual dengan harga lebih tinggi
 - **Jual ke pedagang jus** di sekitar toko
 
 ## Sistem Pencatatan untuk Toko Buah
@@ -104,7 +113,7 @@ Toko buah yang cerdas menggunakan harga yang dinamis untuk mengurangi waste:
 
 **Harga sangat murah** untuk buah yang sudah sangat matang dan harus habis hari itu juga.
 
-Strategi ini memastikan hampir semua buah terjual sebelum rusak, meski dengan margin yang lebih rendah — masih lebih baik daripada dibuang sama sekali.
+Strategi ini memastikan hampir semua buah terjual sebelum rusak, meski dengan margin yang lebih rendah masih lebih baik daripada dibuang sama sekali.
 
 ## Peran Teknologi dalam Mengelola Toko Buah
 
@@ -127,4 +136,4 @@ Data yang akurat adalah fondasi untuk mengurangi waste secara sistematis, bukan 
 
 **Bangun hubungan baik dengan supplier.** Supplier yang baik akan memberitahu kamu tentang kualitas produk yang akan datang dan bisa membantu jika ada masalah dengan kualitas.
 
-Dengan kombinasi data yang akurat, penanganan yang tepat, dan strategi harga yang dinamis, waste di toko buah segar bisa dikurangi secara signifikan — dan profitabilitas bisnis kamu pun meningkat.
+Dengan kombinasi data yang akurat, penanganan yang tepat, dan strategi harga yang dinamis, waste di toko buah segar bisa dikurangi secara signifikan dan profitabilitas bisnis kamu pun meningkat.

@@ -1,11 +1,19 @@
 ---
-title: "Strategi Bisnis Properti Sewa untuk UMKM Pemula"
-date: "2026-01-15"
-excerpt: "Strategi memulai bisnis properti sewa untuk UMKM pemula, dari memilih jenis properti yang tepat, sumber pembiayaan, hingga cara memaksimalkan yield investasi."
-author: "BisnisRapi Team"
-category: "Properti"
-tags: ["bisnis properti sewa", "investasi properti", "properti umkm", "sewa properti", "investasi pemula"]
-image: "/blog/strategi-bisnis-properti-sewa-umkm/thumbnail.svg"
+title: Strategi Bisnis Properti Sewa untuk UMKM Pemula
+date: '2026-01-15'
+excerpt: >-
+  Strategi memulai bisnis properti sewa untuk UMKM pemula, dari memilih jenis
+  properti yang tepat, sumber pembiayaan, hingga cara memaksimalkan yield
+  investasi.
+author: BisnisRapi Team
+category: Properti
+tags:
+  - bisnis properti sewa
+  - investasi properti
+  - properti umkm
+  - sewa properti
+  - investasi pemula
+image: /blog/strategi-bisnis-properti-sewa-umkm/thumbnail.svg
 ---
 
 Bisnis properti sewa sering dianggap sebagai domain orang kaya dengan modal besar. Padahal, dengan strategi yang tepat, UMKM pemula pun bisa memulai bisnis properti sewa dengan modal yang lebih terjangkau dan membangun portofolio secara bertahap.
@@ -13,6 +21,8 @@ Bisnis properti sewa sering dianggap sebagai domain orang kaya dengan modal besa
 Kunci suksesnya adalah memulai dengan skala yang sesuai kemampuan, memilih properti yang tepat, dan mengelolanya dengan profesional.
 
 ## Jenis Properti Sewa yang Cocok untuk Pemula
+
+![Ilustrasi Strategi Bisnis Properti Sewa untuk UMKM Pemula](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Bisnis Properti Sewa untuk UMKM Pemula")
 
 ### Kamar Kos
 
@@ -90,7 +100,7 @@ Renovasi dan peningkatan fasilitas bisa meningkatkan harga sewa secara signifika
 
 ### Kelola dengan Profesional
 
-Properti yang dikelola dengan baik — bersih, terawat, dan responsif terhadap kebutuhan penyewa — akan lebih mudah terisi dan penyewa lebih mungkin untuk memperpanjang sewa.
+Properti yang dikelola dengan baik bersih, terawat, dan responsif terhadap kebutuhan penyewa akan lebih mudah terisi dan penyewa lebih mungkin untuk memperpanjang sewa.
 
 ### Diversifikasi Portofolio
 
@@ -110,12 +120,10 @@ Jangan hanya bergantung pada satu properti. Seiring waktu, bangun portofolio pro
 
 Kalau kamu tidak bisa mengelola properti secara langsung, ada beberapa opsi:
 
-**Jasa manajemen properti:** Ada perusahaan yang menyediakan jasa manajemen properti — mereka mengurus pencarian penyewa, penagihan sewa, dan perawatan dengan biaya tertentu.
+**Jasa manajemen properti:** Ada perusahaan yang menyediakan jasa manajemen properti mereka mengurus pencarian penyewa, penagihan sewa, dan perawatan dengan biaya tertentu.
 
 **Penjaga atau pengelola:** Rekrut seseorang yang tinggal di dekat properti untuk mengelola sehari-hari.
 
 **Teknologi:** Gunakan sistem pembayaran digital dan komunikasi online untuk mengelola properti dari jarak jauh.
 
----
-
-Mengelola portofolio properti sewa membutuhkan pencatatan yang rapi — dari data penyewa, riwayat pembayaran, hingga pengeluaran perawatan. BisnisRapi dapat membantu kamu mengelola semua aspek bisnis properti sewa kamu dalam satu sistem yang terorganisir.
+Mengelola portofolio properti sewa membutuhkan pencatatan yang rapi dari data penyewa, riwayat pembayaran, hingga pengeluaran perawatan. BisnisRapi dapat membantu kamu mengelola semua aspek bisnis properti sewa kamu dalam satu sistem yang terorganisir.

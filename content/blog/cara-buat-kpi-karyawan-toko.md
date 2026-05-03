@@ -1,18 +1,27 @@
 ---
-title: "Cara Buat KPI Karyawan Toko yang Terukur dan Adil"
-date: "2025-08-13"
-excerpt: "Panduan membuat KPI (Key Performance Indicator) karyawan toko yang terukur, adil, dan benar-benar mendorong kinerja yang diinginkan."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["kpi karyawan", "key performance indicator", "evaluasi kinerja", "manajemen sdm", "produktivitas toko"]
-image: "/blog/cara-buat-kpi-karyawan-toko/thumbnail.svg"
+title: Cara Buat KPI Karyawan Toko yang Terukur dan Adil
+date: '2025-08-13'
+excerpt: >-
+  Panduan membuat KPI (Key Performance Indicator) karyawan toko yang terukur,
+  adil, dan benar-benar mendorong kinerja yang diinginkan.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - kpi karyawan
+  - key performance indicator
+  - evaluasi kinerja
+  - manajemen sdm
+  - produktivitas toko
+image: /blog/cara-buat-kpi-karyawan-toko/thumbnail.svg
 ---
 
 KPI (Key Performance Indicator) adalah metrik yang digunakan untuk mengukur seberapa baik karyawan mencapai tujuan yang ditetapkan. KPI yang baik memberikan arah yang jelas kepada karyawan, memudahkan evaluasi yang objektif, dan menciptakan dasar yang adil untuk keputusan kompensasi dan promosi.
 
-Tapi KPI yang buruk bisa kontraproduktif — mendorong perilaku yang salah, menciptakan stres yang tidak perlu, atau terasa tidak adil.
+Tapi KPI yang buruk bisa kontraproduktif mendorong perilaku yang salah, menciptakan stres yang tidak perlu, atau terasa tidak adil.
 
 ## Prinsip KPI yang Baik: SMART
+
+![Ilustrasi Cara Buat KPI Karyawan Toko yang Terukur dan Adil](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat KPI Karyawan Toko yang Terukur dan Adil")
 
 KPI yang efektif harus memenuhi kriteria SMART:
 
@@ -83,7 +92,7 @@ Target yang terlalu mudah tidak memotivasi. Target yang terlalu sulit menciptaka
 
 KPI yang tidak diukur secara konsisten tidak berguna. Buat sistem pengukuran yang:
 
-**Otomatis sebisa mungkin**: Data penjualan dari sistem kasir, data kehadiran dari mesin absensi — ini mengurangi bias dan menghemat waktu.
+**Otomatis sebisa mungkin**: Data penjualan dari sistem kasir, data kehadiran dari mesin absensi ini mengurangi bias dan menghemat waktu.
 
 **Transparan**: Karyawan harus bisa melihat progress mereka sendiri, tidak hanya saat evaluasi.
 
@@ -97,7 +106,7 @@ KPI yang tidak diukur secara konsisten tidak berguna. Buat sistem pengukuran yan
 
 ## Menghubungkan KPI dengan Kompensasi
 
-KPI paling efektif ketika ada konsekuensi yang jelas — baik positif (bonus, promosi) maupun negatif (peringatan, tidak dapat kenaikan gaji).
+KPI paling efektif ketika ada konsekuensi yang jelas baik positif (bonus, promosi) maupun negatif (peringatan, tidak dapat kenaikan gaji).
 
 **Struktur yang umum:**
 - Mencapai 100% target: Gaji normal + bonus standar

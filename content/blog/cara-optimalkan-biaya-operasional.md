@@ -1,18 +1,27 @@
 ---
-title: "Cara Optimalkan Biaya Operasional Tanpa Mengorbankan Kualitas"
-date: "2025-06-21"
-excerpt: "Strategi cerdas mengoptimalkan biaya operasional bisnis UMKM tanpa menurunkan kualitas produk atau layanan yang sudah dibangun."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["optimasi biaya", "efisiensi operasional", "cost optimization", "manajemen biaya umkm", "hemat operasional"]
-image: "/blog/cara-optimalkan-biaya-operasional/thumbnail.svg"
+title: Cara Optimalkan Biaya Operasional Tanpa Mengorbankan Kualitas
+date: '2025-06-21'
+excerpt: >-
+  Strategi cerdas mengoptimalkan biaya operasional bisnis UMKM tanpa menurunkan
+  kualitas produk atau layanan yang sudah dibangun.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - optimasi biaya
+  - efisiensi operasional
+  - cost optimization
+  - manajemen biaya umkm
+  - hemat operasional
+image: /blog/cara-optimalkan-biaya-operasional/thumbnail.svg
 ---
 
-Ada perbedaan besar antara memotong biaya dan mengoptimalkan biaya. Memotong biaya sering kali berarti mengorbankan sesuatu — kualitas, kecepatan, atau kepuasan karyawan. Mengoptimalkan biaya berarti mendapatkan hasil yang sama (atau lebih baik) dengan pengeluaran yang lebih efisien.
+Ada perbedaan besar antara memotong biaya dan mengoptimalkan biaya. Memotong biaya sering kali berarti mengorbankan sesuatu kualitas, kecepatan, atau kepuasan karyawan. Mengoptimalkan biaya berarti mendapatkan hasil yang sama (atau lebih baik) dengan pengeluaran yang lebih efisien.
 
 Artikel ini fokus pada optimasi, bukan pemotongan sembarangan.
 
 ## Prinsip Dasar Optimasi Biaya
+
+![Ilustrasi Cara Optimalkan Biaya Operasional Tanpa Mengorbankan Kualitas](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Optimalkan Biaya Operasional Tanpa Mengorbankan Kualitas")
 
 Sebelum memotong atau mengubah apapun, tanyakan tiga pertanyaan ini untuk setiap pengeluaran:
 

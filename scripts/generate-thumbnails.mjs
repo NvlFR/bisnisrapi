@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const publicBlogDir = path.join(__dirname, '..', 'public', 'blog');
 const contentDir = path.join(__dirname, '..', 'content', 'blog');
-const DOMAIN = 'bisnisrapi.my.id';
+const DOMAIN = 'bisnis-rapi.my.id';
 
 // Slugs to skip (original list from user, but we might want to regenerate them if they were generic)
 const existing = new Set([
@@ -266,6 +266,24 @@ function makeSVG(slug, theme) {
   ];
   const selectedPattern = patterns[Math.floor(rnd() * patterns.length)];
 
+  const escapeXml = (unsafe) => {
+    return unsafe.replace(/[<>&"']/g, (m) => {
+      switch (m) {
+        case '<': return '&lt;';
+        case '>': return '&gt;';
+        case '&': return '&amp;';
+        case '"': return '&quot;';
+        case "'": return '&apos;';
+        default: return m;
+      }
+    });
+  };
+
+  const escapedLabel = escapeXml(label.toUpperCase());
+  const escapedLine1 = escapeXml(line1);
+  const escapedLine2 = line2 ? escapeXml(line2) : '';
+  const escapedDomain = escapeXml(DOMAIN.toUpperCase());
+
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg-${hash}" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -298,17 +316,17 @@ function makeSVG(slug, theme) {
 
   <!-- Badge -->
   <rect x="130" y="130" width="${label.length * 11 + 40}" height="40" rx="20" fill="white" fill-opacity="0.2"/>
-  <text x="${130 + (label.length * 11 + 40) / 2}" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">${label.toUpperCase()}</text>
+  <text x="${130 + (label.length * 11 + 40) / 2}" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">${escapedLabel}</text>
 
   <!-- Emoji -->
   <text x="600" y="300" font-size="140" text-anchor="middle" dominant-baseline="middle">${emoji}</text>
 
   <!-- Title -->
-  <text x="600" y="${line2 ? '420' : '440'}" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-0.5">${line1}</text>
-  ${line2 ? `<text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle" opacity="0.9" letter-spacing="-0.5">${line2}</text>` : ''}
+  <text x="600" y="${line2 ? '420' : '440'}" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-0.5">${escapedLine1}</text>
+  ${line2 ? `<text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle" opacity="0.9" letter-spacing="-0.5">${escapedLine2}</text>` : ''}
 
   <!-- Branding -->
-  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">${DOMAIN.toUpperCase()}</text>
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">${escapedDomain}</text>
 
   <!-- Accent line -->
   <rect x="540" y="550" width="120" height="4" rx="2" fill="white" opacity="0.3"/>

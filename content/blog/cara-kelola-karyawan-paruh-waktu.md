@@ -1,16 +1,26 @@
 ---
-title: "Cara Kelola Karyawan Paruh Waktu (Part-Time) di Bisnis UMKM"
-date: "2025-08-17"
-excerpt: "Panduan praktis mengelola karyawan paruh waktu di bisnis UMKM — dari rekrutmen, penjadwalan, hak-hak mereka, hingga cara memaksimalkan kontribusi mereka."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["karyawan paruh waktu", "part time", "manajemen sdm", "penjadwalan karyawan", "fleksibilitas kerja"]
-image: "/blog/cara-kelola-karyawan-paruh-waktu/thumbnail.svg"
+title: Cara Kelola Karyawan Paruh Waktu (Part-Time) di Bisnis UMKM
+date: '2025-08-17'
+excerpt: >-
+  Panduan praktis mengelola karyawan paruh waktu di bisnis UMKM — dari
+  rekrutmen, penjadwalan, hak-hak mereka, hingga cara memaksimalkan kontribusi
+  mereka.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - karyawan paruh waktu
+  - part time
+  - manajemen sdm
+  - penjadwalan karyawan
+  - fleksibilitas kerja
+image: /blog/cara-kelola-karyawan-paruh-waktu/thumbnail.svg
 ---
 
 Karyawan paruh waktu adalah solusi yang sangat praktis untuk banyak UMKM. Kamu bisa mendapatkan tenaga kerja tambahan di jam-jam sibuk tanpa harus menanggung biaya karyawan penuh waktu sepanjang hari. Tapi mengelola karyawan paruh waktu punya tantangan tersendiri yang perlu dipahami.
 
 ## Kapan Karyawan Paruh Waktu Adalah Pilihan yang Tepat?
+
+![Ilustrasi Cara Kelola Karyawan Paruh Waktu (Part-Time) di Bisnis UMKM](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Karyawan Paruh Waktu (Part-Time) di Bisnis UMKM")
 
 Karyawan paruh waktu cocok untuk:
 - Bisnis dengan jam sibuk yang terprediksi (misalnya restoran yang ramai di jam makan siang dan malam)
@@ -85,7 +95,7 @@ Aplikasi penjadwalan atau grup WhatsApp yang terorganisir bisa sangat membantu d
 
 ## Onboarding dan Training
 
-Karyawan paruh waktu sering mendapat onboarding yang lebih singkat dari yang seharusnya. Ini adalah kesalahan — karyawan yang tidak terlatih dengan baik memberikan layanan yang buruk dan membuat lebih banyak kesalahan.
+Karyawan paruh waktu sering mendapat onboarding yang lebih singkat dari yang seharusnya. Ini adalah kesalahan karyawan yang tidak terlatih dengan baik memberikan layanan yang buruk dan membuat lebih banyak kesalahan.
 
 **Onboarding minimal untuk karyawan paruh waktu:**
 - Pengenalan bisnis dan nilai-nilainya
@@ -112,7 +122,7 @@ Karyawan paruh waktu sering merasa seperti "warga kelas dua" di tempat kerja. In
 Karyawan paruh waktu juga perlu dikelola kinerjanya, meski dengan cara yang lebih sederhana:
 - Tetapkan ekspektasi yang jelas sejak awal
 - Berikan feedback reguler (tidak harus formal)
-- Tangani masalah kinerja dengan cepat — karyawan paruh waktu yang bermasalah lebih mudah diganti, tapi lebih baik diperbaiki jika memungkinkan
+- Tangani masalah kinerja dengan cepat karyawan paruh waktu yang bermasalah lebih mudah diganti, tapi lebih baik diperbaiki jika memungkinkan
 
 ## Dokumentasi yang Diperlukan
 

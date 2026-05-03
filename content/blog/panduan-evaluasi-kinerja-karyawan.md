@@ -1,18 +1,28 @@
 ---
-title: "Panduan Evaluasi Kinerja Karyawan yang Konstruktif"
-date: "2025-08-15"
-excerpt: "Panduan melakukan evaluasi kinerja karyawan yang konstruktif dan efektif — bukan sekadar formalitas, tapi alat nyata untuk pengembangan dan peningkatan kinerja."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["evaluasi kinerja", "performance review", "penilaian karyawan", "manajemen sdm", "pengembangan karyawan"]
-image: "/blog/panduan-evaluasi-kinerja-karyawan/thumbnail.svg"
+title: Panduan Evaluasi Kinerja Karyawan yang Konstruktif
+date: '2025-08-15'
+excerpt: >-
+  Panduan melakukan evaluasi kinerja karyawan yang konstruktif dan efektif —
+  bukan sekadar formalitas, tapi alat nyata untuk pengembangan dan peningkatan
+  kinerja.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - evaluasi kinerja
+  - performance review
+  - penilaian karyawan
+  - manajemen sdm
+  - pengembangan karyawan
+image: /blog/panduan-evaluasi-kinerja-karyawan/thumbnail.svg
 ---
 
-Evaluasi kinerja yang dilakukan dengan buruk adalah salah satu hal yang paling ditakuti karyawan dan paling tidak disukai manajer. Tapi evaluasi yang dilakukan dengan baik adalah salah satu alat manajemen yang paling powerful — membantu karyawan berkembang, memperkuat hubungan kerja, dan mendorong bisnis ke arah yang benar.
+Evaluasi kinerja yang dilakukan dengan buruk adalah salah satu hal yang paling ditakuti karyawan dan paling tidak disukai manajer. Tapi evaluasi yang dilakukan dengan baik adalah salah satu alat manajemen yang paling powerful membantu karyawan berkembang, memperkuat hubungan kerja, dan mendorong bisnis ke arah yang benar.
 
 Perbedaannya ada pada pendekatan: evaluasi sebagai "pengadilan" vs. evaluasi sebagai "percakapan pengembangan."
 
 ## Tujuan Evaluasi Kinerja
+
+![Ilustrasi Panduan Evaluasi Kinerja Karyawan yang Konstruktif](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Evaluasi Kinerja Karyawan yang Konstruktif")
 
 Evaluasi kinerja yang efektif melayani beberapa tujuan sekaligus:
 - Memberikan feedback yang jelas tentang kinerja
@@ -40,7 +50,7 @@ Untuk UMKM, kombinasi check-in bulanan (15-30 menit) dan evaluasi formal semi-ta
 
 **Review catatan dari evaluasi sebelumnya**: Apa yang dijanjikan? Apa yang sudah dicapai?
 
-**Siapkan contoh spesifik**: Untuk setiap poin yang akan dibahas, siapkan contoh konkret — bukan generalisasi.
+**Siapkan contoh spesifik**: Untuk setiap poin yang akan dibahas, siapkan contoh konkret bukan generalisasi.
 
 **Tentukan tujuan percakapan**: Apa yang ingin kamu capai dari evaluasi ini?
 
@@ -64,7 +74,7 @@ Ciptakan suasana yang nyaman dan tidak mengancam. Jelaskan tujuan percakapan: "I
 ### Review Pencapaian (15-20 menit)
 
 Mulai dengan hal positif. Akui pencapaian spesifik dengan contoh konkret:
-- "Penjualan kamu bulan ini 15% di atas target — itu luar biasa."
+- "Penjualan kamu bulan ini 15% di atas target itu luar biasa."
 - "Saya perhatikan kamu selalu datang tepat waktu dan siap bekerja."
 - "Cara kamu menangani keluhan pelanggan minggu lalu sangat profesional."
 

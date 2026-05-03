@@ -1,20 +1,30 @@
 ---
-title: "Panduan Customer Journey: Pahami Perjalanan Pelanggan Kamu"
-date: "2025-08-19"
-excerpt: "Memahami customer journey membantu kamu mengoptimalkan setiap titik kontak dengan pelanggan. Pelajari cara memetakan dan meningkatkan pengalaman pelanggan dari awal hingga akhir."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["customer journey", "pengalaman pelanggan", "customer experience", "peta perjalanan pelanggan", "strategi pelanggan"]
-image: "/blog/panduan-customer-journey-umkm/thumbnail.svg"
+title: 'Panduan Customer Journey: Pahami Perjalanan Pelanggan Kamu'
+date: '2025-08-19'
+excerpt: >-
+  Memahami customer journey membantu kamu mengoptimalkan setiap titik kontak
+  dengan pelanggan. Pelajari cara memetakan dan meningkatkan pengalaman
+  pelanggan dari awal hingga akhir.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - customer journey
+  - pengalaman pelanggan
+  - customer experience
+  - peta perjalanan pelanggan
+  - strategi pelanggan
+image: /blog/panduan-customer-journey-umkm/thumbnail.svg
 ---
 
-Sebelum seseorang menjadi pelanggan setia bisnis kamu, mereka melewati serangkaian tahapan — dari pertama kali mendengar tentang bisnis kamu, hingga memutuskan untuk membeli, hingga menjadi pelanggan yang kembali lagi dan merekomendasikan kepada orang lain.
+Sebelum seseorang menjadi pelanggan setia bisnis kamu, mereka melewati serangkaian tahapan dari pertama kali mendengar tentang bisnis kamu, hingga memutuskan untuk membeli, hingga menjadi pelanggan yang kembali lagi dan merekomendasikan kepada orang lain.
 
 Perjalanan ini disebut customer journey. Memahaminya membantu kamu mengoptimalkan setiap titik kontak dengan pelanggan dan menciptakan pengalaman yang lebih baik di setiap tahap.
 
 ## Apa Itu Customer Journey?
 
-Customer journey adalah keseluruhan pengalaman yang dialami seseorang saat berinteraksi dengan bisnis kamu — dari pertama kali mendengar tentang kamu hingga menjadi pelanggan setia (atau memutuskan untuk tidak kembali).
+![Ilustrasi Panduan Customer Journey: Pahami Perjalanan Pelanggan Kamu](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Customer Journey: Pahami Perjalanan Pelanggan Kamu")
+
+Customer journey adalah keseluruhan pengalaman yang dialami seseorang saat berinteraksi dengan bisnis kamu dari pertama kali mendengar tentang kamu hingga menjadi pelanggan setia (atau memutuskan untuk tidak kembali).
 
 Memetakan customer journey membantu kamu:
 - Memahami bagaimana pelanggan menemukan dan berinteraksi dengan bisnis kamu
@@ -83,7 +93,7 @@ Pelanggan yang puas menjadi pelanggan yang kembali lagi. Mereka mungkin juga mul
 
 ### 7. Advocacy (Advokasi)
 
-Pelanggan yang sangat puas menjadi promotor aktif bisnis kamu — merekomendasikan kepada teman, menulis ulasan positif, dan membagikan pengalaman mereka di media sosial.
+Pelanggan yang sangat puas menjadi promotor aktif bisnis kamu merekomendasikan kepada teman, menulis ulasan positif, dan membagikan pengalaman mereka di media sosial.
 
 **Cara mengoptimalkan:** Buat program referral. Minta ulasan dari pelanggan yang puas. Buat konten yang mudah dibagikan.
 
@@ -91,11 +101,11 @@ Pelanggan yang sangat puas menjadi promotor aktif bisnis kamu — merekomendasik
 
 ### Langkah 1: Tentukan Persona Pelanggan
 
-Buat gambaran detail tentang pelanggan ideal kamu — siapa mereka, apa yang mereka butuhkan, bagaimana mereka berperilaku online dan offline.
+Buat gambaran detail tentang pelanggan ideal kamu siapa mereka, apa yang mereka butuhkan, bagaimana mereka berperilaku online dan offline.
 
 ### Langkah 2: Identifikasi Semua Titik Kontak
 
-Daftarkan semua cara pelanggan berinteraksi dengan bisnis kamu — website, media sosial, toko fisik, email, WhatsApp, kemasan produk, dan sebagainya.
+Daftarkan semua cara pelanggan berinteraksi dengan bisnis kamu website, media sosial, toko fisik, email, WhatsApp, kemasan produk, dan sebagainya.
 
 ### Langkah 3: Petakan Pengalaman di Setiap Titik Kontak
 
@@ -116,6 +126,4 @@ Setelah memetakan seluruh journey, identifikasi:
 
 Tidak semua perbaikan bisa dilakukan sekaligus. Prioritaskan berdasarkan dampak potensial dan kemudahan implementasi.
 
----
-
-Memahami customer journey adalah fondasi dari strategi pelanggan yang efektif. BisnisRapi membantu kamu mengelola setiap aspek operasional bisnis — dari stok hingga layanan pelanggan — sehingga kamu bisa memberikan pengalaman yang konsisten dan memuaskan di setiap tahap customer journey.
+Memahami customer journey adalah fondasi dari strategi pelanggan yang efektif. BisnisRapi membantu kamu mengelola setiap aspek operasional bisnis dari stok hingga layanan pelanggan sehingga kamu bisa memberikan pengalaman yang konsisten dan memuaskan di setiap tahap customer journey.

@@ -1,11 +1,18 @@
 ---
-title: "Strategi Upselling dan Cross-Selling untuk Toko Retail"
-date: "2025-06-22"
-excerpt: "Upselling dan cross-selling adalah cara meningkatkan nilai transaksi tanpa perlu mencari pelanggan baru. Ini cara melakukannya dengan natural."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["upselling", "cross-selling", "strategi penjualan", "retail", "meningkatkan omzet"]
-image: "/blog/strategi-upselling-cross-selling/thumbnail.svg"
+title: Strategi Upselling dan Cross-Selling untuk Toko Retail
+date: '2025-06-22'
+excerpt: >-
+  Upselling dan cross-selling adalah cara meningkatkan nilai transaksi tanpa
+  perlu mencari pelanggan baru. Ini cara melakukannya dengan natural.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - upselling
+  - cross-selling
+  - strategi penjualan
+  - retail
+  - meningkatkan omzet
+image: /blog/strategi-upselling-cross-selling/thumbnail.svg
 ---
 
 Mendapatkan pelanggan baru itu mahal. Biaya iklan, promosi, dan waktu yang dibutuhkan untuk meyakinkan orang yang belum pernah beli dari kamu jauh lebih besar dibanding memaksimalkan nilai dari pelanggan yang sudah ada.
@@ -13,6 +20,8 @@ Mendapatkan pelanggan baru itu mahal. Biaya iklan, promosi, dan waktu yang dibut
 Di sinilah upselling dan cross-selling berperan. Dua strategi ini membantu kamu meningkatkan nilai rata-rata setiap transaksi tanpa harus mengeluarkan biaya akuisisi pelanggan baru.
 
 ## Apa Bedanya Upselling dan Cross-Selling?
+
+![Ilustrasi Strategi Upselling dan Cross-Selling untuk Toko Retail](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Upselling dan Cross-Selling untuk Toko Retail")
 
 **Upselling** adalah mendorong pelanggan untuk membeli versi yang lebih mahal atau lebih premium dari produk yang mereka inginkan.
 
@@ -58,7 +67,7 @@ Tunjukkan perbedaan antara pilihan yang ada secara konkret. Tabel perbandingan a
 
 ### Tawarkan Produk yang Benar-benar Melengkapi
 
-Cross-sell terbaik adalah produk yang membuat produk utama lebih berguna atau lebih lengkap. Casing untuk HP, tali untuk sepatu, baterai untuk mainan — ini adalah cross-sell yang natural dan mudah diterima.
+Cross-sell terbaik adalah produk yang membuat produk utama lebih berguna atau lebih lengkap. Casing untuk HP, tali untuk sepatu, baterai untuk mainan ini adalah cross-sell yang natural dan mudah diterima.
 
 ### Gunakan Bundling
 
@@ -108,9 +117,9 @@ Karyawan adalah ujung tombak strategi ini. Beberapa hal yang perlu dilatih:
 
 Untuk mengetahui apakah strategi upselling dan cross-selling kamu berhasil, pantau:
 
-- **Average Transaction Value (ATV)** — nilai rata-rata setiap transaksi. Jika meningkat, strategi kamu berhasil.
-- **Attachment Rate** — persentase transaksi yang menyertakan produk tambahan
-- **Produk yang paling sering di-cross-sell** — untuk mengoptimalkan display dan pelatihan karyawan
+- **Average Transaction Value (ATV)** nilai rata-rata setiap transaksi. Jika meningkat, strategi kamu berhasil.
+- **Attachment Rate** persentase transaksi yang menyertakan produk tambahan
+- **Produk yang paling sering di-cross-sell** untuk mengoptimalkan display dan pelatihan karyawan
 
 Dengan sistem kasir yang mencatat detail setiap transaksi, seperti yang tersedia di BisnisRapi, kamu bisa menganalisis data ini dengan mudah dan terus mengoptimalkan strategi upselling dan cross-selling kamu.
 
@@ -125,4 +134,4 @@ Jika kamu belum pernah menerapkan strategi ini secara sistematis, mulai dari yan
 
 Dari sana, kamu bisa terus mengembangkan dan menyempurnakan strategi berdasarkan data yang kamu kumpulkan.
 
-Upselling dan cross-selling yang dilakukan dengan benar bukan hanya meningkatkan omzet — ini juga meningkatkan kepuasan pelanggan karena mereka mendapat produk yang benar-benar melengkapi kebutuhan mereka.
+Upselling dan cross-selling yang dilakukan dengan benar bukan hanya meningkatkan omzet ini juga meningkatkan kepuasan pelanggan karena mereka mendapat produk yang benar-benar melengkapi kebutuhan mereka.

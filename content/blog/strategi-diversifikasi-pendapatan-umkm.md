@@ -1,18 +1,27 @@
 ---
-title: "Strategi Diversifikasi Pendapatan untuk UMKM yang Lebih Stabil"
-date: "2025-07-01"
-excerpt: "Panduan strategi diversifikasi pendapatan untuk UMKM agar bisnis lebih tahan terhadap fluktuasi pasar dan tidak bergantung pada satu sumber pendapatan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["diversifikasi pendapatan", "multiple income stream", "stabilitas bisnis", "strategi umkm", "pengembangan bisnis"]
-image: "/blog/strategi-diversifikasi-pendapatan-umkm/thumbnail.svg"
+title: Strategi Diversifikasi Pendapatan untuk UMKM yang Lebih Stabil
+date: '2025-07-01'
+excerpt: >-
+  Panduan strategi diversifikasi pendapatan untuk UMKM agar bisnis lebih tahan
+  terhadap fluktuasi pasar dan tidak bergantung pada satu sumber pendapatan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - diversifikasi pendapatan
+  - multiple income stream
+  - stabilitas bisnis
+  - strategi umkm
+  - pengembangan bisnis
+image: /blog/strategi-diversifikasi-pendapatan-umkm/thumbnail.svg
 ---
 
-"Jangan taruh semua telur dalam satu keranjang." Pepatah ini sangat relevan untuk bisnis. UMKM yang hanya mengandalkan satu sumber pendapatan sangat rentan — satu perubahan pasar, satu kompetitor baru, atau satu bencana bisa langsung mengancam kelangsungan bisnis.
+"Jangan taruh semua telur dalam satu keranjang." Pepatah ini sangat relevan untuk bisnis. UMKM yang hanya mengandalkan satu sumber pendapatan sangat rentan satu perubahan pasar, satu kompetitor baru, atau satu bencana bisa langsung mengancam kelangsungan bisnis.
 
 Diversifikasi pendapatan bukan berarti kamu harus membuka bisnis yang sama sekali berbeda. Ada banyak cara untuk menambah aliran pendapatan yang masih relevan dengan bisnis inti kamu.
 
 ## Mengapa Diversifikasi Pendapatan Penting?
+
+![Ilustrasi Strategi Diversifikasi Pendapatan untuk UMKM yang Lebih Stabil](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Diversifikasi Pendapatan untuk UMKM yang Lebih Stabil")
 
 Bayangkan tiga skenario:
 

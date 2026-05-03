@@ -1,18 +1,27 @@
 ---
-title: "Strategi Pricing Psikologis yang Terbukti Meningkatkan Penjualan"
-date: "2025-07-17"
-excerpt: "Pelajari strategi pricing psikologis yang efektif untuk meningkatkan penjualan bisnis UMKM — dari charm pricing hingga anchoring dan decoy pricing."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["pricing psikologis", "strategi harga", "psikologi harga", "meningkatkan penjualan", "strategi marketing"]
-image: "/blog/strategi-pricing-psikologis-bisnis/thumbnail.svg"
+title: Strategi Pricing Psikologis yang Terbukti Meningkatkan Penjualan
+date: '2025-07-17'
+excerpt: >-
+  Pelajari strategi pricing psikologis yang efektif untuk meningkatkan penjualan
+  bisnis UMKM — dari charm pricing hingga anchoring dan decoy pricing.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - pricing psikologis
+  - strategi harga
+  - psikologi harga
+  - meningkatkan penjualan
+  - strategi marketing
+image: /blog/strategi-pricing-psikologis-bisnis/thumbnail.svg
 ---
 
-Harga bukan hanya angka. Cara kamu menyajikan harga bisa mempengaruhi keputusan pembelian pelanggan secara signifikan — bahkan tanpa mereka sadari. Inilah yang disebut pricing psikologis: menggunakan pemahaman tentang cara kerja pikiran manusia untuk membuat harga terasa lebih menarik.
+Harga bukan hanya angka. Cara kamu menyajikan harga bisa mempengaruhi keputusan pembelian pelanggan secara signifikan bahkan tanpa mereka sadari. Inilah yang disebut pricing psikologis: menggunakan pemahaman tentang cara kerja pikiran manusia untuk membuat harga terasa lebih menarik.
 
 Strategi ini bukan tentang menipu pelanggan. Ini tentang menyajikan nilai produk kamu dengan cara yang paling efektif.
 
 ## 1. Charm Pricing: Kekuatan Angka 9
+
+![Ilustrasi Strategi Pricing Psikologis yang Terbukti Meningkatkan Penjualan](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Pricing Psikologis yang Terbukti Meningkatkan Penjualan")
 
 Ini adalah strategi pricing psikologis yang paling terkenal. Harga Rp 99.000 terasa jauh lebih murah dari Rp 100.000, meski selisihnya hanya Rp 1.000.
 
@@ -23,8 +32,8 @@ Mengapa ini berhasil? Otak manusia memproses angka dari kiri ke kanan. Digit per
 - Contoh: Rp 49.000, Rp 99.000, Rp 199.000, Rp 499.000
 
 **Kapan tidak menggunakan:**
-- Untuk produk premium atau luxury — harga bulat (Rp 500.000, Rp 1.000.000) justru terasa lebih prestisius
-- Untuk jasa profesional — harga bulat terasa lebih percaya diri
+- Untuk produk premium atau luxury harga bulat (Rp 500.000, Rp 1.000.000) justru terasa lebih prestisius
+- Untuk jasa profesional harga bulat terasa lebih percaya diri
 
 ## 2. Price Anchoring: Buat Harga Terasa Murah dengan Perbandingan
 
@@ -45,11 +54,11 @@ Anchoring adalah teknik di mana kamu menyajikan harga yang lebih tinggi terlebih
 Ketika kamu menawarkan tiga pilihan, pelanggan cenderung memilih yang di tengah. Ini disebut "compromise effect." Decoy pricing memanfaatkan ini dengan sengaja.
 
 **Contoh untuk jasa laundry:**
-- Paket Hemat: 5 kg — Rp 25.000
-- Paket Standar: 10 kg — Rp 45.000 ← (yang ingin kamu jual)
-- Paket Premium: 15 kg — Rp 80.000
+- Paket Hemat: 5 kg Rp 25.000
+- Paket Standar: 10 kg Rp 45.000 ← (yang ingin kamu jual)
+- Paket Premium: 15 kg Rp 80.000
 
-Paket Standar terasa seperti "sweet spot" — lebih banyak dari Hemat, jauh lebih murah dari Premium.
+Paket Standar terasa seperti "sweet spot" lebih banyak dari Hemat, jauh lebih murah dari Premium.
 
 **Cara menerapkan:**
 - Buat tiga tier harga untuk produk/jasa kamu
@@ -106,7 +115,7 @@ Jika bisnis kamu melakukan pengiriman, tentukan batas minimum pembelian untuk gr
 
 **Contoh:** "Gratis ongkir untuk pembelian di atas Rp 150.000"
 
-Jika rata-rata pembelian pelanggan adalah Rp 100.000, batas Rp 150.000 mendorong mereka menambah Rp 50.000 lagi — yang sering kali lebih dari cukup untuk menutup biaya pengiriman.
+Jika rata-rata pembelian pelanggan adalah Rp 100.000, batas Rp 150.000 mendorong mereka menambah Rp 50.000 lagi yang sering kali lebih dari cukup untuk menutup biaya pengiriman.
 
 ## Menggabungkan Strategi
 

@@ -1,24 +1,34 @@
 ---
-title: "Cara Buat Program Diskon yang Efektif Tanpa Bikin Rugi"
-date: "2025-08-01"
-excerpt: "Diskon yang salah bisa merusak margin dan melatih pelanggan untuk selalu menunggu promo. Pelajari cara merancang program diskon yang meningkatkan penjualan tanpa mengorbankan profitabilitas."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["program diskon", "strategi promo", "pricing", "strategi bisnis", "UMKM"]
-image: "/blog/cara-buat-program-diskon-efektif/thumbnail.svg"
+title: Cara Buat Program Diskon yang Efektif Tanpa Bikin Rugi
+date: '2025-08-01'
+excerpt: >-
+  Diskon yang salah bisa merusak margin dan melatih pelanggan untuk selalu
+  menunggu promo. Pelajari cara merancang program diskon yang meningkatkan
+  penjualan tanpa mengorbankan profitabilitas.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - program diskon
+  - strategi promo
+  - pricing
+  - strategi bisnis
+  - UMKM
+image: /blog/cara-buat-program-diskon-efektif/thumbnail.svg
 ---
 
-Diskon adalah alat marketing yang powerful — tapi juga berbahaya kalau tidak digunakan dengan benar. Banyak bisnis yang terjebak dalam siklus diskon yang tidak berujung: pelanggan hanya mau beli saat ada promo, margin terus tergerus, dan bisnis akhirnya tidak sustainable.
+Diskon adalah alat marketing yang powerful tapi juga berbahaya kalau tidak digunakan dengan benar. Banyak bisnis yang terjebak dalam siklus diskon yang tidak berujung: pelanggan hanya mau beli saat ada promo, margin terus tergerus, dan bisnis akhirnya tidak sustainable.
 
-Artikel ini membahas cara merancang program diskon yang benar-benar efektif — meningkatkan penjualan dan loyalitas pelanggan tanpa mengorbankan profitabilitas.
+Artikel ini membahas cara merancang program diskon yang benar-benar efektif meningkatkan penjualan dan loyalitas pelanggan tanpa mengorbankan profitabilitas.
 
 ## Kenapa Diskon Bisa Berbahaya?
+
+![Ilustrasi Cara Buat Program Diskon yang Efektif Tanpa Bikin Rugi](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Program Diskon yang Efektif Tanpa Bikin Rugi")
 
 **Melatih pelanggan untuk menunggu promo.** Kalau kamu terlalu sering diskon, pelanggan akan belajar bahwa harga normal adalah "harga mahal" dan mereka hanya perlu menunggu promo. Ini merusak persepsi nilai produkmu.
 
 **Margin yang tergerus.** Diskon 20% terdengar kecil, tapi kalau margin kotormu hanya 30%, diskon itu memotong 2/3 dari profitmu.
 
-**Menarik pelanggan yang salah.** Diskon besar menarik pemburu diskon yang tidak loyal — mereka akan pergi ke kompetitor begitu ada promo yang lebih besar.
+**Menarik pelanggan yang salah.** Diskon besar menarik pemburu diskon yang tidak loyal mereka akan pergi ke kompetitor begitu ada promo yang lebih besar.
 
 **Devaluasi brand.** Terlalu sering diskon bisa membuat produkmu terlihat murahan atau tidak berkualitas.
 
@@ -89,7 +99,7 @@ Diskon yang terlalu sering kehilangan efektivitasnya. Buat diskon terasa spesial
 
 ### Early Bird Discount
 
-Diskon untuk pembelian lebih awal — misalnya untuk pre-order atau pembelian di awal bulan.
+Diskon untuk pembelian lebih awal misalnya untuk pre-order atau pembelian di awal bulan.
 
 **Cocok untuk:** Meningkatkan arus kas, membantu perencanaan produksi.
 
@@ -107,7 +117,7 @@ Diskon besar untuk waktu yang sangat terbatas (beberapa jam).
 
 **Cocok untuk:** Menghabiskan stok cepat, menciptakan buzz, menarik traffic.
 
-**Hati-hati:** Jangan terlalu sering — efektivitasnya berkurang kalau terlalu rutin.
+**Hati-hati:** Jangan terlalu sering efektivitasnya berkurang kalau terlalu rutin.
 
 ## Cara Merancang Program Diskon yang Efektif
 
@@ -147,7 +157,7 @@ Setelah promo selesai, evaluasi:
 
 Gunakan data ini untuk merancang promo berikutnya yang lebih baik.
 
-Sistem manajemen bisnis seperti BisnisRapi memudahkan kamu mengatur program diskon — dari diskon per produk, diskon member, sampai bundle pricing — dan mengukur dampaknya terhadap penjualan dan margin secara real-time.
+Sistem manajemen bisnis seperti BisnisRapi memudahkan kamu mengatur program diskon dari diskon per produk, diskon member, sampai bundle pricing dan mengukur dampaknya terhadap penjualan dan margin secara real-time.
 
 ## Kesimpulan
 

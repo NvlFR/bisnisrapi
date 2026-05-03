@@ -1,16 +1,25 @@
 ---
-title: "Cara Buat Kontrak Kerja Karyawan yang Sah dan Melindungi Bisnis"
-date: "2025-08-05"
-excerpt: "Panduan membuat kontrak kerja karyawan yang sah secara hukum dan melindungi kepentingan bisnis UMKM — komponen wajib dan hal-hal yang perlu dihindari."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["kontrak kerja", "perjanjian kerja", "hukum ketenagakerjaan", "karyawan umkm", "manajemen sdm"]
-image: "/blog/cara-buat-kontrak-kerja-karyawan/thumbnail.svg"
+title: Cara Buat Kontrak Kerja Karyawan yang Sah dan Melindungi Bisnis
+date: '2025-08-05'
+excerpt: >-
+  Panduan membuat kontrak kerja karyawan yang sah secara hukum dan melindungi
+  kepentingan bisnis UMKM — komponen wajib dan hal-hal yang perlu dihindari.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - kontrak kerja
+  - perjanjian kerja
+  - hukum ketenagakerjaan
+  - karyawan umkm
+  - manajemen sdm
+image: /blog/cara-buat-kontrak-kerja-karyawan/thumbnail.svg
 ---
 
-Kontrak kerja adalah fondasi hubungan kerja yang sehat. Tanpa kontrak yang jelas, baik kamu maupun karyawan berada dalam posisi yang tidak pasti — dan ketidakpastian sering berujung pada konflik. Kontrak kerja yang baik melindungi kedua pihak dan menetapkan ekspektasi yang jelas sejak awal.
+Kontrak kerja adalah fondasi hubungan kerja yang sehat. Tanpa kontrak yang jelas, baik kamu maupun karyawan berada dalam posisi yang tidak pasti dan ketidakpastian sering berujung pada konflik. Kontrak kerja yang baik melindungi kedua pihak dan menetapkan ekspektasi yang jelas sejak awal.
 
 ## Jenis-Jenis Perjanjian Kerja
+
+![Ilustrasi Cara Buat Kontrak Kerja Karyawan yang Sah dan Melindungi Bisnis](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Kontrak Kerja Karyawan yang Sah dan Melindungi Bisnis")
 
 ### PKWT (Perjanjian Kerja Waktu Tertentu)
 
@@ -79,7 +88,7 @@ Karyawan tidak boleh membocorkan informasi rahasia bisnis kepada pihak luar, ter
 
 ### Non-Kompetisi (Non-Compete)
 
-Karyawan tidak boleh bekerja untuk kompetitor atau mendirikan bisnis yang bersaing selama periode tertentu setelah keluar. 
+Karyawan tidak boleh bekerja untuk kompetitor atau mendirikan bisnis yang bersaing selama periode tertentu setelah keluar.
 
 **Catatan penting**: Klausul non-kompetisi yang terlalu luas atau tidak wajar bisa dianggap tidak sah. Batasi pada:
 - Periode yang wajar (6-12 bulan)
@@ -92,7 +101,7 @@ Semua karya, inovasi, atau kreasi yang dibuat karyawan selama masa kerja adalah 
 
 ### Prosedur Penyelesaian Sengketa
 
-Tentukan bagaimana sengketa akan diselesaikan — apakah melalui mediasi, arbitrase, atau pengadilan.
+Tentukan bagaimana sengketa akan diselesaikan apakah melalui mediasi, arbitrase, atau pengadilan.
 
 ## Hal-Hal yang Tidak Boleh Ada dalam Kontrak
 
@@ -105,13 +114,13 @@ Tentukan bagaimana sengketa akan diselesaikan — apakah melalui mediasi, arbitr
 
 **Langkah 1**: Buat draft kontrak berdasarkan template yang sesuai dengan jenis pekerjaan.
 
-**Langkah 2**: Review dengan teliti — pastikan semua komponen wajib ada dan tidak ada klausul yang bertentangan dengan hukum.
+**Langkah 2**: Review dengan teliti pastikan semua komponen wajib ada dan tidak ada klausul yang bertentangan dengan hukum.
 
 **Langkah 3**: Diskusikan dengan calon karyawan sebelum penandatanganan. Beri waktu untuk membaca dan bertanya.
 
 **Langkah 4**: Tandatangani di atas materai oleh kedua pihak.
 
-**Langkah 5**: Buat dua salinan — satu untuk perusahaan, satu untuk karyawan.
+**Langkah 5**: Buat dua salinan satu untuk perusahaan, satu untuk karyawan.
 
 **Langkah 6**: Simpan dengan aman. Kontrak kerja adalah dokumen hukum yang penting.
 

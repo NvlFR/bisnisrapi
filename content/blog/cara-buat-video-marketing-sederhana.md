@@ -1,18 +1,28 @@
 ---
-title: "Cara Buat Video Marketing Sederhana dengan HP"
-date: "2025-08-05"
-excerpt: "Video adalah format konten yang paling efektif saat ini. Kamu tidak perlu kamera mahal atau tim produksi — HP yang kamu punya sudah cukup untuk membuat video marketing yang bagus."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["video marketing", "buat video hp", "konten video bisnis", "reels tiktok", "video produk"]
-image: "/blog/cara-buat-video-marketing-sederhana/thumbnail.svg"
+title: Cara Buat Video Marketing Sederhana dengan HP
+date: '2025-08-05'
+excerpt: >-
+  Video adalah format konten yang paling efektif saat ini. Kamu tidak perlu
+  kamera mahal atau tim produksi — HP yang kamu punya sudah cukup untuk membuat
+  video marketing yang bagus.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - video marketing
+  - buat video hp
+  - konten video bisnis
+  - reels tiktok
+  - video produk
+image: /blog/cara-buat-video-marketing-sederhana/thumbnail.svg
 ---
 
-Video telah menjadi format konten yang paling dominan di hampir semua platform digital. Instagram Reels, TikTok, YouTube Shorts — semua platform besar mendorong konten video karena pengguna menghabiskan lebih banyak waktu menonton video dibandingkan melihat foto atau membaca teks.
+Video telah menjadi format konten yang paling dominan di hampir semua platform digital. Instagram Reels, TikTok, YouTube Shorts semua platform besar mendorong konten video karena pengguna menghabiskan lebih banyak waktu menonton video dibandingkan melihat foto atau membaca teks.
 
-Tapi banyak pemilik UMKM yang merasa terintimidasi oleh pembuatan video — merasa tidak punya peralatan yang cukup, tidak tahu cara mengedit, atau tidak percaya diri di depan kamera. Artikel ini akan menunjukkan bahwa membuat video marketing yang efektif jauh lebih mudah dari yang kamu bayangkan.
+Tapi banyak pemilik UMKM yang merasa terintimidasi oleh pembuatan video merasa tidak punya peralatan yang cukup, tidak tahu cara mengedit, atau tidak percaya diri di depan kamera. Artikel ini akan menunjukkan bahwa membuat video marketing yang efektif jauh lebih mudah dari yang kamu bayangkan.
 
 ## Mengapa Video Marketing Penting?
+
+![Ilustrasi Cara Buat Video Marketing Sederhana dengan HP](https://images.unsplash.com/photo-1551836022-d5d8b5c9d107?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Video Marketing Sederhana dengan HP")
 
 **Engagement yang lebih tinggi.** Video secara konsisten mendapat engagement yang lebih tinggi dibandingkan foto atau teks di hampir semua platform.
 
@@ -67,7 +77,7 @@ Contoh: toko skincare bisa membuat tutorial cara layering skincare, toko baju bi
 
 ### Behind the Scene
 
-Tunjukkan proses di balik bisnis kamu — bagaimana produk dibuat, bagaimana pesanan diproses, atau bagaimana tim bekerja. Konten ini sangat autentik dan membangun koneksi personal.
+Tunjukkan proses di balik bisnis kamu bagaimana produk dibuat, bagaimana pesanan diproses, atau bagaimana tim bekerja. Konten ini sangat autentik dan membangun koneksi personal.
 
 ### Unboxing
 
@@ -105,13 +115,13 @@ Tap pada subjek di layar untuk memastikan fokus yang tepat. Untuk produk kecil, 
 
 Kamu tidak perlu software editing yang rumit. Beberapa aplikasi editing yang mudah digunakan:
 
-**CapCut** — gratis, sangat populer, punya banyak template dan efek yang menarik. Sangat cocok untuk TikTok dan Reels.
+**CapCut** gratis, sangat populer, punya banyak template dan efek yang menarik. Sangat cocok untuk TikTok dan Reels.
 
-**InShot** — mudah digunakan, cocok untuk editing dasar.
+**InShot** mudah digunakan, cocok untuk editing dasar.
 
-**VN Video Editor** — lebih advanced dari InShot tapi masih mudah dipelajari.
+**VN Video Editor** lebih advanced dari InShot tapi masih mudah dipelajari.
 
-**iMovie** — untuk pengguna iPhone, sudah tersedia gratis dan cukup powerful.
+**iMovie** untuk pengguna iPhone, sudah tersedia gratis dan cukup powerful.
 
 ### Elemen Editing yang Penting
 
@@ -122,7 +132,5 @@ Kamu tidak perlu software editing yang rumit. Beberapa aplikasi editing yang mud
 **Tambahkan musik latar.** Musik yang tepat bisa sangat meningkatkan mood video. Gunakan musik yang bebas royalti atau musik trending di platform.
 
 **Tambahkan transisi.** Transisi yang halus membuat video terlihat lebih profesional.
-
----
 
 Video marketing yang konsisten bisa menjadi salah satu driver pertumbuhan terbesar untuk bisnis kamu. Sementara kamu membangun kehadiran video yang kuat, BisnisRapi membantu kamu mengelola operasional bisnis dengan lebih efisien, sehingga kamu bisa fokus pada pembuatan konten yang menarik tanpa khawatir bisnis tidak terkelola dengan baik.

@@ -1,11 +1,19 @@
 ---
-title: "Cara Kelola Toko Online dan Offline Sekaligus Tanpa Kacau"
-date: "2025-05-20"
-excerpt: "Mengelola toko online dan offline secara bersamaan bisa sangat membingungkan tanpa sistem yang tepat. Pelajari cara mengintegrasikan keduanya agar berjalan mulus."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["omnichannel", "toko online", "toko offline", "manajemen stok", "retail modern"]
-image: "/blog/manajemen-toko-online-dan-offline/thumbnail.svg"
+title: Cara Kelola Toko Online dan Offline Sekaligus Tanpa Kacau
+date: '2025-05-20'
+excerpt: >-
+  Mengelola toko online dan offline secara bersamaan bisa sangat membingungkan
+  tanpa sistem yang tepat. Pelajari cara mengintegrasikan keduanya agar berjalan
+  mulus.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - omnichannel
+  - toko online
+  - toko offline
+  - manajemen stok
+  - retail modern
+image: /blog/manajemen-toko-online-dan-offline/thumbnail.svg
 ---
 
 Punya toko fisik sekaligus jualan online adalah strategi yang semakin umum di kalangan UMKM. Tapi banyak yang tidak siap dengan kompleksitas yang datang bersamanya: stok yang tidak sinkron, pesanan yang terlewat, dan pelanggan yang kecewa karena produk yang "tersedia" di online ternyata sudah habis di toko.
@@ -13,6 +21,8 @@ Punya toko fisik sekaligus jualan online adalah strategi yang semakin umum di ka
 Mengelola dua channel penjualan sekaligus memang lebih kompleks, tapi dengan sistem yang tepat, ini bisa menjadi keunggulan kompetitif yang signifikan.
 
 ## Tantangan Utama Mengelola Toko Online dan Offline
+
+![Ilustrasi Cara Kelola Toko Online dan Offline Sekaligus Tanpa Kacau](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Online dan Offline Sekaligus Tanpa Kacau")
 
 **Stok yang tidak sinkron.** Ini masalah paling umum. Produk terjual di toko fisik, tapi stok di marketplace belum diupdate. Pelanggan online pesan, ternyata stok sudah habis. Ini merusak reputasi dan bisa kena penalti dari marketplace.
 
@@ -22,13 +32,13 @@ Mengelola dua channel penjualan sekaligus memang lebih kompleks, tapi dengan sis
 
 **Laporan yang terpisah.** Kamu tidak bisa melihat gambaran bisnis secara keseluruhan kalau laporan online dan offline terpisah.
 
-**Pengalaman pelanggan yang tidak konsisten.** Pelanggan yang beli online dan offline harus mendapat pengalaman yang konsisten — termasuk program loyalty, harga, dan layanan.
+**Pengalaman pelanggan yang tidak konsisten.** Pelanggan yang beli online dan offline harus mendapat pengalaman yang konsisten termasuk program loyalty, harga, dan layanan.
 
 ## Strategi Mengelola Omnichannel dengan Efektif
 
 ### 1. Satu Sistem Stok untuk Semua Channel
 
-Ini fondasi dari omnichannel yang berfungsi dengan baik. Semua channel — toko fisik, Tokopedia, Shopee, Instagram — harus mengambil dari satu pool stok yang sama.
+Ini fondasi dari omnichannel yang berfungsi dengan baik. Semua channel toko fisik, Tokopedia, Shopee, Instagram harus mengambil dari satu pool stok yang sama.
 
 Setiap kali ada penjualan di channel manapun, stok berkurang dari pool yang sama. Ini mencegah overselling dan memastikan data stok selalu akurat.
 

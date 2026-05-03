@@ -1,21 +1,25 @@
 ---
-title: "Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan untuk Bisnis Kamu?"
-date: "2025-02-15"
-excerpt: "Banyak seller marketplace yang tidak sadar mereka sedang membangun bisnis di atas tanah orang lain. Pelajari kapan harus punya toko online sendiri dan bagaimana caranya."
-author: "BisnisRapi Team"
-category: "E-Commerce"
-image: "/blog/toko-online-custom-vs-marketplace/thumbnail.webp"
+title: >-
+  Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan untuk Bisnis
+  Kamu?
+date: '2025-02-15'
+excerpt: >-
+  Banyak seller marketplace yang tidak sadar mereka sedang membangun bisnis di
+  atas tanah orang lain. Pelajari kapan harus punya toko online sendiri dan
+  bagaimana caranya.
+author: BisnisRapi Team
+category: E-Commerce
+image: /blog/toko-online-custom-vs-marketplace/thumbnail.webp
 ---
 
-# Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan?
 
 Jutaan UMKM Indonesia berjualan di Tokopedia, Shopee, atau Lazada. Dan memang ada alasan kuat untuk itu traffic sudah ada, sistem pembayaran sudah ada, pelanggan sudah familiar.
 
 Tapi ada hal yang jarang dibicarakan: **kamu tidak punya bisnis, kamu punya lapak**.
 
----
-
 ## Realitas Bisnis di Marketplace
+
+![Ilustrasi Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan untuk Bisnis Kamu?](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Toko Online Custom vs Marketplace: Mana yang Lebih Menguntungkan untuk Bisnis Kamu?")
 
 Sebelum kita bandingkan, mari jujur soal apa yang terjadi ketika bisnis kamu 100% bergantung pada marketplace:
 
@@ -35,8 +39,6 @@ Kamu tahu tidak berapa email pelanggan yang sudah pernah beli dari toko marketpl
 
 Kebijakan marketplace bisa berubah kapanpun. Produkmu bisa di-takedown, rating bisa direset, akun bisa diblokir dan kamu tidak punya kontrol atas itu.
 
----
-
 ## Kapan Marketplace Masih Tepat?
 
 Bukan berarti marketplace harus dihindari. Ada situasi di mana marketplace sangat masuk akal:
@@ -50,8 +52,6 @@ Bukan berarti marketplace harus dihindari. Ada situasi di mana marketplace sanga
 ✅ **Sebagai channel tambahan** bukan satu-satunya
 
 Kuncinya: gunakan marketplace sebagai *saluran distribusi*, bukan sebagai *fondasi bisnis*.
-
----
 
 ## Keunggulan Toko Online Custom
 
@@ -81,8 +81,6 @@ Toko online custom bisa dioptimasi untuk mesin pencari. Ketika orang search "bel
 
 Toko online yang baik bisa terintegrasi dengan sistem manajemen stok, akuntansi, dan CRM kamu. Setiap pesanan otomatis mengurangi stok, otomatis tercatat di pembukuan, dan otomatis memperbarui data pelanggan.
 
----
-
 ## Perbandingan Biaya: Marketplace vs Toko Sendiri
 
 ### Jika Kamu Jual Rp 100 Juta/Bulan
@@ -101,8 +99,6 @@ Toko online yang baik bisa terintegrasi dengan sistem manajemen stok, akuntansi,
 
 Selisihnya bisa Rp 2-6 juta per bulan yang artinya toko online sendiri seharga Rp 20 juta bisa balik modal dalam **3-4 bulan**.
 
----
-
 ## Strategi Terbaik: Kombinasi Keduanya
 
 Bukan marketplace vs toko sendiri tapi **bagaimana menggunakan keduanya secara strategis**:
@@ -118,8 +114,6 @@ Loyalty Program → Naikkan lifetime value per pelanggan
 ```
 
 Gunakan marketplace untuk akuisisi pelanggan baru. Gunakan toko sendiri untuk membangun hubungan jangka panjang dan maksimalkan margin.
-
----
 
 ## Apa yang Harus Ada di Toko Online Custom?
 
@@ -145,8 +139,6 @@ Toko online yang mengkonversi bukan sekadar katalog produk dengan tombol checkou
 ### Mobile-First Design
 70%+ transaksi e-commerce Indonesia dilakukan via mobile. Toko kamu harus sempurna di HP, bukan hanya di desktop.
 
----
-
 ## Biaya Bikin Toko Online Custom
 
 Ini estimasi untuk berbagai skala:
@@ -163,14 +155,10 @@ Ini estimasi untuk berbagai skala:
 - Toko online + ERP + CRM + analitik bisnis
 - Estimasi: Custom, konsultasi diperlukan
 
----
-
 ## Kesimpulan
 
 Marketplace adalah alat, bukan rumah. Bisnis yang serius membangun **ekosistem digital sendiri** dengan toko online custom sebagai pusatnya.
 
 Jika kamu masih 100% bergantung pada marketplace, sekarang adalah waktu yang tepat untuk mulai transisi. Tidak perlu langsung meninggalkan marketplace tapi mulailah bangun "rumah digital" yang benar-benar milik kamu.
-
----
 
 *Siap bikin toko online custom untuk bisnis kamu? [BisnisRapi](#) spesialis membangun e-commerce terintegrasi yang tidak hanya cantik tapi juga mengkonversi.*

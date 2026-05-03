@@ -1,18 +1,28 @@
 ---
-title: "Manajemen Piutang Usaha: Cara Tagih Hutang Pelanggan Tanpa Awkward"
-date: "2025-03-20"
-excerpt: "Piutang yang tidak terkelola bisa menghancurkan arus kas bisnis. Pelajari cara mengelola piutang usaha dan menagih hutang pelanggan dengan cara yang profesional."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["piutang usaha", "manajemen keuangan", "arus kas", "UMKM", "penagihan hutang"]
-image: "/blog/manajemen-piutang-usaha/thumbnail.svg"
+title: 'Manajemen Piutang Usaha: Cara Tagih Hutang Pelanggan Tanpa Awkward'
+date: '2025-03-20'
+excerpt: >-
+  Piutang yang tidak terkelola bisa menghancurkan arus kas bisnis. Pelajari cara
+  mengelola piutang usaha dan menagih hutang pelanggan dengan cara yang
+  profesional.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - piutang usaha
+  - manajemen keuangan
+  - arus kas
+  - UMKM
+  - penagihan hutang
+image: /blog/manajemen-piutang-usaha/thumbnail.svg
 ---
 
 "Omzetnya besar, tapi kok uangnya nggak ada?" Ini pertanyaan yang sering muncul dari pemilik bisnis yang punya banyak pelanggan kredit. Jawabannya hampir selalu sama: piutang yang tidak terkelola dengan baik.
 
-Piutang usaha — uang yang belum dibayar oleh pelanggan — adalah salah satu penyebab utama masalah arus kas di UMKM. Bisnis bisa terlihat profitable di atas kertas, tapi kalau uangnya masih di tangan pelanggan, kamu tidak bisa bayar supplier, gaji karyawan, atau biaya operasional.
+Piutang usaha uang yang belum dibayar oleh pelanggan adalah salah satu penyebab utama masalah arus kas di UMKM. Bisnis bisa terlihat profitable di atas kertas, tapi kalau uangnya masih di tangan pelanggan, kamu tidak bisa bayar supplier, gaji karyawan, atau biaya operasional.
 
 ## Kenapa Piutang Bisa Jadi Masalah Besar?
+
+![Ilustrasi Manajemen Piutang Usaha: Cara Tagih Hutang Pelanggan Tanpa Awkward](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Piutang Usaha: Cara Tagih Hutang Pelanggan Tanpa Awkward")
 
 **Arus kas terganggu.** Kamu sudah keluarkan biaya untuk produksi atau pembelian barang, tapi uangnya belum masuk. Ini menciptakan gap yang harus ditutup dari kantong sendiri atau pinjaman.
 
@@ -79,7 +89,7 @@ Ini bagian yang paling banyak orang hindari. Menagih hutang terasa tidak enak, t
 
 ### Reminder Sebelum Jatuh Tempo
 
-Kirim reminder 3-5 hari sebelum jatuh tempo. Ini bukan menagih — ini membantu pelanggan ingat. Tone-nya bisa santai:
+Kirim reminder 3-5 hari sebelum jatuh tempo. Ini bukan menagih ini membantu pelanggan ingat. Tone-nya bisa santai:
 
 *"Halo Pak Budi, mengingatkan bahwa invoice #INV-001 senilai Rp 5.000.000 akan jatuh tempo pada 25 Maret. Terima kasih."*
 

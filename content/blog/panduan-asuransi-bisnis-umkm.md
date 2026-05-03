@@ -1,24 +1,33 @@
 ---
-title: "Panduan Asuransi Bisnis untuk UMKM: Apa yang Perlu Dilindungi"
-date: "2025-06-19"
-excerpt: "Panduan memilih asuransi bisnis yang tepat untuk UMKM — dari asuransi properti hingga asuransi tanggung gugat, dan cara menghitung kebutuhan perlindungan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["asuransi bisnis", "proteksi umkm", "manajemen risiko", "asuransi usaha", "perlindungan bisnis"]
-image: "/blog/panduan-asuransi-bisnis-umkm/thumbnail.svg"
+title: 'Panduan Asuransi Bisnis untuk UMKM: Apa yang Perlu Dilindungi'
+date: '2025-06-19'
+excerpt: >-
+  Panduan memilih asuransi bisnis yang tepat untuk UMKM — dari asuransi properti
+  hingga asuransi tanggung gugat, dan cara menghitung kebutuhan perlindungan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - asuransi bisnis
+  - proteksi umkm
+  - manajemen risiko
+  - asuransi usaha
+  - perlindungan bisnis
+image: /blog/panduan-asuransi-bisnis-umkm/thumbnail.svg
 ---
 
-Banyak pemilik UMKM menganggap asuransi bisnis sebagai pengeluaran yang bisa ditunda. "Nanti kalau sudah besar." Padahal, justru bisnis kecil yang paling rentan terhadap risiko yang tidak terduga — karena tidak punya cadangan finansial yang besar untuk menanggung kerugian besar.
+Banyak pemilik UMKM menganggap asuransi bisnis sebagai pengeluaran yang bisa ditunda. "Nanti kalau sudah besar." Padahal, justru bisnis kecil yang paling rentan terhadap risiko yang tidak terduga karena tidak punya cadangan finansial yang besar untuk menanggung kerugian besar.
 
 Satu kebakaran, satu tuntutan hukum dari pelanggan, atau satu kecelakaan karyawan bisa mengakhiri bisnis yang sudah dibangun bertahun-tahun. Asuransi adalah cara paling efisien untuk mentransfer risiko tersebut.
 
 ## Jenis-Jenis Asuransi yang Relevan untuk UMKM
 
+![Ilustrasi Panduan Asuransi Bisnis untuk UMKM: Apa yang Perlu Dilindungi](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Asuransi Bisnis untuk UMKM: Apa yang Perlu Dilindungi")
+
 ### 1. Asuransi Properti Usaha
 
 Melindungi aset fisik bisnis kamu: gedung/tempat usaha, peralatan, stok barang, dan perlengkapan kantor dari risiko kebakaran, bencana alam, pencurian, dan kerusakan.
 
-**Cocok untuk**: Semua bisnis yang punya aset fisik — toko, restoran, bengkel, pabrik kecil.
+**Cocok untuk**: Semua bisnis yang punya aset fisik toko, restoran, bengkel, pabrik kecil.
 
 **Yang perlu diperhatikan**:
 - Pastikan nilai pertanggungan mencerminkan nilai aktual aset kamu
@@ -33,7 +42,7 @@ Kendaraan yang digunakan untuk keperluan bisnis biasanya tidak ditanggung oleh a
 
 ### 3. Asuransi Kecelakaan Kerja Karyawan
 
-Ini bukan hanya soal kebaikan hati — ini kewajiban hukum. Setiap pengusaha yang mempekerjakan karyawan wajib mendaftarkan mereka ke BPJS Ketenagakerjaan, yang mencakup Jaminan Kecelakaan Kerja (JKK) dan Jaminan Kematian (JKM).
+Ini bukan hanya soal kebaikan hati ini kewajiban hukum. Setiap pengusaha yang mempekerjakan karyawan wajib mendaftarkan mereka ke BPJS Ketenagakerjaan, yang mencakup Jaminan Kecelakaan Kerja (JKK) dan Jaminan Kematian (JKM).
 
 Untuk perlindungan tambahan di luar BPJS, kamu bisa mempertimbangkan asuransi kecelakaan kerja swasta.
 
@@ -52,7 +61,7 @@ Jika bisnis kamu terpaksa tutup sementara karena bencana atau kerusakan, asurans
 
 ### 6. Asuransi Jiwa dan Kesehatan untuk Owner
 
-Jika kamu adalah "nyawa" dari bisnis — semua keputusan ada di tangan kamu — pertimbangkan asuransi jiwa yang cukup untuk memastikan bisnis bisa bertahan atau dilikuidasi dengan baik jika terjadi sesuatu pada kamu.
+Jika kamu adalah "nyawa" dari bisnis semua keputusan ada di tangan kamu pertimbangkan asuransi jiwa yang cukup untuk memastikan bisnis bisa bertahan atau dilikuidasi dengan baik jika terjadi sesuatu pada kamu.
 
 ## Cara Menentukan Kebutuhan Asuransi
 

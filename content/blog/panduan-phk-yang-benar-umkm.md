@@ -1,11 +1,18 @@
 ---
-title: "Panduan PHK yang Benar dan Sesuai Hukum untuk UMKM"
-date: "2025-08-07"
-excerpt: "Panduan melakukan PHK yang benar dan sesuai hukum ketenagakerjaan Indonesia untuk UMKM — prosedur, hak karyawan, dan cara menghindari masalah hukum."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["phk karyawan", "pemutusan hubungan kerja", "hukum ketenagakerjaan", "pesangon", "manajemen sdm"]
-image: "/blog/panduan-phk-yang-benar-umkm/thumbnail.svg"
+title: Panduan PHK yang Benar dan Sesuai Hukum untuk UMKM
+date: '2025-08-07'
+excerpt: >-
+  Panduan melakukan PHK yang benar dan sesuai hukum ketenagakerjaan Indonesia
+  untuk UMKM — prosedur, hak karyawan, dan cara menghindari masalah hukum.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - phk karyawan
+  - pemutusan hubungan kerja
+  - hukum ketenagakerjaan
+  - pesangon
+  - manajemen sdm
+image: /blog/panduan-phk-yang-benar-umkm/thumbnail.svg
 ---
 
 PHK (Pemutusan Hubungan Kerja) adalah salah satu keputusan paling berat yang harus diambil seorang pemilik bisnis. Selain dampak emosional, ada aspek hukum yang kompleks yang harus dipatuhi. PHK yang tidak dilakukan dengan benar bisa berujung pada tuntutan hukum yang jauh lebih mahal dari pesangon yang seharusnya dibayarkan.
@@ -13,6 +20,8 @@ PHK (Pemutusan Hubungan Kerja) adalah salah satu keputusan paling berat yang har
 Artikel ini memberikan panduan umum tentang PHK yang benar. Untuk situasi spesifik, selalu konsultasikan dengan pengacara ketenagakerjaan.
 
 ## Prinsip Dasar: PHK adalah Upaya Terakhir
+
+![Ilustrasi Panduan PHK yang Benar dan Sesuai Hukum untuk UMKM](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan PHK yang Benar dan Sesuai Hukum untuk UMKM")
 
 UU Ketenagakerjaan Indonesia menganut prinsip bahwa PHK harus dihindari sebisa mungkin. Sebelum melakukan PHK, pengusaha diharapkan sudah mencoba:
 - Pengurangan jam kerja
@@ -38,9 +47,9 @@ Karyawan bisa di-PHK tanpa pesangon jika melakukan kesalahan berat yang sudah di
 Karyawan yang melanggar peraturan perusahaan secara berulang setelah mendapat peringatan tertulis bisa di-PHK.
 
 **Prosedur yang harus diikuti:**
-1. Surat Peringatan Pertama (SP1) — berlaku 6 bulan
-2. Surat Peringatan Kedua (SP2) — berlaku 6 bulan
-3. Surat Peringatan Ketiga (SP3) — berlaku 6 bulan
+1. Surat Peringatan Pertama (SP1) berlaku 6 bulan
+2. Surat Peringatan Kedua (SP2) berlaku 6 bulan
+3. Surat Peringatan Ketiga (SP3) berlaku 6 bulan
 4. Jika pelanggaran berlanjut setelah SP3, baru bisa di-PHK
 
 Setiap SP harus:
@@ -108,7 +117,7 @@ Meliputi:
 
 ## Tips Menghindari Masalah Hukum PHK
 
-**Dokumentasikan segalanya.** Setiap peringatan, setiap pelanggaran, setiap komunikasi terkait kinerja — semua harus terdokumentasi dengan baik.
+**Dokumentasikan segalanya.** Setiap peringatan, setiap pelanggaran, setiap komunikasi terkait kinerja semua harus terdokumentasi dengan baik.
 
 **Konsisten dalam penerapan aturan.** Jika satu karyawan di-PHK karena alasan tertentu, pastikan aturan yang sama diterapkan secara konsisten untuk semua karyawan.
 

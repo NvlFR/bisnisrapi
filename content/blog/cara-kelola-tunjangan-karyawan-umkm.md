@@ -1,20 +1,29 @@
 ---
-title: "Cara Kelola Tunjangan Karyawan UMKM yang Sesuai Aturan"
-date: "2025-08-01"
-excerpt: "Panduan lengkap mengelola tunjangan karyawan UMKM yang sesuai aturan ketenagakerjaan — dari THR hingga tunjangan lainnya yang wajib dan opsional."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["tunjangan karyawan", "thr karyawan", "hak karyawan", "ketenagakerjaan umkm", "manajemen sdm"]
-image: "/blog/cara-kelola-tunjangan-karyawan-umkm/thumbnail.svg"
+title: Cara Kelola Tunjangan Karyawan UMKM yang Sesuai Aturan
+date: '2025-08-01'
+excerpt: >-
+  Panduan lengkap mengelola tunjangan karyawan UMKM yang sesuai aturan
+  ketenagakerjaan — dari THR hingga tunjangan lainnya yang wajib dan opsional.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - tunjangan karyawan
+  - thr karyawan
+  - hak karyawan
+  - ketenagakerjaan umkm
+  - manajemen sdm
+image: /blog/cara-kelola-tunjangan-karyawan-umkm/thumbnail.svg
 ---
 
-Tunjangan karyawan adalah komponen penting dari paket kompensasi yang mempengaruhi kepuasan, loyalitas, dan produktivitas karyawan. Sebagai pengusaha, kamu perlu memahami mana tunjangan yang wajib secara hukum dan mana yang opsional — serta bagaimana mengelolanya dengan baik.
+Tunjangan karyawan adalah komponen penting dari paket kompensasi yang mempengaruhi kepuasan, loyalitas, dan produktivitas karyawan. Sebagai pengusaha, kamu perlu memahami mana tunjangan yang wajib secara hukum dan mana yang opsional serta bagaimana mengelolanya dengan baik.
 
 ## Tunjangan yang Wajib Secara Hukum
 
+![Ilustrasi Cara Kelola Tunjangan Karyawan UMKM yang Sesuai Aturan](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Tunjangan Karyawan UMKM yang Sesuai Aturan")
+
 ### 1. Tunjangan Hari Raya (THR)
 
-THR adalah hak karyawan yang diatur dalam Peraturan Menteri Ketenagakerjaan. Ini bukan bonus — ini kewajiban hukum.
+THR adalah hak karyawan yang diatur dalam Peraturan Menteri Ketenagakerjaan. Ini bukan bonus ini kewajiban hukum.
 
 **Besaran THR:**
 - Karyawan dengan masa kerja 12 bulan atau lebih: 1 bulan gaji
@@ -31,7 +40,7 @@ THR adalah hak karyawan yang diatur dalam Peraturan Menteri Ketenagakerjaan. Ini
 **Tips mengelola THR:**
 - Anggarkan THR sejak awal tahun (sisihkan 1/12 dari total kewajiban THR setiap bulan)
 - Hitung kewajiban THR untuk setiap karyawan jauh sebelum jatuh tempo
-- Bayar tepat waktu — keterlambatan THR sangat merusak kepercayaan karyawan
+- Bayar tepat waktu keterlambatan THR sangat merusak kepercayaan karyawan
 
 ### 2. Upah Minimum
 

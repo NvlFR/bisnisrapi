@@ -1,18 +1,27 @@
 ---
-title: "Panduan Manajemen Stok untuk Toko Retail: Dari Manual ke Digital"
-date: "2025-01-15"
-excerpt: "Stok barang yang kacau bisa bikin toko rugi diam-diam. Pelajari cara mengelola stok retail secara efektif, mulai dari metode manual hingga sistem digital."
-author: "BisnisRapi Team"
-category: "Manajemen Stok"
-tags: ["manajemen stok", "toko retail", "inventaris", "digitalisasi", "UMKM"]
-image: "/blog/manajemen-stok-toko-retail/thumbnail.svg"
+title: 'Panduan Manajemen Stok untuk Toko Retail: Dari Manual ke Digital'
+date: '2025-01-15'
+excerpt: >-
+  Stok barang yang kacau bisa bikin toko rugi diam-diam. Pelajari cara mengelola
+  stok retail secara efektif, mulai dari metode manual hingga sistem digital.
+author: BisnisRapi Team
+category: Manajemen Stok
+tags:
+  - manajemen stok
+  - toko retail
+  - inventaris
+  - digitalisasi
+  - UMKM
+image: /blog/manajemen-stok-toko-retail/thumbnail.svg
 ---
 
-Pernah kejadian pelanggan minta produk tertentu, kamu yakin masih ada stok, tapi setelah dicari-cari ternyata kosong? Atau sebaliknya — kamu baru sadar punya 200 unit produk yang sudah hampir expired karena tidak pernah terpantau?
+Pernah kejadian pelanggan minta produk tertentu, kamu yakin masih ada stok, tapi setelah dicari-cari ternyata kosong? Atau sebaliknya kamu baru sadar punya 200 unit produk yang sudah hampir expired karena tidak pernah terpantau?
 
 Kedua skenario itu adalah tanda manajemen stok yang perlu diperbaiki. Dan di toko retail, stok yang tidak terkelola dengan baik bisa jadi sumber kerugian yang tidak terasa tapi terus menggerogoti profit.
 
 ## Kenapa Manajemen Stok Itu Krusial?
+
+![Ilustrasi Panduan Manajemen Stok untuk Toko Retail: Dari Manual ke Digital](https://images.unsplash.com/photo-1553413766-47583c850697?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Manajemen Stok untuk Toko Retail: Dari Manual ke Digital")
 
 Stok adalah aset terbesar kebanyakan toko retail. Uang yang "terkunci" di dalam barang dagangan bisa mencapai puluhan hingga ratusan juta rupiah. Kalau pengelolaannya buruk, dampaknya langsung ke arus kas dan profitabilitas.
 
@@ -32,7 +41,7 @@ Cara penerapannya sederhana: saat menerima stok baru, taruh di belakang. Stok la
 
 ### LIFO (Last In, First Out)
 
-Kebalikan dari FIFO — barang yang masuk terakhir keluar pertama. Jarang digunakan di retail Indonesia, tapi kadang relevan untuk produk non-perishable.
+Kebalikan dari FIFO barang yang masuk terakhir keluar pertama. Jarang digunakan di retail Indonesia, tapi kadang relevan untuk produk non-perishable.
 
 ### Par Level System
 
@@ -49,7 +58,7 @@ Fokuskan perhatian dan modal pada kategori A. Jangan biarkan produk A kehabisan 
 
 ## Dari Buku Tulis ke Spreadsheet
 
-Banyak toko retail masih mencatat stok di buku tulis atau paling jauh di spreadsheet Excel. Tidak ada yang salah dengan itu — tapi ada batasannya.
+Banyak toko retail masih mencatat stok di buku tulis atau paling jauh di spreadsheet Excel. Tidak ada yang salah dengan itu tapi ada batasannya.
 
 **Masalah dengan buku tulis:**
 - Tidak bisa dicari dengan cepat
@@ -92,7 +101,7 @@ Sistem terbaik pun tidak berguna kalau karyawan tidak mau atau tidak bisa menggu
 
 ### Langkah 5: Lakukan Stock Opname Rutin
 
-Meski sudah pakai sistem digital, stock opname fisik tetap perlu dilakukan — minimal sebulan sekali untuk produk fast-moving, tiga bulan sekali untuk yang lain. Ini untuk mendeteksi selisih antara data sistem dan kondisi fisik.
+Meski sudah pakai sistem digital, stock opname fisik tetap perlu dilakukan minimal sebulan sekali untuk produk fast-moving, tiga bulan sekali untuk yang lain. Ini untuk mendeteksi selisih antara data sistem dan kondisi fisik.
 
 ## Tips Praktis Manajemen Stok Retail
 
@@ -114,10 +123,10 @@ Meski sudah pakai sistem digital, stock opname fisik tetap perlu dilakukan — m
 - Kamu tidak bisa tahu produk mana yang paling laku tanpa hitung manual
 - Proses reorder selalu terlambat karena tidak ada sistem peringatan
 
-Kalau kamu mengangguk membaca poin-poin di atas, mungkin sudah saatnya mempertimbangkan sistem yang lebih terintegrasi. BisnisRapi, misalnya, menggabungkan manajemen stok dengan kasir dan laporan penjualan dalam satu platform — jadi setiap transaksi otomatis mengurangi stok, dan kamu bisa pantau kondisi inventaris kapan saja dari HP.
+Kalau kamu mengangguk membaca poin-poin di atas, mungkin sudah saatnya mempertimbangkan sistem yang lebih terintegrasi. BisnisRapi, misalnya, menggabungkan manajemen stok dengan kasir dan laporan penjualan dalam satu platform jadi setiap transaksi otomatis mengurangi stok, dan kamu bisa pantau kondisi inventaris kapan saja dari HP.
 
 ## Kesimpulan
 
-Manajemen stok yang baik bukan soal punya sistem yang canggih — tapi soal punya sistem yang konsisten dijalankan. Mulai dari yang sederhana, bangun kebiasaan mencatat dengan benar, lalu upgrade ke sistem digital saat bisnis sudah siap.
+Manajemen stok yang baik bukan soal punya sistem yang canggih tapi soal punya sistem yang konsisten dijalankan. Mulai dari yang sederhana, bangun kebiasaan mencatat dengan benar, lalu upgrade ke sistem digital saat bisnis sudah siap.
 
 Ingat: stok yang terkelola dengan baik artinya modal yang bekerja lebih efisien, pelanggan yang lebih puas, dan profit yang lebih sehat.

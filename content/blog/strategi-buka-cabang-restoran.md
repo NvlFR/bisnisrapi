@@ -1,11 +1,19 @@
 ---
-title: "Strategi Buka Cabang Restoran: Kapan Waktu yang Tepat?"
-date: "2026-01-15"
-excerpt: "Panduan menentukan waktu yang tepat untuk membuka cabang restoran, indikator kesiapan bisnis, dan strategi ekspansi yang terencana agar tidak merugikan outlet utama."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["buka cabang restoran", "ekspansi bisnis fnb", "strategi restoran", "manajemen multi outlet", "bisnis kuliner"]
-image: "/blog/strategi-buka-cabang-restoran/thumbnail.svg"
+title: 'Strategi Buka Cabang Restoran: Kapan Waktu yang Tepat?'
+date: '2026-01-15'
+excerpt: >-
+  Panduan menentukan waktu yang tepat untuk membuka cabang restoran, indikator
+  kesiapan bisnis, dan strategi ekspansi yang terencana agar tidak merugikan
+  outlet utama.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - buka cabang restoran
+  - ekspansi bisnis fnb
+  - strategi restoran
+  - manajemen multi outlet
+  - bisnis kuliner
+image: /blog/strategi-buka-cabang-restoran/thumbnail.svg
 ---
 
 Restoran kamu ramai, pelanggan puas, dan keuangan mulai stabil. Pikiran untuk membuka cabang pun mulai muncul. Tapi kapan waktu yang tepat? Dan bagaimana caranya agar ekspansi tidak justru membebani bisnis yang sudah berjalan?
@@ -14,11 +22,13 @@ Membuka cabang adalah langkah besar yang membutuhkan persiapan matang. Banyak re
 
 ## Tanda-tanda Kamu Siap Membuka Cabang
 
+![Ilustrasi Strategi Buka Cabang Restoran: Kapan Waktu yang Tepat?](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Buka Cabang Restoran: Kapan Waktu yang Tepat?")
+
 Sebelum memutuskan untuk ekspansi, evaluasi apakah bisnis kamu sudah memenuhi indikator-indikator kesiapan berikut:
 
 ### 1. Outlet Pertama Sudah Stabil dan Menguntungkan
 
-Ini syarat paling dasar. Outlet pertama harus sudah menghasilkan profit yang konsisten — bukan hanya sesekali ramai, tapi stabil dari bulan ke bulan. Idealnya, outlet pertama sudah beroperasi minimal 1-2 tahun dan sudah melewati berbagai tantangan musiman.
+Ini syarat paling dasar. Outlet pertama harus sudah menghasilkan profit yang konsisten bukan hanya sesekali ramai, tapi stabil dari bulan ke bulan. Idealnya, outlet pertama sudah beroperasi minimal 1-2 tahun dan sudah melewati berbagai tantangan musiman.
 
 Kalau outlet pertama masih belum stabil, membuka cabang hanya akan memperumit masalah.
 
@@ -36,7 +46,7 @@ Kamu butuh tim yang kompeten dan bisa dipercaya untuk mengelola outlet pertama s
 
 ### 4. Modal yang Cukup
 
-Membuka cabang membutuhkan modal yang tidak sedikit — sewa tempat, renovasi, peralatan, stok awal, dan modal kerja untuk beberapa bulan pertama sebelum cabang mulai menghasilkan.
+Membuka cabang membutuhkan modal yang tidak sedikit sewa tempat, renovasi, peralatan, stok awal, dan modal kerja untuk beberapa bulan pertama sebelum cabang mulai menghasilkan.
 
 Jangan menggunakan semua keuntungan dari outlet pertama untuk membuka cabang. Pastikan outlet pertama tetap punya cadangan modal yang cukup untuk operasional.
 
@@ -50,7 +60,7 @@ Pemilihan lokasi cabang tidak bisa sembarangan. Beberapa pertimbangan:
 
 ### Jangan Terlalu Dekat dengan Outlet Pertama
 
-Kalau cabang terlalu dekat dengan outlet pertama, mereka akan saling "kanibal" — pelanggan yang sama akan terbagi antara dua outlet, bukan mendatangkan pelanggan baru.
+Kalau cabang terlalu dekat dengan outlet pertama, mereka akan saling "kanibal" pelanggan yang sama akan terbagi antara dua outlet, bukan mendatangkan pelanggan baru.
 
 ### Riset Pasar yang Mendalam
 
@@ -120,7 +130,5 @@ Setelah cabang baru dibuka, lakukan evaluasi secara rutin:
 - Apakah ada feedback dari pelanggan yang perlu ditindaklanjuti?
 
 Jangan tunggu masalah menjadi besar sebelum mengambil tindakan.
-
----
 
 Mengelola multi-outlet restoran membutuhkan sistem yang lebih canggih dari sekadar catatan manual. BisnisRapi dapat membantu kamu memantau performa semua outlet dalam satu dashboard, membandingkan data antar cabang, dan memastikan operasional berjalan konsisten di semua lokasi.

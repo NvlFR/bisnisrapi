@@ -1,19 +1,28 @@
 ---
-title: "Digitalisasi Toko Pertanian dan Pupuk: Kredit Petani Terkontrol"
-date: "2026-01-20"
-excerpt: "Toko pertanian sering memberikan kredit kepada petani. Tanpa sistem yang baik, piutang bisa menumpuk dan mengancam bisnis."
-author: "BisnisRapi Team"
-category: "Distribusi"
-tags: ["toko pertanian", "pupuk", "kredit petani", "manajemen piutang", "agribisnis"]
-image: "/blog/digitalisasi-toko-pertanian-pupuk/thumbnail.svg"
+title: 'Digitalisasi Toko Pertanian dan Pupuk: Kredit Petani Terkontrol'
+date: '2026-01-20'
+excerpt: >-
+  Toko pertanian sering memberikan kredit kepada petani. Tanpa sistem yang baik,
+  piutang bisa menumpuk dan mengancam bisnis.
+author: BisnisRapi Team
+category: Distribusi
+tags:
+  - toko pertanian
+  - pupuk
+  - kredit petani
+  - manajemen piutang
+  - agribisnis
+image: /blog/digitalisasi-toko-pertanian-pupuk/thumbnail.svg
 ---
 
 Toko pertanian dan pupuk adalah bisnis yang sangat penting bagi ketahanan pangan lokal. Kamu menyediakan input pertanian yang dibutuhkan petani untuk berproduksi. Tapi ada tantangan unik yang sering dihadapi: sistem kredit kepada petani yang jika tidak dikelola dengan baik bisa menjadi bom waktu bagi bisnis kamu.
 
 ## Karakteristik Bisnis Toko Pertanian
 
+![Ilustrasi Digitalisasi Toko Pertanian dan Pupuk: Kredit Petani Terkontrol](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Digitalisasi Toko Pertanian dan Pupuk: Kredit Petani Terkontrol")
+
 ### Musiman yang Kuat
-Permintaan pupuk, pestisida, dan benih sangat musiman — melonjak saat musim tanam dan relatif sepi di luar musim tanam. Perencanaan stok dan cash flow harus mempertimbangkan siklus ini.
+Permintaan pupuk, pestisida, dan benih sangat musiman melonjak saat musim tanam dan relatif sepi di luar musim tanam. Perencanaan stok dan cash flow harus mempertimbangkan siklus ini.
 
 ### Kredit kepada Petani adalah Norma
 Di banyak daerah, memberikan kredit kepada petani adalah praktik yang sudah lama berlangsung. Petani membeli input pertanian di awal musim tanam dan membayar setelah panen. Ini membantu petani tapi menciptakan risiko piutang yang signifikan bagi toko.
@@ -108,7 +117,7 @@ Informasi ini penting untuk melayani petani yang bertanya tentang produk yang te
 
 Petani sering datang dengan masalah spesifik: "Tanaman padi saya kena hama apa ini?" atau "Pupuk apa yang bagus untuk cabai?" Kamu dan karyawan harus punya pengetahuan yang cukup untuk memberikan rekomendasi yang tepat.
 
-Ini bukan hanya soal pelayanan — rekomendasi yang tepat membangun kepercayaan dan loyalitas petani.
+Ini bukan hanya soal pelayanan rekomendasi yang tepat membangun kepercayaan dan loyalitas petani.
 
 ## Digitalisasi Operasional
 
@@ -121,7 +130,7 @@ Dengan sistem digital seperti BisnisRapi, toko pertanian bisa:
 
 ## Membangun Hubungan Jangka Panjang dengan Petani
 
-Toko pertanian yang sukses bukan hanya penjual produk — tapi mitra petani. Beberapa cara membangun hubungan yang kuat:
+Toko pertanian yang sukses bukan hanya penjual produk tapi mitra petani. Beberapa cara membangun hubungan yang kuat:
 
 **Edukasi petani.** Adakan demo produk atau seminar kecil tentang teknik pertanian yang lebih baik. Ini membangun kepercayaan dan loyalitas.
 
@@ -131,4 +140,4 @@ Toko pertanian yang sukses bukan hanya penjual produk — tapi mitra petani. Beb
 
 **Konsistensi pasokan.** Petani sangat bergantung pada ketersediaan input pertanian. Pastikan stok selalu tersedia, terutama di musim tanam.
 
-Toko pertanian yang dikelola dengan baik — dengan sistem kredit yang terkontrol dan pelayanan yang baik — bisa menjadi bisnis yang sangat menguntungkan dan berkelanjutan, sekaligus memberikan kontribusi nyata bagi petani dan ketahanan pangan lokal.
+Toko pertanian yang dikelola dengan baik dengan sistem kredit yang terkontrol dan pelayanan yang baik bisa menjadi bisnis yang sangat menguntungkan dan berkelanjutan, sekaligus memberikan kontribusi nyata bagi petani dan ketahanan pangan lokal.

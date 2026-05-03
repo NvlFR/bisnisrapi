@@ -1,18 +1,28 @@
 ---
-title: "Panduan Influencer Marketing untuk UMKM dengan Budget Terbatas"
-date: "2025-08-11"
-excerpt: "Influencer marketing tidak harus mahal. Dengan strategi yang tepat, UMKM bisa memanfaatkan kekuatan influencer untuk menjangkau audiens baru tanpa menguras anggaran."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["influencer marketing", "micro influencer", "kolaborasi influencer", "pemasaran umkm", "brand ambassador"]
-image: "/blog/panduan-influencer-marketing-umkm/thumbnail.svg"
+title: Panduan Influencer Marketing untuk UMKM dengan Budget Terbatas
+date: '2025-08-11'
+excerpt: >-
+  Influencer marketing tidak harus mahal. Dengan strategi yang tepat, UMKM bisa
+  memanfaatkan kekuatan influencer untuk menjangkau audiens baru tanpa menguras
+  anggaran.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - influencer marketing
+  - micro influencer
+  - kolaborasi influencer
+  - pemasaran umkm
+  - brand ambassador
+image: /blog/panduan-influencer-marketing-umkm/thumbnail.svg
 ---
 
-Influencer marketing sering dianggap sebagai strategi yang hanya bisa dilakukan oleh brand besar dengan budget marketing yang besar. Padahal, dengan pendekatan yang tepat, UMKM bisa memanfaatkan kekuatan influencer marketing dengan biaya yang jauh lebih terjangkau — bahkan kadang tanpa biaya sama sekali.
+Influencer marketing sering dianggap sebagai strategi yang hanya bisa dilakukan oleh brand besar dengan budget marketing yang besar. Padahal, dengan pendekatan yang tepat, UMKM bisa memanfaatkan kekuatan influencer marketing dengan biaya yang jauh lebih terjangkau bahkan kadang tanpa biaya sama sekali.
 
 Kuncinya adalah memahami bahwa influencer yang paling efektif untuk bisnis kamu belum tentu yang punya jutaan followers.
 
 ## Mengapa Influencer Marketing Efektif?
+
+![Ilustrasi Panduan Influencer Marketing untuk UMKM dengan Budget Terbatas](https://images.unsplash.com/photo-1533750354859-b88d8b9d3b4b?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Influencer Marketing untuk UMKM dengan Budget Terbatas")
 
 **Kepercayaan yang sudah terbangun.** Followers mempercayai influencer yang mereka ikuti. Rekomendasi dari influencer yang dipercaya jauh lebih efektif daripada iklan langsung dari brand.
 
@@ -89,7 +99,7 @@ Sebelum berkolaborasi, evaluasi:
 
 Kirimkan produk kamu secara gratis sebagai imbalan untuk review atau postingan. Ini adalah model yang paling terjangkau dan cocok untuk nano dan micro influencer.
 
-Penting: pastikan kamu jelas tentang ekspektasi — apakah kamu mengharapkan postingan, Stories, atau Reels? Berapa banyak? Kapan?
+Penting: pastikan kamu jelas tentang ekspektasi apakah kamu mengharapkan postingan, Stories, atau Reels? Berapa banyak? Kapan?
 
 ### Bayar per Postingan
 
@@ -111,7 +121,5 @@ Saat berkolaborasi dengan influencer, berikan brief yang jelas tapi tidak terlal
 - Hal-hal yang harus dan tidak boleh disebutkan
 - Deadline dan format konten yang diharapkan
 - Cara penggunaan kode atau link afiliasi (kalau ada)
-
----
 
 Influencer marketing yang tepat sasaran bisa menjadi cara yang sangat efektif untuk memperkenalkan bisnis kamu kepada audiens baru. BisnisRapi membantu kamu mengelola lonjakan pesanan yang mungkin datang dari kampanye influencer dengan lebih efisien, sehingga setiap kolaborasi menghasilkan pengalaman pelanggan yang memuaskan.

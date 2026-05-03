@@ -1,11 +1,19 @@
 ---
-title: "Cara Kelola Toko Elektronik: Tracking Serial Number dan Garansi"
-date: "2025-08-10"
-excerpt: "Toko elektronik punya tantangan unik: setiap unit punya serial number dan garansi yang berbeda. Pelajari cara mengelola stok elektronik dengan sistem yang tepat."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko elektronik", "serial number", "garansi produk", "manajemen stok", "retail elektronik"]
-image: "/blog/cara-kelola-toko-elektronik/thumbnail.svg"
+title: 'Cara Kelola Toko Elektronik: Tracking Serial Number dan Garansi'
+date: '2025-08-10'
+excerpt: >-
+  Toko elektronik punya tantangan unik: setiap unit punya serial number dan
+  garansi yang berbeda. Pelajari cara mengelola stok elektronik dengan sistem
+  yang tepat.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko elektronik
+  - serial number
+  - garansi produk
+  - manajemen stok
+  - retail elektronik
+image: /blog/cara-kelola-toko-elektronik/thumbnail.svg
 ---
 
 Toko elektronik adalah salah satu bisnis retail yang paling kompleks untuk dikelola. Setiap unit produk punya serial number yang unik, garansi yang perlu dilacak, dan nilai yang tinggi sehingga kesalahan pencatatan bisa berdampak finansial yang signifikan.
@@ -13,6 +21,8 @@ Toko elektronik adalah salah satu bisnis retail yang paling kompleks untuk dikel
 Tanpa sistem yang tepat, toko elektronik rentan terhadap berbagai masalah: stok yang tidak akurat, klaim garansi yang tidak bisa diverifikasi, atau bahkan produk palsu yang masuk tanpa terdeteksi.
 
 ## Tantangan Unik Toko Elektronik
+
+![Ilustrasi Cara Kelola Toko Elektronik: Tracking Serial Number dan Garansi](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Elektronik: Tracking Serial Number dan Garansi")
 
 **Setiap unit adalah unik.** Berbeda dengan toko yang menjual produk identik, di toko elektronik setiap unit punya serial number yang berbeda. Ini membutuhkan sistem tracking yang lebih detail.
 
@@ -63,10 +73,10 @@ Banyak toko elektronik punya produk demo atau konsinyasi dari supplier. Ini perl
 
 ## Prosedur Penerimaan Barang yang Benar
 
-1. **Verifikasi jumlah** — pastikan jumlah unit sesuai dengan purchase order
-2. **Periksa kondisi** — cek apakah ada kerusakan fisik
+1. **Verifikasi jumlah** pastikan jumlah unit sesuai dengan purchase order
+2. **Periksa kondisi** cek apakah ada kerusakan fisik
 3. **Scan/input serial number** setiap unit ke sistem
-4. **Verifikasi keaslian** — untuk produk tertentu, verifikasi serial number ke database resmi produsen
+4. **Verifikasi keaslian** untuk produk tertentu, verifikasi serial number ke database resmi produsen
 5. **Update stok** di sistem
 
 ## Prosedur Penjualan yang Benar
@@ -81,9 +91,9 @@ Banyak toko elektronik punya produk demo atau konsinyasi dari supplier. Ini perl
 
 Saat pelanggan datang untuk klaim garansi:
 1. **Minta bukti pembelian** (invoice atau struk)
-2. **Verifikasi serial number** — apakah sesuai dengan yang tercatat di sistem?
-3. **Cek masa garansi** — apakah masih dalam periode garansi?
-4. **Periksa kondisi** — apakah kerusakan termasuk yang dicakup garansi?
+2. **Verifikasi serial number** apakah sesuai dengan yang tercatat di sistem?
+3. **Cek masa garansi** apakah masih dalam periode garansi?
+4. **Periksa kondisi** apakah kerusakan termasuk yang dicakup garansi?
 5. **Proses klaim** sesuai kebijakan garansi
 
 Dengan sistem yang baik, proses ini bisa dilakukan dalam hitungan menit.

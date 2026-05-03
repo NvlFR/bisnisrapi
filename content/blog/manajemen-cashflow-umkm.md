@@ -1,18 +1,27 @@
 ---
-title: "Manajemen Cash Flow UMKM: Cara Biar Bisnis Nggak Kehabisan Uang"
-date: "2025-02-14"
-excerpt: "Cash flow yang buruk adalah penyebab utama bisnis tutup meski omzetnya besar. Pelajari cara mengelolanya dengan benar."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["cash flow", "keuangan UMKM", "manajemen keuangan", "arus kas", "bisnis sehat"]
-image: "/blog/manajemen-cashflow-umkm/thumbnail.svg"
+title: 'Manajemen Cash Flow UMKM: Cara Biar Bisnis Nggak Kehabisan Uang'
+date: '2025-02-14'
+excerpt: >-
+  Cash flow yang buruk adalah penyebab utama bisnis tutup meski omzetnya besar.
+  Pelajari cara mengelolanya dengan benar.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - cash flow
+  - keuangan UMKM
+  - manajemen keuangan
+  - arus kas
+  - bisnis sehat
+image: /blog/manajemen-cashflow-umkm/thumbnail.svg
 ---
 
-Ada fenomena yang cukup sering terjadi di dunia UMKM: bisnis yang omzetnya besar tapi selalu kekurangan uang. Pemiliknya bingung — "Kok bisa ramai tapi dompet kosong?"
+Ada fenomena yang cukup sering terjadi di dunia UMKM: bisnis yang omzetnya besar tapi selalu kekurangan uang. Pemiliknya bingung "Kok bisa ramai tapi dompet kosong?"
 
 Jawabannya hampir selalu ada di cash flow yang tidak dikelola dengan baik.
 
 ## Apa Itu Cash Flow dan Kenapa Penting?
+
+![Ilustrasi Manajemen Cash Flow UMKM: Cara Biar Bisnis Nggak Kehabisan Uang](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Cash Flow UMKM: Cara Biar Bisnis Nggak Kehabisan Uang")
 
 Cash flow atau arus kas adalah pergerakan uang masuk dan keluar dari bisnis kamu dalam periode tertentu. Ini berbeda dengan profit atau keuntungan.
 
@@ -21,7 +30,7 @@ Kamu bisa punya profit di atas kertas tapi tetap kehabisan uang tunai jika:
 - Stok barang terlalu banyak (uang "terkunci" di barang)
 - Pembayaran ke supplier harus dilakukan sebelum menerima pembayaran dari pelanggan
 
-Inilah kenapa cash flow management itu krusial — ini soal kelangsungan hidup bisnis sehari-hari.
+Inilah kenapa cash flow management itu krusial ini soal kelangsungan hidup bisnis sehari-hari.
 
 ## Tiga Komponen Cash Flow yang Perlu Dipahami
 
@@ -50,7 +59,7 @@ Uang yang "terkunci" di stok barang adalah uang yang tidak bisa dipakai untuk ke
 
 **Solusinya:**
 - Analisis produk mana yang perputarannya cepat vs lambat
-- Terapkan sistem reorder point — beli stok baru hanya ketika stok mencapai level tertentu
+- Terapkan sistem reorder point beli stok baru hanya ketika stok mencapai level tertentu
 - Lakukan clearance sale untuk produk yang perputarannya lambat
 
 ### Pengeluaran Tidak Terduga
@@ -81,7 +90,7 @@ Proyeksi cash flow adalah perkiraan uang masuk dan keluar untuk periode ke depan
 
 4. **Hitung selisihnya** setiap minggu atau bulan. Jika ada periode di mana pengeluaran lebih besar dari pemasukan, kamu perlu menyiapkan solusi dari sekarang.
 
-Proyeksi ini tidak harus sempurna — yang penting kamu punya gambaran ke depan dan bisa mengambil tindakan preventif.
+Proyeksi ini tidak harus sempurna yang penting kamu punya gambaran ke depan dan bisa mengambil tindakan preventif.
 
 ## Tips Praktis Menjaga Cash Flow Tetap Sehat
 
@@ -99,7 +108,7 @@ Proyeksi ini tidak harus sempurna — yang penting kamu punya gambaran ke depan 
 
 Salah satu tantangan terbesar UMKM dalam mengelola cash flow adalah pencatatan yang tidak konsisten. Banyak transaksi yang tidak tercatat, atau tercatat tapi di tempat yang berbeda-beda (buku tulis, Excel, aplikasi chat).
 
-Dengan sistem manajemen bisnis yang terintegrasi seperti BisnisRapi, semua transaksi — penjualan, pembelian, pembayaran piutang, pengeluaran operasional — tercatat otomatis dan bisa dilihat dalam satu dashboard. Kamu bisa langsung tahu posisi kas hari ini, berapa piutang yang belum dibayar, dan berapa hutang yang akan jatuh tempo minggu depan.
+Dengan sistem manajemen bisnis yang terintegrasi seperti BisnisRapi, semua transaksi penjualan, pembelian, pembayaran piutang, pengeluaran operasional tercatat otomatis dan bisa dilihat dalam satu dashboard. Kamu bisa langsung tahu posisi kas hari ini, berapa piutang yang belum dibayar, dan berapa hutang yang akan jatuh tempo minggu depan.
 
 Informasi ini yang membuat kamu bisa mengambil keputusan yang tepat sebelum masalah cash flow menjadi krisis.
 

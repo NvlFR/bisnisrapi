@@ -1,11 +1,19 @@
 ---
-title: "Cara Buat Katalog Produk Digital yang Profesional"
-date: "2025-08-29"
-excerpt: "Katalog produk digital yang profesional memudahkan pelanggan menemukan dan memilih produk kamu. Pelajari cara membuat katalog yang menarik dan efektif untuk bisnis kamu."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["katalog produk digital", "katalog online", "presentasi produk", "brosur digital", "pemasaran produk"]
-image: "/blog/cara-buat-katalog-produk-digital/thumbnail.svg"
+title: Cara Buat Katalog Produk Digital yang Profesional
+date: '2025-08-29'
+excerpt: >-
+  Katalog produk digital yang profesional memudahkan pelanggan menemukan dan
+  memilih produk kamu. Pelajari cara membuat katalog yang menarik dan efektif
+  untuk bisnis kamu.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - katalog produk digital
+  - katalog online
+  - presentasi produk
+  - brosur digital
+  - pemasaran produk
+image: /blog/cara-buat-katalog-produk-digital/thumbnail.svg
 ---
 
 Di era digital, katalog produk tidak lagi harus dicetak dan dibagikan secara fisik. Katalog digital lebih mudah dibuat, lebih mudah dibagikan, lebih mudah diperbarui, dan lebih ramah lingkungan. Tapi katalog digital yang dibuat asal-asalan justru bisa merusak kesan profesional bisnis kamu.
@@ -13,6 +21,8 @@ Di era digital, katalog produk tidak lagi harus dicetak dan dibagikan secara fis
 Artikel ini akan memandu kamu membuat katalog produk digital yang benar-benar profesional dan efektif.
 
 ## Mengapa Katalog Produk Digital Penting?
+
+![Ilustrasi Cara Buat Katalog Produk Digital yang Profesional](https://images.unsplash.com/photo-1551836022-d5d8b5c9d107?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Katalog Produk Digital yang Profesional")
 
 **Memudahkan pelanggan memilih.** Katalog yang terorganisir dengan baik memudahkan pelanggan menemukan produk yang mereka cari dan membandingkan pilihan.
 
@@ -35,7 +45,7 @@ Format yang paling umum dan universal. PDF bisa dibuka di hampir semua perangkat
 
 ### Katalog Interaktif Online
 
-Platform seperti Canva, Flipsnack, atau Issuu memungkinkan kamu membuat katalog digital yang interaktif — dengan animasi halaman, link yang bisa diklik, dan tampilan yang lebih menarik.
+Platform seperti Canva, Flipsnack, atau Issuu memungkinkan kamu membuat katalog digital yang interaktif dengan animasi halaman, link yang bisa diklik, dan tampilan yang lebih menarik.
 
 **Kelebihan:** Lebih menarik dan interaktif, bisa diperbarui secara real-time.
 **Kekurangan:** Membutuhkan koneksi internet untuk diakses.
@@ -128,6 +138,4 @@ Di akhir katalog, tambahkan instruksi yang jelas tentang cara memesan. Jangan bi
 
 Kalau kamu membagikan katalog melalui link, gunakan tools seperti Bit.ly untuk melacak berapa banyak orang yang mengklik dan membuka katalog. Data ini membantu kamu memahami seberapa efektif katalog kamu.
 
----
-
-Katalog produk digital yang profesional adalah alat pemasaran yang sangat efektif. BisnisRapi membantu kamu mengelola informasi produk — termasuk stok, harga, dan spesifikasi — dengan lebih terorganisir, sehingga kamu selalu punya data yang akurat untuk dimasukkan ke dalam katalog kamu.
+Katalog produk digital yang profesional adalah alat pemasaran yang sangat efektif. BisnisRapi membantu kamu mengelola informasi produk termasuk stok, harga, dan spesifikasi dengan lebih terorganisir, sehingga kamu selalu punya data yang akurat untuk dimasukkan ke dalam katalog kamu.

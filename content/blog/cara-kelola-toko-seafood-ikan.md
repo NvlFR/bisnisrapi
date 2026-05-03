@@ -1,11 +1,18 @@
 ---
-title: "Cara Kelola Toko Seafood dan Ikan Segar: Harga Harian dan Stok"
-date: "2025-12-10"
-excerpt: "Toko seafood menghadapi tantangan harga yang berubah setiap hari dan produk yang sangat perishable. Ini cara mengelolanya."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko seafood", "ikan segar", "harga harian", "manajemen stok", "produk segar"]
-image: "/blog/cara-kelola-toko-seafood-ikan/thumbnail.svg"
+title: 'Cara Kelola Toko Seafood dan Ikan Segar: Harga Harian dan Stok'
+date: '2025-12-10'
+excerpt: >-
+  Toko seafood menghadapi tantangan harga yang berubah setiap hari dan produk
+  yang sangat perishable. Ini cara mengelolanya.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko seafood
+  - ikan segar
+  - harga harian
+  - manajemen stok
+  - produk segar
+image: /blog/cara-kelola-toko-seafood-ikan/thumbnail.svg
 ---
 
 Bisnis toko seafood dan ikan segar adalah bisnis yang sangat dinamis. Harga berubah setiap hari tergantung hasil tangkapan dan permintaan pasar. Produk yang tidak terjual hari ini bisa tidak layak jual besok. Dan pelanggan mengharapkan kesegaran yang konsisten.
@@ -14,15 +21,17 @@ Mengelola semua ini dengan baik adalah kunci profitabilitas bisnis seafood.
 
 ## Tantangan Utama Bisnis Seafood
 
+![Ilustrasi Cara Kelola Toko Seafood dan Ikan Segar: Harga Harian dan Stok](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Seafood dan Ikan Segar: Harga Harian dan Stok")
+
 ### Harga yang Berubah Setiap Hari
-Harga ikan dan seafood di pasar bisa berubah setiap hari — bahkan beberapa kali dalam sehari. Harga dipengaruhi oleh:
+Harga ikan dan seafood di pasar bisa berubah setiap hari bahkan beberapa kali dalam sehari. Harga dipengaruhi oleh:
 - Hasil tangkapan nelayan (musim ikan, cuaca)
 - Permintaan pasar
 - Hari dalam seminggu (biasanya lebih mahal menjelang akhir pekan)
 - Musim tertentu (lebaran, natal, dll.)
 
 ### Produk yang Sangat Perishable
-Ikan dan seafood segar hanya bertahan beberapa jam hingga satu hari dalam kondisi optimal. Produk yang tidak terjual hari itu harus dibuang atau dijual dengan harga sangat murah — keduanya berarti kerugian.
+Ikan dan seafood segar hanya bertahan beberapa jam hingga satu hari dalam kondisi optimal. Produk yang tidak terjual hari itu harus dibuang atau dijual dengan harga sangat murah keduanya berarti kerugian.
 
 ### Pembelian yang Harus Tepat
 Karena produk sangat perishable, kamu harus membeli dalam jumlah yang tepat setiap hari. Terlalu banyak = sisa yang terbuang. Terlalu sedikit = kehabisan dan kehilangan penjualan.
@@ -134,4 +143,4 @@ Layanan pengiriman ke rumah atau ke restoran bisa membuka segmen pelanggan baru 
 
 Pertimbangkan untuk menjual seafood olahan (ikan asap, seafood beku, dll.) sebagai produk tambahan dengan masa simpan yang lebih panjang.
 
-Dengan sistem manajemen yang baik seperti BisnisRapi untuk mencatat penjualan harian, memantau waste, dan menganalisis pola pembelian, toko seafood kamu bisa beroperasi lebih efisien dan menguntungkan — meski di tengah dinamika harga yang berubah setiap hari.
+Dengan sistem manajemen yang baik seperti BisnisRapi untuk mencatat penjualan harian, memantau waste, dan menganalisis pola pembelian, toko seafood kamu bisa beroperasi lebih efisien dan menguntungkan meski di tengah dinamika harga yang berubah setiap hari.

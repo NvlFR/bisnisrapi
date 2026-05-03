@@ -1,18 +1,28 @@
 ---
-title: "Panduan Investasi Peralatan Bisnis: Beli, Sewa, atau Leasing?"
-date: "2025-07-13"
-excerpt: "Panduan memilih antara membeli, menyewa, atau leasing peralatan bisnis — analisis biaya dan manfaat untuk setiap opsi agar keputusan investasi lebih tepat."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["investasi peralatan", "beli vs sewa", "leasing bisnis", "aset bisnis", "keputusan investasi"]
-image: "/blog/panduan-investasi-peralatan-bisnis/thumbnail.svg"
+title: 'Panduan Investasi Peralatan Bisnis: Beli, Sewa, atau Leasing?'
+date: '2025-07-13'
+excerpt: >-
+  Panduan memilih antara membeli, menyewa, atau leasing peralatan bisnis —
+  analisis biaya dan manfaat untuk setiap opsi agar keputusan investasi lebih
+  tepat.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - investasi peralatan
+  - beli vs sewa
+  - leasing bisnis
+  - aset bisnis
+  - keputusan investasi
+image: /blog/panduan-investasi-peralatan-bisnis/thumbnail.svg
 ---
 
-Bisnis kamu butuh peralatan baru — mesin produksi, kendaraan operasional, peralatan dapur, atau komputer. Pertanyaannya: apakah lebih baik beli langsung, sewa, atau leasing? Keputusan ini berdampak signifikan pada arus kas, neraca, dan fleksibilitas bisnis kamu.
+Bisnis kamu butuh peralatan baru mesin produksi, kendaraan operasional, peralatan dapur, atau komputer. Pertanyaannya: apakah lebih baik beli langsung, sewa, atau leasing? Keputusan ini berdampak signifikan pada arus kas, neraca, dan fleksibilitas bisnis kamu.
 
 Tidak ada jawaban yang selalu benar. Pilihan terbaik tergantung pada kondisi spesifik bisnis kamu.
 
 ## Tiga Opsi Utama
+
+![Ilustrasi Panduan Investasi Peralatan Bisnis: Beli, Sewa, atau Leasing?](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Investasi Peralatan Bisnis: Beli, Sewa, atau Leasing?")
 
 ### Opsi 1: Beli (Pembelian Langsung)
 
@@ -42,7 +52,7 @@ Kamu membayar biaya sewa untuk menggunakan peralatan dalam periode tertentu tanp
 
 **Keuntungan:**
 - Tidak perlu modal awal besar
-- Fleksibel — bisa dikembalikan jika tidak dibutuhkan lagi
+- Fleksibel bisa dikembalikan jika tidak dibutuhkan lagi
 - Biaya perawatan biasanya ditanggung pemilik
 - Mudah upgrade ke peralatan yang lebih baru
 - Biaya sewa bisa langsung dibebankan sebagai pengeluaran (tax deductible)

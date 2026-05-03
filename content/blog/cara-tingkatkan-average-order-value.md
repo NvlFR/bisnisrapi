@@ -1,22 +1,32 @@
 ---
-title: "Cara Tingkatkan Average Order Value di Toko Kamu"
-date: "2025-06-29"
-excerpt: "Meningkatkan average order value berarti mendapat lebih banyak pendapatan dari setiap pelanggan yang sudah ada — tanpa harus mencari pelanggan baru. Ini strategi yang terbukti efektif."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["average order value", "upselling", "cross-selling", "strategi penjualan", "peningkatan pendapatan"]
-image: "/blog/cara-tingkatkan-average-order-value/thumbnail.svg"
+title: Cara Tingkatkan Average Order Value di Toko Kamu
+date: '2025-06-29'
+excerpt: >-
+  Meningkatkan average order value berarti mendapat lebih banyak pendapatan dari
+  setiap pelanggan yang sudah ada — tanpa harus mencari pelanggan baru. Ini
+  strategi yang terbukti efektif.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - average order value
+  - upselling
+  - cross-selling
+  - strategi penjualan
+  - peningkatan pendapatan
+image: /blog/cara-tingkatkan-average-order-value/thumbnail.svg
 ---
 
 Banyak pemilik bisnis yang terlalu fokus pada mendapatkan pelanggan baru, padahal ada cara yang lebih mudah dan lebih murah untuk meningkatkan pendapatan: membuat setiap pelanggan yang sudah ada membelanjakan lebih banyak per transaksi.
 
-Average Order Value (AOV) adalah rata-rata nilai setiap transaksi di bisnis kamu. Meningkatkan AOV bahkan sedikit saja bisa berdampak signifikan pada total pendapatan — tanpa harus mengeluarkan biaya tambahan untuk akuisisi pelanggan baru.
+Average Order Value (AOV) adalah rata-rata nilai setiap transaksi di bisnis kamu. Meningkatkan AOV bahkan sedikit saja bisa berdampak signifikan pada total pendapatan tanpa harus mengeluarkan biaya tambahan untuk akuisisi pelanggan baru.
 
 ## Mengapa AOV Penting?
 
+![Ilustrasi Cara Tingkatkan Average Order Value di Toko Kamu](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Tingkatkan Average Order Value di Toko Kamu")
+
 Bayangkan kamu punya toko dengan 100 transaksi per bulan dan AOV Rp 150.000. Total pendapatan: Rp 15.000.000.
 
-Kalau kamu berhasil meningkatkan AOV menjadi Rp 200.000 (naik 33%) dengan jumlah transaksi yang sama, total pendapatan menjadi Rp 20.000.000 — naik Rp 5.000.000 tanpa harus mencari pelanggan baru.
+Kalau kamu berhasil meningkatkan AOV menjadi Rp 200.000 (naik 33%) dengan jumlah transaksi yang sama, total pendapatan menjadi Rp 20.000.000 naik Rp 5.000.000 tanpa harus mencari pelanggan baru.
 
 Ini adalah salah satu cara paling efisien untuk meningkatkan pendapatan bisnis.
 
@@ -54,7 +64,7 @@ Contoh: "Pelanggan yang membeli kamera ini juga sering mengambil memory card dan
 
 ## Strategi 3: Minimum Pembelian untuk Gratis Ongkir
 
-Ini adalah salah satu cara paling efektif untuk meningkatkan AOV. Tetapkan minimum pembelian untuk mendapatkan gratis ongkir — misalnya "Gratis ongkir untuk pembelian di atas Rp 200.000."
+Ini adalah salah satu cara paling efektif untuk meningkatkan AOV. Tetapkan minimum pembelian untuk mendapatkan gratis ongkir misalnya "Gratis ongkir untuk pembelian di atas Rp 200.000."
 
 Pelanggan yang awalnya hanya ingin membeli Rp 150.000 akan cenderung menambah produk lain agar mencapai minimum tersebut.
 
@@ -81,7 +91,7 @@ Add-on yang harganya kecil relatif terhadap pembelian utama mudah disetujui pela
 
 ## Strategi 6: Tampilkan Produk Terlaris dan Rekomendasi
 
-Di toko fisik, tempatkan produk dengan margin tinggi atau produk yang sering dibeli bersama di lokasi yang strategis — dekat kasir atau di area yang sering dilalui pelanggan.
+Di toko fisik, tempatkan produk dengan margin tinggi atau produk yang sering dibeli bersama di lokasi yang strategis dekat kasir atau di area yang sering dilalui pelanggan.
 
 Di toko online, gunakan algoritma rekomendasi atau kurasi manual untuk menampilkan produk yang relevan di halaman yang tepat.
 
@@ -98,6 +108,4 @@ Untuk mengetahui apakah strategi kamu berhasil, kamu perlu mengukur AOV secara r
 
 Pantau AOV setiap bulan dan bandingkan dengan bulan sebelumnya. Kalau ada strategi baru yang kamu terapkan, lihat apakah ada perubahan pada AOV setelah strategi tersebut diterapkan.
 
----
-
-Meningkatkan AOV adalah salah satu cara paling efisien untuk mengembangkan bisnis. BisnisRapi membantu kamu melacak data penjualan secara detail — termasuk AOV, produk yang sering dibeli bersama, dan tren pembelian — sehingga kamu bisa membuat keputusan strategis berdasarkan data yang akurat.
+Meningkatkan AOV adalah salah satu cara paling efisien untuk mengembangkan bisnis. BisnisRapi membantu kamu melacak data penjualan secara detail termasuk AOV, produk yang sering dibeli bersama, dan tren pembelian sehingga kamu bisa membuat keputusan strategis berdasarkan data yang akurat.

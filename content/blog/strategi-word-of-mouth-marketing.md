@@ -1,18 +1,28 @@
 ---
-title: "Strategi Word of Mouth Marketing untuk Bisnis Lokal"
-date: "2025-08-07"
-excerpt: "Word of mouth adalah bentuk pemasaran paling terpercaya dan paling efektif. Pelajari cara menciptakan kondisi yang mendorong pelanggan untuk merekomendasikan bisnis kamu secara organik."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["word of mouth", "rekomendasi pelanggan", "pemasaran organik", "bisnis lokal", "kepuasan pelanggan"]
-image: "/blog/strategi-word-of-mouth-marketing/thumbnail.svg"
+title: Strategi Word of Mouth Marketing untuk Bisnis Lokal
+date: '2025-08-07'
+excerpt: >-
+  Word of mouth adalah bentuk pemasaran paling terpercaya dan paling efektif.
+  Pelajari cara menciptakan kondisi yang mendorong pelanggan untuk
+  merekomendasikan bisnis kamu secara organik.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - word of mouth
+  - rekomendasi pelanggan
+  - pemasaran organik
+  - bisnis lokal
+  - kepuasan pelanggan
+image: /blog/strategi-word-of-mouth-marketing/thumbnail.svg
 ---
 
 Tidak ada iklan yang lebih efektif dari rekomendasi dari seseorang yang kita percaya. Ketika teman atau keluarga merekomendasikan sebuah bisnis, kita jauh lebih mungkin untuk mencobanya dibandingkan kalau kita melihat iklan di media sosial atau billboard.
 
-Word of mouth marketing (WOM) adalah strategi yang berfokus pada menciptakan kondisi yang mendorong pelanggan untuk secara aktif merekomendasikan bisnis kamu kepada orang-orang di sekitar mereka. Ini bukan tentang meminta orang untuk merekomendasikan — ini tentang memberikan pengalaman yang begitu baik sehingga mereka tidak bisa tidak merekomendasikan.
+Word of mouth marketing (WOM) adalah strategi yang berfokus pada menciptakan kondisi yang mendorong pelanggan untuk secara aktif merekomendasikan bisnis kamu kepada orang-orang di sekitar mereka. Ini bukan tentang meminta orang untuk merekomendasikan ini tentang memberikan pengalaman yang begitu baik sehingga mereka tidak bisa tidak merekomendasikan.
 
 ## Mengapa Word of Mouth Sangat Efektif?
+
+![Ilustrasi Strategi Word of Mouth Marketing untuk Bisnis Lokal](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Word of Mouth Marketing untuk Bisnis Lokal")
 
 **Kepercayaan yang tinggi.** Rekomendasi dari orang yang dikenal jauh lebih dipercaya daripada iklan dari bisnis itu sendiri.
 
@@ -30,13 +40,13 @@ Tanyakan diri sendiri: apakah produk atau layanan kamu cukup baik untuk membuat 
 
 ### Ciptakan Momen yang "Layak Diceritakan"
 
-Pengalaman yang biasa-biasa saja tidak mendorong WOM. Yang mendorong WOM adalah pengalaman yang melampaui ekspektasi — momen yang membuat pelanggan berpikir "Wah, ini luar biasa, harus cerita ke teman-teman."
+Pengalaman yang biasa-biasa saja tidak mendorong WOM. Yang mendorong WOM adalah pengalaman yang melampaui ekspektasi momen yang membuat pelanggan berpikir "Wah, ini luar biasa, harus cerita ke teman-teman."
 
 Beberapa cara menciptakan momen yang layak diceritakan:
 
 **Packaging yang mengejutkan.** Packaging yang jauh lebih bagus dari yang diharapkan membuat pelanggan ingin memfoto dan membagikannya di media sosial.
 
-**Hadiah kecil yang tidak terduga.** Sertakan hadiah kecil di dalam paket — bisa berupa sampel produk, kartu ucapan yang personal, atau stiker yang lucu. Ini menciptakan momen kejutan yang menyenangkan.
+**Hadiah kecil yang tidak terduga.** Sertakan hadiah kecil di dalam paket bisa berupa sampel produk, kartu ucapan yang personal, atau stiker yang lucu. Ini menciptakan momen kejutan yang menyenangkan.
 
 **Layanan yang sangat personal.** Ingat nama pelanggan, ingat preferensi mereka, atau kirim pesan yang benar-benar personal di hari ulang tahun mereka. Ini membuat pelanggan merasa istimewa.
 
@@ -54,7 +64,7 @@ Buat konten yang secara alami mendorong orang untuk membagikannya:
 
 ### Minta Ulasan dan Testimoni
 
-Jangan menunggu pelanggan memberikan ulasan secara spontan. Minta secara aktif — tapi dengan cara yang tidak terasa memaksa.
+Jangan menunggu pelanggan memberikan ulasan secara spontan. Minta secara aktif tapi dengan cara yang tidak terasa memaksa.
 
 Waktu terbaik untuk meminta ulasan adalah saat pelanggan baru saja mengekspresikan kepuasan mereka. Misalnya, kalau pelanggan mengirim pesan "Produknya bagus banget!", respons dengan "Terima kasih! Kalau berkenan, boleh tinggalkan ulasan di [platform]? Ini sangat membantu kami."
 
@@ -86,8 +96,6 @@ Cara mengukur WOM:
 - Tanyakan kepada pelanggan baru bagaimana mereka menemukan bisnis kamu
 - Pantau jumlah referral yang masuk
 - Lacak pertumbuhan organik di media sosial
-- Pantau Net Promoter Score (NPS) — seberapa besar kemungkinan pelanggan merekomendasikan bisnis kamu
+- Pantau Net Promoter Score (NPS) seberapa besar kemungkinan pelanggan merekomendasikan bisnis kamu
 
----
-
-Word of mouth yang kuat adalah tanda bahwa bisnis kamu benar-benar memberikan nilai kepada pelanggan. BisnisRapi membantu kamu mengelola operasional bisnis dengan lebih baik, sehingga kamu bisa konsisten memberikan pengalaman yang melampaui ekspektasi pelanggan — fondasi dari WOM yang kuat.
+Word of mouth yang kuat adalah tanda bahwa bisnis kamu benar-benar memberikan nilai kepada pelanggan. BisnisRapi membantu kamu mengelola operasional bisnis dengan lebih baik, sehingga kamu bisa konsisten memberikan pengalaman yang melampaui ekspektasi pelanggan fondasi dari WOM yang kuat.

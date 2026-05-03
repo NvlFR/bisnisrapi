@@ -1,16 +1,26 @@
 ---
-title: "Cara Kelola Bisnis Rental Motor dengan Sistem yang Rapi"
-date: "2026-01-15"
-excerpt: "Panduan mengelola bisnis rental motor secara profesional, dari manajemen armada, sistem booking, penetapan harga, hingga penanganan risiko kerusakan dan kehilangan."
-author: "BisnisRapi Team"
-category: "Otomotif"
-tags: ["rental motor", "bisnis rental", "sewa motor", "manajemen armada", "bisnis otomotif"]
-image: "/blog/cara-kelola-bisnis-rental-motor/thumbnail.svg"
+title: Cara Kelola Bisnis Rental Motor dengan Sistem yang Rapi
+date: '2026-01-15'
+excerpt: >-
+  Panduan mengelola bisnis rental motor secara profesional, dari manajemen
+  armada, sistem booking, penetapan harga, hingga penanganan risiko kerusakan
+  dan kehilangan.
+author: BisnisRapi Team
+category: Otomotif
+tags:
+  - rental motor
+  - bisnis rental
+  - sewa motor
+  - manajemen armada
+  - bisnis otomotif
+image: /blog/cara-kelola-bisnis-rental-motor/thumbnail.svg
 ---
 
-Bisnis rental motor adalah bisnis yang menarik — modal awal yang relatif terjangkau, permintaan yang stabil (terutama di kota wisata), dan potensi pendapatan yang konsisten. Tapi tanpa sistem yang baik, bisnis ini bisa menjadi sangat merepotkan — motor yang tidak terawat, penyewa yang tidak bertanggung jawab, atau keuangan yang tidak terkontrol.
+Bisnis rental motor adalah bisnis yang menarik modal awal yang relatif terjangkau, permintaan yang stabil (terutama di kota wisata), dan potensi pendapatan yang konsisten. Tapi tanpa sistem yang baik, bisnis ini bisa menjadi sangat merepotkan motor yang tidak terawat, penyewa yang tidak bertanggung jawab, atau keuangan yang tidak terkontrol.
 
 ## Analisis Pasar dan Lokasi
+
+![Ilustrasi Cara Kelola Bisnis Rental Motor dengan Sistem yang Rapi](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Bisnis Rental Motor dengan Sistem yang Rapi")
 
 Bisnis rental motor paling cocok di:
 - **Kota wisata:** Bali, Yogyakarta, Lombok, dan destinasi wisata lainnya di mana wisatawan butuh transportasi fleksibel
@@ -59,7 +69,7 @@ Buat proses penyewaan yang standar:
 3. **Inspeksi motor bersama:** Periksa kondisi motor bersama penyewa sebelum diserahkan. Catat dan foto kondisi yang ada (goresan, penyok, dll.).
 4. **Perjanjian sewa:** Buat perjanjian sewa yang mencantumkan kondisi motor, durasi sewa, harga, dan tanggung jawab penyewa.
 5. **Deposit:** Minta deposit yang cukup untuk menutup risiko kerusakan ringan.
-6. **Penjelasan aturan:** Jelaskan aturan penggunaan — area yang boleh dikunjungi, larangan membawa penumpang lebih dari kapasitas, dll.
+6. **Penjelasan aturan:** Jelaskan aturan penggunaan area yang boleh dikunjungi, larangan membawa penumpang lebih dari kapasitas, dll.
 
 ### Sistem Booking Online
 
@@ -125,7 +135,5 @@ Pertimbangkan untuk memasang GPS tracker di setiap motor. Ini membantu kamu mela
 **Motor rusak:** Evaluasi kerusakan bersama penyewa. Kalau kerusakan disebabkan oleh penyewa, mereka bertanggung jawab sesuai perjanjian.
 
 **Motor hilang:** Ini adalah skenario terburuk. Lapor ke polisi segera dan gunakan GPS tracker untuk membantu pencarian.
-
----
 
 Mengelola armada rental motor dengan banyak unit dan penyewa membutuhkan sistem yang terorganisir. BisnisRapi dapat membantu kamu mencatat setiap transaksi sewa, melacak kondisi dan jadwal perawatan setiap motor, mengelola deposit, dan memantau keuangan bisnis rental kamu secara keseluruhan.

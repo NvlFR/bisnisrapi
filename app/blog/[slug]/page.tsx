@@ -25,6 +25,7 @@ import {
   ArticleP,
   ArticleHr,
   ArticleStrong,
+  ArticleImg,
 } from '@/components/blog/article-components';
 
 const BASE_URL = 'https://bisnis-rapi.my.id';
@@ -212,16 +213,8 @@ export default async function BlogPostPage({ params }: Props) {
                   hr: () => <ArticleHr />,
                   strong: ({ children }) => <ArticleStrong>{children}</ArticleStrong>,
                   // Inline images in content
-                  img: ({ src, alt }) => (
-                    <span className="not-prose my-8 block overflow-hidden rounded-2xl border border-border shadow-sm">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={src}
-                        alt={alt ?? ''}
-                        className="w-full object-cover"
-                        loading="lazy"
-                      />
-                    </span>
+                  img: ({ src, alt, title }) => (
+                    <ArticleImg src={typeof src === 'string' ? src : ''} alt={alt ?? ''} caption={title ?? alt} />
                   ),
                   // H1 inside content (some articles have it)
                   h1: ({ children }) => (

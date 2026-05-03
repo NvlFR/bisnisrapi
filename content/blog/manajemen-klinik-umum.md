@@ -1,21 +1,30 @@
 ---
-title: "Manajemen Klinik Dokter Umum: Antrean Digital dan Rekam Medis"
-date: "2025-10-20"
-excerpt: "Klinik dokter umum yang ramai butuh sistem antrean dan rekam medis yang efisien agar pasien tidak menunggu terlalu lama."
-author: "BisnisRapi Team"
-category: "Kesehatan"
-tags: ["klinik dokter umum", "antrean digital", "rekam medis", "manajemen klinik", "pelayanan kesehatan"]
-image: "/blog/manajemen-klinik-umum/thumbnail.svg"
+title: 'Manajemen Klinik Dokter Umum: Antrean Digital dan Rekam Medis'
+date: '2025-10-20'
+excerpt: >-
+  Klinik dokter umum yang ramai butuh sistem antrean dan rekam medis yang
+  efisien agar pasien tidak menunggu terlalu lama.
+author: BisnisRapi Team
+category: Kesehatan
+tags:
+  - klinik dokter umum
+  - antrean digital
+  - rekam medis
+  - manajemen klinik
+  - pelayanan kesehatan
+image: /blog/manajemen-klinik-umum/thumbnail.svg
 ---
 
 Klinik dokter umum yang ramai adalah tanda kepercayaan masyarakat. Tapi keramaian tanpa sistem yang baik bisa berubah menjadi kekacauan: pasien menunggu berjam-jam, rekam medis yang sulit ditemukan, dan dokter yang kelelahan karena tidak ada manajemen waktu yang baik.
 
-Digitalisasi klinik dokter umum bukan tentang mengganti sentuhan personal dalam pelayanan kesehatan — tapi tentang membuat sistem yang memungkinkan dokter dan staf fokus pada hal yang paling penting: merawat pasien.
+Digitalisasi klinik dokter umum bukan tentang mengganti sentuhan personal dalam pelayanan kesehatan tapi tentang membuat sistem yang memungkinkan dokter dan staf fokus pada hal yang paling penting: merawat pasien.
 
 ## Tantangan Operasional Klinik Dokter Umum
 
+![Ilustrasi Manajemen Klinik Dokter Umum: Antrean Digital dan Rekam Medis](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Klinik Dokter Umum: Antrean Digital dan Rekam Medis")
+
 ### Antrean yang Panjang dan Tidak Teratur
-Pasien yang datang pagi-pagi untuk mendapat nomor antrean, lalu menunggu berjam-jam tanpa kepastian kapan giliran mereka — ini adalah pengalaman yang sangat tidak menyenangkan dan bisa membuat pasien beralih ke klinik lain.
+Pasien yang datang pagi-pagi untuk mendapat nomor antrean, lalu menunggu berjam-jam tanpa kepastian kapan giliran mereka ini adalah pengalaman yang sangat tidak menyenangkan dan bisa membuat pasien beralih ke klinik lain.
 
 ### Rekam Medis yang Sulit Dikelola
 Rekam medis kertas yang menumpuk, sulit dicari, dan berisiko rusak atau hilang adalah masalah yang umum di klinik yang sudah lama beroperasi.
@@ -24,7 +33,7 @@ Rekam medis kertas yang menumpuk, sulit dicari, dan berisiko rusak atau hilang a
 Klinik yang menyediakan obat perlu mengelola stok dengan baik. Kehabisan obat yang sering diresepkan adalah situasi yang tidak ideal.
 
 ### Administrasi yang Memakan Waktu
-Pendaftaran pasien, pencatatan rekam medis, penulisan resep, dan penagihan — semua ini membutuhkan waktu yang bisa dioptimalkan dengan sistem yang baik.
+Pendaftaran pasien, pencatatan rekam medis, penulisan resep, dan penagihan semua ini membutuhkan waktu yang bisa dioptimalkan dengan sistem yang baik.
 
 ## Sistem Antrean Digital
 
@@ -45,7 +54,7 @@ Pasien datang, mendaftar di meja resepsionis, mendapat nomor antrean. Nomor antr
 Pasien bisa mendaftar via WhatsApp atau platform online sebelum datang. Mereka mendapat nomor antrean dan estimasi waktu. Mereka bisa datang saat giliran mereka hampir tiba.
 
 **Opsi 3: Kombinasi**
-Sediakan kedua opsi — pasien yang tidak bisa mendaftar online tetap bisa datang langsung.
+Sediakan kedua opsi pasien yang tidak bisa mendaftar online tetap bisa datang langsung.
 
 ### Manajemen Antrean yang Efektif
 
@@ -83,7 +92,7 @@ Rekam medis yang komprehensif mencakup:
 
 **Akses cepat.** Dokter bisa melihat riwayat pasien dalam hitungan detik, bukan menit.
 
-**Informasi yang lebih lengkap.** Dokter bisa melihat pola — misalnya pasien yang sering datang dengan keluhan yang sama, atau tren tekanan darah yang meningkat.
+**Informasi yang lebih lengkap.** Dokter bisa melihat pola misalnya pasien yang sering datang dengan keluhan yang sama, atau tren tekanan darah yang meningkat.
 
 **Keamanan data.** Data tersimpan dengan aman dan bisa di-backup.
 

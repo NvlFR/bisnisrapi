@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Bisnis Jasa Penerjemah dan Interpreter"
-date: "2026-01-15"
-excerpt: "Panduan mengelola bisnis jasa penerjemah dan interpreter secara profesional, dari membangun spesialisasi, menetapkan harga, mencari klien, hingga mengelola proyek dengan efisien."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["jasa penerjemah", "bisnis penerjemahan", "translator", "interpreter", "jasa bahasa"]
-image: "/blog/cara-kelola-bisnis-jasa-penerjemah/thumbnail.svg"
+title: Cara Kelola Bisnis Jasa Penerjemah dan Interpreter
+date: '2026-01-15'
+excerpt: >-
+  Panduan mengelola bisnis jasa penerjemah dan interpreter secara profesional,
+  dari membangun spesialisasi, menetapkan harga, mencari klien, hingga mengelola
+  proyek dengan efisien.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - jasa penerjemah
+  - bisnis penerjemahan
+  - translator
+  - interpreter
+  - jasa bahasa
+image: /blog/cara-kelola-bisnis-jasa-penerjemah/thumbnail.svg
 ---
 
-Bisnis jasa penerjemah dan interpreter adalah bisnis yang bisa dimulai dengan modal yang sangat kecil — yang kamu butuhkan adalah kemampuan bahasa yang solid, komputer, dan koneksi internet. Tapi untuk sukses, kamu perlu lebih dari sekadar kemampuan bahasa — kamu butuh spesialisasi, profesionalisme, dan kemampuan mengelola bisnis dengan baik.
+Bisnis jasa penerjemah dan interpreter adalah bisnis yang bisa dimulai dengan modal yang sangat kecil yang kamu butuhkan adalah kemampuan bahasa yang solid, komputer, dan koneksi internet. Tapi untuk sukses, kamu perlu lebih dari sekadar kemampuan bahasa kamu butuh spesialisasi, profesionalisme, dan kemampuan mengelola bisnis dengan baik.
 
 ## Memahami Perbedaan Penerjemah dan Interpreter
 
-**Penerjemah (Translator):** Mengalihbahasakan teks tertulis dari satu bahasa ke bahasa lain. Pekerjaan ini biasanya dilakukan secara asinkron — kamu menerima dokumen, menerjemahkan, dan mengirimkan hasilnya.
+![Ilustrasi Cara Kelola Bisnis Jasa Penerjemah dan Interpreter](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Bisnis Jasa Penerjemah dan Interpreter")
+
+**Penerjemah (Translator):** Mengalihbahasakan teks tertulis dari satu bahasa ke bahasa lain. Pekerjaan ini biasanya dilakukan secara asinkron kamu menerima dokumen, menerjemahkan, dan mengirimkan hasilnya.
 
 **Interpreter:** Mengalihbahasakan secara lisan, biasanya secara real-time. Ada dua jenis utama:
 - **Consecutive interpreting:** Pembicara berbicara, lalu interpreter menerjemahkan setelah pembicara selesai
@@ -106,8 +116,6 @@ Bekerja sama dengan biro penerjemahan sebagai subkontraktor. Ini memberikan alir
 
 Sertifikasi dari lembaga penerjemahan profesional (seperti HPI - Himpunan Penerjemah Indonesia) meningkatkan kredibilitas dan bisa membuka akses ke klien yang lebih baik.
 
-Terus kembangkan kemampuan kamu — ikuti kursus, baca literatur di bidang spesialisasi kamu, dan pantau perkembangan bahasa yang kamu gunakan.
-
----
+Terus kembangkan kemampuan kamu ikuti kursus, baca literatur di bidang spesialisasi kamu, dan pantau perkembangan bahasa yang kamu gunakan.
 
 Mengelola banyak proyek penerjemahan dengan berbagai klien, deadline, dan invoice membutuhkan sistem yang terorganisir. BisnisRapi dapat membantu kamu mengelola data klien, mencatat setiap proyek, memantau deadline dan pembayaran, serta menganalisis pendapatan bisnis penerjemahan kamu.

@@ -1,18 +1,28 @@
 ---
-title: "Panduan BPJS Ketenagakerjaan untuk UMKM: Kewajiban dan Manfaatnya"
-date: "2025-07-29"
-excerpt: "Panduan lengkap BPJS Ketenagakerjaan untuk UMKM — kewajiban pendaftaran, besaran iuran, manfaat yang didapat karyawan, dan cara mendaftarkan bisnis kamu."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["bpjs ketenagakerjaan", "jaminan sosial karyawan", "kewajiban pengusaha", "perlindungan karyawan", "sdm umkm"]
-image: "/blog/panduan-bpjs-ketenagakerjaan-umkm/thumbnail.svg"
+title: 'Panduan BPJS Ketenagakerjaan untuk UMKM: Kewajiban dan Manfaatnya'
+date: '2025-07-29'
+excerpt: >-
+  Panduan lengkap BPJS Ketenagakerjaan untuk UMKM — kewajiban pendaftaran,
+  besaran iuran, manfaat yang didapat karyawan, dan cara mendaftarkan bisnis
+  kamu.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - bpjs ketenagakerjaan
+  - jaminan sosial karyawan
+  - kewajiban pengusaha
+  - perlindungan karyawan
+  - sdm umkm
+image: /blog/panduan-bpjs-ketenagakerjaan-umkm/thumbnail.svg
 ---
 
-BPJS Ketenagakerjaan adalah kewajiban hukum bagi setiap pengusaha yang mempekerjakan karyawan. Tapi lebih dari sekadar kewajiban, ini adalah bentuk perlindungan nyata bagi karyawan kamu — dan secara tidak langsung, bagi bisnis kamu juga. Karyawan yang merasa terlindungi bekerja dengan lebih tenang dan loyal.
+BPJS Ketenagakerjaan adalah kewajiban hukum bagi setiap pengusaha yang mempekerjakan karyawan. Tapi lebih dari sekadar kewajiban, ini adalah bentuk perlindungan nyata bagi karyawan kamu dan secara tidak langsung, bagi bisnis kamu juga. Karyawan yang merasa terlindungi bekerja dengan lebih tenang dan loyal.
 
 Sayangnya, masih banyak UMKM yang belum mendaftarkan karyawannya ke BPJS Ketenagakerjaan, entah karena tidak tahu, atau karena menganggap biayanya terlalu besar. Artikel ini akan menjelaskan semua yang perlu kamu ketahui.
 
 ## Apa Itu BPJS Ketenagakerjaan?
+
+![Ilustrasi Panduan BPJS Ketenagakerjaan untuk UMKM: Kewajiban dan Manfaatnya](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan BPJS Ketenagakerjaan untuk UMKM: Kewajiban dan Manfaatnya")
 
 BPJS Ketenagakerjaan adalah badan hukum publik yang menyelenggarakan program jaminan sosial ketenagakerjaan. Program ini memberikan perlindungan kepada pekerja dari risiko-risiko yang bisa terjadi selama masa kerja.
 
@@ -115,7 +125,7 @@ Pengusaha yang tidak mendaftarkan karyawan ke BPJS Ketenagakerjaan bisa dikenaka
 - Tidak mendapat layanan publik tertentu
 - Sanksi pidana untuk pelanggaran yang disengaja
 
-Selain sanksi hukum, jika terjadi kecelakaan kerja pada karyawan yang tidak terdaftar, perusahaan harus menanggung seluruh biaya sendiri — yang bisa jauh lebih mahal dari iuran BPJS.
+Selain sanksi hukum, jika terjadi kecelakaan kerja pada karyawan yang tidak terdaftar, perusahaan harus menanggung seluruh biaya sendiri yang bisa jauh lebih mahal dari iuran BPJS.
 
 ## Tips Mengelola Iuran BPJS
 

@@ -1,16 +1,25 @@
 ---
-title: "Cara Buat Sistem Penggajian Karyawan yang Transparan dan Tepat Waktu"
-date: "2025-07-03"
-excerpt: "Panduan membuat sistem penggajian karyawan yang transparan, akurat, dan tepat waktu untuk bisnis UMKM — dari komponen gaji hingga cara pembayaran."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["sistem penggajian", "gaji karyawan", "payroll umkm", "manajemen sdm", "slip gaji"]
-image: "/blog/cara-buat-sistem-penggajian-karyawan/thumbnail.svg"
+title: Cara Buat Sistem Penggajian Karyawan yang Transparan dan Tepat Waktu
+date: '2025-07-03'
+excerpt: >-
+  Panduan membuat sistem penggajian karyawan yang transparan, akurat, dan tepat
+  waktu untuk bisnis UMKM — dari komponen gaji hingga cara pembayaran.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - sistem penggajian
+  - gaji karyawan
+  - payroll umkm
+  - manajemen sdm
+  - slip gaji
+image: /blog/cara-buat-sistem-penggajian-karyawan/thumbnail.svg
 ---
 
 Sistem penggajian yang buruk adalah salah satu penyebab paling umum karyawan tidak puas dan akhirnya resign. Gaji yang terlambat, tidak transparan, atau sering salah hitung menciptakan ketidakpercayaan yang sulit diperbaiki. Sebaliknya, sistem penggajian yang rapi dan tepat waktu adalah fondasi hubungan kerja yang sehat.
 
 ## Komponen Gaji yang Perlu Dipahami
+
+![Ilustrasi Cara Buat Sistem Penggajian Karyawan yang Transparan dan Tepat Waktu](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Sistem Penggajian Karyawan yang Transparan dan Tepat Waktu")
 
 Sebelum membuat sistem, pahami dulu komponen-komponen yang biasanya ada dalam penggajian:
 

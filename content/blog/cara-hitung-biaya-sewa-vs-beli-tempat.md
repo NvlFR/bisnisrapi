@@ -1,16 +1,26 @@
 ---
-title: "Cara Hitung: Lebih Untung Sewa atau Beli Tempat Usaha?"
-date: "2025-07-23"
-excerpt: "Analisis mendalam cara menghitung dan membandingkan biaya sewa vs. beli tempat usaha untuk UMKM — faktor finansial dan non-finansial yang perlu dipertimbangkan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["sewa vs beli tempat", "properti usaha", "investasi properti bisnis", "biaya tempat usaha", "keputusan bisnis"]
-image: "/blog/cara-hitung-biaya-sewa-vs-beli-tempat/thumbnail.svg"
+title: 'Cara Hitung: Lebih Untung Sewa atau Beli Tempat Usaha?'
+date: '2025-07-23'
+excerpt: >-
+  Analisis mendalam cara menghitung dan membandingkan biaya sewa vs. beli tempat
+  usaha untuk UMKM — faktor finansial dan non-finansial yang perlu
+  dipertimbangkan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - sewa vs beli tempat
+  - properti usaha
+  - investasi properti bisnis
+  - biaya tempat usaha
+  - keputusan bisnis
+image: /blog/cara-hitung-biaya-sewa-vs-beli-tempat/thumbnail.svg
 ---
 
 "Lebih baik beli tempat usaha sendiri daripada buang uang untuk sewa." Kalimat ini sering terdengar, tapi apakah selalu benar? Keputusan sewa vs. beli tempat usaha adalah salah satu keputusan finansial terbesar yang akan kamu buat sebagai pemilik bisnis. Dan jawabannya tidak sesederhana yang terlihat.
 
 ## Faktor-Faktor yang Perlu Dipertimbangkan
+
+![Ilustrasi Cara Hitung: Lebih Untung Sewa atau Beli Tempat Usaha?](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Hitung: Lebih Untung Sewa atau Beli Tempat Usaha?")
 
 Sebelum masuk ke perhitungan, pahami dulu faktor-faktor yang mempengaruhi keputusan ini:
 

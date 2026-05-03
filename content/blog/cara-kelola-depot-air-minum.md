@@ -1,22 +1,31 @@
 ---
-title: "Cara Kelola Depot Air Minum Isi Ulang dengan Sistem Digital"
-date: "2025-10-15"
-excerpt: "Depot air minum isi ulang punya pelanggan tetap yang perlu dikelola dengan baik agar bisnis terus berkembang."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["depot air minum", "air isi ulang", "manajemen pelanggan", "bisnis air", "digitalisasi"]
-image: "/blog/cara-kelola-depot-air-minum/thumbnail.svg"
+title: Cara Kelola Depot Air Minum Isi Ulang dengan Sistem Digital
+date: '2025-10-15'
+excerpt: >-
+  Depot air minum isi ulang punya pelanggan tetap yang perlu dikelola dengan
+  baik agar bisnis terus berkembang.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - depot air minum
+  - air isi ulang
+  - manajemen pelanggan
+  - bisnis air
+  - digitalisasi
+image: /blog/cara-kelola-depot-air-minum/thumbnail.svg
 ---
 
-Depot air minum isi ulang adalah salah satu bisnis yang paling stabil — kebutuhan air minum adalah kebutuhan dasar yang tidak pernah berhenti. Tapi "stabil" bukan berarti tidak perlu dikelola dengan baik. Depot yang dikelola dengan sistem yang baik bisa jauh lebih menguntungkan dan berkembang lebih cepat.
+Depot air minum isi ulang adalah salah satu bisnis yang paling stabil kebutuhan air minum adalah kebutuhan dasar yang tidak pernah berhenti. Tapi "stabil" bukan berarti tidak perlu dikelola dengan baik. Depot yang dikelola dengan sistem yang baik bisa jauh lebih menguntungkan dan berkembang lebih cepat.
 
 ## Karakteristik Bisnis Depot Air Minum
 
+![Ilustrasi Cara Kelola Depot Air Minum Isi Ulang dengan Sistem Digital](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Depot Air Minum Isi Ulang dengan Sistem Digital")
+
 ### Pelanggan yang Sangat Loyal
-Pelanggan depot air minum cenderung sangat loyal — mereka biasanya menggunakan depot yang sama berulang kali karena faktor kepercayaan kualitas air dan kemudahan lokasi. Ini adalah aset yang perlu dijaga.
+Pelanggan depot air minum cenderung sangat loyal mereka biasanya menggunakan depot yang sama berulang kali karena faktor kepercayaan kualitas air dan kemudahan lokasi. Ini adalah aset yang perlu dijaga.
 
 ### Transaksi yang Berulang dan Rutin
-Pelanggan biasanya datang atau memesan secara rutin — setiap beberapa hari atau seminggu sekali. Ini menciptakan pola yang bisa diprediksi dan dimanfaatkan.
+Pelanggan biasanya datang atau memesan secara rutin setiap beberapa hari atau seminggu sekali. Ini menciptakan pola yang bisa diprediksi dan dimanfaatkan.
 
 ### Layanan Antar yang Semakin Penting
 Semakin banyak pelanggan yang lebih suka pesan antar daripada datang langsung. Mengelola layanan antar dengan baik adalah keunggulan kompetitif yang penting.
@@ -91,7 +100,7 @@ Galon yang tidak kembali dalam waktu lama perlu ditagih atau dicatat sebagai keh
 
 ### Sistem Kredit untuk Pelanggan Tetap
 
-Banyak depot yang memberikan kredit kepada pelanggan tetap — mereka bisa ambil air dulu, bayar nanti. Ini meningkatkan loyalitas tapi perlu dikelola dengan ketat.
+Banyak depot yang memberikan kredit kepada pelanggan tetap mereka bisa ambil air dulu, bayar nanti. Ini meningkatkan loyalitas tapi perlu dikelola dengan ketat.
 
 Tentukan:
 - Siapa yang berhak mendapat kredit (pelanggan yang sudah berapa lama?)
@@ -102,7 +111,7 @@ Pantau piutang secara rutin dan tagih sebelum menumpuk terlalu banyak.
 
 ### Pencatatan Transaksi yang Konsisten
 
-Setiap transaksi — baik tunai maupun kredit — harus dicatat. Ini penting untuk:
+Setiap transaksi baik tunai maupun kredit harus dicatat. Ini penting untuk:
 - Mengetahui omzet harian/mingguan/bulanan
 - Memantau piutang
 - Menghitung keuntungan
@@ -145,4 +154,4 @@ Dengan sistem manajemen yang baik, kamu bisa memperluas area layanan antar tanpa
 
 Pertimbangkan kemitraan dengan perumahan, kos-kosan, atau kantor di sekitar untuk menjadi supplier air minum eksklusif mereka.
 
-Dengan sistem digital seperti BisnisRapi, depot air minum kamu bisa mengelola pelanggan, pengiriman, dan keuangan dengan lebih efisien — memungkinkan kamu fokus pada pengembangan bisnis daripada terjebak dalam administrasi sehari-hari.
+Dengan sistem digital seperti BisnisRapi, depot air minum kamu bisa mengelola pelanggan, pengiriman, dan keuangan dengan lebih efisien memungkinkan kamu fokus pada pengembangan bisnis daripada terjebak dalam administrasi sehari-hari.

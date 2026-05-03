@@ -1,18 +1,28 @@
 ---
-title: "Cara Buat Loyalty Program Sederhana yang Bikin Pelanggan Balik Lagi"
-date: "2025-04-01"
-excerpt: "Loyalty program tidak harus rumit atau mahal. Pelajari cara membuat program loyalitas yang efektif untuk UMKM yang bisa langsung diterapkan tanpa teknologi canggih."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["loyalty program", "retensi pelanggan", "strategi bisnis", "UMKM", "pelanggan setia"]
-image: "/blog/sistem-loyalty-program-umkm/thumbnail.svg"
+title: Cara Buat Loyalty Program Sederhana yang Bikin Pelanggan Balik Lagi
+date: '2025-04-01'
+excerpt: >-
+  Loyalty program tidak harus rumit atau mahal. Pelajari cara membuat program
+  loyalitas yang efektif untuk UMKM yang bisa langsung diterapkan tanpa
+  teknologi canggih.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - loyalty program
+  - retensi pelanggan
+  - strategi bisnis
+  - UMKM
+  - pelanggan setia
+image: /blog/sistem-loyalty-program-umkm/thumbnail.svg
 ---
 
 Loyalty program adalah salah satu alat paling efektif untuk membuat pelanggan terus kembali. Tapi banyak pemilik UMKM yang berpikir ini hanya untuk bisnis besar dengan teknologi canggih dan budget marketing yang besar.
 
-Kenyataannya, loyalty program yang paling efektif seringkali yang paling sederhana. Kartu stempel di warung kopi, poin yang bisa ditukar diskon di toko baju, atau member card di salon — semua ini adalah loyalty program yang terbukti bekerja.
+Kenyataannya, loyalty program yang paling efektif seringkali yang paling sederhana. Kartu stempel di warung kopi, poin yang bisa ditukar diskon di toko baju, atau member card di salon semua ini adalah loyalty program yang terbukti bekerja.
 
 ## Kenapa Loyalty Program Itu Worth It?
+
+![Ilustrasi Cara Buat Loyalty Program Sederhana yang Bikin Pelanggan Balik Lagi](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Loyalty Program Sederhana yang Bikin Pelanggan Balik Lagi")
 
 Sebelum bicara cara membuat, mari pahami dulu kenapa ini penting:
 
@@ -32,7 +42,7 @@ Sebelum bicara cara membuat, mari pahami dulu kenapa ini penting:
 
 Paling sederhana dan tidak butuh teknologi apapun. Pelanggan dapat stempel setiap pembelian, setelah X stempel dapat reward.
 
-**Cocok untuk:** Cafe, warung makan, salon, laundry — bisnis dengan transaksi berulang dan nilai relatif kecil.
+**Cocok untuk:** Cafe, warung makan, salon, laundry bisnis dengan transaksi berulang dan nilai relatif kecil.
 
 **Contoh:** Beli 9 kopi, gratis 1 kopi.
 
@@ -142,4 +152,4 @@ Sistem seperti BisnisRapi memiliki fitur manajemen member dan loyalty program ya
 
 Loyalty program yang efektif tidak harus canggih atau mahal. Yang penting: reward yang menarik, aturan yang sederhana, dan implementasi yang konsisten.
 
-Mulai dari yang paling sederhana — kartu stempel atau catatan manual — dan kembangkan sesuai pertumbuhan bisnis. Yang terpenting adalah mulai, karena setiap hari tanpa loyalty program adalah hari di mana pelanggan setia kamu mungkin sedang direbut oleh kompetitor.
+Mulai dari yang paling sederhana kartu stempel atau catatan manual dan kembangkan sesuai pertumbuhan bisnis. Yang terpenting adalah mulai, karena setiap hari tanpa loyalty program adalah hari di mana pelanggan setia kamu mungkin sedang direbut oleh kompetitor.

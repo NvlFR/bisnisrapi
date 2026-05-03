@@ -1,18 +1,28 @@
 ---
-title: "Panduan Manajemen Risiko Bisnis untuk UMKM"
-date: "2025-09-05"
-excerpt: "Panduan praktis manajemen risiko bisnis untuk UMKM — cara mengidentifikasi, menilai, dan mengelola risiko agar bisnis lebih tahan terhadap berbagai ancaman."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["manajemen risiko", "risk management", "risiko bisnis", "mitigasi risiko", "ketahanan bisnis"]
-image: "/blog/panduan-manajemen-risiko-bisnis/thumbnail.svg"
+title: Panduan Manajemen Risiko Bisnis untuk UMKM
+date: '2025-09-05'
+excerpt: >-
+  Panduan praktis manajemen risiko bisnis untuk UMKM — cara mengidentifikasi,
+  menilai, dan mengelola risiko agar bisnis lebih tahan terhadap berbagai
+  ancaman.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - manajemen risiko
+  - risk management
+  - risiko bisnis
+  - mitigasi risiko
+  - ketahanan bisnis
+image: /blog/panduan-manajemen-risiko-bisnis/thumbnail.svg
 ---
 
 Setiap bisnis menghadapi risiko. Yang membedakan bisnis yang bertahan dengan yang tidak bukan ketiadaan risiko, tapi kemampuan untuk mengidentifikasi, menilai, dan mengelola risiko tersebut secara proaktif.
 
-Manajemen risiko bukan tentang menghindari semua risiko — itu tidak mungkin dan tidak diinginkan. Bisnis yang tidak mau mengambil risiko tidak akan pernah berkembang. Ini tentang mengambil risiko yang tepat dengan mata terbuka dan memiliki rencana untuk menghadapi yang tidak terduga.
+Manajemen risiko bukan tentang menghindari semua risiko itu tidak mungkin dan tidak diinginkan. Bisnis yang tidak mau mengambil risiko tidak akan pernah berkembang. Ini tentang mengambil risiko yang tepat dengan mata terbuka dan memiliki rencana untuk menghadapi yang tidak terduga.
 
 ## Jenis-Jenis Risiko Bisnis
+
+![Ilustrasi Panduan Manajemen Risiko Bisnis untuk UMKM](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Manajemen Risiko Bisnis untuk UMKM")
 
 ### Risiko Operasional
 
@@ -95,7 +105,7 @@ Untuk setiap risiko, pilih strategi:
 
 ### Langkah 4: Buat Rencana Kontingensi
 
-Untuk risiko dengan dampak tinggi, buat rencana kontingensi — apa yang akan kamu lakukan jika risiko tersebut benar-benar terjadi?
+Untuk risiko dengan dampak tinggi, buat rencana kontingensi apa yang akan kamu lakukan jika risiko tersebut benar-benar terjadi?
 
 Rencana kontingensi yang baik mencakup:
 - Siapa yang bertanggung jawab untuk merespons

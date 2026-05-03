@@ -1,16 +1,25 @@
 ---
-title: "Panduan PPN untuk UMKM: Kapan Harus Daftar PKP?"
-date: "2025-07-05"
-excerpt: "Panduan lengkap PPN untuk UMKM — kapan wajib daftar PKP, apa konsekuensinya, dan bagaimana mengelola PPN agar tidak membebani bisnis."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["ppn umkm", "pkp pajak", "pajak pertambahan nilai", "kewajiban pajak", "administrasi pajak"]
-image: "/blog/panduan-ppn-untuk-umkm/thumbnail.svg"
+title: 'Panduan PPN untuk UMKM: Kapan Harus Daftar PKP?'
+date: '2025-07-05'
+excerpt: >-
+  Panduan lengkap PPN untuk UMKM — kapan wajib daftar PKP, apa konsekuensinya,
+  dan bagaimana mengelola PPN agar tidak membebani bisnis.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - ppn umkm
+  - pkp pajak
+  - pajak pertambahan nilai
+  - kewajiban pajak
+  - administrasi pajak
+image: /blog/panduan-ppn-untuk-umkm/thumbnail.svg
 ---
 
 PPN (Pajak Pertambahan Nilai) adalah salah satu jenis pajak yang paling sering menimbulkan kebingungan di kalangan pelaku UMKM. Kapan harus daftar PKP? Apa bedanya PKP dan non-PKP? Bagaimana cara mengelola PPN agar tidak membebani bisnis? Artikel ini menjawab semua pertanyaan itu.
 
 ## Apa Itu PPN dan PKP?
+
+![Ilustrasi Panduan PPN untuk UMKM: Kapan Harus Daftar PKP?](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan PPN untuk UMKM: Kapan Harus Daftar PKP?")
 
 **PPN (Pajak Pertambahan Nilai)** adalah pajak yang dikenakan atas setiap transaksi jual beli barang atau jasa kena pajak. Tarif PPN saat ini adalah 11% dari harga jual.
 

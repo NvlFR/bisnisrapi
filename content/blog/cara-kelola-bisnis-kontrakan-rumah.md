@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Bisnis Kontrakan Rumah dengan Sistem Digital"
-date: "2026-01-15"
-excerpt: "Panduan mengelola bisnis kontrakan rumah secara profesional dengan memanfaatkan sistem digital, dari manajemen penyewa, penagihan sewa, hingga perawatan properti."
-author: "BisnisRapi Team"
-category: "Properti"
-tags: ["kontrakan rumah", "bisnis kontrakan", "manajemen properti", "sewa rumah", "properti digital"]
-image: "/blog/cara-kelola-bisnis-kontrakan-rumah/thumbnail.svg"
+title: Cara Kelola Bisnis Kontrakan Rumah dengan Sistem Digital
+date: '2026-01-15'
+excerpt: >-
+  Panduan mengelola bisnis kontrakan rumah secara profesional dengan
+  memanfaatkan sistem digital, dari manajemen penyewa, penagihan sewa, hingga
+  perawatan properti.
+author: BisnisRapi Team
+category: Properti
+tags:
+  - kontrakan rumah
+  - bisnis kontrakan
+  - manajemen properti
+  - sewa rumah
+  - properti digital
+image: /blog/cara-kelola-bisnis-kontrakan-rumah/thumbnail.svg
 ---
 
-Bisnis kontrakan rumah adalah salah satu investasi properti yang paling umum di Indonesia. Tapi banyak pemilik kontrakan yang mengelolanya secara informal — tanpa perjanjian yang jelas, tanpa sistem penagihan yang teratur, dan tanpa pencatatan yang rapi. Akibatnya, sering terjadi masalah — penyewa yang menunggak, kerusakan yang tidak ditangani, atau ketidakjelasan hak dan kewajiban.
+Bisnis kontrakan rumah adalah salah satu investasi properti yang paling umum di Indonesia. Tapi banyak pemilik kontrakan yang mengelolanya secara informal tanpa perjanjian yang jelas, tanpa sistem penagihan yang teratur, dan tanpa pencatatan yang rapi. Akibatnya, sering terjadi masalah penyewa yang menunggak, kerusakan yang tidak ditangani, atau ketidakjelasan hak dan kewajiban.
 
 Artikel ini akan membantu kamu mengelola bisnis kontrakan dengan lebih profesional dan sistematis.
 
 ## Mengapa Perlu Sistem yang Profesional?
+
+![Ilustrasi Cara Kelola Bisnis Kontrakan Rumah dengan Sistem Digital](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Bisnis Kontrakan Rumah dengan Sistem Digital")
 
 Mengelola kontrakan secara informal mungkin terasa lebih mudah di awal, tapi seiring waktu akan menimbulkan masalah:
 
@@ -97,12 +107,10 @@ Dokumentasi kondisi properti saat penyewa masuk dan keluar sangat penting untuk 
 
 Teknologi bisa sangat membantu dalam mengelola kontrakan, terutama kalau kamu punya beberapa unit:
 
-**Aplikasi manajemen properti:** Ada beberapa aplikasi yang dirancang khusus untuk manajemen properti sewa — membantu kamu melacak penyewa, pembayaran, dan perawatan.
+**Aplikasi manajemen properti:** Ada beberapa aplikasi yang dirancang khusus untuk manajemen properti sewa membantu kamu melacak penyewa, pembayaran, dan perawatan.
 
 **Pembayaran digital:** Terima pembayaran melalui transfer bank atau dompet digital. Ini memudahkan pencatatan dan mengurangi risiko uang tunai.
 
 **Komunikasi digital:** Gunakan WhatsApp atau email untuk komunikasi dengan penyewa. Ini menciptakan jejak komunikasi yang bisa dirujuk kalau ada sengketa.
-
----
 
 Mengelola beberapa unit kontrakan dengan banyak penyewa membutuhkan sistem pencatatan yang rapi. BisnisRapi dapat membantu kamu mengelola data penyewa, melacak pembayaran sewa, mencatat pengeluaran perawatan, dan memantau kondisi keuangan bisnis kontrakan kamu secara keseluruhan.

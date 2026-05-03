@@ -1,20 +1,29 @@
 ---
-title: "Kenapa UMKM Butuh Website Sendiri (Bukan Cuma Marketplace)"
-date: "2025-09-15"
-excerpt: "Marketplace memang mudah, tapi mengandalkan platform orang lain sepenuhnya adalah risiko bisnis yang sering diabaikan UMKM."
-author: "BisnisRapi Team"
-category: "Teknologi Bisnis"
-tags: ["website UMKM", "marketplace vs website", "toko online", "digital presence", "branding"]
-image: "/blog/pentingnya-website-untuk-umkm/thumbnail.svg"
+title: Kenapa UMKM Butuh Website Sendiri (Bukan Cuma Marketplace)
+date: '2025-09-15'
+excerpt: >-
+  Marketplace memang mudah, tapi mengandalkan platform orang lain sepenuhnya
+  adalah risiko bisnis yang sering diabaikan UMKM.
+author: BisnisRapi Team
+category: Teknologi Bisnis
+tags:
+  - website UMKM
+  - marketplace vs website
+  - toko online
+  - digital presence
+  - branding
+image: /blog/pentingnya-website-untuk-umkm/thumbnail.svg
 ---
 
 "Ngapain bikin website? Di Tokopedia dan Shopee sudah ramai kok."
 
 Ini adalah argumen yang sering terdengar dari pemilik UMKM. Dan memang, marketplace menawarkan kemudahan yang luar biasa: infrastruktur yang sudah ada, traffic yang besar, dan sistem pembayaran yang terpercaya.
 
-Tapi mengandalkan marketplace sepenuhnya adalah strategi yang berisiko. Ini bukan berarti kamu harus meninggalkan marketplace — tapi kamu perlu punya "rumah" sendiri di internet.
+Tapi mengandalkan marketplace sepenuhnya adalah strategi yang berisiko. Ini bukan berarti kamu harus meninggalkan marketplace tapi kamu perlu punya "rumah" sendiri di internet.
 
 ## Risiko Mengandalkan Marketplace Sepenuhnya
+
+![Ilustrasi Kenapa UMKM Butuh Website Sendiri (Bukan Cuma Marketplace)](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Kenapa UMKM Butuh Website Sendiri (Bukan Cuma Marketplace)")
 
 ### Kamu Tidak Punya Kontrol
 
@@ -94,7 +103,7 @@ Website yang tidak bisa ditemukan di Google tidak banyak gunanya. Pastikan websi
 
 ## Strategi: Marketplace + Website = Kombinasi Terbaik
 
-Bukan pilih salah satu — gunakan keduanya dengan strategi yang tepat:
+Bukan pilih salah satu gunakan keduanya dengan strategi yang tepat:
 
 **Marketplace:** untuk menjangkau pelanggan baru yang belum mengenal brand kamu. Manfaatkan traffic besar marketplace untuk akuisisi pelanggan.
 
@@ -106,12 +115,12 @@ Dengan strategi ini, kamu mendapat manfaat dari keduanya sambil mengurangi keter
 
 Jawabannya: sekarang, atau setidaknya segera. Semakin lama kamu menunda, semakin lama kamu kehilangan manfaat dari SEO dan membangun kehadiran online yang kuat.
 
-Mulai dari yang sederhana — website dengan beberapa halaman dasar sudah cukup untuk memulai. Kamu bisa terus mengembangkannya seiring bisnis berkembang.
+Mulai dari yang sederhana website dengan beberapa halaman dasar sudah cukup untuk memulai. Kamu bisa terus mengembangkannya seiring bisnis berkembang.
 
-Jika kamu butuh bantuan membangun website yang profesional untuk bisnis kamu, BisnisRapi bisa membantu — dari desain yang mencerminkan brand kamu hingga integrasi dengan sistem manajemen bisnis yang sudah kamu gunakan.
+Jika kamu butuh bantuan membangun website yang profesional untuk bisnis kamu, BisnisRapi bisa membantu dari desain yang mencerminkan brand kamu hingga integrasi dengan sistem manajemen bisnis yang sudah kamu gunakan.
 
 ## Kesimpulan
 
 Marketplace adalah alat yang powerful, tapi bukan satu-satunya alat yang kamu butuhkan. Website sendiri adalah investasi dalam kemandirian dan keberlanjutan bisnis kamu.
 
-Di era digital ini, bisnis yang tidak punya kehadiran online yang kuat — termasuk website sendiri — akan semakin tertinggal. Mulai bangun "rumah" digital kamu sekarang.
+Di era digital ini, bisnis yang tidak punya kehadiran online yang kuat termasuk website sendiri akan semakin tertinggal. Mulai bangun "rumah" digital kamu sekarang.

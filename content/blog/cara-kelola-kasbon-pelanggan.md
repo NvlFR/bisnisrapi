@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Kasbon Pelanggan Biar Nggak Bikin Rugi"
-date: "2025-05-05"
-excerpt: "Kasbon pelanggan yang tidak terkelola bisa jadi bom waktu untuk arus kas bisnis. Pelajari cara mengelola kasbon dengan sistem yang jelas agar tidak merugikan bisnis."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["kasbon", "piutang pelanggan", "keuangan bisnis", "manajemen kredit", "UMKM"]
-image: "/blog/cara-kelola-kasbon-pelanggan/thumbnail.svg"
+title: Cara Kelola Kasbon Pelanggan Biar Nggak Bikin Rugi
+date: '2025-05-05'
+excerpt: >-
+  Kasbon pelanggan yang tidak terkelola bisa jadi bom waktu untuk arus kas
+  bisnis. Pelajari cara mengelola kasbon dengan sistem yang jelas agar tidak
+  merugikan bisnis.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - kasbon
+  - piutang pelanggan
+  - keuangan bisnis
+  - manajemen kredit
+  - UMKM
+image: /blog/cara-kelola-kasbon-pelanggan/thumbnail.svg
 ---
 
-"Nanti bayarnya ya, lagi nggak bawa uang." Kalimat ini mungkin sudah sangat familiar bagi kamu yang punya toko atau warung. Kasbon — atau hutang pelanggan — adalah praktik yang sangat umum di bisnis UMKM Indonesia, terutama di warung, toko kelontong, dan bisnis yang melayani komunitas lokal.
+"Nanti bayarnya ya, lagi nggak bawa uang." Kalimat ini mungkin sudah sangat familiar bagi kamu yang punya toko atau warung. Kasbon atau hutang pelanggan adalah praktik yang sangat umum di bisnis UMKM Indonesia, terutama di warung, toko kelontong, dan bisnis yang melayani komunitas lokal.
 
 Di satu sisi, kasbon bisa membangun loyalitas pelanggan dan mempertahankan penjualan. Di sisi lain, kalau tidak dikelola dengan baik, kasbon bisa menjadi sumber kerugian yang signifikan.
 
 ## Risiko Kasbon yang Tidak Terkelola
+
+![Ilustrasi Cara Kelola Kasbon Pelanggan Biar Nggak Bikin Rugi](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Kasbon Pelanggan Biar Nggak Bikin Rugi")
 
 **Arus kas terganggu.** Kamu sudah keluarkan modal untuk barang, tapi uangnya belum masuk. Kalau kasbon menumpuk, kamu bisa kesulitan bayar supplier atau biaya operasional.
 
@@ -26,7 +36,7 @@ Di satu sisi, kasbon bisa membangun loyalitas pelanggan dan mempertahankan penju
 
 ### 1. Tidak Semua Pelanggan Layak Dapat Kasbon
 
-Kasbon bukan hak semua pelanggan — ini fasilitas yang kamu berikan berdasarkan kepercayaan. Tentukan kriteria siapa yang bisa dapat kasbon:
+Kasbon bukan hak semua pelanggan ini fasilitas yang kamu berikan berdasarkan kepercayaan. Tentukan kriteria siapa yang bisa dapat kasbon:
 - Pelanggan tetap yang sudah lama berbelanja
 - Pelanggan yang track record pembayarannya baik
 - Pelanggan yang kamu kenal secara personal

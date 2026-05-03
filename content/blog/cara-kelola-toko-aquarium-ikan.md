@@ -1,19 +1,28 @@
 ---
-title: "Cara Kelola Toko Aquarium dan Ikan Hias: Stok Per Ekor"
-date: "2025-10-25"
-excerpt: "Toko ikan hias punya tantangan unik: stok dihitung per ekor, mortalitas yang perlu dipantau, dan harga yang fluktuatif."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko aquarium", "ikan hias", "stok per ekor", "manajemen ikan", "retail hobi"]
-image: "/blog/cara-kelola-toko-aquarium-ikan/thumbnail.svg"
+title: 'Cara Kelola Toko Aquarium dan Ikan Hias: Stok Per Ekor'
+date: '2025-10-25'
+excerpt: >-
+  Toko ikan hias punya tantangan unik: stok dihitung per ekor, mortalitas yang
+  perlu dipantau, dan harga yang fluktuatif.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko aquarium
+  - ikan hias
+  - stok per ekor
+  - manajemen ikan
+  - retail hobi
+image: /blog/cara-kelola-toko-aquarium-ikan/thumbnail.svg
 ---
 
 Toko aquarium dan ikan hias adalah bisnis yang unik dan penuh tantangan. Produk utamamu adalah makhluk hidup yang perlu dirawat, bisa mati, dan harganya bisa sangat fluktuatif tergantung tren dan ketersediaan. Mengelola stok "per ekor" dengan semua kompleksitasnya membutuhkan pendekatan yang berbeda dari retail biasa.
 
 ## Tantangan Unik Toko Ikan Hias
 
+![Ilustrasi Cara Kelola Toko Aquarium dan Ikan Hias: Stok Per Ekor](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Aquarium dan Ikan Hias: Stok Per Ekor")
+
 ### Stok yang Dihitung Per Ekor
-Berbeda dari produk retail biasa yang dihitung per unit atau per kg, ikan hias dihitung per ekor. Setiap ekor ikan adalah satu unit stok yang perlu dilacak — dan jumlahnya bisa ratusan hingga ribuan ekor dari berbagai jenis.
+Berbeda dari produk retail biasa yang dihitung per unit atau per kg, ikan hias dihitung per ekor. Setiap ekor ikan adalah satu unit stok yang perlu dilacak dan jumlahnya bisa ratusan hingga ribuan ekor dari berbagai jenis.
 
 ### Mortalitas yang Tidak Bisa Dihindari
 Ikan bisa mati karena berbagai sebab: penyakit, kualitas air yang buruk, stres saat pengiriman, atau predasi. Mortalitas adalah bagian dari bisnis ini yang perlu diperhitungkan dalam harga dan manajemen stok.
@@ -113,7 +122,7 @@ Tawarkan layanan konsultasi untuk pelanggan yang ingin setup akuarium baru. Ini 
 
 ### After-sales Support
 
-Pelanggan yang baru memulai hobi aquarium sering menghadapi masalah — ikan sakit, air keruh, dll. Responsif terhadap pertanyaan after-sales membangun loyalitas yang kuat.
+Pelanggan yang baru memulai hobi aquarium sering menghadapi masalah ikan sakit, air keruh, dll. Responsif terhadap pertanyaan after-sales membangun loyalitas yang kuat.
 
 ## Penjualan Online
 

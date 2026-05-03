@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Toko Herbal dan Jamu: Stok, Expired, dan Varian"
-date: "2025-12-15"
-excerpt: "Toko herbal dan jamu punya ratusan produk dengan masa simpan yang perlu dipantau. Ini cara mengelolanya dengan efisien."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko herbal", "jamu", "manajemen stok", "expired date", "produk kesehatan"]
-image: "/blog/cara-kelola-toko-herbal-jamu/thumbnail.svg"
+title: 'Cara Kelola Toko Herbal dan Jamu: Stok, Expired, dan Varian'
+date: '2025-12-15'
+excerpt: >-
+  Toko herbal dan jamu punya ratusan produk dengan masa simpan yang perlu
+  dipantau. Ini cara mengelolanya dengan efisien.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko herbal
+  - jamu
+  - manajemen stok
+  - expired date
+  - produk kesehatan
+image: /blog/cara-kelola-toko-herbal-jamu/thumbnail.svg
 ---
 
-Toko herbal dan jamu adalah bisnis yang unik: kamu menjual produk kesehatan yang dipercaya secara turun-temurun, tapi dengan standar modern yang semakin ketat. Ratusan produk dengan berbagai varian, masa simpan yang perlu dipantau, dan pelanggan yang semakin kritis tentang kualitas — semua ini membutuhkan sistem manajemen yang baik.
+Toko herbal dan jamu adalah bisnis yang unik: kamu menjual produk kesehatan yang dipercaya secara turun-temurun, tapi dengan standar modern yang semakin ketat. Ratusan produk dengan berbagai varian, masa simpan yang perlu dipantau, dan pelanggan yang semakin kritis tentang kualitas semua ini membutuhkan sistem manajemen yang baik.
 
 ## Karakteristik Unik Toko Herbal dan Jamu
+
+![Ilustrasi Cara Kelola Toko Herbal dan Jamu: Stok, Expired, dan Varian](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Herbal dan Jamu: Stok, Expired, dan Varian")
 
 ### Variasi Produk yang Sangat Banyak
 Toko herbal yang lengkap bisa menjual ratusan produk: berbagai jenis jamu, suplemen herbal, rempah-rempah, minyak esensial, teh herbal, dan produk perawatan berbahan alami. Setiap produk bisa hadir dalam berbagai bentuk (kapsul, serbuk, cair, teh) dan ukuran.
@@ -26,7 +35,7 @@ Berbeda dengan produk farmasi yang masa simpannya sangat jelas, produk herbal pu
 Produk herbal dan jamu diatur oleh BPOM. Pastikan semua produk yang kamu jual sudah terdaftar dan memiliki izin edar yang valid.
 
 ### Pelanggan yang Semakin Kritis
-Pelanggan toko herbal modern semakin kritis — mereka ingin tahu asal-usul produk, kandungannya, dan apakah sudah terdaftar BPOM. Transparansi adalah kunci.
+Pelanggan toko herbal modern semakin kritis mereka ingin tahu asal-usul produk, kandungannya, dan apakah sudah terdaftar BPOM. Transparansi adalah kunci.
 
 ## Manajemen Stok yang Efektif
 
@@ -49,7 +58,7 @@ Ini adalah aspek yang paling kritis untuk toko herbal. Setiap produk yang masuk 
 
 ### FIFO yang Ketat
 
-Terapkan FIFO (First In, First Out) dengan ketat — produk yang masuk lebih dulu harus dijual lebih dulu. Ini sangat penting untuk produk dengan masa simpan yang lebih pendek.
+Terapkan FIFO (First In, First Out) dengan ketat produk yang masuk lebih dulu harus dijual lebih dulu. Ini sangat penting untuk produk dengan masa simpan yang lebih pendek.
 
 ### Reorder Point per Produk
 
@@ -84,7 +93,7 @@ Informasi ini berguna untuk melayani pelanggan yang bertanya dan untuk keperluan
 
 ### Produk yang Mirip tapi Berbeda
 
-Banyak produk herbal yang namanya mirip tapi berbeda — misalnya jahe merah vs jahe biasa, atau kunyit vs temulawak. Pastikan sistem kamu bisa membedakan produk-produk ini dengan jelas untuk menghindari kesalahan.
+Banyak produk herbal yang namanya mirip tapi berbeda misalnya jahe merah vs jahe biasa, atau kunyit vs temulawak. Pastikan sistem kamu bisa membedakan produk-produk ini dengan jelas untuk menghindari kesalahan.
 
 ## Pelayanan Pelanggan di Toko Herbal
 
@@ -122,7 +131,7 @@ Sebelum menjual produk dari supplier baru, verifikasi:
 
 Negosiasikan harga, minimum order, dan terms pembayaran yang menguntungkan. Supplier yang baik biasanya mau bernegosiasi untuk pelanggan yang loyal.
 
-Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, toko herbal dan jamu kamu bisa mengelola ratusan produk dengan lebih mudah — dari monitoring expired date hingga analisis produk terlaris — semua dalam satu platform yang mudah digunakan.
+Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, toko herbal dan jamu kamu bisa mengelola ratusan produk dengan lebih mudah dari monitoring expired date hingga analisis produk terlaris semua dalam satu platform yang mudah digunakan.
 
 ## Tren yang Perlu Diperhatikan
 

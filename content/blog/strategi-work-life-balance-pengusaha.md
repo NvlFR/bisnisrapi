@@ -1,24 +1,34 @@
 ---
-title: "Strategi Work-Life Balance untuk Pengusaha UMKM"
-date: "2025-08-27"
-excerpt: "Panduan praktis mencapai work-life balance sebagai pengusaha UMKM — bukan tentang membagi waktu sama rata, tapi tentang membangun bisnis yang tidak mengorbankan kehidupan."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["work life balance", "kesehatan pengusaha", "burnout bisnis", "manajemen waktu", "kesejahteraan owner"]
-image: "/blog/strategi-work-life-balance-pengusaha/thumbnail.svg"
+title: Strategi Work-Life Balance untuk Pengusaha UMKM
+date: '2025-08-27'
+excerpt: >-
+  Panduan praktis mencapai work-life balance sebagai pengusaha UMKM — bukan
+  tentang membagi waktu sama rata, tapi tentang membangun bisnis yang tidak
+  mengorbankan kehidupan.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - work life balance
+  - kesehatan pengusaha
+  - burnout bisnis
+  - manajemen waktu
+  - kesejahteraan owner
+image: /blog/strategi-work-life-balance-pengusaha/thumbnail.svg
 ---
 
-"Work-life balance itu mitos untuk pengusaha." Kalimat ini sering terdengar, dan ada benarnya — terutama di tahun-tahun awal membangun bisnis. Tapi ada perbedaan antara periode intensif yang disengaja dan kondisi kronis di mana bisnis menggerogoti semua aspek kehidupan kamu.
+"Work-life balance itu mitos untuk pengusaha." Kalimat ini sering terdengar, dan ada benarnya terutama di tahun-tahun awal membangun bisnis. Tapi ada perbedaan antara periode intensif yang disengaja dan kondisi kronis di mana bisnis menggerogoti semua aspek kehidupan kamu.
 
-Work-life balance untuk pengusaha bukan tentang membagi waktu 50-50 antara kerja dan kehidupan pribadi. Ini tentang membangun bisnis yang berkelanjutan — yang tidak mengorbankan kesehatan, hubungan, dan kebahagiaan kamu dalam jangka panjang.
+Work-life balance untuk pengusaha bukan tentang membagi waktu 50-50 antara kerja dan kehidupan pribadi. Ini tentang membangun bisnis yang berkelanjutan yang tidak mengorbankan kesehatan, hubungan, dan kebahagiaan kamu dalam jangka panjang.
 
 ## Mengapa Work-Life Balance Penting untuk Pengusaha?
+
+![Ilustrasi Strategi Work-Life Balance untuk Pengusaha UMKM](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Work-Life Balance untuk Pengusaha UMKM")
 
 Bukan hanya soal kebahagiaan pribadi. Ada alasan bisnis yang kuat:
 
 **Produktivitas menurun setelah jam kerja tertentu.** Penelitian menunjukkan bahwa produktivitas per jam menurun drastis setelah 50-55 jam kerja per minggu. Bekerja 80 jam tidak menghasilkan dua kali lebih banyak dari bekerja 40 jam.
 
-**Burnout merusak pengambilan keputusan.** Kelelahan kronis mempengaruhi kemampuan berpikir jernih, kreativitas, dan kemampuan mengelola emosi — semua hal yang krusial untuk menjalankan bisnis.
+**Burnout merusak pengambilan keputusan.** Kelelahan kronis mempengaruhi kemampuan berpikir jernih, kreativitas, dan kemampuan mengelola emosi semua hal yang krusial untuk menjalankan bisnis.
 
 **Hubungan yang rusak berdampak pada bisnis.** Pengusaha yang hubungan pribadinya buruk sering membawa masalah itu ke tempat kerja. Dan dukungan dari keluarga dan teman adalah sumber daya yang sangat berharga saat bisnis menghadapi masa sulit.
 
@@ -73,13 +83,13 @@ Tekanan menjadi pengusaha bisa sangat berat. Jangan abaikan kesehatan mental.
 
 **Cara menjaga kesehatan mental:**
 - Meditasi atau mindfulness (bahkan 10 menit sehari bisa membantu)
-- Journaling — menulis tentang kekhawatiran dan rasa syukur
+- Journaling menulis tentang kekhawatiran dan rasa syukur
 - Berbicara dengan mentor atau sesama pengusaha yang memahami tantangan yang sama
 - Jangan ragu mencari bantuan profesional jika diperlukan
 
 ### 5. Investasikan dalam Hubungan
 
-Hubungan yang kuat dengan keluarga dan teman adalah sumber dukungan yang tak ternilai — dan juga sumber kebahagiaan yang tidak bisa digantikan oleh kesuksesan bisnis.
+Hubungan yang kuat dengan keluarga dan teman adalah sumber dukungan yang tak ternilai dan juga sumber kebahagiaan yang tidak bisa digantikan oleh kesuksesan bisnis.
 
 **Cara menjaga hubungan:**
 - Jadwalkan waktu berkualitas dengan keluarga (bukan hanya "ada" secara fisik tapi pikiran di tempat lain)

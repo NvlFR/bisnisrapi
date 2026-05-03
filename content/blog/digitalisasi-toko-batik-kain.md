@@ -1,21 +1,30 @@
 ---
-title: "Digitalisasi Toko Batik dan Kain Tradisional: Katalog Per Motif"
-date: "2025-08-25"
-excerpt: "Toko batik dan kain tradisional punya ratusan motif yang perlu dikatalogkan dengan baik agar pelanggan mudah menemukan yang mereka cari."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko batik", "kain tradisional", "katalog motif", "manajemen stok", "retail fashion"]
-image: "/blog/digitalisasi-toko-batik-kain/thumbnail.svg"
+title: 'Digitalisasi Toko Batik dan Kain Tradisional: Katalog Per Motif'
+date: '2025-08-25'
+excerpt: >-
+  Toko batik dan kain tradisional punya ratusan motif yang perlu dikatalogkan
+  dengan baik agar pelanggan mudah menemukan yang mereka cari.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko batik
+  - kain tradisional
+  - katalog motif
+  - manajemen stok
+  - retail fashion
+image: /blog/digitalisasi-toko-batik-kain/thumbnail.svg
 ---
 
 Toko batik dan kain tradisional adalah bisnis yang menjual warisan budaya. Di balik keindahan setiap motif, ada kompleksitas manajemen yang unik: ratusan motif yang berbeda, berbagai jenis kain, dan pelanggan yang sering mencari motif spesifik yang mungkin sulit dideskripsikan dengan kata-kata.
 
-Digitalisasi toko batik bukan hanya tentang efisiensi operasional — tapi juga tentang melestarikan dan mempromosikan kekayaan budaya Indonesia kepada lebih banyak orang.
+Digitalisasi toko batik bukan hanya tentang efisiensi operasional tapi juga tentang melestarikan dan mempromosikan kekayaan budaya Indonesia kepada lebih banyak orang.
 
 ## Karakteristik Unik Toko Batik dan Kain Tradisional
 
+![Ilustrasi Digitalisasi Toko Batik dan Kain Tradisional: Katalog Per Motif](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Digitalisasi Toko Batik dan Kain Tradisional: Katalog Per Motif")
+
 ### Variasi Motif yang Sangat Banyak
-Batik Indonesia punya ribuan motif yang berbeda — dari motif klasik seperti parang, kawung, dan truntum, hingga motif kontemporer yang terus berkembang. Setiap motif bisa hadir dalam berbagai warna dan ukuran kain.
+Batik Indonesia punya ribuan motif yang berbeda dari motif klasik seperti parang, kawung, dan truntum, hingga motif kontemporer yang terus berkembang. Setiap motif bisa hadir dalam berbagai warna dan ukuran kain.
 
 ### Identifikasi Produk yang Kompleks
 Berbeda dari produk retail biasa yang punya barcode standar, kain batik sering kali tidak punya identifikasi yang standar. Membuat sistem identifikasi yang konsisten adalah tantangan tersendiri.
@@ -100,15 +109,15 @@ Tantangannya adalah memastikan foto yang akurat menampilkan warna dan tekstur ya
 
 Pelanggan yang memahami nilai dan keunikan batik akan lebih menghargai dan bersedia membayar harga yang sesuai. Beberapa cara mengedukasi pelanggan:
 
-**Informasi tentang proses pembuatan.** Jelaskan perbedaan antara batik tulis, batik cap, dan batik printing — dan mengapa batik tulis lebih mahal.
+**Informasi tentang proses pembuatan.** Jelaskan perbedaan antara batik tulis, batik cap, dan batik printing dan mengapa batik tulis lebih mahal.
 
 **Cerita di balik motif.** Setiap motif batik punya cerita dan makna. Berbagi cerita ini membuat produk lebih bermakna bagi pelanggan.
 
-**Tips perawatan.** Ajarkan cara merawat batik agar tetap awet — cara mencuci, menyimpan, dan menjaga warna.
+**Tips perawatan.** Ajarkan cara merawat batik agar tetap awet cara mencuci, menyimpan, dan menjaga warna.
 
 ## Membangun Identitas Brand
 
-Toko batik yang sukses bukan hanya menjual kain — tapi juga menjual identitas dan cerita. Beberapa cara membangun identitas brand yang kuat:
+Toko batik yang sukses bukan hanya menjual kain tapi juga menjual identitas dan cerita. Beberapa cara membangun identitas brand yang kuat:
 
 - Fokus pada keunikan produk yang kamu jual (misalnya spesialisasi pada batik dari daerah tertentu)
 - Bangun hubungan langsung dengan pengrajin batik

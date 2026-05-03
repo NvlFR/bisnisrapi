@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Food Cost Restoran agar Profit Tetap Terjaga"
-date: "2026-01-15"
-excerpt: "Panduan praktis mengelola food cost restoran, cara menghitung food cost ratio, dan strategi menjaga profitabilitas bisnis F&B kamu."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["food cost", "food cost ratio", "profitabilitas restoran", "manajemen biaya fnb", "bisnis kuliner"]
-image: "/blog/cara-kelola-food-cost-restoran/thumbnail.svg"
+title: Cara Kelola Food Cost Restoran agar Profit Tetap Terjaga
+date: '2026-01-15'
+excerpt: >-
+  Panduan praktis mengelola food cost restoran, cara menghitung food cost ratio,
+  dan strategi menjaga profitabilitas bisnis F&B kamu.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - food cost
+  - food cost ratio
+  - profitabilitas restoran
+  - manajemen biaya fnb
+  - bisnis kuliner
+image: /blog/cara-kelola-food-cost-restoran/thumbnail.svg
 ---
 
 Banyak pemilik restoran yang fokus pada omzet tapi lupa memperhatikan food cost. Padahal, restoran dengan omzet besar pun bisa merugi kalau food cost-nya tidak terkontrol. Food cost adalah salah satu variabel terbesar yang menentukan apakah bisnis F&B kamu menguntungkan atau tidak.
 
 ## Apa Itu Food Cost?
+
+![Ilustrasi Cara Kelola Food Cost Restoran agar Profit Tetap Terjaga](https://images.unsplash.com/photo-1517248135467-4c7ed9d42c77?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Food Cost Restoran agar Profit Tetap Terjaga")
 
 Food cost adalah total biaya bahan baku yang digunakan untuk membuat semua menu yang terjual dalam periode tertentu. Food cost ratio adalah persentase food cost dibanding total pendapatan.
 
@@ -87,9 +96,9 @@ Ini adalah langkah paling fundamental. Standard recipe memastikan setiap porsi m
 
 ### Lakukan Stock Opname Rutin
 
-Hitung stok bahan baku secara rutin — idealnya setiap hari untuk bahan yang cepat habis, dan mingguan untuk bahan lainnya. Bandingkan dengan catatan pembelian dan penjualan.
+Hitung stok bahan baku secara rutin idealnya setiap hari untuk bahan yang cepat habis, dan mingguan untuk bahan lainnya. Bandingkan dengan catatan pembelian dan penjualan.
 
-Selisih antara stok yang seharusnya ada (berdasarkan pembelian dikurangi penjualan) dengan stok aktual disebut "variance." Variance yang besar mengindikasikan ada masalah — entah pemborosan, pencurian, atau kesalahan pencatatan.
+Selisih antara stok yang seharusnya ada (berdasarkan pembelian dikurangi penjualan) dengan stok aktual disebut "variance." Variance yang besar mengindikasikan ada masalah entah pemborosan, pencurian, atau kesalahan pencatatan.
 
 ### Optimalkan Penggunaan Bahan
 
@@ -109,7 +118,7 @@ Bangun hubungan baik dengan supplier dan negosiasikan harga secara berkala. Bebe
 
 ### Sesuaikan Harga Jual Secara Berkala
 
-Harga bahan baku naik secara berkala — ini tidak bisa dihindari. Kalau harga jual tidak pernah disesuaikan, food cost ratio akan terus meningkat dan margin keuntungan akan tergerus.
+Harga bahan baku naik secara berkala ini tidak bisa dihindari. Kalau harga jual tidak pernah disesuaikan, food cost ratio akan terus meningkat dan margin keuntungan akan tergerus.
 
 Evaluasi harga jual setidaknya setiap 6 bulan sekali. Kenaikan harga yang dilakukan secara bertahap dan dikomunikasikan dengan baik biasanya bisa diterima pelanggan.
 
@@ -132,6 +141,4 @@ Untuk melacak food cost secara akurat, kamu perlu:
 
 Proses ini memang membutuhkan disiplin dalam pencatatan, tapi hasilnya sangat berharga untuk pengambilan keputusan bisnis.
 
----
-
-Mengelola food cost membutuhkan data yang akurat dan pencatatan yang konsisten. BisnisRapi dapat membantu kamu mencatat pembelian bahan baku, memantau stok, dan menghasilkan laporan food cost secara otomatis — sehingga kamu selalu tahu kondisi profitabilitas bisnis F&B kamu tanpa harus menghitung manual setiap hari.
+Mengelola food cost membutuhkan data yang akurat dan pencatatan yang konsisten. BisnisRapi dapat membantu kamu mencatat pembelian bahan baku, memantau stok, dan menghasilkan laporan food cost secara otomatis sehingga kamu selalu tahu kondisi profitabilitas bisnis F&B kamu tanpa harus menghitung manual setiap hari.

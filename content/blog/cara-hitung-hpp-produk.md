@@ -1,18 +1,27 @@
 ---
-title: "Cara Menghitung HPP (Harga Pokok Penjualan) yang Benar untuk UMKM"
-date: "2025-01-25"
-excerpt: "Salah hitung HPP berarti salah tentukan harga jual — dan itu bisa bikin bisnis rugi tanpa sadar. Pelajari cara hitung HPP yang benar untuk produk dan jasa."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["HPP", "harga pokok penjualan", "keuangan UMKM", "pricing", "akuntansi"]
-image: "/blog/cara-hitung-hpp-produk/thumbnail.svg"
+title: Cara Menghitung HPP (Harga Pokok Penjualan) yang Benar untuk UMKM
+date: '2025-01-25'
+excerpt: >-
+  Salah hitung HPP berarti salah tentukan harga jual — dan itu bisa bikin bisnis
+  rugi tanpa sadar. Pelajari cara hitung HPP yang benar untuk produk dan jasa.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - HPP
+  - harga pokok penjualan
+  - keuangan UMKM
+  - pricing
+  - akuntansi
+image: /blog/cara-hitung-hpp-produk/thumbnail.svg
 ---
 
-Salah satu kesalahan paling umum yang dilakukan pemilik UMKM adalah menentukan harga jual berdasarkan feeling atau ikut-ikutan kompetitor — tanpa tahu berapa sebenarnya biaya untuk menghasilkan produk tersebut.
+Salah satu kesalahan paling umum yang dilakukan pemilik UMKM adalah menentukan harga jual berdasarkan feeling atau ikut-ikutan kompetitor tanpa tahu berapa sebenarnya biaya untuk menghasilkan produk tersebut.
 
 Akibatnya? Bisnis terasa ramai, omzet besar, tapi uang tidak pernah cukup. Atau lebih parah: bisnis sebenarnya rugi tapi tidak disadari karena tidak pernah hitung HPP dengan benar.
 
 ## Apa Itu HPP?
+
+![Ilustrasi Cara Menghitung HPP (Harga Pokok Penjualan) yang Benar untuk UMKM](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Menghitung HPP (Harga Pokok Penjualan) yang Benar untuk UMKM")
 
 HPP (Harga Pokok Penjualan) atau dalam bahasa Inggris disebut Cost of Goods Sold (COGS) adalah total biaya yang dikeluarkan untuk menghasilkan atau mendapatkan produk yang dijual.
 
@@ -91,7 +100,7 @@ Banyak pemilik UMKM yang menghitung HPP terlalu rendah karena lupa memasukkan be
 
 **Penyusutan peralatan.** Kalau kamu beli oven seharga Rp 5 juta dengan umur pakai 5 tahun, biaya penyusutannya Rp 1 juta/tahun atau sekitar Rp 83.000/bulan. Ini harus masuk ke HPP.
 
-**Biaya kemasan.** Plastik, kardus, label, stiker — semua ini biaya yang sering dianggap "kecil" tapi kalau dijumlah bisa signifikan.
+**Biaya kemasan.** Plastik, kardus, label, stiker semua ini biaya yang sering dianggap "kecil" tapi kalau dijumlah bisa signifikan.
 
 **Biaya pengiriman bahan baku.** Kalau kamu harus ambil bahan baku sendiri, biaya bensin dan waktu itu ada nilainya.
 
@@ -115,7 +124,7 @@ Harga Jual = Rp 4.550 × 2,5 = Rp 11.375 → dibulatkan Rp 12.000
 
 ## Cara Pantau HPP Secara Berkala
 
-HPP bukan angka yang statis. Harga bahan baku naik, biaya tenaga kerja berubah, harga sewa naik — semua ini mempengaruhi HPP.
+HPP bukan angka yang statis. Harga bahan baku naik, biaya tenaga kerja berubah, harga sewa naik semua ini mempengaruhi HPP.
 
 Idealnya, kamu review HPP setiap:
 - Harga bahan baku berubah signifikan (lebih dari 10%)
@@ -126,6 +135,6 @@ Dengan sistem manajemen bisnis yang terintegrasi seperti BisnisRapi, kamu bisa m
 
 ## Kesimpulan
 
-Menghitung HPP dengan benar adalah langkah pertama menuju bisnis yang profitable. Jangan tebak-tebak harga jual — hitung dulu berapa biaya sebenarnya untuk menghasilkan produkmu.
+Menghitung HPP dengan benar adalah langkah pertama menuju bisnis yang profitable. Jangan tebak-tebak harga jual hitung dulu berapa biaya sebenarnya untuk menghasilkan produkmu.
 
 Ingat: bisnis yang ramai tapi tidak tahu HPP-nya adalah bisnis yang berjalan di atas fondasi yang rapuh. Luangkan waktu untuk menghitung HPP sekarang, dan kamu akan punya kendali yang jauh lebih baik atas profitabilitas bisnismu.

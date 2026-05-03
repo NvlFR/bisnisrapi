@@ -1,11 +1,19 @@
 ---
-title: "Cara Analisis Produk Terlaris untuk Maksimalkan Profit Toko"
-date: "2025-03-15"
-excerpt: "Tahu produk mana yang paling menguntungkan adalah kunci untuk alokasi modal yang lebih cerdas. Pelajari cara analisis produk terlaris dan gunakan datanya untuk keputusan bisnis."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["analisis produk", "produk terlaris", "manajemen stok", "strategi bisnis", "data bisnis"]
-image: "/blog/cara-analisis-produk-terlaris/thumbnail.svg"
+title: Cara Analisis Produk Terlaris untuk Maksimalkan Profit Toko
+date: '2025-03-15'
+excerpt: >-
+  Tahu produk mana yang paling menguntungkan adalah kunci untuk alokasi modal
+  yang lebih cerdas. Pelajari cara analisis produk terlaris dan gunakan datanya
+  untuk keputusan bisnis.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - analisis produk
+  - produk terlaris
+  - manajemen stok
+  - strategi bisnis
+  - data bisnis
+image: /blog/cara-analisis-produk-terlaris/thumbnail.svg
 ---
 
 Punya 200 SKU di toko tapi tidak tahu mana yang benar-benar menghasilkan uang? Kamu tidak sendirian. Banyak pemilik toko yang mengelola ratusan produk tapi tidak punya gambaran jelas tentang mana yang worth it dan mana yang hanya memakan tempat dan modal.
@@ -13,6 +21,8 @@ Punya 200 SKU di toko tapi tidak tahu mana yang benar-benar menghasilkan uang? K
 Analisis produk terlaris bukan sekadar tahu "produk A paling banyak terjual." Ini tentang memahami produk mana yang paling menguntungkan, mana yang paling efisien dari sisi modal, dan bagaimana mengoptimalkan portofolio produkmu.
 
 ## Perbedaan Produk Terlaris vs Produk Paling Menguntungkan
+
+![Ilustrasi Cara Analisis Produk Terlaris untuk Maksimalkan Profit Toko](https://images.unsplash.com/photo-1507679799987-c7377f323bc2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Analisis Produk Terlaris untuk Maksimalkan Profit Toko")
 
 Ini perbedaan yang sering tidak disadari: produk yang paling banyak terjual belum tentu yang paling menguntungkan.
 
@@ -42,7 +52,7 @@ Berapa persen kontribusi setiap produk terhadap total profit toko. Ini membantu 
 
 ### 5. Inventory Turnover
 
-Seberapa cepat stok produk berputar. Produk dengan turnover tinggi artinya modal berputar cepat — ini bagus. Produk dengan turnover rendah artinya modal mengendap lama.
+Seberapa cepat stok produk berputar. Produk dengan turnover tinggi artinya modal berputar cepat ini bagus. Produk dengan turnover rendah artinya modal mengendap lama.
 
 ```
 Inventory Turnover = HPP / Rata-rata Nilai Stok
@@ -56,7 +66,7 @@ Berapa hari rata-rata stok produk habis terjual.
 DSI = 365 / Inventory Turnover
 ```
 
-Produk dengan DSI 7 hari artinya stok habis dalam seminggu — perputaran cepat. DSI 90 hari artinya stok baru habis dalam 3 bulan — perputaran lambat.
+Produk dengan DSI 7 hari artinya stok habis dalam seminggu perputaran cepat. DSI 90 hari artinya stok baru habis dalam 3 bulan perputaran lambat.
 
 ## Analisis ABC: Cara Paling Praktis
 
@@ -102,7 +112,7 @@ Urutkan produk berdasarkan total profit (dari tertinggi ke terendah). Hitung per
 Berdasarkan analisis ini, kamu bisa:
 - **Kategori A:** Pastikan stok selalu tersedia, pertimbangkan untuk tambah varian
 - **Kategori B:** Pertahankan, cari cara untuk tingkatkan performa
-- **Kategori C:** Evaluasi — apakah ada alasan strategis untuk tetap jual? Kalau tidak, pertimbangkan untuk discontinue
+- **Kategori C:** Evaluasi apakah ada alasan strategis untuk tetap jual? Kalau tidak, pertimbangkan untuk discontinue
 
 ## Produk yang Perlu Dievaluasi Lebih Dalam
 
@@ -120,12 +130,12 @@ Analisis produk terlaris seharusnya langsung mempengaruhi keputusan pembelian st
 - Produk kategori A: beli lebih banyak, jangan sampai stockout
 - Produk kategori C yang tidak ada alasan strategisnya: kurangi atau hentikan pembelian
 
-Ini cara paling efektif untuk mengoptimalkan modal kerja — fokuskan pada produk yang benar-benar menghasilkan.
+Ini cara paling efektif untuk mengoptimalkan modal kerja fokuskan pada produk yang benar-benar menghasilkan.
 
-Sistem manajemen bisnis seperti BisnisRapi otomatis menghasilkan laporan produk terlaris dari data transaksi sehari-hari. Kamu bisa lihat ranking produk berdasarkan volume, revenue, atau profit — dan gunakan data itu untuk keputusan yang lebih cerdas.
+Sistem manajemen bisnis seperti BisnisRapi otomatis menghasilkan laporan produk terlaris dari data transaksi sehari-hari. Kamu bisa lihat ranking produk berdasarkan volume, revenue, atau profit dan gunakan data itu untuk keputusan yang lebih cerdas.
 
 ## Kesimpulan
 
-Analisis produk terlaris adalah salah satu aktivitas paling valuable yang bisa kamu lakukan sebagai pemilik toko. Ini membantu kamu mengalokasikan modal dengan lebih efisien, fokus pada produk yang benar-benar menghasilkan, dan membuat keputusan berdasarkan data — bukan intuisi semata.
+Analisis produk terlaris adalah salah satu aktivitas paling valuable yang bisa kamu lakukan sebagai pemilik toko. Ini membantu kamu mengalokasikan modal dengan lebih efisien, fokus pada produk yang benar-benar menghasilkan, dan membuat keputusan berdasarkan data bukan intuisi semata.
 
 Lakukan analisis ini minimal setiap 3 bulan, dan gunakan hasilnya untuk terus mengoptimalkan portofolio produkmu.

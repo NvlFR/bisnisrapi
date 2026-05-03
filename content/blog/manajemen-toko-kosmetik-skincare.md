@@ -1,20 +1,30 @@
 ---
-title: "Manajemen Toko Kosmetik dan Skincare: Stok Varian dan Program Member"
-date: "2025-09-15"
-excerpt: "Toko kosmetik dengan ratusan varian produk dan pelanggan yang loyal butuh sistem yang mengelola stok dan member dengan efisien. Pelajari cara membangunnya."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko kosmetik", "skincare", "manajemen stok varian", "program member", "retail kecantikan"]
-image: "/blog/manajemen-toko-kosmetik-skincare/thumbnail.svg"
+title: 'Manajemen Toko Kosmetik dan Skincare: Stok Varian dan Program Member'
+date: '2025-09-15'
+excerpt: >-
+  Toko kosmetik dengan ratusan varian produk dan pelanggan yang loyal butuh
+  sistem yang mengelola stok dan member dengan efisien. Pelajari cara
+  membangunnya.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko kosmetik
+  - skincare
+  - manajemen stok varian
+  - program member
+  - retail kecantikan
+image: /blog/manajemen-toko-kosmetik-skincare/thumbnail.svg
 ---
 
 Toko kosmetik dan skincare adalah bisnis yang sangat dinamis. Produk baru terus bermunculan, tren berubah cepat, dan pelanggan yang loyal bisa menjadi aset yang sangat berharga. Tapi mengelola ratusan SKU dengan berbagai varian warna dan ukuran, sambil mempertahankan program member yang efektif, adalah tantangan yang membutuhkan sistem yang tepat.
 
 ## Karakteristik Unik Bisnis Kosmetik dan Skincare
 
+![Ilustrasi Manajemen Toko Kosmetik dan Skincare: Stok Varian dan Program Member](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Toko Kosmetik dan Skincare: Stok Varian dan Program Member")
+
 **Banyak varian per produk.** Foundation punya 20+ shade, lipstik punya 50+ warna, skincare punya berbagai ukuran. Setiap varian adalah SKU yang berbeda yang perlu dikelola tersendiri.
 
-**Produk dengan expired date.** Kosmetik dan skincare punya tanggal kedaluwarsa. Produk expired tidak hanya tidak efektif — bisa berbahaya bagi kulit.
+**Produk dengan expired date.** Kosmetik dan skincare punya tanggal kedaluwarsa. Produk expired tidak hanya tidak efektif bisa berbahaya bagi kulit.
 
 **Pelanggan yang sangat loyal.** Pelanggan yang sudah menemukan produk yang cocok cenderung sangat loyal. Program member yang baik bisa mempertahankan loyalitas ini.
 
@@ -36,7 +46,7 @@ Contoh: MAC-LIP-RUBY-01 (MAC, Lipstik, Ruby Woo, shade 01)
 
 Setiap batch produk harus dicatat dengan tanggal kedaluwarsa. Set alert untuk produk yang akan expired dalam 3-6 bulan.
 
-Terapkan FEFO (First Expired, First Out) — produk yang expired lebih awal harus dijual lebih dulu.
+Terapkan FEFO (First Expired, First Out) produk yang expired lebih awal harus dijual lebih dulu.
 
 ### 3. Manajemen Tester
 
@@ -101,7 +111,7 @@ Data ini memungkinkan rekomendasi yang lebih personal dan relevan.
 
 **Foto produk yang menarik.** Untuk penjualan online, foto produk yang bagus sangat penting. Investasi dalam foto yang berkualitas.
 
-BisnisRapi membantu toko kosmetik mengelola stok dengan banyak varian, program member, dan laporan penjualan yang detail — semua dalam satu platform yang mudah digunakan.
+BisnisRapi membantu toko kosmetik mengelola stok dengan banyak varian, program member, dan laporan penjualan yang detail semua dalam satu platform yang mudah digunakan.
 
 ## Kesimpulan
 

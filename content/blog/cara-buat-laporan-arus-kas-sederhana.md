@@ -1,11 +1,18 @@
 ---
-title: "Cara Buat Laporan Arus Kas Sederhana untuk UMKM"
-date: "2025-07-11"
-excerpt: "Panduan membuat laporan arus kas sederhana untuk UMKM — memahami uang masuk dan keluar bisnis agar tidak pernah kehabisan dana operasional."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["laporan arus kas", "cash flow statement", "keuangan umkm", "manajemen kas", "laporan keuangan"]
-image: "/blog/cara-buat-laporan-arus-kas-sederhana/thumbnail.svg"
+title: Cara Buat Laporan Arus Kas Sederhana untuk UMKM
+date: '2025-07-11'
+excerpt: >-
+  Panduan membuat laporan arus kas sederhana untuk UMKM — memahami uang masuk
+  dan keluar bisnis agar tidak pernah kehabisan dana operasional.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - laporan arus kas
+  - cash flow statement
+  - keuangan umkm
+  - manajemen kas
+  - laporan keuangan
+image: /blog/cara-buat-laporan-arus-kas-sederhana/thumbnail.svg
 ---
 
 Laporan arus kas (cash flow statement) adalah laporan keuangan yang menunjukkan dari mana uang masuk ke bisnis kamu dan ke mana uang itu pergi dalam periode tertentu. Berbeda dengan laporan laba rugi yang bisa menunjukkan "keuntungan" meski uang belum benar-benar diterima, laporan arus kas hanya mencatat uang yang benar-benar bergerak.
@@ -13,6 +20,8 @@ Laporan arus kas (cash flow statement) adalah laporan keuangan yang menunjukkan 
 Ini adalah laporan yang paling langsung mencerminkan kesehatan likuiditas bisnis kamu.
 
 ## Mengapa Laporan Arus Kas Lebih Penting dari Laporan Laba Rugi?
+
+![Ilustrasi Cara Buat Laporan Arus Kas Sederhana untuk UMKM](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Laporan Arus Kas Sederhana untuk UMKM")
 
 Bisnis bisa "untung" di atas kertas tapi tetap bangkrut karena kehabisan kas. Ini terjadi ketika:
 - Banyak penjualan dilakukan secara kredit (piutang belum dibayar)
@@ -25,7 +34,7 @@ Laporan arus kas menunjukkan realita: apakah bisnis kamu benar-benar punya cukup
 
 ### 1. Arus Kas dari Aktivitas Operasional
 
-Ini adalah arus kas dari kegiatan bisnis utama — menjual produk/jasa dan membayar biaya operasional.
+Ini adalah arus kas dari kegiatan bisnis utama menjual produk/jasa dan membayar biaya operasional.
 
 **Arus masuk operasional:**
 - Penerimaan dari penjualan tunai
@@ -70,8 +79,6 @@ Arus kas dari transaksi dengan pemilik dan kreditur.
 **TOKO BERKAH JAYA**
 **Bulan Juli 2025**
 
----
-
 **A. ARUS KAS DARI AKTIVITAS OPERASIONAL**
 
 Penerimaan:
@@ -90,28 +97,20 @@ Pengeluaran:
 
 **Arus Kas Bersih dari Operasional: Rp 14.000.000**
 
----
-
 **B. ARUS KAS DARI AKTIVITAS INVESTASI**
 
 - Pembelian etalase baru: (Rp 5.000.000)
 - **Arus Kas Bersih dari Investasi: (Rp 5.000.000)**
-
----
 
 **C. ARUS KAS DARI AKTIVITAS PENDANAAN**
 
 - Cicilan pinjaman bank: (Rp 2.000.000)
 - **Arus Kas Bersih dari Pendanaan: (Rp 2.000.000)**
 
----
-
 **KENAIKAN/(PENURUNAN) KAS BERSIH: Rp 7.000.000**
 
 **Saldo Kas Awal (1 Juli): Rp 10.000.000**
 **Saldo Kas Akhir (31 Juli): Rp 17.000.000**
-
----
 
 ## Cara Membaca Laporan Arus Kas
 

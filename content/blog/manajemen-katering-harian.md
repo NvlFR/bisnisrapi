@@ -1,11 +1,19 @@
 ---
-title: "Manajemen Katering Harian: Dari Order sampai Bahan Baku"
-date: "2025-08-25"
-excerpt: "Bisnis katering harian butuh sistem yang mengelola order, produksi, dan pengiriman secara efisien. Pelajari cara membangun operasional katering yang terstruktur dan profitable."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["katering harian", "manajemen katering", "order katering", "bahan baku", "F&B"]
-image: "/blog/manajemen-katering-harian/thumbnail.svg"
+title: 'Manajemen Katering Harian: Dari Order sampai Bahan Baku'
+date: '2025-08-25'
+excerpt: >-
+  Bisnis katering harian butuh sistem yang mengelola order, produksi, dan
+  pengiriman secara efisien. Pelajari cara membangun operasional katering yang
+  terstruktur dan profitable.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - katering harian
+  - manajemen katering
+  - order katering
+  - bahan baku
+  - F&B
+image: /blog/manajemen-katering-harian/thumbnail.svg
 ---
 
 Bisnis katering harian punya ritme yang unik: setiap hari ada order yang harus dipenuhi, bahan baku yang harus disiapkan, dan pengiriman yang harus tepat waktu. Satu hari yang kacau bisa merusak reputasi yang sudah dibangun berbulan-bulan.
@@ -14,13 +22,15 @@ Manajemen yang baik adalah kunci untuk menjalankan katering harian yang efisien,
 
 ## Tantangan Bisnis Katering Harian
 
+![Ilustrasi Manajemen Katering Harian: Dari Order sampai Bahan Baku](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Katering Harian: Dari Order sampai Bahan Baku")
+
 **Fluktuasi order yang tidak terduga.** Hari ini 50 porsi, besok 200 porsi. Perencanaan bahan baku harus fleksibel tapi tidak boros.
 
 **Deadline yang ketat.** Makan siang harus siap jam 11, makan malam jam 17. Tidak ada toleransi untuk keterlambatan.
 
 **Kualitas yang harus konsisten.** Pelanggan yang langganan mengharapkan rasa dan kualitas yang sama setiap hari.
 
-**Manajemen bahan baku yang kompleks.** Bahan segar yang harus dibeli setiap hari, dengan jumlah yang tepat — tidak kurang, tidak berlebihan.
+**Manajemen bahan baku yang kompleks.** Bahan segar yang harus dibeli setiap hari, dengan jumlah yang tepat tidak kurang, tidak berlebihan.
 
 **Pengiriman ke banyak lokasi.** Koordinasi pengiriman ke berbagai titik dengan waktu yang berbeda-beda.
 
@@ -144,6 +154,6 @@ BisnisRapi membantu bisnis katering mengelola order, kalkulasi bahan baku, dan l
 
 ## Kesimpulan
 
-Katering harian yang sukses adalah yang bisa memenuhi order dengan konsisten, tepat waktu, dan dengan kualitas yang terjaga — setiap hari. Ini membutuhkan sistem yang terstruktur, dari penerimaan order sampai pengiriman.
+Katering harian yang sukses adalah yang bisa memenuhi order dengan konsisten, tepat waktu, dan dengan kualitas yang terjaga setiap hari. Ini membutuhkan sistem yang terstruktur, dari penerimaan order sampai pengiriman.
 
-Mulai dari standarisasi resep dan sistem pencatatan order yang rapi. Dari sana, kembangkan sistem yang lebih komprehensif sesuai pertumbuhan bisnis. Katering yang terkelola dengan baik bukan hanya lebih efisien — tapi juga lebih profitable dan lebih mudah untuk di-scale up.
+Mulai dari standarisasi resep dan sistem pencatatan order yang rapi. Dari sana, kembangkan sistem yang lebih komprehensif sesuai pertumbuhan bisnis. Katering yang terkelola dengan baik bukan hanya lebih efisien tapi juga lebih profitable dan lebih mudah untuk di-scale up.

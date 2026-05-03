@@ -1,22 +1,31 @@
 ---
-title: "Cara Kelola Jasa Pijat dan Refleksi: Booking dan Komisi Terapis"
-date: "2026-04-20"
-excerpt: "Usaha pijat dan refleksi butuh sistem booking yang efisien dan perhitungan komisi terapis yang transparan untuk berjalan lancar."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["jasa pijat", "refleksi", "booking pijat", "komisi terapis", "manajemen wellness"]
-image: "/blog/cara-kelola-jasa-pijat-refleksi/thumbnail.svg"
+title: 'Cara Kelola Jasa Pijat dan Refleksi: Booking dan Komisi Terapis'
+date: '2026-04-20'
+excerpt: >-
+  Usaha pijat dan refleksi butuh sistem booking yang efisien dan perhitungan
+  komisi terapis yang transparan untuk berjalan lancar.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - jasa pijat
+  - refleksi
+  - booking pijat
+  - komisi terapis
+  - manajemen wellness
+image: /blog/cara-kelola-jasa-pijat-refleksi/thumbnail.svg
 ---
 
-Usaha pijat dan refleksi adalah bisnis yang menjual relaksasi dan kesehatan. Pelanggan datang untuk melepas stres dan memulihkan kondisi tubuh — dan mereka mengharapkan pengalaman yang menyenangkan dari awal hingga akhir, termasuk proses booking yang mudah dan pelayanan yang profesional.
+Usaha pijat dan refleksi adalah bisnis yang menjual relaksasi dan kesehatan. Pelanggan datang untuk melepas stres dan memulihkan kondisi tubuh dan mereka mengharapkan pengalaman yang menyenangkan dari awal hingga akhir, termasuk proses booking yang mudah dan pelayanan yang profesional.
 
 ## Tantangan Operasional Usaha Pijat
+
+![Ilustrasi Cara Kelola Jasa Pijat dan Refleksi: Booking dan Komisi Terapis](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Jasa Pijat dan Refleksi: Booking dan Komisi Terapis")
 
 ### Manajemen Jadwal yang Kompleks
 Setiap terapis punya jadwal kerja dan ketersediaan yang berbeda. Setiap treatment punya durasi yang berbeda. Mencocokkan permintaan pelanggan dengan ketersediaan terapis yang tepat membutuhkan sistem yang baik.
 
 ### Sistem Komisi yang Perlu Transparan
-Banyak usaha pijat yang menggunakan sistem komisi untuk terapis — mereka mendapat persentase dari setiap treatment yang mereka kerjakan. Perhitungan yang tidak transparan bisa menyebabkan ketidakpuasan dan konflik dengan terapis.
+Banyak usaha pijat yang menggunakan sistem komisi untuk terapis mereka mendapat persentase dari setiap treatment yang mereka kerjakan. Perhitungan yang tidak transparan bisa menyebabkan ketidakpuasan dan konflik dengan terapis.
 
 ### Manajemen Pelanggan Tetap
 Pelanggan yang puas dengan terapis tertentu biasanya ingin selalu dilayani oleh terapis yang sama. Mengelola preferensi ini sambil tetap memastikan semua terapis mendapat pekerjaan yang merata adalah tantangan tersendiri.
@@ -140,4 +149,4 @@ Program poin atau kartu member mendorong pelanggan untuk kembali:
 - Poin bisa ditukar dengan treatment gratis atau diskon
 - Member mendapat prioritas booking
 
-Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, usaha pijat dan refleksi bisa mengelola booking, jadwal terapis, komisi, dan stok produk dalam satu platform yang mudah digunakan — memungkinkan kamu fokus pada memberikan pengalaman relaksasi yang terbaik kepada pelanggan.
+Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, usaha pijat dan refleksi bisa mengelola booking, jadwal terapis, komisi, dan stok produk dalam satu platform yang mudah digunakan memungkinkan kamu fokus pada memberikan pengalaman relaksasi yang terbaik kepada pelanggan.

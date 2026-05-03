@@ -1,18 +1,27 @@
 ---
-title: "Manajemen Wedding Organizer: Dari Paket sampai Invoice Klien"
-date: "2026-01-10"
-excerpt: "Wedding organizer mengelola banyak klien dengan detail yang sangat kompleks. Sistem yang baik adalah kunci agar tidak ada yang terlewat."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["wedding organizer", "manajemen event", "invoice klien", "paket pernikahan", "jasa WO"]
-image: "/blog/manajemen-wedding-organizer/thumbnail.svg"
+title: 'Manajemen Wedding Organizer: Dari Paket sampai Invoice Klien'
+date: '2026-01-10'
+excerpt: >-
+  Wedding organizer mengelola banyak klien dengan detail yang sangat kompleks.
+  Sistem yang baik adalah kunci agar tidak ada yang terlewat.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - wedding organizer
+  - manajemen event
+  - invoice klien
+  - paket pernikahan
+  - jasa WO
+image: /blog/manajemen-wedding-organizer/thumbnail.svg
 ---
 
 Menjadi wedding organizer (WO) adalah pekerjaan yang penuh tekanan tapi juga sangat memuaskan. Kamu membantu pasangan mewujudkan salah satu hari terpenting dalam hidup mereka. Tapi di balik keindahan itu, ada kompleksitas operasional yang luar biasa: ratusan detail yang harus dikoordinasikan, puluhan vendor yang harus dikelola, dan klien yang (wajar saja) sangat perfeksionis.
 
-Tanpa sistem yang baik, satu detail yang terlewat bisa merusak seluruh acara — dan reputasi bisnis kamu.
+Tanpa sistem yang baik, satu detail yang terlewat bisa merusak seluruh acara dan reputasi bisnis kamu.
 
 ## Kompleksitas Bisnis Wedding Organizer
+
+![Ilustrasi Manajemen Wedding Organizer: Dari Paket sampai Invoice Klien](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Wedding Organizer: Dari Paket sampai Invoice Klien")
 
 ### Banyak Klien Sekaligus
 WO yang sukses biasanya menangani beberapa klien sekaligus, dengan tanggal pernikahan yang berbeda-beda. Setiap klien punya kebutuhan, preferensi, dan anggaran yang berbeda.
@@ -32,9 +41,9 @@ Klien biasanya membayar secara bertahap (DP, cicilan, pelunasan). Di sisi lain, 
 
 Daripada menawarkan layanan à la carte yang membingungkan, buat paket yang jelas dengan harga yang transparan:
 
-**Paket Silver** — layanan dasar: koordinasi hari H, vendor rekomendasi
-**Paket Gold** — layanan menengah: perencanaan + koordinasi, vendor management
-**Paket Platinum** — layanan lengkap: full planning dari awal hingga akhir
+**Paket Silver** layanan dasar: koordinasi hari H, vendor rekomendasi
+**Paket Gold** layanan menengah: perencanaan + koordinasi, vendor management
+**Paket Platinum** layanan lengkap: full planning dari awal hingga akhir
 
 Setiap paket harus jelas mencantumkan apa yang termasuk dan apa yang tidak.
 
@@ -67,7 +76,7 @@ Setiap keputusan yang dibuat bersama klien harus didokumentasikan dan dikonfirma
 
 ### Komunikasi yang Teratur
 
-Jadwalkan update rutin dengan klien — misalnya setiap 2 minggu — untuk melaporkan perkembangan dan mendiskusikan hal-hal yang perlu diputuskan.
+Jadwalkan update rutin dengan klien misalnya setiap 2 minggu untuk melaporkan perkembangan dan mendiskusikan hal-hal yang perlu diputuskan.
 
 ## Manajemen Vendor
 
@@ -144,7 +153,7 @@ Buat master checklist yang mencakup semua hal yang perlu dilakukan untuk setiap 
 
 Buat timeline yang jelas: apa yang harus diselesaikan 6 bulan sebelum, 3 bulan sebelum, 1 bulan sebelum, 1 minggu sebelum, dan hari H.
 
-Dengan sistem manajemen yang baik — seperti yang bisa dibangun menggunakan BisnisRapi untuk mengelola klien, invoice, dan pembayaran — WO kamu bisa menangani lebih banyak klien tanpa mengorbankan kualitas layanan.
+Dengan sistem manajemen yang baik seperti yang bisa dibangun menggunakan BisnisRapi untuk mengelola klien, invoice, dan pembayaran WO kamu bisa menangani lebih banyak klien tanpa mengorbankan kualitas layanan.
 
 ## Tips untuk WO yang Lebih Profesional
 

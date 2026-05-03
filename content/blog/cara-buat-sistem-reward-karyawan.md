@@ -1,11 +1,18 @@
 ---
-title: "Cara Buat Sistem Reward Karyawan Selain Uang"
-date: "2025-07-27"
-excerpt: "Panduan membangun sistem reward karyawan yang efektif dan terjangkau untuk UMKM — karena motivasi karyawan tidak selalu soal uang."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["reward karyawan", "motivasi karyawan", "non-monetary reward", "manajemen sdm", "retensi karyawan"]
-image: "/blog/cara-buat-sistem-reward-karyawan/thumbnail.svg"
+title: Cara Buat Sistem Reward Karyawan Selain Uang
+date: '2025-07-27'
+excerpt: >-
+  Panduan membangun sistem reward karyawan yang efektif dan terjangkau untuk
+  UMKM — karena motivasi karyawan tidak selalu soal uang.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - reward karyawan
+  - motivasi karyawan
+  - non-monetary reward
+  - manajemen sdm
+  - retensi karyawan
+image: /blog/cara-buat-sistem-reward-karyawan/thumbnail.svg
 ---
 
 Banyak pemilik UMKM berpikir bahwa satu-satunya cara memotivasi karyawan adalah dengan uang. Padahal, penelitian di bidang psikologi kerja secara konsisten menunjukkan bahwa setelah kebutuhan finansial dasar terpenuhi, faktor-faktor non-finansial sering kali lebih berpengaruh terhadap motivasi dan kepuasan kerja.
@@ -13,6 +20,8 @@ Banyak pemilik UMKM berpikir bahwa satu-satunya cara memotivasi karyawan adalah 
 Ini kabar baik untuk UMKM yang anggaran SDM-nya terbatas: ada banyak cara efektif untuk menghargai karyawan tanpa harus mengeluarkan banyak uang.
 
 ## Mengapa Reward Non-Finansial Penting?
+
+![Ilustrasi Cara Buat Sistem Reward Karyawan Selain Uang](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Sistem Reward Karyawan Selain Uang")
 
 Karyawan yang hanya termotivasi oleh uang akan pergi ke tempat yang membayar lebih tinggi begitu ada kesempatan. Karyawan yang merasa dihargai, berkembang, dan punya tujuan yang bermakna cenderung lebih loyal.
 

@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Retur Barang di Toko Tanpa Ribet dan Rugi"
-date: "2025-06-05"
-excerpt: "Retur barang yang tidak dikelola dengan baik bisa merugikan bisnis dan merusak hubungan dengan pelanggan. Pelajari cara membuat sistem retur yang efisien dan adil."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["retur barang", "manajemen retur", "layanan pelanggan", "operasional toko", "UMKM"]
-image: "/blog/cara-kelola-retur-barang/thumbnail.svg"
+title: Cara Kelola Retur Barang di Toko Tanpa Ribet dan Rugi
+date: '2025-06-05'
+excerpt: >-
+  Retur barang yang tidak dikelola dengan baik bisa merugikan bisnis dan merusak
+  hubungan dengan pelanggan. Pelajari cara membuat sistem retur yang efisien dan
+  adil.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - retur barang
+  - manajemen retur
+  - layanan pelanggan
+  - operasional toko
+  - UMKM
+image: /blog/cara-kelola-retur-barang/thumbnail.svg
 ---
 
-Retur barang adalah bagian yang tidak bisa dihindari dari bisnis retail. Pelanggan membeli produk yang ternyata tidak sesuai, rusak, atau tidak cocok — dan mereka ingin mengembalikannya. Bagaimana kamu menangani situasi ini bisa membuat perbedaan besar antara pelanggan yang kecewa dan pelanggan yang justru semakin loyal.
+Retur barang adalah bagian yang tidak bisa dihindari dari bisnis retail. Pelanggan membeli produk yang ternyata tidak sesuai, rusak, atau tidak cocok dan mereka ingin mengembalikannya. Bagaimana kamu menangani situasi ini bisa membuat perbedaan besar antara pelanggan yang kecewa dan pelanggan yang justru semakin loyal.
 
 Sistem retur yang baik melindungi bisnis dari kerugian yang tidak perlu, sekaligus memberikan pengalaman yang positif bagi pelanggan.
 
 ## Kenapa Kebijakan Retur yang Jelas Itu Penting?
+
+![Ilustrasi Cara Kelola Retur Barang di Toko Tanpa Ribet dan Rugi](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Retur Barang di Toko Tanpa Ribet dan Rugi")
 
 **Melindungi bisnis dari penyalahgunaan.** Tanpa kebijakan yang jelas, ada pelanggan yang mungkin mencoba mengembalikan barang yang sudah dipakai lama atau yang rusak karena kesalahan mereka sendiri.
 
@@ -65,8 +75,8 @@ Apa yang bisa ditawarkan sebagai penyelesaian:
 ### Langkah 1: Verifikasi Kelayakan
 
 Saat pelanggan datang dengan retur:
-1. Cek struk pembelian — apakah masih dalam batas waktu?
-2. Periksa kondisi produk — apakah memenuhi syarat retur?
+1. Cek struk pembelian apakah masih dalam batas waktu?
+2. Periksa kondisi produk apakah memenuhi syarat retur?
 3. Tanyakan alasan retur
 
 ### Langkah 2: Dokumentasi
@@ -129,6 +139,6 @@ Sistem manajemen bisnis seperti BisnisRapi membantu kamu mencatat dan menganalis
 
 ## Kesimpulan
 
-Sistem retur yang baik adalah tanda bisnis yang profesional dan peduli terhadap pelanggan. Ini bukan hanya tentang melindungi bisnis dari kerugian — tapi tentang membangun kepercayaan dan loyalitas pelanggan jangka panjang.
+Sistem retur yang baik adalah tanda bisnis yang profesional dan peduli terhadap pelanggan. Ini bukan hanya tentang melindungi bisnis dari kerugian tapi tentang membangun kepercayaan dan loyalitas pelanggan jangka panjang.
 
 Buat kebijakan yang jelas, komunikasikan dengan transparan, dan jalankan dengan konsisten. Pelanggan yang mendapat pengalaman retur yang baik seringkali menjadi pelanggan yang lebih loyal dari sebelumnya.

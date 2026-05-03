@@ -1,11 +1,18 @@
 ---
-title: "Cara Kelola Bakery dan Toko Roti: Produksi, Sisa, dan Promo"
-date: "2025-11-28"
-excerpt: "Bakery punya tantangan unik: produk yang harus diproduksi setiap hari dengan risiko sisa yang tidak terjual. Ini cara mengelolanya."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["bakery", "toko roti", "manajemen produksi", "food waste", "promo roti"]
-image: "/blog/cara-kelola-bakery-toko-roti/thumbnail.svg"
+title: 'Cara Kelola Bakery dan Toko Roti: Produksi, Sisa, dan Promo'
+date: '2025-11-28'
+excerpt: >-
+  Bakery punya tantangan unik: produk yang harus diproduksi setiap hari dengan
+  risiko sisa yang tidak terjual. Ini cara mengelolanya.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - bakery
+  - toko roti
+  - manajemen produksi
+  - food waste
+  - promo roti
+image: /blog/cara-kelola-bakery-toko-roti/thumbnail.svg
 ---
 
 Bakery adalah bisnis yang menggabungkan seni kuliner dengan manajemen yang ketat. Setiap hari kamu harus memutuskan: berapa banyak yang harus diproduksi? Produk apa yang paling laku? Bagaimana menangani sisa yang tidak terjual?
@@ -14,8 +21,10 @@ Keputusan-keputusan ini, jika tidak didasarkan pada data yang baik, bisa membuat
 
 ## Tantangan Khas Bisnis Bakery
 
+![Ilustrasi Cara Kelola Bakery dan Toko Roti: Produksi, Sisa, dan Promo](https://images.unsplash.com/photo-1517248135467-4c7ed9d42c77?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Bakery dan Toko Roti: Produksi, Sisa, dan Promo")
+
 ### Produk yang Tidak Tahan Lama
-Roti dan kue segar biasanya hanya bertahan 1-2 hari. Ini berarti kamu harus memproduksi dalam jumlah yang tepat setiap hari — tidak terlalu banyak (sisa terbuang) dan tidak terlalu sedikit (kehabisan dan kehilangan penjualan).
+Roti dan kue segar biasanya hanya bertahan 1-2 hari. Ini berarti kamu harus memproduksi dalam jumlah yang tepat setiap hari tidak terlalu banyak (sisa terbuang) dan tidak terlalu sedikit (kehabisan dan kehilangan penjualan).
 
 ### Variasi Produk yang Banyak
 Bakery modern biasanya menawarkan puluhan jenis produk: berbagai jenis roti, kue, pastri, dan mungkin minuman. Setiap produk punya bahan baku, waktu produksi, dan pola penjualan yang berbeda.
@@ -45,7 +54,7 @@ Berdasarkan analisis pola penjualan, buat rencana produksi harian:
 - Kapan setiap produk harus mulai diproduksi (agar siap di waktu yang tepat)
 - Berapa bahan baku yang dibutuhkan
 
-Rencana ini bukan sesuatu yang kaku — kamu bisa menyesuaikannya berdasarkan kondisi aktual (misalnya ada pesanan besar, atau cuaca yang mempengaruhi jumlah pengunjung).
+Rencana ini bukan sesuatu yang kaku kamu bisa menyesuaikannya berdasarkan kondisi aktual (misalnya ada pesanan besar, atau cuaca yang mempengaruhi jumlah pengunjung).
 
 ### Produksi Bertahap
 
@@ -61,7 +70,7 @@ Ini memastikan produk yang dijual selalu segar dan mengurangi risiko sisa yang b
 
 Ini adalah strategi yang umum dan efektif: berikan diskon untuk produk yang belum terjual di sore hari (misalnya mulai jam 16.00 atau 17.00). Diskon 20-30% biasanya cukup untuk menarik pembeli.
 
-Strategi ini memastikan sebagian besar produk terjual sebelum tutup, meski dengan margin yang lebih rendah — masih lebih baik daripada dibuang.
+Strategi ini memastikan sebagian besar produk terjual sebelum tutup, meski dengan margin yang lebih rendah masih lebih baik daripada dibuang.
 
 ### Produk Olahan dari Sisa
 
@@ -95,11 +104,11 @@ Untuk setiap produk, buat daftar bahan baku yang dibutuhkan beserta jumlahnya. I
 
 Pantau stok bahan baku secara rutin. Tentukan level minimum untuk setiap bahan dan lakukan pemesanan ulang sebelum habis.
 
-Perhatikan juga masa simpan bahan baku — tepung, telur, dan mentega punya batas waktu yang perlu diperhatikan.
+Perhatikan juga masa simpan bahan baku tepung, telur, dan mentega punya batas waktu yang perlu diperhatikan.
 
 ### Pembelian yang Efisien
 
-Beli bahan baku dalam jumlah yang tepat — tidak terlalu banyak (berisiko kadaluarsa atau membutuhkan modal yang besar) dan tidak terlalu sedikit (berisiko kehabisan).
+Beli bahan baku dalam jumlah yang tepat tidak terlalu banyak (berisiko kadaluarsa atau membutuhkan modal yang besar) dan tidak terlalu sedikit (berisiko kehabisan).
 
 ## Strategi Promo yang Efektif
 
@@ -119,7 +128,7 @@ Untuk produk yang membutuhkan persiapan lebih lama (kue ulang tahun, kue pernika
 
 Kartu stamp atau program poin mendorong pelanggan untuk kembali. Misalnya, setiap pembelian mendapat stamp, dan setelah 10 stamp mendapat produk gratis.
 
-Dengan sistem manajemen yang baik — seperti yang bisa dilakukan dengan BisnisRapi untuk mencatat penjualan, memantau stok bahan baku, dan menganalisis pola penjualan — bakery kamu bisa beroperasi lebih efisien dan menguntungkan.
+Dengan sistem manajemen yang baik seperti yang bisa dilakukan dengan BisnisRapi untuk mencatat penjualan, memantau stok bahan baku, dan menganalisis pola penjualan bakery kamu bisa beroperasi lebih efisien dan menguntungkan.
 
 ## Kunci Sukses Bakery
 

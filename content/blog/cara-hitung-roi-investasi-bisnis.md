@@ -1,18 +1,27 @@
 ---
-title: "Cara Hitung ROI Investasi Bisnis: Apakah Pengeluaran Ini Worth It?"
-date: "2025-06-29"
-excerpt: "Panduan menghitung ROI (Return on Investment) untuk berbagai jenis investasi bisnis, sehingga kamu bisa membuat keputusan pengeluaran yang lebih cerdas."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["roi bisnis", "return on investment", "evaluasi investasi", "keputusan keuangan", "analisis bisnis"]
-image: "/blog/cara-hitung-roi-investasi-bisnis/thumbnail.svg"
+title: 'Cara Hitung ROI Investasi Bisnis: Apakah Pengeluaran Ini Worth It?'
+date: '2025-06-29'
+excerpt: >-
+  Panduan menghitung ROI (Return on Investment) untuk berbagai jenis investasi
+  bisnis, sehingga kamu bisa membuat keputusan pengeluaran yang lebih cerdas.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - roi bisnis
+  - return on investment
+  - evaluasi investasi
+  - keputusan keuangan
+  - analisis bisnis
+image: /blog/cara-hitung-roi-investasi-bisnis/thumbnail.svg
 ---
 
-Setiap kali kamu mengeluarkan uang untuk bisnis — beli mesin baru, pasang iklan, rekrut karyawan, renovasi toko — kamu sedang berinvestasi. Pertanyaannya: apakah investasi itu worth it? Apakah uang yang kamu keluarkan menghasilkan lebih banyak uang daripada yang kamu keluarkan?
+Setiap kali kamu mengeluarkan uang untuk bisnis beli mesin baru, pasang iklan, rekrut karyawan, renovasi toko kamu sedang berinvestasi. Pertanyaannya: apakah investasi itu worth it? Apakah uang yang kamu keluarkan menghasilkan lebih banyak uang daripada yang kamu keluarkan?
 
 ROI (Return on Investment) adalah cara paling sederhana untuk menjawab pertanyaan itu.
 
 ## Rumus Dasar ROI
+
+![Ilustrasi Cara Hitung ROI Investasi Bisnis: Apakah Pengeluaran Ini Worth It?](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Hitung ROI Investasi Bisnis: Apakah Pengeluaran Ini Worth It?")
 
 ```
 ROI = (Keuntungan dari Investasi - Biaya Investasi) / Biaya Investasi × 100%
@@ -65,7 +74,7 @@ Ini menunjukkan pentingnya mempertimbangkan ROI jangka panjang, bukan hanya jang
 **Cara menghitung:**
 1. Lacak berapa pelanggan baru yang datang dari kampanye ini
 2. Hitung nilai rata-rata per pelanggan (average order value)
-3. Pertimbangkan juga customer lifetime value (CLV) — pelanggan yang puas akan kembali lagi
+3. Pertimbangkan juga customer lifetime value (CLV) pelanggan yang puas akan kembali lagi
 
 Jika kampanye menghasilkan 20 pelanggan baru dengan rata-rata pembelian Rp 500.000:
 - Pendapatan langsung: Rp 10 juta

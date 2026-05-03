@@ -1,18 +1,28 @@
 ---
-title: "Panduan Bisnis Toko Obat Tradisional dan Herbal"
-date: "2026-01-15"
-excerpt: "Panduan lengkap memulai bisnis toko obat tradisional dan herbal, dari perizinan yang diperlukan, sourcing produk, manajemen stok, hingga strategi pemasaran yang efektif."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko obat tradisional", "bisnis herbal", "jamu", "obat tradisional", "bisnis kesehatan"]
-image: "/blog/panduan-bisnis-toko-obat-tradisional/thumbnail.svg"
+title: Panduan Bisnis Toko Obat Tradisional dan Herbal
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap memulai bisnis toko obat tradisional dan herbal, dari
+  perizinan yang diperlukan, sourcing produk, manajemen stok, hingga strategi
+  pemasaran yang efektif.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko obat tradisional
+  - bisnis herbal
+  - jamu
+  - obat tradisional
+  - bisnis kesehatan
+image: /blog/panduan-bisnis-toko-obat-tradisional/thumbnail.svg
 ---
 
 Minat masyarakat terhadap produk kesehatan alami dan herbal terus meningkat. Kesadaran akan pentingnya kesehatan, ditambah dengan tren "back to nature" yang semakin kuat, membuat bisnis toko obat tradisional dan herbal punya prospek yang menjanjikan.
 
-Tapi bisnis ini juga punya regulasi yang perlu diperhatikan dengan serius. Produk kesehatan — termasuk obat tradisional — diatur ketat oleh BPOM (Badan Pengawas Obat dan Makanan), dan melanggar regulasi ini bisa berakibat serius.
+Tapi bisnis ini juga punya regulasi yang perlu diperhatikan dengan serius. Produk kesehatan termasuk obat tradisional diatur ketat oleh BPOM (Badan Pengawas Obat dan Makanan), dan melanggar regulasi ini bisa berakibat serius.
 
 ## Memahami Kategori Produk
+
+![Ilustrasi Panduan Bisnis Toko Obat Tradisional dan Herbal](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Bisnis Toko Obat Tradisional dan Herbal")
 
 Sebelum memulai, pahami kategori produk yang akan kamu jual:
 
@@ -59,7 +69,7 @@ Untuk beberapa produk, kamu bisa membeli langsung dari produsen. Ini bisa member
 
 Untuk simplisia atau produk herbal segar, kamu bisa bekerja sama dengan petani atau pengrajin herbal lokal. Ini mendukung ekonomi lokal dan bisa memberikan produk yang lebih segar.
 
-Tapi pastikan produk yang kamu beli dari sumber ini tidak diklaim sebagai obat — hanya sebagai bahan untuk diolah sendiri.
+Tapi pastikan produk yang kamu beli dari sumber ini tidak diklaim sebagai obat hanya sebagai bahan untuk diolah sendiri.
 
 ## Manajemen Stok Produk Herbal
 
@@ -91,7 +101,5 @@ Investasi pada pengetahuan:
 **Kolaborasi dengan praktisi kesehatan:** Bangun hubungan dengan dokter, ahli gizi, atau praktisi kesehatan holistik yang bisa merekomendasikan produk kamu kepada pasien mereka.
 
 **Toko online:** Buka toko online di marketplace untuk menjangkau pelanggan yang lebih luas. Produk herbal sangat populer di e-commerce.
-
----
 
 Mengelola toko obat tradisional dengan banyak produk, tanggal kadaluarsa yang perlu dipantau, dan regulasi yang ketat membutuhkan sistem yang terorganisir. BisnisRapi dapat membantu kamu mengelola stok, memantau tanggal kadaluarsa, mencatat penjualan, dan memastikan operasional bisnis kamu berjalan dengan rapi dan sesuai regulasi.

@@ -1,16 +1,25 @@
 ---
-title: "Strategi Kelola Bonus Karyawan yang Adil dan Memotivasi"
-date: "2025-07-25"
-excerpt: "Panduan merancang dan mengelola sistem bonus karyawan yang adil, transparan, dan benar-benar memotivasi — bukan sekadar pengeluaran rutin."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["bonus karyawan", "sistem bonus", "motivasi karyawan", "manajemen sdm", "insentif kerja"]
-image: "/blog/strategi-kelola-bonus-karyawan/thumbnail.svg"
+title: Strategi Kelola Bonus Karyawan yang Adil dan Memotivasi
+date: '2025-07-25'
+excerpt: >-
+  Panduan merancang dan mengelola sistem bonus karyawan yang adil, transparan,
+  dan benar-benar memotivasi — bukan sekadar pengeluaran rutin.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - bonus karyawan
+  - sistem bonus
+  - motivasi karyawan
+  - manajemen sdm
+  - insentif kerja
+image: /blog/strategi-kelola-bonus-karyawan/thumbnail.svg
 ---
 
-Bonus karyawan bisa menjadi alat motivasi yang sangat powerful — atau bisa menjadi sumber ketidakpuasan yang merusak moral tim. Perbedaannya ada pada bagaimana sistem bonus dirancang dan dikomunikasikan. Bonus yang diberikan tanpa sistem yang jelas sering kali tidak memotivasi dan justru menciptakan ekspektasi yang sulit dikelola.
+Bonus karyawan bisa menjadi alat motivasi yang sangat powerful atau bisa menjadi sumber ketidakpuasan yang merusak moral tim. Perbedaannya ada pada bagaimana sistem bonus dirancang dan dikomunikasikan. Bonus yang diberikan tanpa sistem yang jelas sering kali tidak memotivasi dan justru menciptakan ekspektasi yang sulit dikelola.
 
 ## Mengapa Sistem Bonus Perlu Dirancang dengan Baik?
+
+![Ilustrasi Strategi Kelola Bonus Karyawan yang Adil dan Memotivasi](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Kelola Bonus Karyawan yang Adil dan Memotivasi")
 
 Bonus yang tidak terstruktur punya banyak masalah:
 - Karyawan tidak tahu apa yang harus dilakukan untuk mendapatkan bonus
@@ -33,7 +42,7 @@ Diberikan berdasarkan pencapaian target yang sudah ditetapkan sebelumnya. Ini ad
 
 ### 2. Bonus Tahunan (Annual Bonus / THR)
 
-THR (Tunjangan Hari Raya) adalah kewajiban hukum di Indonesia — minimal 1 bulan gaji untuk karyawan yang sudah bekerja 12 bulan. Ini bukan bonus, ini hak karyawan.
+THR (Tunjangan Hari Raya) adalah kewajiban hukum di Indonesia minimal 1 bulan gaji untuk karyawan yang sudah bekerja 12 bulan. Ini bukan bonus, ini hak karyawan.
 
 Di luar THR, banyak bisnis memberikan bonus tahunan berdasarkan kinerja perusahaan secara keseluruhan. Ini menciptakan rasa kepemilikan bersama atas keberhasilan bisnis.
 

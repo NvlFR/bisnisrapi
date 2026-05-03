@@ -1,18 +1,28 @@
 ---
-title: "Marketplace vs Toko Sendiri: Mana yang Lebih Menguntungkan?"
-date: "2025-07-01"
-excerpt: "Pilihan antara berjualan di marketplace atau membangun toko sendiri tidak harus hitam-putih. Pahami kelebihan dan kekurangan masing-masing untuk strategi yang tepat."
-author: "BisnisRapi Team"
-category: "Teknologi Bisnis"
-tags: ["marketplace vs toko sendiri", "tokopedia shopee", "toko online", "strategi penjualan online", "e-commerce umkm"]
-image: "/blog/panduan-marketplace-vs-toko-sendiri/thumbnail.svg"
+title: 'Marketplace vs Toko Sendiri: Mana yang Lebih Menguntungkan?'
+date: '2025-07-01'
+excerpt: >-
+  Pilihan antara berjualan di marketplace atau membangun toko sendiri tidak
+  harus hitam-putih. Pahami kelebihan dan kekurangan masing-masing untuk
+  strategi yang tepat.
+author: BisnisRapi Team
+category: Teknologi Bisnis
+tags:
+  - marketplace vs toko sendiri
+  - tokopedia shopee
+  - toko online
+  - strategi penjualan online
+  - e-commerce umkm
+image: /blog/panduan-marketplace-vs-toko-sendiri/thumbnail.svg
 ---
 
-"Lebih baik jualan di Shopee atau buat website sendiri?" — ini adalah pertanyaan yang sering ditanyakan oleh pemilik UMKM yang ingin mulai atau mengembangkan penjualan online. Jawabannya tidak sesederhana memilih salah satu, karena keduanya punya kelebihan dan kekurangan yang berbeda.
+"Lebih baik jualan di Shopee atau buat website sendiri?" ini adalah pertanyaan yang sering ditanyakan oleh pemilik UMKM yang ingin mulai atau mengembangkan penjualan online. Jawabannya tidak sesederhana memilih salah satu, karena keduanya punya kelebihan dan kekurangan yang berbeda.
 
 Mari kita bahas secara jujur dan komprehensif.
 
 ## Keunggulan Berjualan di Marketplace
+
+![Ilustrasi Marketplace vs Toko Sendiri: Mana yang Lebih Menguntungkan?](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Marketplace vs Toko Sendiri: Mana yang Lebih Menguntungkan?")
 
 ### Traffic yang Sudah Ada
 
@@ -38,7 +48,7 @@ Mendaftar dan membuka toko di marketplace umumnya gratis atau sangat murah. Kamu
 
 ### Komisi dan Biaya
 
-Marketplace mengambil komisi dari setiap transaksi — biasanya antara 1-5% atau lebih, tergantung kategori produk dan program yang kamu ikuti. Ada juga biaya iklan (jika kamu menggunakan fitur promosi berbayar) dan biaya layanan lainnya.
+Marketplace mengambil komisi dari setiap transaksi biasanya antara 1-5% atau lebih, tergantung kategori produk dan program yang kamu ikuti. Ada juga biaya iklan (jika kamu menggunakan fitur promosi berbayar) dan biaya layanan lainnya.
 
 Seiring bisnis berkembang, biaya ini bisa menjadi signifikan.
 
@@ -52,7 +62,7 @@ Ini adalah kelemahan yang sering diabaikan. Di marketplace, data pelanggan adala
 
 ### Bergantung pada Kebijakan Platform
 
-Kebijakan marketplace bisa berubah kapan saja — komisi naik, algoritma berubah, atau fitur tertentu dihapus. Bisnis kamu sepenuhnya bergantung pada keputusan platform yang tidak bisa kamu kontrol.
+Kebijakan marketplace bisa berubah kapan saja komisi naik, algoritma berubah, atau fitur tertentu dihapus. Bisnis kamu sepenuhnya bergantung pada keputusan platform yang tidak bisa kamu kontrol.
 
 ### Sulit Membangun Brand
 
@@ -62,11 +72,11 @@ Di marketplace, pelanggan sering kali lebih loyal kepada platform daripada kepad
 
 ### Kontrol Penuh
 
-Dengan toko sendiri, kamu yang menentukan segalanya — tampilan, harga, kebijakan, pengalaman belanja. Tidak ada aturan platform yang membatasi kamu.
+Dengan toko sendiri, kamu yang menentukan segalanya tampilan, harga, kebijakan, pengalaman belanja. Tidak ada aturan platform yang membatasi kamu.
 
 ### Data Pelanggan adalah Milik Kamu
 
-Ini adalah aset yang sangat berharga. Dengan toko sendiri, kamu punya akses ke data pelanggan — nama, email, riwayat pembelian, preferensi. Data ini bisa digunakan untuk email marketing, personalisasi, dan strategi retensi.
+Ini adalah aset yang sangat berharga. Dengan toko sendiri, kamu punya akses ke data pelanggan nama, email, riwayat pembelian, preferensi. Data ini bisa digunakan untuk email marketing, personalisasi, dan strategi retensi.
 
 ### Tidak Ada Komisi
 
@@ -74,7 +84,7 @@ Semua pendapatan masuk ke kantong kamu (minus biaya payment gateway yang biasany
 
 ### Membangun Brand yang Kuat
 
-Toko sendiri memungkinkan kamu menciptakan pengalaman belanja yang sepenuhnya mencerminkan brand kamu — dari tampilan visual hingga packaging dan komunikasi.
+Toko sendiri memungkinkan kamu menciptakan pengalaman belanja yang sepenuhnya mencerminkan brand kamu dari tampilan visual hingga packaging dan komunikasi.
 
 ### Tidak Bergantung pada Platform Lain
 
@@ -88,7 +98,7 @@ Ini adalah tantangan terbesar. Tanpa traffic, toko online kamu tidak akan mengha
 
 ### Biaya Awal yang Lebih Tinggi
 
-Membangun toko online sendiri membutuhkan investasi — domain, hosting, platform e-commerce, dan mungkin biaya desain atau pengembangan.
+Membangun toko online sendiri membutuhkan investasi domain, hosting, platform e-commerce, dan mungkin biaya desain atau pengembangan.
 
 ### Perlu Membangun Kepercayaan Sendiri
 
@@ -111,7 +121,5 @@ Pertimbangkan untuk lebih fokus membangun toko sendiri kalau:
 - Kamu punya kemampuan untuk menghasilkan traffic sendiri (melalui media sosial, SEO, dll)
 - Margin kamu sudah tergerus oleh komisi marketplace
 - Kamu ingin membangun bisnis yang lebih mandiri dan berkelanjutan
-
----
 
 Apapun pilihan kamu, mengelola penjualan dari berbagai saluran membutuhkan sistem yang baik. BisnisRapi membantu kamu mengelola stok, pesanan, dan laporan keuangan dari semua saluran penjualan dalam satu platform, sehingga kamu bisa fokus pada strategi pertumbuhan tanpa khawatir data berantakan.

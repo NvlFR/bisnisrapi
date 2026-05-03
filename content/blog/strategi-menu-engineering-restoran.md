@@ -1,11 +1,19 @@
 ---
-title: "Strategi Menu Engineering: Desain Menu yang Mendorong Penjualan"
-date: "2026-01-15"
-excerpt: "Pelajari strategi menu engineering untuk mendesain menu restoran yang mendorong pelanggan memilih item paling menguntungkan dan meningkatkan revenue."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["menu engineering", "desain menu restoran", "strategi menu", "profitabilitas fnb", "psikologi menu"]
-image: "/blog/strategi-menu-engineering-restoran/thumbnail.svg"
+title: 'Strategi Menu Engineering: Desain Menu yang Mendorong Penjualan'
+date: '2026-01-15'
+excerpt: >-
+  Pelajari strategi menu engineering untuk mendesain menu restoran yang
+  mendorong pelanggan memilih item paling menguntungkan dan meningkatkan
+  revenue.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - menu engineering
+  - desain menu restoran
+  - strategi menu
+  - profitabilitas fnb
+  - psikologi menu
+image: /blog/strategi-menu-engineering-restoran/thumbnail.svg
 ---
 
 Menu bukan sekadar daftar makanan dan harga. Menu adalah alat pemasaran yang, kalau dirancang dengan baik, bisa secara halus mengarahkan pelanggan untuk memilih item yang paling menguntungkan bagi bisnis kamu. Inilah yang disebut menu engineering.
@@ -14,10 +22,12 @@ Menu engineering adalah pendekatan strategis dalam merancang menu berdasarkan an
 
 ## Empat Kategori Menu Engineering
 
+![Ilustrasi Strategi Menu Engineering: Desain Menu yang Mendorong Penjualan](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Menu Engineering: Desain Menu yang Mendorong Penjualan")
+
 Konsep dasar menu engineering membagi semua item menu ke dalam empat kategori berdasarkan dua dimensi: popularitas (seberapa sering dipesan) dan profitabilitas (seberapa besar margin keuntungannya).
 
 ### Stars (Bintang)
-Popularitas tinggi + Profitabilitas tinggi. Ini adalah item terbaik kamu — laris dan menguntungkan. Strategi: pertahankan kualitasnya, tempatkan di posisi yang menonjol di menu, dan jangan ubah terlalu banyak.
+Popularitas tinggi + Profitabilitas tinggi. Ini adalah item terbaik kamu laris dan menguntungkan. Strategi: pertahankan kualitasnya, tempatkan di posisi yang menonjol di menu, dan jangan ubah terlalu banyak.
 
 ### Plowhorses (Kuda Beban)
 Popularitas tinggi + Profitabilitas rendah. Item ini laris tapi margin keuntungannya kecil. Strategi: coba naikkan harga sedikit, kurangi porsi secara halus, atau modifikasi resep untuk menurunkan food cost tanpa mengubah persepsi pelanggan.
@@ -57,7 +67,7 @@ Selain analisis data, desain visual menu juga berperan besar dalam mempengaruhi 
 
 ### Zona Emas Menu
 
-Penelitian tentang perilaku membaca menu menunjukkan bahwa mata pelanggan cenderung pertama kali tertuju ke sudut kanan atas halaman menu. Area ini disebut "zona emas" — tempatkan item Stars kamu di sini.
+Penelitian tentang perilaku membaca menu menunjukkan bahwa mata pelanggan cenderung pertama kali tertuju ke sudut kanan atas halaman menu. Area ini disebut "zona emas" tempatkan item Stars kamu di sini.
 
 Untuk menu satu halaman, bagian tengah atas adalah area yang paling banyak diperhatikan.
 
@@ -71,7 +81,7 @@ Nama menu yang deskriptif dan menggugah selera terbukti meningkatkan penjualan. 
 - "Ayam Goreng" vs "Ayam Goreng Renyah Bumbu Rempah Pilihan"
 - "Es Teh" vs "Es Teh Manis Segar dengan Teh Pilihan"
 
-Deskripsi yang baik tidak hanya menyebutkan bahan, tapi juga membangkitkan sensasi — renyah, segar, gurih, lembut.
+Deskripsi yang baik tidak hanya menyebutkan bahan, tapi juga membangkitkan sensasi renyah, segar, gurih, lembut.
 
 ### Gunakan Kotak atau Highlight
 
@@ -102,7 +112,7 @@ Di era digital, banyak restoran beralih ke menu digital (QR code). Masing-masing
 - Bisa dilengkapi dengan fitur filter (vegetarian, bebas gluten, dll.)
 - Mengurangi biaya cetak
 
-Untuk menu digital, prinsip menu engineering tetap berlaku — perhatikan urutan tampilan, gunakan foto yang menarik untuk item Stars, dan buat deskripsi yang menggugah selera.
+Untuk menu digital, prinsip menu engineering tetap berlaku perhatikan urutan tampilan, gunakan foto yang menarik untuk item Stars, dan buat deskripsi yang menggugah selera.
 
 ## Kapan Harus Memperbarui Menu?
 
@@ -119,6 +129,4 @@ Sebelum meluncurkan menu baru secara resmi, lakukan uji coba terlebih dahulu. Mi
 
 Feedback ini sangat berharga sebelum kamu berinvestasi dalam pencetakan menu baru atau pembaruan menu digital.
 
----
-
-Menu engineering yang efektif membutuhkan data penjualan yang akurat dan analisis yang rutin. BisnisRapi dapat membantu kamu melacak penjualan per item menu, menghitung contribution margin, dan mengidentifikasi item mana yang perlu mendapat perhatian lebih — sehingga keputusan menu kamu selalu berbasis data, bukan sekadar intuisi.
+Menu engineering yang efektif membutuhkan data penjualan yang akurat dan analisis yang rutin. BisnisRapi dapat membantu kamu melacak penjualan per item menu, menghitung contribution margin, dan mengidentifikasi item mana yang perlu mendapat perhatian lebih sehingga keputusan menu kamu selalu berbasis data, bukan sekadar intuisi.

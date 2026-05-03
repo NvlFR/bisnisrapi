@@ -1,16 +1,25 @@
 ---
-title: "Strategi Kelola Modal Kerja agar Bisnis Tidak Kekurangan Dana"
-date: "2025-06-07"
-excerpt: "Pelajari strategi praktis mengelola modal kerja UMKM agar arus kas tetap sehat dan bisnis tidak pernah kehabisan dana operasional."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["modal kerja", "working capital", "arus kas umkm", "manajemen kas", "keuangan bisnis"]
-image: "/blog/strategi-kelola-modal-kerja-umkm/thumbnail.svg"
+title: Strategi Kelola Modal Kerja agar Bisnis Tidak Kekurangan Dana
+date: '2025-06-07'
+excerpt: >-
+  Pelajari strategi praktis mengelola modal kerja UMKM agar arus kas tetap sehat
+  dan bisnis tidak pernah kehabisan dana operasional.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - modal kerja
+  - working capital
+  - arus kas umkm
+  - manajemen kas
+  - keuangan bisnis
+image: /blog/strategi-kelola-modal-kerja-umkm/thumbnail.svg
 ---
 
-Pernah mengalami situasi di mana bisnis kamu ramai pembeli tapi rekening hampir kosong? Atau stok habis tapi tidak ada dana untuk restock? Itu tanda ada masalah dengan modal kerja. Modal kerja yang tidak dikelola dengan baik adalah salah satu penyebab utama UMKM kesulitan berkembang — bahkan bisa berujung tutup meski omzetnya bagus.
+Pernah mengalami situasi di mana bisnis kamu ramai pembeli tapi rekening hampir kosong? Atau stok habis tapi tidak ada dana untuk restock? Itu tanda ada masalah dengan modal kerja. Modal kerja yang tidak dikelola dengan baik adalah salah satu penyebab utama UMKM kesulitan berkembang bahkan bisa berujung tutup meski omzetnya bagus.
 
 ## Apa Itu Modal Kerja?
+
+![Ilustrasi Strategi Kelola Modal Kerja agar Bisnis Tidak Kekurangan Dana](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Kelola Modal Kerja agar Bisnis Tidak Kekurangan Dana")
 
 Modal kerja (working capital) adalah dana yang digunakan untuk membiayai operasional bisnis sehari-hari. Secara sederhana:
 

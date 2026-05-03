@@ -1,11 +1,19 @@
 ---
-title: "Cara Buat Struktur Organisasi UMKM yang Jelas dan Efektif"
-date: "2025-08-21"
-excerpt: "Panduan membuat struktur organisasi UMKM yang jelas dan efektif — dari bisnis satu orang hingga tim yang berkembang, agar setiap orang tahu peran dan tanggung jawabnya."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["struktur organisasi", "org chart umkm", "manajemen bisnis", "peran karyawan", "operasional bisnis"]
-image: "/blog/cara-buat-struktur-organisasi-umkm/thumbnail.svg"
+title: Cara Buat Struktur Organisasi UMKM yang Jelas dan Efektif
+date: '2025-08-21'
+excerpt: >-
+  Panduan membuat struktur organisasi UMKM yang jelas dan efektif — dari bisnis
+  satu orang hingga tim yang berkembang, agar setiap orang tahu peran dan
+  tanggung jawabnya.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - struktur organisasi
+  - org chart umkm
+  - manajemen bisnis
+  - peran karyawan
+  - operasional bisnis
+image: /blog/cara-buat-struktur-organisasi-umkm/thumbnail.svg
 ---
 
 "Siapa yang bertanggung jawab untuk ini?" Jika pertanyaan ini sering muncul di bisnis kamu, itu tanda bahwa struktur organisasi perlu diperjelas. Tanpa struktur yang jelas, pekerjaan jatuh di antara celah, konflik tanggung jawab sering terjadi, dan karyawan tidak tahu kepada siapa mereka harus melapor.
@@ -13,6 +21,8 @@ image: "/blog/cara-buat-struktur-organisasi-umkm/thumbnail.svg"
 Struktur organisasi bukan hanya untuk perusahaan besar. Bahkan bisnis dengan 3-5 karyawan pun butuh kejelasan tentang siapa melakukan apa.
 
 ## Mengapa Struktur Organisasi Penting?
+
+![Ilustrasi Cara Buat Struktur Organisasi UMKM yang Jelas dan Efektif](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Struktur Organisasi UMKM yang Jelas dan Efektif")
 
 Struktur organisasi yang jelas memberikan:
 - **Kejelasan peran**: Setiap orang tahu apa yang menjadi tanggung jawab mereka

@@ -1,11 +1,19 @@
 ---
-title: "Cara Buat Landing Page Bisnis yang Mengkonversi"
-date: "2025-08-13"
-excerpt: "Landing page yang baik bisa mengubah pengunjung menjadi pelanggan. Pelajari elemen-elemen penting dan cara membuat landing page yang efektif untuk bisnis kamu."
-author: "BisnisRapi Team"
-category: "Teknologi Bisnis"
-tags: ["landing page", "halaman penjualan", "konversi website", "digital marketing", "website bisnis"]
-image: "/blog/cara-buat-landing-page-bisnis/thumbnail.svg"
+title: Cara Buat Landing Page Bisnis yang Mengkonversi
+date: '2025-08-13'
+excerpt: >-
+  Landing page yang baik bisa mengubah pengunjung menjadi pelanggan. Pelajari
+  elemen-elemen penting dan cara membuat landing page yang efektif untuk bisnis
+  kamu.
+author: BisnisRapi Team
+category: Teknologi Bisnis
+tags:
+  - landing page
+  - halaman penjualan
+  - konversi website
+  - digital marketing
+  - website bisnis
+image: /blog/cara-buat-landing-page-bisnis/thumbnail.svg
 ---
 
 Landing page adalah halaman web yang dirancang khusus untuk satu tujuan: mengkonversi pengunjung menjadi pelanggan, subscriber, atau prospek. Berbeda dengan halaman website biasa yang punya banyak navigasi dan tujuan, landing page fokus pada satu tindakan yang ingin kamu dorong.
@@ -13,6 +21,8 @@ Landing page adalah halaman web yang dirancang khusus untuk satu tujuan: mengkon
 Landing page yang efektif bisa secara dramatis meningkatkan hasil dari kampanye iklan, email marketing, atau promosi media sosial kamu.
 
 ## Kapan Kamu Perlu Landing Page?
+
+![Ilustrasi Cara Buat Landing Page Bisnis yang Mengkonversi](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Landing Page Bisnis yang Mengkonversi")
 
 Landing page sangat berguna untuk:
 - Kampanye iklan (Google Ads, Facebook Ads, Instagram Ads)
@@ -44,7 +54,7 @@ Visual yang kuat di bagian atas halaman membantu pengunjung memahami apa yang di
 
 Untuk produk fisik, tampilkan foto produk yang berkualitas tinggi. Untuk layanan, tampilkan foto yang merepresentasikan hasil atau manfaat dari layanan tersebut.
 
-Video yang menjelaskan produk atau layanan bisa sangat efektif — pengunjung yang menonton video cenderung lebih mungkin untuk mengkonversi.
+Video yang menjelaskan produk atau layanan bisa sangat efektif pengunjung yang menonton video cenderung lebih mungkin untuk mengkonversi.
 
 ### 4. Penjelasan Manfaat
 
@@ -117,13 +127,13 @@ Setiap detik keterlambatan loading bisa meningkatkan bounce rate secara signifik
 
 ## Platform untuk Membuat Landing Page
 
-**Carrd** — sangat mudah digunakan, gratis untuk fitur dasar, cocok untuk landing page sederhana.
+**Carrd** sangat mudah digunakan, gratis untuk fitur dasar, cocok untuk landing page sederhana.
 
-**Unbounce** — platform landing page yang powerful dengan banyak template dan fitur A/B testing.
+**Unbounce** platform landing page yang powerful dengan banyak template dan fitur A/B testing.
 
-**Leadpages** — mudah digunakan dengan banyak template yang dioptimalkan untuk konversi.
+**Leadpages** mudah digunakan dengan banyak template yang dioptimalkan untuk konversi.
 
-**WordPress + Elementor** — kalau kamu sudah punya website WordPress, Elementor memungkinkan kamu membuat landing page yang sangat customizable.
+**WordPress + Elementor** kalau kamu sudah punya website WordPress, Elementor memungkinkan kamu membuat landing page yang sangat customizable.
 
 ## Uji dan Optimalkan
 
@@ -133,7 +143,5 @@ Landing page yang bagus tidak dibuat sekali jadi. Lakukan A/B testing untuk teru
 - Coba layout yang berbeda
 
 Buat perubahan satu per satu agar kamu tahu perubahan mana yang memberikan dampak.
-
----
 
 Landing page yang dioptimalkan dengan baik bisa secara dramatis meningkatkan ROI dari semua upaya pemasaran kamu. BisnisRapi membantu kamu mengelola pesanan dan pelanggan yang datang dari landing page dengan lebih efisien, sehingga setiap konversi menghasilkan pengalaman pelanggan yang memuaskan.

@@ -1,16 +1,26 @@
 ---
-title: "Cara Buka dan Kelola Usaha Kos-kosan yang Menguntungkan"
-date: "2026-01-15"
-excerpt: "Panduan lengkap membuka dan mengelola usaha kos-kosan yang menguntungkan, dari perencanaan investasi, fasilitas yang tepat, hingga manajemen penghuni yang efektif."
-author: "BisnisRapi Team"
-category: "Properti"
-tags: ["usaha kos-kosan", "bisnis kos", "properti sewa", "investasi kos", "manajemen kos"]
-image: "/blog/cara-buka-usaha-kos-kosan/thumbnail.svg"
+title: Cara Buka dan Kelola Usaha Kos-kosan yang Menguntungkan
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap membuka dan mengelola usaha kos-kosan yang menguntungkan, dari
+  perencanaan investasi, fasilitas yang tepat, hingga manajemen penghuni yang
+  efektif.
+author: BisnisRapi Team
+category: Properti
+tags:
+  - usaha kos-kosan
+  - bisnis kos
+  - properti sewa
+  - investasi kos
+  - manajemen kos
+image: /blog/cara-buka-usaha-kos-kosan/thumbnail.svg
 ---
 
 Usaha kos-kosan adalah salah satu investasi properti yang paling populer di Indonesia. Dengan lokasi yang tepat dan pengelolaan yang baik, kos-kosan bisa menghasilkan pendapatan pasif yang stabil dan terus meningkat seiring waktu. Tapi seperti bisnis apapun, ada strategi dan manajemen yang perlu diperhatikan agar investasi ini benar-benar menguntungkan.
 
 ## Analisis Kelayakan Investasi
+
+![Ilustrasi Cara Buka dan Kelola Usaha Kos-kosan yang Menguntungkan](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buka dan Kelola Usaha Kos-kosan yang Menguntungkan")
 
 Sebelum membangun atau membeli kos-kosan, lakukan analisis kelayakan yang menyeluruh.
 
@@ -52,7 +62,7 @@ Lokasi ideal untuk kos-kosan:
 - Dekat rumah sakit (untuk kos tenaga medis)
 - Dekat pusat perbelanjaan atau kawasan komersial
 
-Selain lokasi, perhatikan juga aksesibilitas — apakah mudah dijangkau dengan transportasi umum? Apakah ada minimarket, warung makan, atau fasilitas lain di sekitar?
+Selain lokasi, perhatikan juga aksesibilitas apakah mudah dijangkau dengan transportasi umum? Apakah ada minimarket, warung makan, atau fasilitas lain di sekitar?
 
 ## Desain dan Fasilitas yang Tepat
 
@@ -118,7 +128,7 @@ Buat sistem penagihan yang jelas dan konsisten. Tentukan tanggal jatuh tempo pem
 
 Tanggapi permintaan perbaikan dari penghuni dengan cepat. Penghuni yang merasa diperhatikan akan lebih betah dan lebih mungkin untuk memperpanjang sewa.
 
-Lakukan perawatan rutin — cat ulang kamar yang sudah kusam, perbaiki fasilitas yang rusak, dan pastikan kebersihan area bersama terjaga.
+Lakukan perawatan rutin cat ulang kamar yang sudah kusam, perbaiki fasilitas yang rusak, dan pastikan kebersihan area bersama terjaga.
 
 ## Aspek Legal dan Pajak
 
@@ -134,7 +144,5 @@ Semakin banyak pemilik kos yang memanfaatkan teknologi untuk mengelola kos denga
 - Platform listing kos online (Mamikos, Kost.id) untuk mencari penghuni
 - Sistem pembayaran digital untuk memudahkan penagihan
 - Aplikasi manajemen properti untuk mencatat penghuni, pembayaran, dan perawatan
-
----
 
 Mengelola kos-kosan dengan banyak kamar dan penghuni membutuhkan sistem pencatatan yang rapi. BisnisRapi dapat membantu kamu mencatat data penghuni, melacak pembayaran sewa, mengelola pengeluaran perawatan, dan memantau kondisi keuangan bisnis kos kamu secara keseluruhan.

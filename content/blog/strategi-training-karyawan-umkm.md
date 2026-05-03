@@ -1,11 +1,18 @@
 ---
-title: "Strategi Training Karyawan UMKM yang Efektif dan Terjangkau"
-date: "2025-08-11"
-excerpt: "Panduan merancang program training karyawan yang efektif dan terjangkau untuk UMKM — dari identifikasi kebutuhan hingga evaluasi hasil pelatihan."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["training karyawan", "pelatihan sdm", "pengembangan karyawan", "manajemen sdm", "produktivitas karyawan"]
-image: "/blog/strategi-training-karyawan-umkm/thumbnail.svg"
+title: Strategi Training Karyawan UMKM yang Efektif dan Terjangkau
+date: '2025-08-11'
+excerpt: >-
+  Panduan merancang program training karyawan yang efektif dan terjangkau untuk
+  UMKM — dari identifikasi kebutuhan hingga evaluasi hasil pelatihan.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - training karyawan
+  - pelatihan sdm
+  - pengembangan karyawan
+  - manajemen sdm
+  - produktivitas karyawan
+image: /blog/strategi-training-karyawan-umkm/thumbnail.svg
 ---
 
 "Bagaimana kalau kita latih karyawan dan mereka pergi?" Ini pertanyaan yang sering muncul dari pemilik UMKM yang ragu berinvestasi dalam pelatihan. Jawaban yang lebih tepat: "Bagaimana kalau kita tidak melatih mereka dan mereka tetap?"
@@ -13,6 +20,8 @@ image: "/blog/strategi-training-karyawan-umkm/thumbnail.svg"
 Karyawan yang tidak terlatih membuat lebih banyak kesalahan, bekerja lebih lambat, memberikan layanan yang lebih buruk, dan pada akhirnya merugikan bisnis jauh lebih besar dari biaya pelatihan.
 
 ## Mengapa Training Karyawan Penting untuk UMKM?
+
+![Ilustrasi Strategi Training Karyawan UMKM yang Efektif dan Terjangkau](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Training Karyawan UMKM yang Efektif dan Terjangkau")
 
 Manfaat nyata dari program training yang baik:
 - Karyawan bekerja lebih efisien dan membuat lebih sedikit kesalahan
@@ -28,8 +37,8 @@ Jangan training hanya karena merasa perlu. Identifikasi gap yang spesifik:
 **Cara mengidentifikasi kebutuhan training:**
 - Amati di mana karyawan sering membuat kesalahan
 - Tanyakan langsung kepada karyawan: "Apa yang membuat pekerjaan kamu lebih sulit?"
-- Analisis keluhan pelanggan — sering kali mencerminkan area yang perlu diperbaiki
-- Bandingkan kinerja karyawan terbaik dengan yang rata-rata — apa yang berbeda?
+- Analisis keluhan pelanggan sering kali mencerminkan area yang perlu diperbaiki
+- Bandingkan kinerja karyawan terbaik dengan yang rata-rata apa yang berbeda?
 - Evaluasi kinerja reguler yang menunjukkan area kelemahan
 
 ## Langkah 2: Tentukan Jenis Training yang Dibutuhkan
@@ -81,14 +90,14 @@ Pasangkan karyawan baru atau yang perlu berkembang dengan karyawan senior yang b
 Kirim karyawan ke kursus, workshop, atau seminar. Ini efektif untuk keterampilan yang tidak bisa diajarkan secara internal.
 
 **Opsi yang terjangkau:**
-- Kursus online (Coursera, Udemy, YouTube — banyak yang gratis atau murah)
+- Kursus online (Coursera, Udemy, YouTube banyak yang gratis atau murah)
 - Workshop dari asosiasi industri
 - Pelatihan dari BPJS Ketenagakerjaan (gratis untuk peserta)
 - Program pelatihan dari Kementerian Ketenagakerjaan atau Dinas Koperasi
 
 ### Peer Learning
 
-Karyawan saling mengajar. Ini efektif dan murah — karyawan yang mengajar juga memperdalam pemahaman mereka sendiri.
+Karyawan saling mengajar. Ini efektif dan murah karyawan yang mengajar juga memperdalam pemahaman mereka sendiri.
 
 ### Video dan Materi Tertulis
 

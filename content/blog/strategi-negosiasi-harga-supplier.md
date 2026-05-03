@@ -1,18 +1,27 @@
 ---
-title: "Strategi Negosiasi Harga dengan Supplier agar Dapat Deal Terbaik"
-date: "2025-07-09"
-excerpt: "Strategi dan taktik negosiasi harga dengan supplier yang efektif untuk UMKM — dari persiapan hingga cara menutup deal yang menguntungkan."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["negosiasi supplier", "harga beli", "manajemen supplier", "pengadaan barang", "strategi pembelian"]
-image: "/blog/strategi-negosiasi-harga-supplier/thumbnail.svg"
+title: Strategi Negosiasi Harga dengan Supplier agar Dapat Deal Terbaik
+date: '2025-07-09'
+excerpt: >-
+  Strategi dan taktik negosiasi harga dengan supplier yang efektif untuk UMKM —
+  dari persiapan hingga cara menutup deal yang menguntungkan.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - negosiasi supplier
+  - harga beli
+  - manajemen supplier
+  - pengadaan barang
+  - strategi pembelian
+image: /blog/strategi-negosiasi-harga-supplier/thumbnail.svg
 ---
 
 Negosiasi dengan supplier adalah salah satu cara paling langsung untuk meningkatkan margin keuntungan bisnis kamu. Penurunan harga beli 5-10% bisa berdampak signifikan pada profitabilitas, terutama untuk bisnis dengan volume pembelian yang besar. Tapi banyak pemilik UMKM yang tidak pernah mencoba negosiasi karena merasa tidak punya posisi tawar.
 
-Kenyataannya, hampir semua harga bisa dinegosiasikan — kamu hanya perlu tahu caranya.
+Kenyataannya, hampir semua harga bisa dinegosiasikan kamu hanya perlu tahu caranya.
 
 ## Persiapan Sebelum Negosiasi
+
+![Ilustrasi Strategi Negosiasi Harga dengan Supplier agar Dapat Deal Terbaik](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Negosiasi Harga dengan Supplier agar Dapat Deal Terbaik")
 
 Negosiasi yang baik dimulai jauh sebelum kamu duduk di meja perundingan.
 
@@ -53,7 +62,7 @@ Negosiasi bukan pertarungan. Supplier yang merasa dihargai lebih mau memberikan 
 
 ### 2. Gunakan Teknik "Anchoring"
 
-Siapa yang menyebut angka pertama menentukan "jangkar" negosiasi. Jika kamu yang memulai, sebutkan angka yang lebih rendah dari target kamu — ini memberikan ruang untuk bergerak ke atas.
+Siapa yang menyebut angka pertama menentukan "jangkar" negosiasi. Jika kamu yang memulai, sebutkan angka yang lebih rendah dari target kamu ini memberikan ruang untuk bergerak ke atas.
 
 Jika supplier yang menyebut angka pertama, jangan langsung setuju. Tunjukkan bahwa angka itu di luar ekspektasi kamu.
 
@@ -79,7 +88,7 @@ Harga bukan satu-satunya hal yang bisa dinegosiasikan:
 
 "Supplier lain menawarkan harga Rp X untuk produk yang sama. Apakah Anda bisa menyamai atau mengalahkan harga itu?"
 
-Ini efektif, tapi gunakan dengan hati-hati. Jangan berbohong tentang penawaran kompetitor — supplier bisa memverifikasi, dan kepercayaan yang rusak sulit diperbaiki.
+Ini efektif, tapi gunakan dengan hati-hati. Jangan berbohong tentang penawaran kompetitor supplier bisa memverifikasi, dan kepercayaan yang rusak sulit diperbaiki.
 
 ### 6. Teknik "Good Cop, Bad Cop"
 

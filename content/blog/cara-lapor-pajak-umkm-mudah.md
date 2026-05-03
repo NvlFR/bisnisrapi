@@ -1,16 +1,25 @@
 ---
-title: "Cara Lapor Pajak UMKM yang Mudah dan Tidak Bikin Pusing"
-date: "2025-06-01"
-excerpt: "Panduan praktis lapor pajak untuk pelaku UMKM Indonesia, dari memilih tarif yang tepat hingga cara pengisian SPT yang benar."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["pajak umkm", "lapor pajak", "spt tahunan", "pph final", "kewajiban pajak"]
-image: "/blog/cara-lapor-pajak-umkm-mudah/thumbnail.svg"
+title: Cara Lapor Pajak UMKM yang Mudah dan Tidak Bikin Pusing
+date: '2025-06-01'
+excerpt: >-
+  Panduan praktis lapor pajak untuk pelaku UMKM Indonesia, dari memilih tarif
+  yang tepat hingga cara pengisian SPT yang benar.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - pajak umkm
+  - lapor pajak
+  - spt tahunan
+  - pph final
+  - kewajiban pajak
+image: /blog/cara-lapor-pajak-umkm-mudah/thumbnail.svg
 ---
 
 Bicara soal pajak, banyak pemilik UMKM langsung merasa pusing. Padahal, kalau kamu tahu alurnya, lapor pajak itu tidak serumit yang dibayangkan. Artikel ini akan memandu kamu langkah demi langkah, dari memahami kewajiban pajak UMKM hingga cara lapor yang benar.
 
 ## Kenapa UMKM Wajib Lapor Pajak?
+
+![Ilustrasi Cara Lapor Pajak UMKM yang Mudah dan Tidak Bikin Pusing](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Lapor Pajak UMKM yang Mudah dan Tidak Bikin Pusing")
 
 Setiap warga negara yang memiliki penghasilan di atas Penghasilan Tidak Kena Pajak (PTKP) wajib melaporkan pajaknya. Ini berlaku juga untuk pelaku usaha, termasuk UMKM. Selain kewajiban hukum, tertib pajak juga membuka banyak pintu: lebih mudah mengajukan pinjaman bank, lebih dipercaya mitra bisnis, dan terhindar dari sanksi yang bisa menguras kas.
 
@@ -18,9 +27,9 @@ Setiap warga negara yang memiliki penghasilan di atas Penghasilan Tidak Kena Paj
 
 Kabar baiknya, pemerintah memberikan kemudahan bagi UMKM melalui PPh Final dengan tarif 0,5% dari omzet bruto. Ini berlaku untuk:
 
-- Wajib Pajak Orang Pribadi dengan omzet di bawah Rp 500 juta per tahun — **bebas pajak** (tidak dikenakan PPh Final)
-- Omzet Rp 500 juta hingga Rp 4,8 miliar per tahun — dikenakan PPh Final 0,5%
-- Wajib Pajak Badan (PT, CV, Firma) dengan omzet sampai Rp 4,8 miliar — dikenakan PPh Final 0,5%
+- Wajib Pajak Orang Pribadi dengan omzet di bawah Rp 500 juta per tahun **bebas pajak** (tidak dikenakan PPh Final)
+- Omzet Rp 500 juta hingga Rp 4,8 miliar per tahun dikenakan PPh Final 0,5%
+- Wajib Pajak Badan (PT, CV, Firma) dengan omzet sampai Rp 4,8 miliar dikenakan PPh Final 0,5%
 
 Tarif ini jauh lebih sederhana dibanding menghitung penghasilan neto dan tarif progresif. Kamu cukup kalikan omzet bulanan dengan 0,5%, lalu setor ke kas negara.
 
@@ -72,7 +81,7 @@ Caranya:
 
 **Simpan semua bukti setor.** Bukti pembayaran pajak bulanan dibutuhkan saat mengisi SPT Tahunan. Simpan minimal 5 tahun.
 
-**Manfaatkan konsultasi gratis di KPP.** Kantor pajak punya petugas yang siap membantu. Jangan ragu datang dan bertanya — mereka tidak menggigit.
+**Manfaatkan konsultasi gratis di KPP.** Kantor pajak punya petugas yang siap membantu. Jangan ragu datang dan bertanya mereka tidak menggigit.
 
 ## Kapan Harus Pakai Jasa Konsultan Pajak?
 

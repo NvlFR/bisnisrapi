@@ -1,11 +1,18 @@
 ---
-title: "Strategi Reinvestasi Keuntungan Bisnis yang Cerdas"
-date: "2025-06-23"
-excerpt: "Panduan strategi reinvestasi keuntungan bisnis yang cerdas — kapan harus reinvestasi, berapa banyak, dan ke mana sebaiknya dana itu dialokasikan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["reinvestasi bisnis", "alokasi keuntungan", "pertumbuhan bisnis", "investasi umkm", "strategi keuangan"]
-image: "/blog/strategi-reinvestasi-keuntungan-bisnis/thumbnail.svg"
+title: Strategi Reinvestasi Keuntungan Bisnis yang Cerdas
+date: '2025-06-23'
+excerpt: >-
+  Panduan strategi reinvestasi keuntungan bisnis yang cerdas — kapan harus
+  reinvestasi, berapa banyak, dan ke mana sebaiknya dana itu dialokasikan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - reinvestasi bisnis
+  - alokasi keuntungan
+  - pertumbuhan bisnis
+  - investasi umkm
+  - strategi keuangan
+image: /blog/strategi-reinvestasi-keuntungan-bisnis/thumbnail.svg
 ---
 
 Bisnis kamu mulai menghasilkan keuntungan yang konsisten. Selamat! Tapi sekarang muncul pertanyaan yang tidak kalah penting: uang ini mau diapakan? Diambil semua sebagai penghasilan pribadi? Disimpan di tabungan? Atau diinvestasikan kembali ke bisnis?
@@ -13,6 +20,8 @@ Bisnis kamu mulai menghasilkan keuntungan yang konsisten. Selamat! Tapi sekarang
 Keputusan ini sangat menentukan apakah bisnis kamu akan stagnan atau terus berkembang.
 
 ## Mengapa Reinvestasi Itu Penting?
+
+![Ilustrasi Strategi Reinvestasi Keuntungan Bisnis yang Cerdas](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Reinvestasi Keuntungan Bisnis yang Cerdas")
 
 Bisnis yang tidak reinvestasi cenderung stagnan. Peralatan menua, kompetitor berinvestasi dalam teknologi baru, karyawan tidak berkembang, dan perlahan-lahan bisnis kehilangan daya saing.
 

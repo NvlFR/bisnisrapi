@@ -1,16 +1,26 @@
 ---
-title: "Panduan Pembukuan Sederhana untuk UMKM yang Bukan Akuntan"
-date: "2025-06-11"
-excerpt: "Panduan praktis pembukuan sederhana untuk pemilik UMKM yang tidak berlatar belakang akuntansi — mulai dari konsep dasar hingga cara mencatat transaksi harian."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["pembukuan umkm", "akuntansi sederhana", "laporan keuangan", "pencatatan bisnis", "buku kas"]
-image: "/blog/panduan-pembukuan-sederhana-umkm/thumbnail.svg"
+title: Panduan Pembukuan Sederhana untuk UMKM yang Bukan Akuntan
+date: '2025-06-11'
+excerpt: >-
+  Panduan praktis pembukuan sederhana untuk pemilik UMKM yang tidak berlatar
+  belakang akuntansi — mulai dari konsep dasar hingga cara mencatat transaksi
+  harian.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - pembukuan umkm
+  - akuntansi sederhana
+  - laporan keuangan
+  - pencatatan bisnis
+  - buku kas
+image: /blog/panduan-pembukuan-sederhana-umkm/thumbnail.svg
 ---
 
 "Saya bukan akuntan, jadi tidak bisa buat pembukuan." Ini alasan yang sering terdengar dari pemilik UMKM. Padahal, pembukuan dasar tidak memerlukan gelar akuntansi. Yang dibutuhkan hanya konsistensi dan sistem yang sederhana. Artikel ini akan menunjukkan cara memulai pembukuan dari nol, bahkan jika kamu tidak tahu apa itu debit dan kredit.
 
 ## Kenapa Pembukuan Itu Penting?
+
+![Ilustrasi Panduan Pembukuan Sederhana untuk UMKM yang Bukan Akuntan](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Pembukuan Sederhana untuk UMKM yang Bukan Akuntan")
 
 Tanpa pembukuan, kamu tidak tahu:
 - Apakah bisnis kamu benar-benar untung atau hanya terasa untung
@@ -26,7 +36,7 @@ Sebelum mulai, pahami tiga konsep sederhana ini:
 
 **Pendapatan (Income)**: Semua uang yang masuk dari penjualan produk atau jasa.
 
-**Pengeluaran (Expense)**: Semua uang yang keluar untuk menjalankan bisnis — bahan baku, gaji, sewa, listrik, dll.
+**Pengeluaran (Expense)**: Semua uang yang keluar untuk menjalankan bisnis bahan baku, gaji, sewa, listrik, dll.
 
 **Laba/Rugi**: Pendapatan dikurangi Pengeluaran. Jika positif, kamu untung. Jika negatif, kamu rugi.
 

@@ -1,18 +1,27 @@
 ---
-title: "Cara Kelola Bisnis Catering Pernikahan yang Profesional"
-date: "2026-01-15"
-excerpt: "Panduan lengkap mengelola bisnis catering pernikahan secara profesional, dari penawaran harga, manajemen event, hingga membangun reputasi yang kuat."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["catering pernikahan", "bisnis catering", "wedding catering", "manajemen event fnb", "usaha catering"]
-image: "/blog/cara-kelola-bisnis-catering-pernikahan/thumbnail.svg"
+title: Cara Kelola Bisnis Catering Pernikahan yang Profesional
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap mengelola bisnis catering pernikahan secara profesional, dari
+  penawaran harga, manajemen event, hingga membangun reputasi yang kuat.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - catering pernikahan
+  - bisnis catering
+  - wedding catering
+  - manajemen event fnb
+  - usaha catering
+image: /blog/cara-kelola-bisnis-catering-pernikahan/thumbnail.svg
 ---
 
-Bisnis catering pernikahan adalah salah satu segmen F&B yang paling menjanjikan sekaligus paling menantang. Satu event pernikahan bisa menghasilkan pendapatan yang signifikan, tapi satu kesalahan bisa merusak reputasi yang sudah dibangun bertahun-tahun. Kunci suksesnya adalah profesionalisme di setiap aspek — dari penawaran pertama hingga beres-beres setelah acara.
+Bisnis catering pernikahan adalah salah satu segmen F&B yang paling menjanjikan sekaligus paling menantang. Satu event pernikahan bisa menghasilkan pendapatan yang signifikan, tapi satu kesalahan bisa merusak reputasi yang sudah dibangun bertahun-tahun. Kunci suksesnya adalah profesionalisme di setiap aspek dari penawaran pertama hingga beres-beres setelah acara.
 
 ## Memahami Pasar Catering Pernikahan
 
-Pasar catering pernikahan di Indonesia sangat beragam — dari pernikahan sederhana dengan 100 tamu hingga resepsi mewah dengan 2.000 tamu. Sebelum memulai atau mengembangkan bisnis ini, tentukan segmen mana yang ingin kamu layani.
+![Ilustrasi Cara Kelola Bisnis Catering Pernikahan yang Profesional](https://images.unsplash.com/photo-1517248135467-4c7ed9d42c77?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Bisnis Catering Pernikahan yang Profesional")
+
+Pasar catering pernikahan di Indonesia sangat beragam dari pernikahan sederhana dengan 100 tamu hingga resepsi mewah dengan 2.000 tamu. Sebelum memulai atau mengembangkan bisnis ini, tentukan segmen mana yang ingin kamu layani.
 
 Segmen yang kamu pilih akan menentukan:
 - Jenis menu yang kamu tawarkan
@@ -142,6 +151,4 @@ Di bisnis catering pernikahan, reputasi adalah aset terbesar. Beberapa cara memb
 
 **Kolaborasi dengan vendor pernikahan lain:** Bangun hubungan dengan wedding organizer, fotografer, dekorator, dan vendor pernikahan lainnya. Mereka bisa menjadi sumber referensi yang berharga.
 
----
-
-Mengelola bisnis catering pernikahan berarti mengelola banyak variabel sekaligus — dari pesanan klien, stok bahan baku, jadwal tim, hingga keuangan. BisnisRapi dapat membantu kamu mengelola semua aspek operasional ini dengan lebih terstruktur, sehingga setiap event berjalan lancar dan bisnis kamu terus berkembang.
+Mengelola bisnis catering pernikahan berarti mengelola banyak variabel sekaligus dari pesanan klien, stok bahan baku, jadwal tim, hingga keuangan. BisnisRapi dapat membantu kamu mengelola semua aspek operasional ini dengan lebih terstruktur, sehingga setiap event berjalan lancar dan bisnis kamu terus berkembang.

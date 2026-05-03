@@ -1,16 +1,25 @@
 ---
-title: "Cara Hitung Margin Keuntungan Bisnis dengan Benar"
-date: "2025-06-09"
-excerpt: "Pelajari cara menghitung margin keuntungan bisnis dengan benar — gross margin, net margin, dan cara menggunakannya untuk keputusan bisnis."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["margin keuntungan", "gross margin", "net margin", "profitabilitas bisnis", "hitung laba"]
-image: "/blog/cara-hitung-margin-keuntungan-bisnis/thumbnail.svg"
+title: Cara Hitung Margin Keuntungan Bisnis dengan Benar
+date: '2025-06-09'
+excerpt: >-
+  Pelajari cara menghitung margin keuntungan bisnis dengan benar — gross margin,
+  net margin, dan cara menggunakannya untuk keputusan bisnis.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - margin keuntungan
+  - gross margin
+  - net margin
+  - profitabilitas bisnis
+  - hitung laba
+image: /blog/cara-hitung-margin-keuntungan-bisnis/thumbnail.svg
 ---
 
 Banyak pemilik UMKM yang tahu omzetnya tapi tidak tahu margin keuntungannya. Padahal, omzet besar tidak selalu berarti untung besar. Ada bisnis dengan omzet ratusan juta tapi marginnya tipis sekali, sehingga laba bersihnya tidak seberapa. Memahami margin keuntungan adalah kunci untuk tahu apakah bisnis kamu benar-benar sehat secara finansial.
 
 ## Apa Itu Margin Keuntungan?
+
+![Ilustrasi Cara Hitung Margin Keuntungan Bisnis dengan Benar](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Hitung Margin Keuntungan Bisnis dengan Benar")
 
 Margin keuntungan adalah persentase dari pendapatan yang tersisa setelah dikurangi biaya tertentu. Ada beberapa jenis margin yang perlu kamu pahami:
 
@@ -104,7 +113,7 @@ Dari tabel ini, kamu bisa melihat bahwa Produk A paling menguntungkan secara per
 
 **Tidak memasukkan semua komponen HPP.** HPP bukan hanya bahan baku. Termasuk juga: ongkos kirim bahan baku, biaya kemasan, biaya tenaga kerja langsung (untuk bisnis produksi), dan biaya penyusutan peralatan produksi.
 
-**Lupa biaya tersembunyi.** Biaya kartu kredit merchant, biaya platform marketplace, biaya pengiriman yang ditanggung bisnis — ini semua mengurangi margin efektif.
+**Lupa biaya tersembunyi.** Biaya kartu kredit merchant, biaya platform marketplace, biaya pengiriman yang ditanggung bisnis ini semua mengurangi margin efektif.
 
 **Tidak menghitung gaji sendiri.** Banyak owner UMKM tidak memasukkan "gaji" mereka sendiri sebagai biaya. Akibatnya, margin terlihat bagus padahal sebenarnya kamu sedang "mensubsidi" bisnis dengan tenaga gratis.
 

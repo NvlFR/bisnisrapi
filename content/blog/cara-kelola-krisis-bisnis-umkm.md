@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Krisis Bisnis agar Tidak Berujung Tutup"
-date: "2025-09-20"
-excerpt: "Panduan praktis mengelola krisis bisnis UMKM — dari mengidentifikasi jenis krisis, langkah-langkah respons yang tepat, hingga cara membangun kembali setelah krisis."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["krisis bisnis", "manajemen krisis", "ketahanan bisnis", "pemulihan bisnis", "strategi umkm"]
-image: "/blog/cara-kelola-krisis-bisnis-umkm/thumbnail.svg"
+title: Cara Kelola Krisis Bisnis agar Tidak Berujung Tutup
+date: '2025-09-20'
+excerpt: >-
+  Panduan praktis mengelola krisis bisnis UMKM — dari mengidentifikasi jenis
+  krisis, langkah-langkah respons yang tepat, hingga cara membangun kembali
+  setelah krisis.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - krisis bisnis
+  - manajemen krisis
+  - ketahanan bisnis
+  - pemulihan bisnis
+  - strategi umkm
+image: /blog/cara-kelola-krisis-bisnis-umkm/thumbnail.svg
 ---
 
-Tidak ada bisnis yang kebal dari krisis. Kebakaran, pandemi, kehilangan pelanggan besar, karyawan kunci yang resign mendadak, atau reputasi yang rusak karena satu kejadian — semua ini bisa terjadi pada bisnis manapun, kapanpun.
+Tidak ada bisnis yang kebal dari krisis. Kebakaran, pandemi, kehilangan pelanggan besar, karyawan kunci yang resign mendadak, atau reputasi yang rusak karena satu kejadian semua ini bisa terjadi pada bisnis manapun, kapanpun.
 
 Yang membedakan bisnis yang bertahan dari yang tidak bukan ketiadaan krisis, tapi bagaimana mereka merespons ketika krisis datang.
 
 ## Jenis-Jenis Krisis Bisnis
+
+![Ilustrasi Cara Kelola Krisis Bisnis agar Tidak Berujung Tutup](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Krisis Bisnis agar Tidak Berujung Tutup")
 
 ### Krisis Keuangan
 
@@ -70,7 +80,7 @@ Ketika krisis terjadi, respons awal sangat menentukan. Langkah-langkah yang perl
 
 **Amankan aset kritis.** Pastikan uang, data, dan aset penting lainnya aman.
 
-**Komunikasikan kepada pihak yang perlu tahu.** Karyawan kunci, mitra penting, dan (jika relevan) pelanggan perlu mendapat informasi yang akurat — bukan rumor.
+**Komunikasikan kepada pihak yang perlu tahu.** Karyawan kunci, mitra penting, dan (jika relevan) pelanggan perlu mendapat informasi yang akurat bukan rumor.
 
 **Jangan bersembunyi.** Krisis yang tidak dikomunikasikan dengan baik sering berkembang menjadi lebih besar.
 

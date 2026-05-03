@@ -1,11 +1,19 @@
 ---
-title: "Panduan Modal Ventura dan Angel Investor untuk Startup Indonesia"
-date: "2025-07-21"
-excerpt: "Panduan lengkap tentang modal ventura dan angel investor untuk startup Indonesia — cara mendapatkan pendanaan, apa yang dicari investor, dan trade-off yang perlu dipertimbangkan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["modal ventura", "angel investor", "pendanaan startup", "venture capital", "investasi startup"]
-image: "/blog/panduan-modal-ventura-untuk-startup/thumbnail.svg"
+title: Panduan Modal Ventura dan Angel Investor untuk Startup Indonesia
+date: '2025-07-21'
+excerpt: >-
+  Panduan lengkap tentang modal ventura dan angel investor untuk startup
+  Indonesia — cara mendapatkan pendanaan, apa yang dicari investor, dan
+  trade-off yang perlu dipertimbangkan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - modal ventura
+  - angel investor
+  - pendanaan startup
+  - venture capital
+  - investasi startup
+image: /blog/panduan-modal-ventura-untuk-startup/thumbnail.svg
 ---
 
 Tidak semua bisnis cocok dengan pinjaman bank. Startup dengan model bisnis yang inovatif, pertumbuhan cepat, tapi belum menghasilkan profit sering kali tidak memenuhi syarat kredit konvensional. Di sinilah modal ventura dan angel investor berperan.
@@ -13,6 +21,8 @@ Tidak semua bisnis cocok dengan pinjaman bank. Startup dengan model bisnis yang 
 Tapi mendapatkan investasi dari VC atau angel investor bukan proses yang mudah, dan ada trade-off yang perlu kamu pahami sebelum memutuskan jalur ini.
 
 ## Apa Itu Modal Ventura dan Angel Investor?
+
+![Ilustrasi Panduan Modal Ventura dan Angel Investor untuk Startup Indonesia](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Modal Ventura dan Angel Investor untuk Startup Indonesia")
 
 **Angel Investor** adalah individu kaya yang menginvestasikan uang pribadi mereka ke startup tahap awal. Mereka biasanya berinvestasi di tahap yang sangat awal (pre-seed atau seed) ketika bisnis masih berupa ide atau baru mulai.
 
@@ -103,11 +113,11 @@ Investor lebih responsif terhadap perkenalan dari orang yang mereka percaya. Car
 
 ### Tahap 4: Pitch dan Due Diligence
 
-Jika investor tertarik, mereka akan melakukan due diligence — pemeriksaan mendalam terhadap bisnis kamu. Ini bisa memakan waktu berminggu-minggu hingga berbulan-bulan.
+Jika investor tertarik, mereka akan melakukan due diligence pemeriksaan mendalam terhadap bisnis kamu. Ini bisa memakan waktu berminggu-minggu hingga berbulan-bulan.
 
 ### Tahap 5: Term Sheet dan Negosiasi
 
-Jika due diligence berhasil, investor akan memberikan term sheet — dokumen yang menguraikan syarat investasi. Poin-poin penting yang perlu dipahami:
+Jika due diligence berhasil, investor akan memberikan term sheet dokumen yang menguraikan syarat investasi. Poin-poin penting yang perlu dipahami:
 - **Valuasi**: Berapa nilai bisnis kamu menurut investor
 - **Equity yang dilepas**: Berapa persen kepemilikan yang kamu berikan
 - **Liquidation preference**: Siapa yang dibayar pertama jika bisnis dijual
@@ -128,4 +138,4 @@ Mendapatkan investasi bukan tanpa konsekuensi:
 
 Tidak semua bisnis perlu atau cocok dengan modal ventura. Banyak bisnis yang lebih baik dibangun secara bootstrapped (dari pendapatan sendiri) atau dengan pinjaman konvensional.
 
-Apapun jalur pendanaan yang kamu pilih, fondasi keuangan yang kuat dan pencatatan yang rapi adalah syarat mutlak. BisnisRapi membantu kamu membangun fondasi data keuangan yang solid — yang dibutuhkan baik untuk mengelola bisnis sehari-hari maupun untuk meyakinkan investor potensial.
+Apapun jalur pendanaan yang kamu pilih, fondasi keuangan yang kuat dan pencatatan yang rapi adalah syarat mutlak. BisnisRapi membantu kamu membangun fondasi data keuangan yang solid yang dibutuhkan baik untuk mengelola bisnis sehari-hari maupun untuk meyakinkan investor potensial.

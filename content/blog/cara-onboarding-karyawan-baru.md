@@ -1,11 +1,19 @@
 ---
-title: "Cara Onboarding Karyawan Baru di Toko dengan Cepat dan Efektif"
-date: "2025-03-25"
-excerpt: "Onboarding yang buruk bikin karyawan baru bingung dan cepat resign. Pelajari cara membuat proses onboarding yang efektif agar karyawan baru cepat produktif."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["onboarding karyawan", "SDM", "manajemen toko", "training karyawan", "UMKM"]
-image: "/blog/cara-onboarding-karyawan-baru/thumbnail.svg"
+title: Cara Onboarding Karyawan Baru di Toko dengan Cepat dan Efektif
+date: '2025-03-25'
+excerpt: >-
+  Onboarding yang buruk bikin karyawan baru bingung dan cepat resign. Pelajari
+  cara membuat proses onboarding yang efektif agar karyawan baru cepat
+  produktif.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - onboarding karyawan
+  - SDM
+  - manajemen toko
+  - training karyawan
+  - UMKM
+image: /blog/cara-onboarding-karyawan-baru/thumbnail.svg
 ---
 
 Hari pertama kerja adalah momen yang menentukan. Karyawan baru yang disambut dengan baik dan diberi panduan yang jelas akan lebih cepat produktif dan lebih loyal. Sebaliknya, karyawan yang dibiarkan bingung di hari pertama cenderung tidak betah dan resign lebih cepat.
@@ -13,6 +21,8 @@ Hari pertama kerja adalah momen yang menentukan. Karyawan baru yang disambut den
 Banyak toko yang tidak punya proses onboarding yang terstruktur. Karyawan baru langsung disuruh kerja tanpa tahu apa yang harus dilakukan, bagaimana sistem bekerja, atau apa yang diharapkan dari mereka. Hasilnya: kesalahan yang bisa dihindari, frustrasi di kedua pihak, dan turnover yang tinggi.
 
 ## Kenapa Onboarding yang Baik Itu Penting?
+
+![Ilustrasi Cara Onboarding Karyawan Baru di Toko dengan Cepat dan Efektif](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Onboarding Karyawan Baru di Toko dengan Cepat dan Efektif")
 
 **Produktivitas lebih cepat.** Karyawan yang di-onboarding dengan baik bisa mencapai produktivitas penuh lebih cepat dibanding yang dibiarkan belajar sendiri.
 
@@ -133,11 +143,11 @@ Di akhir minggu pertama dan akhir bulan pertama, lakukan evaluasi singkat:
 - Apa yang masih membingungkan?
 - Apakah ada yang bisa diperbaiki dari proses onboarding?
 
-Minta feedback dari karyawan baru — mereka punya perspektif segar yang bisa membantu kamu memperbaiki proses onboarding untuk karyawan berikutnya.
+Minta feedback dari karyawan baru mereka punya perspektif segar yang bisa membantu kamu memperbaiki proses onboarding untuk karyawan berikutnya.
 
 ## Manfaatkan Teknologi
 
-Sistem manajemen bisnis yang baik memudahkan onboarding karyawan baru. Dengan BisnisRapi, karyawan baru bisa langsung diberikan akses ke sistem dengan level izin yang sesuai — misalnya hanya bisa akses kasir, tidak bisa lihat laporan keuangan. Ini memudahkan training sekaligus menjaga keamanan data bisnis.
+Sistem manajemen bisnis yang baik memudahkan onboarding karyawan baru. Dengan BisnisRapi, karyawan baru bisa langsung diberikan akses ke sistem dengan level izin yang sesuai misalnya hanya bisa akses kasir, tidak bisa lihat laporan keuangan. Ini memudahkan training sekaligus menjaga keamanan data bisnis.
 
 ## Kesimpulan
 
@@ -145,4 +155,4 @@ Onboarding yang baik adalah investasi, bukan pemborosan waktu. Karyawan yang di-
 
 Mulai dengan membuat checklist onboarding sederhana dan panduan tertulis untuk prosedur utama. Dari sana, kembangkan program onboarding yang semakin baik setiap kali ada karyawan baru.
 
-Ingat: karyawan yang baik tidak lahir begitu saja — mereka dibentuk oleh sistem dan lingkungan yang mendukung mereka untuk sukses.
+Ingat: karyawan yang baik tidak lahir begitu saja mereka dibentuk oleh sistem dan lingkungan yang mendukung mereka untuk sukses.

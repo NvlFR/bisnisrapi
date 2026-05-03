@@ -1,14 +1,22 @@
 ---
-title: "Cara Kelola Apotek Secara Digital: Stok Obat Akurat, Expired Terpantau"
-date: "2025-07-10"
-excerpt: "Apotek yang tidak terkelola dengan baik bisa membahayakan pasien dan merugikan bisnis. Pelajari cara digitalisasi apotek untuk stok yang akurat dan keamanan yang lebih baik."
-author: "BisnisRapi Team"
-category: "Kesehatan"
-tags: ["apotek digital", "manajemen apotek", "stok obat", "expired obat", "digitalisasi kesehatan"]
-image: "/blog/cara-kelola-apotek-digital/thumbnail.svg"
+title: 'Cara Kelola Apotek Secara Digital: Stok Obat Akurat, Expired Terpantau'
+date: '2025-07-10'
+excerpt: >-
+  Apotek yang tidak terkelola dengan baik bisa membahayakan pasien dan merugikan
+  bisnis. Pelajari cara digitalisasi apotek untuk stok yang akurat dan keamanan
+  yang lebih baik.
+author: BisnisRapi Team
+category: Kesehatan
+tags:
+  - apotek digital
+  - manajemen apotek
+  - stok obat
+  - expired obat
+  - digitalisasi kesehatan
+image: /blog/cara-kelola-apotek-digital/thumbnail.svg
 ---
 
-Apotek bukan bisnis biasa. Di sini, kesalahan dalam pengelolaan stok bisa berdampak langsung pada keselamatan pasien — obat yang expired, obat yang salah diberikan, atau obat yang habis saat dibutuhkan. Ini bukan hanya masalah bisnis, tapi masalah etika dan hukum.
+Apotek bukan bisnis biasa. Di sini, kesalahan dalam pengelolaan stok bisa berdampak langsung pada keselamatan pasien obat yang expired, obat yang salah diberikan, atau obat yang habis saat dibutuhkan. Ini bukan hanya masalah bisnis, tapi masalah etika dan hukum.
 
 Di sisi lain, apotek juga bisnis yang perlu menghasilkan profit untuk bertahan. Manajemen yang buruk berarti stok yang tidak efisien, modal yang mengendap, dan pelayanan yang lambat.
 
@@ -16,9 +24,11 @@ Digitalisasi apotek adalah solusi untuk kedua tantangan ini sekaligus.
 
 ## Tantangan Khusus Manajemen Apotek
 
+![Ilustrasi Cara Kelola Apotek Secara Digital: Stok Obat Akurat, Expired Terpantau](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Apotek Secara Digital: Stok Obat Akurat, Expired Terpantau")
+
 **Ribuan SKU dengan karakteristik berbeda.** Apotek bisa punya ribuan jenis obat, masing-masing dengan dosis, bentuk sediaan, dan kondisi penyimpanan yang berbeda.
 
-**Tanggal kedaluwarsa yang kritis.** Obat yang expired tidak hanya tidak efektif — bisa berbahaya. Memantau expired date ribuan produk secara manual hampir mustahil.
+**Tanggal kedaluwarsa yang kritis.** Obat yang expired tidak hanya tidak efektif bisa berbahaya. Memantau expired date ribuan produk secara manual hampir mustahil.
 
 **Regulasi yang ketat.** Obat keras memerlukan resep dokter. Sistem harus bisa memastikan kepatuhan terhadap regulasi ini.
 
@@ -33,7 +43,7 @@ Digitalisasi apotek adalah solusi untuk kedua tantangan ini sekaligus.
 Ini fitur paling kritis. Sistem harus bisa:
 - Mencatat tanggal kedaluwarsa setiap batch obat
 - Memberikan alert ketika obat mendekati expired (misalnya 3 bulan sebelum expired)
-- Menerapkan FEFO (First Expired, First Out) — obat yang expired lebih awal harus dijual lebih dulu
+- Menerapkan FEFO (First Expired, First Out) obat yang expired lebih awal harus dijual lebih dulu
 - Laporan obat yang akan expired dalam periode tertentu
 
 ### 2. Manajemen Batch/Lot
@@ -115,6 +125,6 @@ BisnisRapi menyediakan fitur manajemen stok dengan tracking expired date yang co
 
 ## Kesimpulan
 
-Digitalisasi apotek bukan pilihan — ini keharusan untuk apotek yang ingin beroperasi dengan aman, efisien, dan profitable. Sistem yang baik memastikan stok selalu akurat, obat expired tidak pernah sampai ke tangan pasien, dan operasional berjalan dengan lancar.
+Digitalisasi apotek bukan pilihan ini keharusan untuk apotek yang ingin beroperasi dengan aman, efisien, dan profitable. Sistem yang baik memastikan stok selalu akurat, obat expired tidak pernah sampai ke tangan pasien, dan operasional berjalan dengan lancar.
 
 Mulai dari yang paling kritis: sistem tracking expired date dan manajemen stok yang akurat. Dari sana, kembangkan fitur lain sesuai kebutuhan. Keselamatan pasien dan keberlangsungan bisnis bergantung pada sistem yang kamu bangun hari ini.

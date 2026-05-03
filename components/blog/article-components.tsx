@@ -110,60 +110,107 @@ export function ArticleCode({
   );
 }
 
+// ── List context (ul vs ol) ───────────────────────────────────────────────────
+const ListContext = React.createContext<{ type: 'ul' | 'ol' | null }>({ type: null });
+
 // ── Styled unordered list ─────────────────────────────────────────────────────
 export function ArticleUl({ children }: { children: React.ReactNode }) {
   return (
-    <ul className="my-4 space-y-2 pl-0 list-none">{children}</ul>
-  );
-}
-
-export function ArticleLi({ children }: { children: React.ReactNode }) {
-  return (
-    <li className="flex items-start gap-2.5 text-muted-foreground leading-relaxed">
-      <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-brand-start" />
-      <span>{children}</span>
-    </li>
+    <ListContext.Provider value={{ type: 'ul' }}>
+      <ul className="my-4 space-y-2 pl-0 list-none">{children}</ul>
+    </ListContext.Provider>
   );
 }
 
 // ── Styled ordered list ───────────────────────────────────────────────────────
+// Uses native list-decimal so browser handles numbering — no double <li> issue
 export function ArticleOl({ children }: { children: React.ReactNode }) {
-  const items = React.Children.toArray(children);
   return (
-    <ol className="not-prose my-4 space-y-3 pl-0 list-none">
-      {items.map((child, i) => (
-        <li key={i} className="flex items-start gap-3 text-muted-foreground leading-relaxed">
-          <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-start/15 text-xs font-bold text-brand-start">
-            {i + 1}
-          </span>
-          <span className="pt-0.5">{child}</span>
-        </li>
-      ))}
-    </ol>
+    <ListContext.Provider value={{ type: 'ol' }}>
+      <ol className="not-prose my-4 space-y-2.5 pl-8 list-decimal marker:text-brand-start marker:font-bold marker:text-sm">
+        {children}
+      </ol>
+    </ListContext.Provider>
+  );
+}
+
+// ── Styled list item (works for both ul and ol) ───────────────────────────────
+export function ArticleLi({ children }: { children: React.ReactNode }) {
+  const { type: listType } = React.useContext(ListContext);
+
+  if (listType === 'ol') {
+    return (
+      <li className="text-muted-foreground leading-relaxed pl-1">
+        {children}
+      </li>
+    );
+  }
+
+  return (
+    <li className="flex items-start gap-2.5 text-muted-foreground leading-relaxed">
+      <CheckCircle2 className="mt-1 h-4 w-4 shrink-0 text-brand-start" />
+      <div className="flex-1">{children}</div>
+    </li>
   );
 }
 
 // ── Styled paragraph ──────────────────────────────────────────────────────────
 export function ArticleP({ children }: { children: React.ReactNode }) {
-  // Detect "tip" paragraphs that start with emoji indicators
-  const text = typeof children === "string" ? children : "";
+  const { type: listType } = React.useContext(ListContext);
+  const childrenArray = React.Children.toArray(children);
+
+  // 1. Check if children contain block-level elements like ArticleImg (which renders a figure)
+  // This prevents the "figure cannot be a descendant of p" hydration error
+  const hasBlockElement = childrenArray.some((child) => {
+    if (!React.isValidElement(child)) return false;
+    
+    const isBlock = (el: React.ReactElement): boolean => {
+      const type = el.type;
+      if (type === ArticleImg || type === "img") return true;
+      if (typeof type === "function" && type.name === "ArticleImg") return true;
+      
+      if (el.props && (el.props as { children?: React.ReactNode }).children) {
+        return React.Children.toArray((el.props as { children?: React.ReactNode }).children).some(nested => 
+          React.isValidElement(nested) && isBlock(nested as React.ReactElement)
+        );
+      }
+      return false;
+    };
+
+    return isBlock(child);
+  });
+
+  // Paragraphs inside lists should have minimal vertical margins to align with bullets/numbers
+  const marginClass = listType ? "my-0 mb-2 last:mb-0" : "my-4";
+
+  if (hasBlockElement) {
+    return <div className={marginClass}>{children}</div>;
+  }
+
+  // 2. Detect "tip" paragraphs that start with emoji indicators
+  const firstChild = childrenArray[0];
+  const firstChildText = typeof firstChild === "string" ? firstChild : "";
+
   const isTip =
-    text.startsWith("💡") ||
-    text.startsWith("✅") ||
-    text.startsWith("⚠️") ||
-    text.startsWith("📌");
+    firstChildText.startsWith("💡") ||
+    firstChildText.startsWith("✅") ||
+    firstChildText.startsWith("⚠️") ||
+    firstChildText.startsWith("📌");
 
   if (isTip) {
     return (
-      <div className="not-prose my-4 flex gap-3 rounded-xl border border-brand-start/20 bg-brand-start/5 px-4 py-3 text-sm leading-relaxed text-foreground/80">
-        <span className="shrink-0 text-base">{text.slice(0, 2)}</span>
-        <span>{text.slice(2).trim()}</span>
+      <div className={`not-prose ${marginClass} flex gap-3 rounded-xl border border-brand-start/20 bg-brand-start/5 px-4 py-3 text-sm leading-relaxed text-foreground/80`}>
+        <span className="shrink-0 text-base">{firstChildText.slice(0, 2)}</span>
+        <span>
+          {firstChildText.slice(2).trim()}
+          {childrenArray.slice(1)}
+        </span>
       </div>
     );
   }
 
   return (
-    <p className="my-4 leading-relaxed text-muted-foreground">{children}</p>
+    <p className={`${marginClass} leading-relaxed text-muted-foreground`}>{children}</p>
   );
 }
 
@@ -201,5 +248,38 @@ export function KeyTakeaway({ children }: { children: React.ReactNode }) {
       </div>
       <div className="text-sm leading-relaxed text-foreground/80">{children}</div>
     </div>
+  );
+}
+
+// ── Article Image component ───────────────────────────────────────────────────
+// Uses span (inline-block) instead of figure/div to avoid
+// "figure cannot be descendant of p" hydration error when ReactMarkdown
+// wraps images inside <p> tags.
+export function ArticleImg({
+  src,
+  alt,
+  caption,
+}: {
+  src: string;
+  alt?: string;
+  caption?: string;
+}) {
+  return (
+    <figure className="not-prose my-10 space-y-3">
+      <div className="overflow-hidden rounded-2xl border border-border bg-muted/30 shadow-md">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={src}
+          alt={alt ?? caption ?? ""}
+          className="w-full h-auto object-cover transition-transform duration-500 hover:scale-[1.02]"
+          loading="lazy"
+        />
+      </div>
+      {caption && (
+        <figcaption className="text-center text-xs italic text-muted-foreground leading-relaxed px-4">
+          {caption}
+        </figcaption>
+      )}
+    </figure>
   );
 }

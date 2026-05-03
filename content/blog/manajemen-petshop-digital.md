@@ -1,18 +1,28 @@
 ---
-title: "Manajemen Petshop Digital: Stok, Grooming, dan Vaksin dalam Satu Sistem"
-date: "2025-08-05"
-excerpt: "Petshop modern mengelola penjualan produk, layanan grooming, dan jadwal vaksin sekaligus. Pelajari cara mengintegrasikan semua aspek ini dalam satu sistem yang efisien."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["petshop", "manajemen petshop", "grooming hewan", "vaksin hewan", "digitalisasi"]
-image: "/blog/manajemen-petshop-digital/thumbnail.svg"
+title: 'Manajemen Petshop Digital: Stok, Grooming, dan Vaksin dalam Satu Sistem'
+date: '2025-08-05'
+excerpt: >-
+  Petshop modern mengelola penjualan produk, layanan grooming, dan jadwal vaksin
+  sekaligus. Pelajari cara mengintegrasikan semua aspek ini dalam satu sistem
+  yang efisien.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - petshop
+  - manajemen petshop
+  - grooming hewan
+  - vaksin hewan
+  - digitalisasi
+image: /blog/manajemen-petshop-digital/thumbnail.svg
 ---
 
 Petshop modern bukan hanya toko yang menjual makanan dan aksesoris hewan. Banyak petshop sekarang juga menawarkan layanan grooming, vaksinasi, konsultasi dokter hewan, dan bahkan penitipan hewan. Mengelola semua ini sekaligus adalah tantangan yang membutuhkan sistem yang terstruktur.
 
 ## Kompleksitas Bisnis Petshop Modern
 
-**Penjualan produk yang beragam.** Makanan hewan (berbagai merek, ukuran, jenis hewan), aksesoris, obat-obatan, suplemen — semua dengan stok yang perlu dipantau.
+![Ilustrasi Manajemen Petshop Digital: Stok, Grooming, dan Vaksin dalam Satu Sistem](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Petshop Digital: Stok, Grooming, dan Vaksin dalam Satu Sistem")
+
+**Penjualan produk yang beragam.** Makanan hewan (berbagai merek, ukuran, jenis hewan), aksesoris, obat-obatan, suplemen semua dengan stok yang perlu dipantau.
 
 **Layanan grooming dengan jadwal.** Booking grooming, durasi per layanan, kapasitas per hari, dan riwayat grooming setiap hewan.
 
@@ -89,7 +99,7 @@ Setelah database hewan sudah ada, setup sistem reminder vaksin. Ini bisa dilakuk
 
 ## Tips Khusus untuk Petshop
 
-**Foto before-after grooming.** Kirim foto hasil grooming ke pemilik via WhatsApp. Ini membuat mereka senang dan sering di-share di media sosial — marketing gratis untuk petshop kamu.
+**Foto before-after grooming.** Kirim foto hasil grooming ke pemilik via WhatsApp. Ini membuat mereka senang dan sering di-share di media sosial marketing gratis untuk petshop kamu.
 
 **Catatan preferensi grooming.** Setiap hewan punya preferensi berbeda. Catat dan gunakan di kunjungan berikutnya. Pemilik akan sangat terkesan kalau groomer ingat preferensi hewan mereka.
 
@@ -99,10 +109,10 @@ Setelah database hewan sudah ada, setup sistem reminder vaksin. Ini bisa dilakuk
 
 **Stok produk yang relevan.** Rekomendasikan produk yang sesuai dengan kebutuhan hewan pelanggan. Ini meningkatkan penjualan produk sekaligus memberikan nilai tambah bagi pelanggan.
 
-BisnisRapi membantu petshop mengelola semua aspek bisnis — dari booking grooming, database hewan, stok produk, sampai laporan keuangan — dalam satu platform yang mudah digunakan.
+BisnisRapi membantu petshop mengelola semua aspek bisnis dari booking grooming, database hewan, stok produk, sampai laporan keuangan dalam satu platform yang mudah digunakan.
 
 ## Kesimpulan
 
-Petshop yang terdigitalisasi bisa memberikan pengalaman yang jauh lebih baik kepada pemilik hewan — dari booking yang mudah, reminder vaksin yang tepat waktu, sampai catatan grooming yang personal. Ini membangun loyalitas yang kuat dan membedakan petshop kamu dari kompetitor.
+Petshop yang terdigitalisasi bisa memberikan pengalaman yang jauh lebih baik kepada pemilik hewan dari booking yang mudah, reminder vaksin yang tepat waktu, sampai catatan grooming yang personal. Ini membangun loyalitas yang kuat dan membedakan petshop kamu dari kompetitor.
 
-Mulai dari database hewan dan sistem booking. Dari sana, tambahkan fitur lain secara bertahap. Hewan peliharaan adalah anggota keluarga bagi pemiliknya — dan mereka akan sangat menghargai petshop yang merawat hewan mereka dengan penuh perhatian dan profesionalisme.
+Mulai dari database hewan dan sistem booking. Dari sana, tambahkan fitur lain secara bertahap. Hewan peliharaan adalah anggota keluarga bagi pemiliknya dan mereka akan sangat menghargai petshop yang merawat hewan mereka dengan penuh perhatian dan profesionalisme.

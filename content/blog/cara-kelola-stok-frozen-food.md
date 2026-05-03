@@ -1,21 +1,30 @@
 ---
-title: "Cara Kelola Stok Frozen Food: Low-Stock Alert dan Barcode"
-date: "2025-04-05"
-excerpt: "Bisnis frozen food punya tantangan unik soal stok dan expired date. Begini cara mengelolanya dengan sistem digital."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["frozen food", "manajemen stok", "low stock alert", "barcode", "retail makanan"]
-image: "/blog/cara-kelola-stok-frozen-food/thumbnail.svg"
+title: 'Cara Kelola Stok Frozen Food: Low-Stock Alert dan Barcode'
+date: '2025-04-05'
+excerpt: >-
+  Bisnis frozen food punya tantangan unik soal stok dan expired date. Begini
+  cara mengelolanya dengan sistem digital.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - frozen food
+  - manajemen stok
+  - low stock alert
+  - barcode
+  - retail makanan
+image: /blog/cara-kelola-stok-frozen-food/thumbnail.svg
 ---
 
-Bisnis frozen food sedang naik daun. Dari nugget, dimsum, bakso, sampai berbagai lauk siap masak — permintaannya terus tumbuh karena kepraktisannya. Tapi di balik peluang yang besar, ada tantangan operasional yang tidak bisa dianggap remeh: manajemen stok.
+Bisnis frozen food sedang naik daun. Dari nugget, dimsum, bakso, sampai berbagai lauk siap masak permintaannya terus tumbuh karena kepraktisannya. Tapi di balik peluang yang besar, ada tantangan operasional yang tidak bisa dianggap remeh: manajemen stok.
 
 Frozen food punya karakteristik yang berbeda dari produk retail biasa. Ada masa simpan yang terbatas, kebutuhan penyimpanan khusus (freezer), dan variasi produk yang bisa sangat banyak. Salah kelola stok, kamu bisa rugi besar karena produk expired atau kehabisan stok saat permintaan sedang tinggi.
 
 ## Tantangan Khusus Stok Frozen Food
 
+![Ilustrasi Cara Kelola Stok Frozen Food: Low-Stock Alert dan Barcode](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Stok Frozen Food: Low-Stock Alert dan Barcode")
+
 ### Masa Simpan yang Terbatas
-Berbeda dengan produk kering yang bisa disimpan berbulan-bulan, frozen food punya batas waktu yang lebih ketat. Meski disimpan di freezer, ada tanggal expired yang harus diperhatikan. Produk yang melewati tanggal ini tidak bisa dijual dan harus dibuang — artinya kerugian langsung.
+Berbeda dengan produk kering yang bisa disimpan berbulan-bulan, frozen food punya batas waktu yang lebih ketat. Meski disimpan di freezer, ada tanggal expired yang harus diperhatikan. Produk yang melewati tanggal ini tidak bisa dijual dan harus dibuang artinya kerugian langsung.
 
 ### Variasi Produk yang Banyak
 Satu brand frozen food saja bisa punya puluhan varian: berbagai rasa, ukuran kemasan, dan jenis produk. Kalau kamu menjual berbagai brand, jumlah SKU (Stock Keeping Unit) bisa mencapai ratusan. Mengelola ini secara manual sangat rentan kesalahan.
@@ -24,11 +33,11 @@ Satu brand frozen food saja bisa punya puluhan varian: berbagai rasa, ukuran kem
 Tidak seperti produk kering yang bisa ditumpuk di gudang, frozen food butuh ruang di freezer yang kapasitasnya terbatas. Ini berarti kamu harus lebih cermat dalam merencanakan pembelian stok.
 
 ### Fluktuasi Permintaan
-Permintaan frozen food bisa sangat fluktuatif — meningkat tajam menjelang hari raya, akhir pekan, atau saat ada promo. Jika tidak diantisipasi, kamu bisa kehabisan stok di momen yang paling menguntungkan.
+Permintaan frozen food bisa sangat fluktuatif meningkat tajam menjelang hari raya, akhir pekan, atau saat ada promo. Jika tidak diantisipasi, kamu bisa kehabisan stok di momen yang paling menguntungkan.
 
 ## Sistem Barcode untuk Efisiensi Operasional
 
-Salah satu cara paling efektif untuk mengelola stok frozen food adalah dengan menggunakan sistem barcode. Ini bukan hanya untuk toko besar — UMKM pun bisa dan sebaiknya menerapkannya.
+Salah satu cara paling efektif untuk mengelola stok frozen food adalah dengan menggunakan sistem barcode. Ini bukan hanya untuk toko besar UMKM pun bisa dan sebaiknya menerapkannya.
 
 ### Manfaat Barcode untuk Frozen Food
 
@@ -88,10 +97,10 @@ Sistem yang baik memungkinkan kamu:
 
 Untuk bisnis frozen food, ada beberapa laporan yang sebaiknya dicek secara rutin:
 
-**Laporan stok harian** — berapa stok setiap produk saat ini
-**Laporan produk mendekati expired** — produk apa yang perlu segera dijual
-**Laporan perputaran stok** — produk mana yang paling cepat habis vs yang lambat
-**Laporan pembelian vs penjualan** — untuk menganalisis pola dan merencanakan pembelian berikutnya
+**Laporan stok harian** berapa stok setiap produk saat ini
+**Laporan produk mendekati expired** produk apa yang perlu segera dijual
+**Laporan perputaran stok** produk mana yang paling cepat habis vs yang lambat
+**Laporan pembelian vs penjualan** untuk menganalisis pola dan merencanakan pembelian berikutnya
 
 BisnisRapi menyediakan fitur-fitur ini dalam satu platform yang bisa diakses dari HP maupun komputer. Dengan low-stock alert otomatis dan pencatatan expired date, kamu bisa fokus mengembangkan bisnis tanpa khawatir kehabisan stok atau rugi karena produk expired.
 

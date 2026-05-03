@@ -1,16 +1,26 @@
 ---
-title: "Panduan Sourcing Produk Fashion: Dari Supplier Lokal sampai Import"
-date: "2026-01-15"
-excerpt: "Panduan lengkap sourcing produk fashion untuk bisnis retail, dari menemukan supplier lokal yang andal hingga cara import produk fashion dengan aman dan legal."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["sourcing produk fashion", "supplier fashion", "import fashion", "konveksi lokal", "bisnis fashion"]
-image: "/blog/panduan-sourcing-produk-fashion/thumbnail.svg"
+title: 'Panduan Sourcing Produk Fashion: Dari Supplier Lokal sampai Import'
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap sourcing produk fashion untuk bisnis retail, dari menemukan
+  supplier lokal yang andal hingga cara import produk fashion dengan aman dan
+  legal.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - sourcing produk fashion
+  - supplier fashion
+  - import fashion
+  - konveksi lokal
+  - bisnis fashion
+image: /blog/panduan-sourcing-produk-fashion/thumbnail.svg
 ---
 
-Sourcing produk adalah salah satu aspek paling krusial dalam bisnis fashion. Produk yang bagus dengan harga yang kompetitif adalah fondasi dari bisnis fashion yang menguntungkan. Tapi menemukan supplier yang tepat — yang konsisten dalam kualitas, harga, dan ketepatan pengiriman — bukan hal yang mudah.
+Sourcing produk adalah salah satu aspek paling krusial dalam bisnis fashion. Produk yang bagus dengan harga yang kompetitif adalah fondasi dari bisnis fashion yang menguntungkan. Tapi menemukan supplier yang tepat yang konsisten dalam kualitas, harga, dan ketepatan pengiriman bukan hal yang mudah.
 
 ## Memahami Opsi Sourcing
+
+![Ilustrasi Panduan Sourcing Produk Fashion: Dari Supplier Lokal sampai Import](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Sourcing Produk Fashion: Dari Supplier Lokal sampai Import")
 
 Sebelum memilih strategi sourcing, pahami dulu opsi yang tersedia:
 
@@ -145,7 +155,5 @@ Jangan takut untuk bernegosiasi. Beberapa hal yang bisa dinegosiasikan:
 - Biaya pengiriman
 
 Bangun hubungan jangka panjang dengan supplier yang baik. Supplier yang sudah kenal kamu biasanya lebih fleksibel dalam negosiasi dan lebih prioritas dalam melayani pesanan kamu.
-
----
 
 Mengelola hubungan dengan banyak supplier dan melacak pesanan dari berbagai sumber bisa menjadi kompleks. BisnisRapi dapat membantu kamu mengelola database supplier, mencatat riwayat pembelian, dan memantau stok produk dari berbagai sumber dalam satu sistem yang terorganisir.

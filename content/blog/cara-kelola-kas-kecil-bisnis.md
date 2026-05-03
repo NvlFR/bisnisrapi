@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Kas Kecil (Petty Cash) Bisnis dengan Rapi"
-date: "2025-07-07"
-excerpt: "Panduan praktis mengelola kas kecil (petty cash) bisnis dengan sistem yang rapi, transparan, dan bebas dari kebocoran dana."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["kas kecil", "petty cash", "pengelolaan kas", "kontrol keuangan", "pembukuan bisnis"]
-image: "/blog/cara-kelola-kas-kecil-bisnis/thumbnail.svg"
+title: Cara Kelola Kas Kecil (Petty Cash) Bisnis dengan Rapi
+date: '2025-07-07'
+excerpt: >-
+  Panduan praktis mengelola kas kecil (petty cash) bisnis dengan sistem yang
+  rapi, transparan, dan bebas dari kebocoran dana.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - kas kecil
+  - petty cash
+  - pengelolaan kas
+  - kontrol keuangan
+  - pembukuan bisnis
+image: /blog/cara-kelola-kas-kecil-bisnis/thumbnail.svg
 ---
 
 Kas kecil atau petty cash adalah dana tunai dalam jumlah kecil yang disediakan untuk pengeluaran operasional sehari-hari yang nilainya terlalu kecil untuk diproses melalui transfer bank. Meski jumlahnya kecil, kas kecil yang tidak dikelola dengan baik bisa menjadi sumber kebocoran keuangan yang signifikan.
 
 ## Mengapa Kas Kecil Perlu Dikelola dengan Serius?
+
+![Ilustrasi Cara Kelola Kas Kecil (Petty Cash) Bisnis dengan Rapi](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Kas Kecil (Petty Cash) Bisnis dengan Rapi")
 
 Banyak bisnis yang menganggap kas kecil sebagai "uang receh" yang tidak perlu diperhatikan. Padahal:
 

@@ -1,22 +1,31 @@
 ---
-title: "Manajemen Toko Kue dan Pastry: Pre-Order dan Jadwal Produksi"
-date: "2025-11-15"
-excerpt: "Toko kue yang sukses butuh sistem pre-order yang baik dan jadwal produksi yang terencana agar tidak kewalahan di momen ramai."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["toko kue", "pastry", "pre-order kue", "jadwal produksi", "manajemen F&B"]
-image: "/blog/manajemen-toko-kue-pastry/thumbnail.svg"
+title: 'Manajemen Toko Kue dan Pastry: Pre-Order dan Jadwal Produksi'
+date: '2025-11-15'
+excerpt: >-
+  Toko kue yang sukses butuh sistem pre-order yang baik dan jadwal produksi yang
+  terencana agar tidak kewalahan di momen ramai.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - toko kue
+  - pastry
+  - pre-order kue
+  - jadwal produksi
+  - manajemen F&B
+image: /blog/manajemen-toko-kue-pastry/thumbnail.svg
 ---
 
-Toko kue dan pastry adalah bisnis yang penuh kreativitas — tapi di balik kue-kue yang indah, ada manajemen produksi yang perlu berjalan dengan presisi. Terutama untuk kue custom dan kue pesanan, sistem pre-order dan jadwal produksi yang baik adalah kunci agar bisnis bisa berjalan lancar tanpa kamu kewalahan.
+Toko kue dan pastry adalah bisnis yang penuh kreativitas tapi di balik kue-kue yang indah, ada manajemen produksi yang perlu berjalan dengan presisi. Terutama untuk kue custom dan kue pesanan, sistem pre-order dan jadwal produksi yang baik adalah kunci agar bisnis bisa berjalan lancar tanpa kamu kewalahan.
 
 ## Dua Model Bisnis Toko Kue
 
+![Ilustrasi Manajemen Toko Kue dan Pastry: Pre-Order dan Jadwal Produksi](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Toko Kue dan Pastry: Pre-Order dan Jadwal Produksi")
+
 ### Ready-to-Sell
-Kue yang diproduksi setiap hari dan dijual langsung di toko. Tantangannya adalah memproduksi dalam jumlah yang tepat — tidak terlalu banyak (sisa terbuang) dan tidak terlalu sedikit (kehabisan).
+Kue yang diproduksi setiap hari dan dijual langsung di toko. Tantangannya adalah memproduksi dalam jumlah yang tepat tidak terlalu banyak (sisa terbuang) dan tidak terlalu sedikit (kehabisan).
 
 ### Custom Order / Pre-Order
-Kue yang dibuat berdasarkan pesanan khusus — kue ulang tahun, kue pernikahan, kue untuk event, dll. Setiap pesanan punya spesifikasi yang unik dan deadline yang ketat.
+Kue yang dibuat berdasarkan pesanan khusus kue ulang tahun, kue pernikahan, kue untuk event, dll. Setiap pesanan punya spesifikasi yang unik dan deadline yang ketat.
 
 Banyak toko kue yang menjalankan keduanya, dan ini membutuhkan manajemen yang lebih kompleks.
 
@@ -46,7 +55,7 @@ Komunikasikan batas waktu ini dengan jelas kepada pelanggan.
 
 ### Konfirmasi Pesanan
 
-Setelah menerima pesanan, kirim konfirmasi yang mencantumkan semua detail. Minta pelanggan untuk mengkonfirmasi bahwa semua detail sudah benar — terutama untuk pesanan dengan desain khusus.
+Setelah menerima pesanan, kirim konfirmasi yang mencantumkan semua detail. Minta pelanggan untuk mengkonfirmasi bahwa semua detail sudah benar terutama untuk pesanan dengan desain khusus.
 
 ### Batasi Jumlah Pesanan
 
@@ -70,7 +79,7 @@ Rencanakan urutan produksi yang efisien:
 
 ### Buffer Waktu
 
-Selalu sisakan buffer waktu dalam jadwal produksi. Hal-hal tidak terduga selalu bisa terjadi — bahan yang tidak sesuai, kue yang gagal dan harus dibuat ulang, atau peralatan yang bermasalah.
+Selalu sisakan buffer waktu dalam jadwal produksi. Hal-hal tidak terduga selalu bisa terjadi bahan yang tidak sesuai, kue yang gagal dan harus dibuat ulang, atau peralatan yang bermasalah.
 
 ### Produksi Batch untuk Komponen yang Sama
 

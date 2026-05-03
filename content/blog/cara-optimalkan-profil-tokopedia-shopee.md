@@ -1,11 +1,19 @@
 ---
-title: "Cara Optimalkan Profil Toko di Tokopedia dan Shopee"
-date: "2025-08-01"
-excerpt: "Profil toko yang dioptimalkan dengan baik bisa meningkatkan visibilitas dan konversi secara signifikan. Panduan lengkap mengoptimalkan toko di Tokopedia dan Shopee."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["tokopedia", "shopee", "optimasi toko online", "marketplace indonesia", "jualan online"]
-image: "/blog/cara-optimalkan-profil-tokopedia-shopee/thumbnail.svg"
+title: Cara Optimalkan Profil Toko di Tokopedia dan Shopee
+date: '2025-08-01'
+excerpt: >-
+  Profil toko yang dioptimalkan dengan baik bisa meningkatkan visibilitas dan
+  konversi secara signifikan. Panduan lengkap mengoptimalkan toko di Tokopedia
+  dan Shopee.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - tokopedia
+  - shopee
+  - optimasi toko online
+  - marketplace indonesia
+  - jualan online
+image: /blog/cara-optimalkan-profil-tokopedia-shopee/thumbnail.svg
 ---
 
 Berjualan di Tokopedia atau Shopee bukan sekadar upload produk dan tunggu pembeli datang. Ada banyak hal yang bisa kamu optimalkan untuk meningkatkan visibilitas toko kamu di hasil pencarian marketplace dan meningkatkan konversi dari pengunjung menjadi pembeli.
@@ -14,7 +22,9 @@ Artikel ini akan membahas cara mengoptimalkan profil dan produk di Tokopedia dan
 
 ## Mengapa Optimasi Toko Marketplace Penting?
 
-Di marketplace, kamu bersaing dengan ribuan atau bahkan jutaan penjual lain. Algoritma marketplace menentukan produk mana yang muncul di posisi teratas hasil pencarian — dan produk yang muncul di atas mendapat jauh lebih banyak klik dan penjualan.
+![Ilustrasi Cara Optimalkan Profil Toko di Tokopedia dan Shopee](https://images.unsplash.com/photo-1533750354859-b88d8b9d3b4b?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Optimalkan Profil Toko di Tokopedia dan Shopee")
+
+Di marketplace, kamu bersaing dengan ribuan atau bahkan jutaan penjual lain. Algoritma marketplace menentukan produk mana yang muncul di posisi teratas hasil pencarian dan produk yang muncul di atas mendapat jauh lebih banyak klik dan penjualan.
 
 Optimasi toko adalah tentang memastikan algoritma marketplace "menyukai" toko kamu dan menampilkan produk kamu kepada pembeli yang relevan.
 
@@ -30,7 +40,7 @@ Nama toko yang baik:
 
 ### Foto Profil dan Banner
 
-Gunakan foto profil yang jelas dan profesional — idealnya logo bisnis kamu. Banner toko adalah ruang yang sering diabaikan tapi sangat efektif untuk:
+Gunakan foto profil yang jelas dan profesional idealnya logo bisnis kamu. Banner toko adalah ruang yang sering diabaikan tapi sangat efektif untuk:
 - Menampilkan produk unggulan
 - Mengumumkan promo atau penawaran spesial
 - Membangun brand identity
@@ -47,7 +57,7 @@ Tulis deskripsi toko yang informatif dan mengandung kata kunci relevan. Jelaskan
 
 ### Lengkapi Informasi Toko
 
-Isi semua informasi yang tersedia — jam operasional, lokasi, metode pembayaran yang diterima, dan sebagainya. Toko yang informasinya lengkap terlihat lebih terpercaya.
+Isi semua informasi yang tersedia jam operasional, lokasi, metode pembayaran yang diterima, dan sebagainya. Toko yang informasinya lengkap terlihat lebih terpercaya.
 
 ## Optimalkan Listing Produk
 
@@ -62,7 +72,7 @@ Judul produk adalah faktor terpenting dalam SEO marketplace. Sertakan:
 Contoh judul yang kurang optimal: "Kaos Polos"
 Contoh judul yang lebih baik: "Kaos Polos Pria Wanita Cotton Combed 30s Lengan Pendek Baju Polos Unisex"
 
-Tapi jangan berlebihan — judul yang terlalu panjang dan penuh kata kunci terlihat spam dan bisa menurunkan kepercayaan pembeli.
+Tapi jangan berlebihan judul yang terlalu panjang dan penuh kata kunci terlihat spam dan bisa menurunkan kepercayaan pembeli.
 
 ### Foto Produk yang Berkualitas
 
@@ -73,7 +83,7 @@ Foto adalah faktor terpenting yang mempengaruhi keputusan pembelian. Untuk setia
 - Foto produk sedang digunakan (kalau relevan)
 - Foto yang menunjukkan ukuran atau skala
 
-Gunakan semua slot foto yang tersedia — jangan biarkan slot foto kosong.
+Gunakan semua slot foto yang tersedia jangan biarkan slot foto kosong.
 
 ### Deskripsi Produk yang Lengkap
 
@@ -84,7 +94,7 @@ Deskripsi produk yang baik menjawab semua pertanyaan yang mungkin dimiliki pembe
 - Informasi pengiriman
 - Kebijakan pengembalian
 
-Gunakan format yang mudah dibaca — bullet points, heading, dan paragraf pendek.
+Gunakan format yang mudah dibaca bullet points, heading, dan paragraf pendek.
 
 ### Harga yang Kompetitif
 
@@ -120,7 +130,7 @@ Produk yang mengikuti program promosi biasanya mendapat visibilitas yang lebih t
 
 ### Gunakan Iklan Marketplace
 
-Tokopedia punya TopAds dan Shopee punya Shopee Ads — fitur iklan berbayar yang meningkatkan visibilitas produk kamu. Mulai dengan budget kecil untuk testing, lalu optimalkan berdasarkan hasilnya.
+Tokopedia punya TopAds dan Shopee punya Shopee Ads fitur iklan berbayar yang meningkatkan visibilitas produk kamu. Mulai dengan budget kecil untuk testing, lalu optimalkan berdasarkan hasilnya.
 
 ### Konsisten dalam Aktivitas
 
@@ -135,7 +145,5 @@ Manfaatkan data analitik yang disediakan marketplace untuk memahami:
 - Kapan waktu penjualan paling tinggi
 
 Data ini membantu kamu membuat keputusan yang lebih baik tentang produk, harga, dan strategi pemasaran.
-
----
 
 Mengoptimalkan toko di marketplace membutuhkan perhatian yang konsisten. Sementara kamu fokus pada optimasi toko online, BisnisRapi membantu kamu mengelola stok dan pesanan dari semua saluran penjualan dalam satu platform, sehingga kamu tidak kewalahan mengelola bisnis yang semakin berkembang.

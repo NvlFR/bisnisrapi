@@ -44,7 +44,7 @@
   
 
   <!-- Branding -->
-  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">BISNISRAPI.MY.ID</text>
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">BISNIS-RAPI.MY.ID</text>
 
   <!-- Accent line -->
   <rect x="540" y="550" width="120" height="4" rx="2" fill="white" opacity="0.3"/>

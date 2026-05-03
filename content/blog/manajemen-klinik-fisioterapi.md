@@ -1,19 +1,28 @@
 ---
-title: "Manajemen Klinik Fisioterapi: Jadwal Sesi dan Rekam Medis"
-date: "2026-04-05"
-excerpt: "Klinik fisioterapi perlu mengelola jadwal sesi yang padat dan rekam medis yang detail untuk memberikan perawatan yang optimal."
-author: "BisnisRapi Team"
-category: "Kesehatan"
-tags: ["klinik fisioterapi", "jadwal sesi", "rekam medis fisioterapi", "manajemen klinik", "rehabilitasi"]
-image: "/blog/manajemen-klinik-fisioterapi/thumbnail.svg"
+title: 'Manajemen Klinik Fisioterapi: Jadwal Sesi dan Rekam Medis'
+date: '2026-04-05'
+excerpt: >-
+  Klinik fisioterapi perlu mengelola jadwal sesi yang padat dan rekam medis yang
+  detail untuk memberikan perawatan yang optimal.
+author: BisnisRapi Team
+category: Kesehatan
+tags:
+  - klinik fisioterapi
+  - jadwal sesi
+  - rekam medis fisioterapi
+  - manajemen klinik
+  - rehabilitasi
+image: /blog/manajemen-klinik-fisioterapi/thumbnail.svg
 ---
 
 Klinik fisioterapi adalah tempat di mana pasien datang untuk pemulihan dan rehabilitasi. Setiap pasien punya kondisi yang unik, program terapi yang berbeda, dan perjalanan pemulihan yang perlu dipantau dengan cermat. Sistem manajemen yang baik memastikan setiap pasien mendapat perawatan yang optimal dan terstruktur.
 
 ## Karakteristik Unik Klinik Fisioterapi
 
+![Ilustrasi Manajemen Klinik Fisioterapi: Jadwal Sesi dan Rekam Medis](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Klinik Fisioterapi: Jadwal Sesi dan Rekam Medis")
+
 ### Perawatan yang Berkelanjutan
-Berbeda dari klinik dokter umum di mana pasien mungkin hanya datang sekali, pasien fisioterapi biasanya datang untuk serangkaian sesi — bisa 10, 20, atau lebih sesi tergantung kondisi. Ini menciptakan hubungan jangka panjang yang perlu dikelola dengan baik.
+Berbeda dari klinik dokter umum di mana pasien mungkin hanya datang sekali, pasien fisioterapi biasanya datang untuk serangkaian sesi bisa 10, 20, atau lebih sesi tergantung kondisi. Ini menciptakan hubungan jangka panjang yang perlu dikelola dengan baik.
 
 ### Program Terapi yang Individual
 Setiap pasien punya program terapi yang disesuaikan dengan kondisi mereka. Program ini bisa berubah seiring perkembangan pemulihan. Dokumentasi yang baik sangat penting untuk memastikan kontinuitas perawatan.
@@ -127,7 +136,7 @@ Buat daftar tarif yang jelas untuk setiap jenis layanan:
 
 ### Kerjasama dengan Asuransi
 
-Jika klinik kamu bekerjasama dengan asuransi kesehatan, pastikan ada sistem yang memudahkan klaim asuransi — baik untuk pasien maupun untuk administrasi klinik.
+Jika klinik kamu bekerjasama dengan asuransi kesehatan, pastikan ada sistem yang memudahkan klaim asuransi baik untuk pasien maupun untuk administrasi klinik.
 
 ### Laporan Keuangan yang Teratur
 
@@ -137,4 +146,4 @@ Pantau keuangan klinik secara teratur:
 - Tingkat utilisasi (berapa persen slot yang terisi)
 - Tren perkembangan bisnis
 
-Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, klinik fisioterapi bisa mengelola jadwal, rekam medis, paket sesi, dan keuangan dalam satu platform — memungkinkan fisioterapis fokus pada hal yang paling penting: membantu pasien pulih dan mencapai kualitas hidup yang lebih baik.
+Dengan sistem manajemen yang terintegrasi seperti BisnisRapi, klinik fisioterapi bisa mengelola jadwal, rekam medis, paket sesi, dan keuangan dalam satu platform memungkinkan fisioterapis fokus pada hal yang paling penting: membantu pasien pulih dan mencapai kualitas hidup yang lebih baik.

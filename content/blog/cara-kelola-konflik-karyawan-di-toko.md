@@ -1,18 +1,27 @@
 ---
-title: "Cara Kelola Konflik Antar Karyawan di Toko dengan Bijak"
-date: "2025-08-09"
-excerpt: "Panduan praktis mengelola konflik antar karyawan di bisnis UMKM — dari identifikasi akar masalah hingga resolusi yang adil dan menjaga harmoni tim."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["konflik karyawan", "manajemen konflik", "harmoni tim", "manajemen sdm", "kepemimpinan bisnis"]
-image: "/blog/cara-kelola-konflik-karyawan-di-toko/thumbnail.svg"
+title: Cara Kelola Konflik Antar Karyawan di Toko dengan Bijak
+date: '2025-08-09'
+excerpt: >-
+  Panduan praktis mengelola konflik antar karyawan di bisnis UMKM — dari
+  identifikasi akar masalah hingga resolusi yang adil dan menjaga harmoni tim.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - konflik karyawan
+  - manajemen konflik
+  - harmoni tim
+  - manajemen sdm
+  - kepemimpinan bisnis
+image: /blog/cara-kelola-konflik-karyawan-di-toko/thumbnail.svg
 ---
 
-Konflik antar karyawan adalah hal yang hampir tidak bisa dihindari di setiap bisnis. Dua orang dengan kepribadian, latar belakang, dan cara kerja yang berbeda, bekerja dalam ruang yang sama setiap hari — gesekan adalah hal yang wajar. Yang membedakan bisnis yang sehat adalah bagaimana konflik tersebut dikelola.
+Konflik antar karyawan adalah hal yang hampir tidak bisa dihindari di setiap bisnis. Dua orang dengan kepribadian, latar belakang, dan cara kerja yang berbeda, bekerja dalam ruang yang sama setiap hari gesekan adalah hal yang wajar. Yang membedakan bisnis yang sehat adalah bagaimana konflik tersebut dikelola.
 
 Konflik yang tidak ditangani dengan baik bisa merusak produktivitas, moral tim, dan bahkan menyebabkan karyawan terbaik kamu pergi.
 
 ## Mengapa Konflik Terjadi?
+
+![Ilustrasi Cara Kelola Konflik Antar Karyawan di Toko dengan Bijak](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Konflik Antar Karyawan di Toko dengan Bijak")
 
 Memahami akar penyebab konflik membantu kamu menanganinya dengan lebih efektif.
 
@@ -107,4 +116,4 @@ Pencegahan selalu lebih baik dari penanganan:
 
 **Team building**: Kegiatan yang membangun hubungan antar karyawan membantu mereka saling memahami dan menghargai perbedaan.
 
-Bisnis yang dikelola dengan sistem yang baik — termasuk kejelasan peran, beban kerja yang adil, dan komunikasi yang transparan — cenderung memiliki lebih sedikit konflik. BisnisRapi membantu kamu mengelola operasional bisnis dengan lebih terstruktur sehingga sumber-sumber konflik bisa diminimalkan.
+Bisnis yang dikelola dengan sistem yang baik termasuk kejelasan peran, beban kerja yang adil, dan komunikasi yang transparan cenderung memiliki lebih sedikit konflik. BisnisRapi membantu kamu mengelola operasional bisnis dengan lebih terstruktur sehingga sumber-sumber konflik bisa diminimalkan.

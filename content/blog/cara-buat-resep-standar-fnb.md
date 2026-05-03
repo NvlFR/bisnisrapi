@@ -1,18 +1,27 @@
 ---
-title: "Cara Buat Resep Standar (Standard Recipe) untuk Bisnis F&B"
-date: "2026-01-15"
-excerpt: "Panduan membuat standard recipe untuk bisnis F&B agar kualitas produk konsisten, food cost terkontrol, dan operasional dapur lebih efisien."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["resep standar", "standard recipe", "food cost", "manajemen dapur", "bisnis fnb"]
-image: "/blog/cara-buat-resep-standar-fnb/thumbnail.svg"
+title: Cara Buat Resep Standar (Standard Recipe) untuk Bisnis F&B
+date: '2026-01-15'
+excerpt: >-
+  Panduan membuat standard recipe untuk bisnis F&B agar kualitas produk
+  konsisten, food cost terkontrol, dan operasional dapur lebih efisien.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - resep standar
+  - standard recipe
+  - food cost
+  - manajemen dapur
+  - bisnis fnb
+image: /blog/cara-buat-resep-standar-fnb/thumbnail.svg
 ---
 
-Pernah makan di sebuah restoran, rasanya enak banget. Balik lagi minggu depan, tapi rasanya beda — lebih asin, atau porsinya lebih kecil. Pengalaman seperti ini langsung menurunkan kepercayaan pelanggan. Dan penyebabnya hampir selalu sama: tidak ada resep standar.
+Pernah makan di sebuah restoran, rasanya enak banget. Balik lagi minggu depan, tapi rasanya beda lebih asin, atau porsinya lebih kecil. Pengalaman seperti ini langsung menurunkan kepercayaan pelanggan. Dan penyebabnya hampir selalu sama: tidak ada resep standar.
 
-Standard recipe (resep standar) adalah fondasi dari bisnis F&B yang profesional. Tanpanya, kualitas produk bergantung pada "feeling" juru masak yang bertugas hari itu — dan itu sangat berisiko.
+Standard recipe (resep standar) adalah fondasi dari bisnis F&B yang profesional. Tanpanya, kualitas produk bergantung pada "feeling" juru masak yang bertugas hari itu dan itu sangat berisiko.
 
 ## Apa Itu Standard Recipe?
+
+![Ilustrasi Cara Buat Resep Standar (Standard Recipe) untuk Bisnis F&B](https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Resep Standar (Standard Recipe) untuk Bisnis F&B")
 
 Standard recipe adalah dokumentasi tertulis yang menjelaskan secara detail cara membuat satu menu tertentu, mencakup:
 
@@ -23,7 +32,7 @@ Standard recipe adalah dokumentasi tertulis yang menjelaskan secara detail cara 
 - Foto hasil akhir sebagai referensi visual
 - Biaya bahan baku per porsi (food cost)
 
-Dengan standard recipe, siapapun yang memasak — entah itu kamu, karyawan lama, atau karyawan baru — akan menghasilkan produk yang sama setiap kali.
+Dengan standard recipe, siapapun yang memasak entah itu kamu, karyawan lama, atau karyawan baru akan menghasilkan produk yang sama setiap kali.
 
 ## Mengapa Standard Recipe Sangat Penting?
 
@@ -49,11 +58,11 @@ Dengan mengetahui berapa banyak bahan yang dibutuhkan per porsi, kamu bisa mengh
 
 ### Langkah 1: Mulai dari Menu yang Paling Laris
 
-Jangan mencoba membuat resep standar untuk semua menu sekaligus — itu akan overwhelming. Mulai dari 3-5 menu terlaris kamu. Setelah itu, lanjutkan ke menu lainnya secara bertahap.
+Jangan mencoba membuat resep standar untuk semua menu sekaligus itu akan overwhelming. Mulai dari 3-5 menu terlaris kamu. Setelah itu, lanjutkan ke menu lainnya secara bertahap.
 
 ### Langkah 2: Masak dan Ukur dengan Teliti
 
-Masak menu tersebut seperti biasa, tapi kali ini ukur setiap bahan dengan timbangan dapur yang akurat. Catat setiap bahan dalam satuan yang konsisten — gram untuk bahan padat, mililiter untuk cairan.
+Masak menu tersebut seperti biasa, tapi kali ini ukur setiap bahan dengan timbangan dapur yang akurat. Catat setiap bahan dalam satuan yang konsisten gram untuk bahan padat, mililiter untuk cairan.
 
 Hindari ukuran yang ambigu seperti "1 sendok makan" karena ukuran sendok bisa berbeda-beda. Lebih baik tulis dalam gram.
 
@@ -67,7 +76,7 @@ Tulis setiap langkah pembuatan dengan jelas dan berurutan. Sertakan detail yang 
 
 ### Langkah 4: Tentukan Ukuran Porsi
 
-Tentukan berat atau volume standar untuk setiap porsi. Gunakan timbangan atau alat ukur yang konsisten — misalnya, nasi selalu 200 gram per porsi, atau sup selalu 250 ml per mangkuk.
+Tentukan berat atau volume standar untuk setiap porsi. Gunakan timbangan atau alat ukur yang konsisten misalnya, nasi selalu 200 gram per porsi, atau sup selalu 250 ml per mangkuk.
 
 Konsistensi porsi penting untuk dua hal: kepuasan pelanggan (mereka tahu apa yang mereka bayar) dan kontrol food cost.
 
@@ -86,7 +95,7 @@ Kalau harga jual Rp 20.000, maka food cost ratio = 25%. Ini masih dalam batas ya
 
 ### Langkah 6: Ambil Foto Referensi
 
-Foto hasil akhir yang sudah sesuai standar dan lampirkan dalam dokumen resep. Ini menjadi referensi visual bagi karyawan — bagaimana plating yang benar, seberapa penuh porsinya, dan seperti apa tampilan yang diharapkan.
+Foto hasil akhir yang sudah sesuai standar dan lampirkan dalam dokumen resep. Ini menjadi referensi visual bagi karyawan bagaimana plating yang benar, seberapa penuh porsinya, dan seperti apa tampilan yang diharapkan.
 
 ### Langkah 7: Uji Coba dan Validasi
 
@@ -129,6 +138,4 @@ Pastikan setiap kali ada perubahan harga bahan baku, food cost di resep standar 
 
 Tandai tanggal setiap revisi agar kamu bisa melacak perubahan yang sudah dilakukan.
 
----
-
-Membuat dan mengelola standard recipe adalah langkah penting menuju operasional F&B yang profesional. Tapi pengelolaan resep hanyalah satu bagian dari manajemen bisnis yang lebih besar — mulai dari stok bahan baku, pencatatan penjualan, hingga laporan keuangan. BisnisRapi hadir untuk membantu kamu mengelola semua aspek operasional bisnis F&B dalam satu sistem yang terintegrasi.
+Membuat dan mengelola standard recipe adalah langkah penting menuju operasional F&B yang profesional. Tapi pengelolaan resep hanyalah satu bagian dari manajemen bisnis yang lebih besar mulai dari stok bahan baku, pencatatan penjualan, hingga laporan keuangan. BisnisRapi hadir untuk membantu kamu mengelola semua aspek operasional bisnis F&B dalam satu sistem yang terintegrasi.

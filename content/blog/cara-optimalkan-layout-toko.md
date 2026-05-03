@@ -1,11 +1,18 @@
 ---
-title: "Cara Optimalkan Layout Toko untuk Tingkatkan Penjualan"
-date: "2025-03-10"
-excerpt: "Layout toko yang tepat bisa mendorong pelanggan belanja lebih banyak tanpa perlu diskon. Ini panduan praktisnya."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["layout toko", "desain toko", "strategi penjualan", "retail", "UMKM"]
-image: "/blog/cara-optimalkan-layout-toko/thumbnail.svg"
+title: Cara Optimalkan Layout Toko untuk Tingkatkan Penjualan
+date: '2025-03-10'
+excerpt: >-
+  Layout toko yang tepat bisa mendorong pelanggan belanja lebih banyak tanpa
+  perlu diskon. Ini panduan praktisnya.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - layout toko
+  - desain toko
+  - strategi penjualan
+  - retail
+  - UMKM
+image: /blog/cara-optimalkan-layout-toko/thumbnail.svg
 ---
 
 Pernah masuk ke sebuah toko dan tiba-tiba kamu beli banyak barang padahal niatnya cuma mau beli satu? Itu bukan kebetulan. Layout toko yang dirancang dengan baik memang bisa "mengarahkan" perilaku belanja pelanggan secara alami.
@@ -13,6 +20,8 @@ Pernah masuk ke sebuah toko dan tiba-tiba kamu beli banyak barang padahal niatny
 Kabar baiknya, kamu nggak perlu jadi arsitek atau desainer interior untuk mengoptimalkan layout tokomu. Prinsip-prinsipnya cukup sederhana dan bisa langsung diterapkan.
 
 ## Kenapa Layout Toko Itu Penting?
+
+![Ilustrasi Cara Optimalkan Layout Toko untuk Tingkatkan Penjualan](https://images.unsplash.com/photo-1454165833965-06b6d4d62059?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Optimalkan Layout Toko untuk Tingkatkan Penjualan")
 
 Layout toko bukan sekadar soal estetika. Ini soal bagaimana pelanggan bergerak di dalam toko, produk apa yang mereka lihat pertama kali, dan seberapa nyaman mereka berbelanja.
 
@@ -40,7 +49,7 @@ Selama perjalanan itu, ada kemungkinan mereka tertarik dengan produk lain yang b
 
 ### 3. Zona Dekompresi di Pintu Masuk
 
-Area tepat di depan pintu masuk disebut "zona dekompresi." Pelanggan yang baru masuk biasanya masih dalam mode transisi dari luar ke dalam toko — mereka belum siap untuk langsung melihat produk.
+Area tepat di depan pintu masuk disebut "zona dekompresi." Pelanggan yang baru masuk biasanya masih dalam mode transisi dari luar ke dalam toko mereka belum siap untuk langsung melihat produk.
 
 Jangan taruh produk penting di zona ini karena kemungkinan besar akan diabaikan. Gunakan area ini untuk display yang menarik perhatian atau papan informasi promo.
 
@@ -96,9 +105,9 @@ Manfaatkan titik-titik ini untuk display produk promosi, produk baru, atau produ
 
 Setelah mengubah layout, penting untuk mengukur dampaknya. Beberapa hal yang bisa dipantau:
 
-- **Penjualan per kategori produk** — apakah produk yang dipindahkan ke posisi lebih strategis meningkat penjualannya?
-- **Produk yang sering dikembalikan ke rak** — ini bisa jadi indikator produk yang sering diambil tapi tidak jadi dibeli
-- **Waktu rata-rata pelanggan di toko** — semakin lama pelanggan di toko, biasanya semakin banyak yang dibeli
+- **Penjualan per kategori produk** apakah produk yang dipindahkan ke posisi lebih strategis meningkat penjualannya?
+- **Produk yang sering dikembalikan ke rak** ini bisa jadi indikator produk yang sering diambil tapi tidak jadi dibeli
+- **Waktu rata-rata pelanggan di toko** semakin lama pelanggan di toko, biasanya semakin banyak yang dibeli
 
 Di sinilah sistem manajemen toko yang baik sangat membantu. Dengan data penjualan per produk yang tercatat rapi, kamu bisa menganalisis apakah perubahan layout benar-benar berdampak pada angka penjualan. BisnisRapi, misalnya, memungkinkan kamu melihat laporan penjualan per kategori dan per produk secara real-time, sehingga keputusan soal layout bisa didasarkan pada data, bukan sekadar feeling.
 

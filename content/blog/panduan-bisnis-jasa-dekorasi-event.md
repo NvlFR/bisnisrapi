@@ -1,18 +1,28 @@
 ---
-title: "Panduan Bisnis Jasa Dekorasi Event: Peralatan dan Manajemen"
-date: "2026-01-15"
-excerpt: "Panduan lengkap memulai bisnis jasa dekorasi event, dari investasi peralatan awal, manajemen inventori dekorasi, penetapan harga, hingga membangun portofolio yang menarik."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["jasa dekorasi event", "bisnis dekorasi", "dekorasi pernikahan", "event decoration", "bisnis kreatif"]
-image: "/blog/panduan-bisnis-jasa-dekorasi-event/thumbnail.svg"
+title: 'Panduan Bisnis Jasa Dekorasi Event: Peralatan dan Manajemen'
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap memulai bisnis jasa dekorasi event, dari investasi peralatan
+  awal, manajemen inventori dekorasi, penetapan harga, hingga membangun
+  portofolio yang menarik.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - jasa dekorasi event
+  - bisnis dekorasi
+  - dekorasi pernikahan
+  - event decoration
+  - bisnis kreatif
+image: /blog/panduan-bisnis-jasa-dekorasi-event/thumbnail.svg
 ---
 
-Bisnis jasa dekorasi event adalah bisnis kreatif yang menggabungkan seni, manajemen, dan kemampuan teknis. Dari dekorasi pernikahan yang romantis hingga dekorasi ulang tahun yang meriah, dari backdrop foto yang instagrammable hingga dekorasi gala dinner yang elegan — setiap event adalah kanvas baru untuk kreativitas kamu.
+Bisnis jasa dekorasi event adalah bisnis kreatif yang menggabungkan seni, manajemen, dan kemampuan teknis. Dari dekorasi pernikahan yang romantis hingga dekorasi ulang tahun yang meriah, dari backdrop foto yang instagrammable hingga dekorasi gala dinner yang elegan setiap event adalah kanvas baru untuk kreativitas kamu.
 
 Tapi di balik kreativitas, ada aspek bisnis yang perlu dikelola dengan serius: investasi peralatan yang tidak kecil, manajemen inventori yang kompleks, dan koordinasi tim yang ketat.
 
 ## Tentukan Spesialisasi
+
+![Ilustrasi Panduan Bisnis Jasa Dekorasi Event: Peralatan dan Manajemen](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Bisnis Jasa Dekorasi Event: Peralatan dan Manajemen")
 
 Dekorasi event adalah bidang yang sangat luas. Lebih baik fokus pada beberapa jenis event daripada mencoba melayani semua jenis.
 
@@ -66,17 +76,17 @@ Periksa kondisi setiap item setelah digunakan. Item yang rusak perlu diperbaiki 
 
 ### Penyimpanan yang Tepat
 
-Dekorasi yang disimpan dengan baik akan lebih awet. Investasi pada sistem penyimpanan yang baik — rak yang terorganisir, kotak penyimpanan yang berlabel, dan ruang yang cukup.
+Dekorasi yang disimpan dengan baik akan lebih awet. Investasi pada sistem penyimpanan yang baik rak yang terorganisir, kotak penyimpanan yang berlabel, dan ruang yang cukup.
 
 ### Sistem Booking Inventori
 
-Buat sistem untuk melacak item mana yang sudah "dipesan" untuk event tertentu. Ini mencegah double booking — menjanjikan item yang sama untuk dua event di tanggal yang sama.
+Buat sistem untuk melacak item mana yang sudah "dipesan" untuk event tertentu. Ini mencegah double booking menjanjikan item yang sama untuk dua event di tanggal yang sama.
 
 ## Penetapan Harga
 
 Penetapan harga jasa dekorasi event bisa dilakukan dengan beberapa cara:
 
-**Per paket:** Buat beberapa paket dekorasi dengan harga berbeda — paket basic, standard, dan premium. Ini memudahkan klien untuk memilih sesuai anggaran.
+**Per paket:** Buat beberapa paket dekorasi dengan harga berbeda paket basic, standard, dan premium. Ini memudahkan klien untuk memilih sesuai anggaran.
 
 **Custom quote:** Untuk event yang lebih kompleks, buat penawaran harga yang disesuaikan dengan kebutuhan spesifik klien.
 
@@ -125,7 +135,5 @@ Foto yang bagus dari setiap event yang kamu tangani adalah materi pemasaran yang
 **Minta izin klien:** Selalu minta izin sebelum menggunakan foto event klien untuk keperluan pemasaran.
 
 **Tampilkan di media sosial:** Instagram dan Pinterest adalah platform yang sangat efektif untuk bisnis dekorasi event. Posting foto-foto terbaik kamu secara konsisten.
-
----
 
 Mengelola bisnis dekorasi event dengan ratusan item inventori, banyak klien, dan jadwal event yang padat membutuhkan sistem yang sangat terorganisir. BisnisRapi dapat membantu kamu mengelola inventori dekorasi, mencatat setiap proyek, memantau pembayaran klien, dan memastikan tidak ada double booking yang merugikan bisnis kamu.

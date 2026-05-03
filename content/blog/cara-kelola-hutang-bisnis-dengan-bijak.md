@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Hutang Bisnis dengan Bijak agar Tidak Jadi Beban"
-date: "2025-06-25"
-excerpt: "Panduan mengelola hutang bisnis secara bijak — dari strategi prioritas pembayaran hingga cara restrukturisasi hutang yang membebani."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["kelola hutang bisnis", "manajemen hutang", "restrukturisasi hutang", "cicilan bisnis", "keuangan sehat"]
-image: "/blog/cara-kelola-hutang-bisnis-dengan-bijak/thumbnail.svg"
+title: Cara Kelola Hutang Bisnis dengan Bijak agar Tidak Jadi Beban
+date: '2025-06-25'
+excerpt: >-
+  Panduan mengelola hutang bisnis secara bijak — dari strategi prioritas
+  pembayaran hingga cara restrukturisasi hutang yang membebani.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - kelola hutang bisnis
+  - manajemen hutang
+  - restrukturisasi hutang
+  - cicilan bisnis
+  - keuangan sehat
+image: /blog/cara-kelola-hutang-bisnis-dengan-bijak/thumbnail.svg
 ---
 
 Hutang dalam bisnis bukan sesuatu yang harus ditakuti. Hampir semua bisnis yang berkembang pernah menggunakan hutang sebagai leverage untuk tumbuh lebih cepat. Yang berbahaya bukan hutangnya, tapi cara mengelolanya. Hutang yang tidak dikelola dengan baik bisa menggerogoti arus kas, membatasi fleksibilitas bisnis, dan pada akhirnya mengancam kelangsungan usaha.
 
 ## Bedakan Hutang Produktif dan Hutang Konsumtif
+
+![Ilustrasi Cara Kelola Hutang Bisnis dengan Bijak agar Tidak Jadi Beban](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Hutang Bisnis dengan Bijak agar Tidak Jadi Beban")
 
 Tidak semua hutang sama. Ada hutang yang membantu bisnis tumbuh, ada yang hanya menambah beban.
 

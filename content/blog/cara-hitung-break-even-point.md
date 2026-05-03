@@ -1,20 +1,30 @@
 ---
-title: "Cara Hitung Break Even Point untuk Bisnis UMKM"
-date: "2025-05-25"
-excerpt: "Break even point adalah angka yang wajib diketahui setiap pemilik bisnis. Pelajari cara menghitungnya dan menggunakannya untuk keputusan bisnis yang lebih baik."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["break even point", "BEP", "keuangan bisnis", "analisis bisnis", "UMKM"]
-image: "/blog/cara-hitung-break-even-point/thumbnail.svg"
+title: Cara Hitung Break Even Point untuk Bisnis UMKM
+date: '2025-05-25'
+excerpt: >-
+  Break even point adalah angka yang wajib diketahui setiap pemilik bisnis.
+  Pelajari cara menghitungnya dan menggunakannya untuk keputusan bisnis yang
+  lebih baik.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - break even point
+  - BEP
+  - keuangan bisnis
+  - analisis bisnis
+  - UMKM
+image: /blog/cara-hitung-break-even-point/thumbnail.svg
 ---
 
 "Bisnis saya sudah untung belum ya?" Ini pertanyaan yang sering tidak bisa dijawab dengan pasti oleh banyak pemilik UMKM. Mereka tahu ada uang masuk, tapi tidak yakin apakah sudah menutup semua biaya.
 
-Break Even Point (BEP) adalah jawabannya. BEP adalah titik di mana total pendapatan sama dengan total biaya — tidak untung, tidak rugi. Di atas BEP, kamu mulai profit. Di bawah BEP, kamu masih rugi.
+Break Even Point (BEP) adalah jawabannya. BEP adalah titik di mana total pendapatan sama dengan total biaya tidak untung, tidak rugi. Di atas BEP, kamu mulai profit. Di bawah BEP, kamu masih rugi.
 
 Mengetahui BEP adalah salah satu hal paling fundamental dalam mengelola bisnis.
 
 ## Kenapa BEP Penting?
+
+![Ilustrasi Cara Hitung Break Even Point untuk Bisnis UMKM](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Hitung Break Even Point untuk Bisnis UMKM")
 
 **Tahu kapan bisnis mulai profit.** Sebelum mencapai BEP, setiap rupiah yang masuk masih digunakan untuk menutup biaya. Setelah BEP, setiap rupiah tambahan adalah profit.
 
@@ -49,7 +59,7 @@ Sebelum menghitung BEP, kamu perlu memahami dua jenis biaya:
 BEP (unit) = Biaya Tetap / (Harga Jual per Unit - Biaya Variabel per Unit)
 ```
 
-Selisih antara harga jual dan biaya variabel disebut **Contribution Margin** — berapa kontribusi setiap unit yang terjual untuk menutup biaya tetap.
+Selisih antara harga jual dan biaya variabel disebut **Contribution Margin** berapa kontribusi setiap unit yang terjual untuk menutup biaya tetap.
 
 ### BEP dalam Rupiah
 
@@ -155,4 +165,4 @@ Dengan sistem manajemen bisnis yang baik seperti BisnisRapi, kamu bisa memantau 
 
 Break Even Point adalah salah satu angka paling penting yang harus diketahui setiap pemilik bisnis. Ini memberikan gambaran yang jelas tentang berapa minimum yang harus dicapai dan membantu kamu membuat keputusan yang lebih baik tentang harga, biaya, dan target penjualan.
 
-Hitung BEP bisnismu sekarang. Kalau hasilnya terasa tidak realistis untuk dicapai, itu sinyal penting bahwa ada yang perlu dievaluasi — apakah biaya terlalu tinggi, harga terlalu rendah, atau model bisnisnya perlu diubah.
+Hitung BEP bisnismu sekarang. Kalau hasilnya terasa tidak realistis untuk dicapai, itu sinyal penting bahwa ada yang perlu dievaluasi apakah biaya terlalu tinggi, harga terlalu rendah, atau model bisnisnya perlu diubah.

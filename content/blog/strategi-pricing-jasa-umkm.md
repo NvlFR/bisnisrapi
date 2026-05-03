@@ -1,16 +1,25 @@
 ---
-title: "Strategi Pricing Jasa: Cara Tentukan Harga yang Adil dan Profitable"
-date: "2025-06-15"
-excerpt: "Panduan menentukan harga jasa yang tepat untuk UMKM — tidak terlalu murah hingga merugi, tidak terlalu mahal hingga kehilangan pelanggan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["pricing jasa", "strategi harga", "menentukan harga", "harga jasa umkm", "profitabilitas jasa"]
-image: "/blog/strategi-pricing-jasa-umkm/thumbnail.svg"
+title: 'Strategi Pricing Jasa: Cara Tentukan Harga yang Adil dan Profitable'
+date: '2025-06-15'
+excerpt: >-
+  Panduan menentukan harga jasa yang tepat untuk UMKM — tidak terlalu murah
+  hingga merugi, tidak terlalu mahal hingga kehilangan pelanggan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - pricing jasa
+  - strategi harga
+  - menentukan harga
+  - harga jasa umkm
+  - profitabilitas jasa
+image: /blog/strategi-pricing-jasa-umkm/thumbnail.svg
 ---
 
 Menentukan harga jasa adalah salah satu keputusan paling sulit bagi pemilik bisnis jasa. Terlalu murah, kamu kerja keras tapi tidak untung. Terlalu mahal, pelanggan lari ke kompetitor. Dan yang lebih rumit lagi, harga jasa tidak bisa dihitung semudah harga produk fisik karena ada banyak komponen tidak berwujud yang harus diperhitungkan.
 
 ## Mengapa Banyak Bisnis Jasa Salah Menentukan Harga?
+
+![Ilustrasi Strategi Pricing Jasa: Cara Tentukan Harga yang Adil dan Profitable](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Pricing Jasa: Cara Tentukan Harga yang Adil dan Profitable")
 
 Ada beberapa pola yang sering terjadi:
 
@@ -54,7 +63,7 @@ Ini metode yang lebih canggih: harga ditentukan berdasarkan nilai yang kamu beri
 
 Pertanyaan kuncinya: **Berapa nilai yang pelanggan dapatkan dari layanan kamu?**
 
-Contoh: Kamu adalah konsultan pajak yang membantu klien menghemat Rp 50 juta dari kewajiban pajak. Apakah wajar kamu menagih Rp 5 juta? Tentu saja — klien masih untung Rp 45 juta.
+Contoh: Kamu adalah konsultan pajak yang membantu klien menghemat Rp 50 juta dari kewajiban pajak. Apakah wajar kamu menagih Rp 5 juta? Tentu saja klien masih untung Rp 45 juta.
 
 Value-based pricing cocok untuk:
 - Jasa konsultasi dan profesional
@@ -71,17 +80,17 @@ Riset harga kompetitor dan posisikan diri kamu secara strategis:
 
 ## Komponen yang Sering Dilupakan dalam Pricing Jasa
 
-**Waktu administrasi.** Waktu untuk komunikasi dengan klien, membuat proposal, revisi, dan pelaporan — ini semua adalah waktu yang harus dibayar.
+**Waktu administrasi.** Waktu untuk komunikasi dengan klien, membuat proposal, revisi, dan pelaporan ini semua adalah waktu yang harus dibayar.
 
 **Biaya revisi.** Tentukan berapa kali revisi yang termasuk dalam harga, dan berapa biaya untuk revisi tambahan.
 
-**Biaya akuisisi klien.** Biaya marketing, waktu untuk pitching, dan biaya proposal yang tidak jadi — ini harus dialokasikan ke proyek yang berhasil.
+**Biaya akuisisi klien.** Biaya marketing, waktu untuk pitching, dan biaya proposal yang tidak jadi ini harus dialokasikan ke proyek yang berhasil.
 
 **Nilai keahlian dan pengalaman.** Semakin berpengalaman kamu, semakin tinggi nilai yang bisa kamu tawarkan. Jangan undervalue keahlian yang kamu bangun bertahun-tahun.
 
 ## Cara Menyampaikan Harga ke Klien
 
-**Jangan minta maaf soal harga.** "Maaf ya, harganya Rp 500.000..." — ini langsung melemahkan posisi kamu. Sampaikan harga dengan percaya diri.
+**Jangan minta maaf soal harga.** "Maaf ya, harganya Rp 500.000..." ini langsung melemahkan posisi kamu. Sampaikan harga dengan percaya diri.
 
 **Jelaskan apa yang mereka dapatkan.** Bukan hanya harga, tapi nilai yang mereka terima. "Dengan harga Rp 500.000, kamu mendapatkan..."
 

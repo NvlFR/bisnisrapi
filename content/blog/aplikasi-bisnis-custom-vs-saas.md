@@ -1,22 +1,23 @@
 ---
-title: "Aplikasi Bisnis Custom vs SaaS: Mana yang Lebih Worth It untuk UMKM Indonesia?"
-date: "2025-03-22"
-excerpt: "Bayar software per bulan selamanya, atau invest sekali bangun sistem sendiri? Ini analisis jujur biaya, risiko, dan kapan masing-masing pilihan masuk akal untuk bisnis kamu."
-author: "BisnisRapi Team"
-category: "Teknologi Bisnis"
-image: "/blog/aplikasi-bisnis-custom-vs-saas/thumbnail.webp"
-
+title: 'Aplikasi Bisnis Custom vs SaaS: Mana yang Lebih Worth It untuk UMKM Indonesia?'
+date: '2025-03-22'
+excerpt: >-
+  Bayar software per bulan selamanya, atau invest sekali bangun sistem sendiri?
+  Ini analisis jujur biaya, risiko, dan kapan masing-masing pilihan masuk akal
+  untuk bisnis kamu.
+author: BisnisRapi Team
+category: Teknologi Bisnis
+image: /blog/aplikasi-bisnis-custom-vs-saas/thumbnail.webp
 ---
 
-# Aplikasi Bisnis Custom vs SaaS: Mana yang Lebih Worth It?
 
 Setiap pemilik bisnis yang mau go digital menghadapi pertanyaan yang sama: **bangun sistem sendiri, atau pakai software yang sudah ada?**
 
 Ini bukan pertanyaan dengan jawaban universal. Tapi ada framework yang bisa membantu kamu membuat keputusan yang tepat berdasarkan stage bisnis, kebutuhan spesifik, dan kalkulasi biaya jangka panjang.
 
----
-
 ## Mendefinisikan Dua Pilihan
+
+![Ilustrasi Aplikasi Bisnis Custom vs SaaS: Mana yang Lebih Worth It untuk UMKM Indonesia?](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Aplikasi Bisnis Custom vs SaaS: Mana yang Lebih Worth It untuk UMKM Indonesia?")
 
 ### SaaS (Software as a Service)
 
@@ -39,8 +40,6 @@ Aplikasi yang dibangun khusus sesuai kebutuhan spesifik bisnis kamu  oleh tim in
 - Kamu yang responsible untuk maintenance
 - Butuh waktu untuk dibangun
 - Data ada di server kamu (atau sesuai pilihan)
-
----
 
 ## Analisis Biaya: SaaS vs Custom (5 Tahun)
 
@@ -68,8 +67,6 @@ Mari kita hitung secara konkret untuk skenario UMKM menengah yang butuh: sistem 
 | **Total 5 tahun** | **Rp 60-110 juta** |
 
 **Kesimpulan biaya:** Untuk kebutuhan yang komprehensif, custom system seringkali lebih cost-effective dalam 3-5 tahun.
-
----
 
 ## 7 Pertimbangan untuk Memilih
 
@@ -125,8 +122,6 @@ Jika prosesmu standar dan kompetitor juga pakai tools yang sama  tidak ada advan
 
 Tapi jika cara kamu operate adalah differentiator bisnis, memiliki sistem yang secara eksklusif mendukung cara kerja tersebut bisa jadi moat yang nyata.
 
----
-
 ## Framework Keputusan Cepat
 
 ```
@@ -147,8 +142,6 @@ Pertanyaan 4: Apakah kamu punya akses ke vendor/developer yang bisa support jang
 → Tidak → Pilih SaaS yang reliable
 ```
 
----
-
 ## Middle Ground: Custom + SaaS yang Tepat
 
 Pilihan terbaik seringkali bukan salah satu  tapi **kombinasi strategis**:
@@ -165,8 +158,6 @@ Pilihan terbaik seringkali bukan salah satu  tapi **kombinasi strategis**:
 
 Ini persis pendekatan yang BisnisRapi gunakan: membangun **sistem bisnis inti yang custom** sambil mengintegrasikan tools SaaS terbaik di kelasnya (payment, messaging, dll.) ke dalam satu ekosistem yang kohesif.
 
----
-
 ## Pertanyaan yang Harus Ditanyakan ke Vendor Custom Development
 
 Sebelum commit ke proyek custom development, tanyakan:
@@ -177,8 +168,6 @@ Sebelum commit ke proyek custom development, tanyakan:
 4. **"Bagaimana proses jika saya mau pindah vendor?"**  Ada exit plan yang jelas?
 5. **"Apa timeline dan milestone yang konkret?"**  Project tanpa milestone jelas sering terlambat.
 6. **"Berapa lama garansi bug-fixing setelah launch?"**  Minimal 3-6 bulan.
-
----
 
 ## Kesimpulan
 
@@ -191,7 +180,5 @@ Tidak ada jawaban universal. Yang ada adalah keputusan yang tepat berdasarkan si
 **Konsultasikan dulu kalau:** tidak yakin  dan hitung biaya 5 tahun sebelum memutuskan.
 
 BisnisRapi hadir untuk membantu kamu membuat keputusan ini dengan informasi yang tepat  bukan karena kami punya kepentingan menjual satu solusi, tapi karena sistem yang salah akan cost kamu lebih mahal dalam jangka panjang.
-
----
 
 *Mau diskusi kebutuhan spesifik bisnis kamu dan pilihan sistem yang paling tepat? [Konsultasi gratis dengan tim BisnisRapi](#)  kami bantu kamu buat keputusan yang tepat.*

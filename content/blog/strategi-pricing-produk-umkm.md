@@ -1,11 +1,19 @@
 ---
-title: "Strategi Pricing Produk UMKM: Jangan Asal Tebak Harga"
-date: "2025-03-01"
-excerpt: "Harga yang salah bisa bikin bisnis rugi atau kehilangan pelanggan. Pelajari berbagai strategi pricing yang tepat untuk produk UMKM dan cara memilih yang sesuai."
-author: "BisnisRapi Team"
-category: "Strategi Bisnis"
-tags: ["pricing", "strategi harga", "UMKM", "harga produk", "profitabilitas"]
-image: "/blog/strategi-pricing-produk-umkm/thumbnail.svg"
+title: 'Strategi Pricing Produk UMKM: Jangan Asal Tebak Harga'
+date: '2025-03-01'
+excerpt: >-
+  Harga yang salah bisa bikin bisnis rugi atau kehilangan pelanggan. Pelajari
+  berbagai strategi pricing yang tepat untuk produk UMKM dan cara memilih yang
+  sesuai.
+author: BisnisRapi Team
+category: Strategi Bisnis
+tags:
+  - pricing
+  - strategi harga
+  - UMKM
+  - harga produk
+  - profitabilitas
+image: /blog/strategi-pricing-produk-umkm/thumbnail.svg
 ---
 
 "Harga saya ikutin kompetitor aja." Ini jawaban yang sering terdengar dari pemilik UMKM saat ditanya soal strategi pricing. Dan ini adalah salah satu keputusan bisnis yang paling berbahaya.
@@ -15,6 +23,8 @@ Kenapa? Karena kamu tidak tahu apakah kompetitormu sendiri sudah pricing dengan 
 Pricing yang tepat adalah salah satu keputusan paling strategis dalam bisnis. Terlalu murah, kamu rugi atau dianggap murahan. Terlalu mahal, pelanggan lari ke kompetitor. Pas, bisnis tumbuh sehat.
 
 ## Fondasi Pricing: Kenali Biayamu Dulu
+
+![Ilustrasi Strategi Pricing Produk UMKM: Jangan Asal Tebak Harga](https://images.unsplash.com/photo-1507679799987-c7377f323bc2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Pricing Produk UMKM: Jangan Asal Tebak Harga")
 
 Sebelum bicara strategi, ada satu hal yang tidak bisa ditawar: kamu harus tahu berapa biaya untuk menghasilkan atau mendapatkan produkmu (HPP). Tanpa ini, semua strategi pricing hanya tebak-tebakan.
 
@@ -52,7 +62,7 @@ Contoh: Kamu jual kue ulang tahun custom. HPP-nya Rp 150.000, tapi pelanggan rel
 
 ## Strategi 3: Competitive Pricing
 
-Harga ditentukan berdasarkan harga kompetitor — tapi dengan cara yang lebih strategis dari sekadar ikut-ikutan.
+Harga ditentukan berdasarkan harga kompetitor tapi dengan cara yang lebih strategis dari sekadar ikut-ikutan.
 
 Ada tiga posisi:
 - **Harga lebih rendah:** Strategi penetrasi pasar atau untuk produk komoditas
@@ -71,7 +81,7 @@ Memanfaatkan psikologi konsumen dalam menentukan harga.
 
 **Charm pricing:** Rp 99.000 terasa jauh lebih murah dari Rp 100.000, meski selisihnya hanya Rp 1.000.
 
-**Anchoring:** Tampilkan harga yang lebih mahal dulu, lalu harga yang kamu inginkan terasa lebih terjangkau. Ini kenapa restoran sering punya menu mahal di bagian atas — bukan untuk dijual, tapi untuk membuat menu di bawahnya terasa reasonable.
+**Anchoring:** Tampilkan harga yang lebih mahal dulu, lalu harga yang kamu inginkan terasa lebih terjangkau. Ini kenapa restoran sering punya menu mahal di bagian atas bukan untuk dijual, tapi untuk membuat menu di bawahnya terasa reasonable.
 
 **Bundle pricing:** Jual paket yang terasa lebih hemat dari beli satuan. Ini mendorong pembelian lebih banyak sekaligus.
 

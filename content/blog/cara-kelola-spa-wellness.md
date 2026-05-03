@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Spa dan Wellness Center: Treatment, Stok, dan Komisi"
-date: "2025-09-25"
-excerpt: "Spa dan wellness center punya kompleksitas unik: jadwal terapis, stok produk, dan sistem komisi yang perlu dikelola bersamaan."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["spa", "wellness center", "manajemen terapis", "sistem komisi", "booking treatment"]
-image: "/blog/cara-kelola-spa-wellness/thumbnail.svg"
+title: 'Cara Kelola Spa dan Wellness Center: Treatment, Stok, dan Komisi'
+date: '2025-09-25'
+excerpt: >-
+  Spa dan wellness center punya kompleksitas unik: jadwal terapis, stok produk,
+  dan sistem komisi yang perlu dikelola bersamaan.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - spa
+  - wellness center
+  - manajemen terapis
+  - sistem komisi
+  - booking treatment
+image: /blog/cara-kelola-spa-wellness/thumbnail.svg
 ---
 
-Bisnis spa dan wellness center adalah bisnis yang menjual pengalaman. Pelanggan datang bukan hanya untuk treatment — mereka datang untuk relaksasi, pemulihan, dan perasaan diperhatikan. Memberikan pengalaman yang konsisten dan berkualitas tinggi membutuhkan sistem operasional yang baik di balik layar.
+Bisnis spa dan wellness center adalah bisnis yang menjual pengalaman. Pelanggan datang bukan hanya untuk treatment mereka datang untuk relaksasi, pemulihan, dan perasaan diperhatikan. Memberikan pengalaman yang konsisten dan berkualitas tinggi membutuhkan sistem operasional yang baik di balik layar.
 
 ## Kompleksitas Operasional Spa dan Wellness Center
+
+![Ilustrasi Cara Kelola Spa dan Wellness Center: Treatment, Stok, dan Komisi](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Spa dan Wellness Center: Treatment, Stok, dan Komisi")
 
 ### Manajemen Jadwal yang Kompleks
 Setiap terapis punya jadwal kerja, keahlian, dan ketersediaan yang berbeda. Setiap treatment punya durasi yang berbeda. Mencocokkan permintaan pelanggan dengan ketersediaan terapis yang tepat adalah tantangan tersendiri.
@@ -19,7 +28,7 @@ Setiap terapis punya jadwal kerja, keahlian, dan ketersediaan yang berbeda. Seti
 Spa menggunakan berbagai produk: minyak pijat, scrub, masker, aromaterapi, dan berbagai produk perawatan lainnya. Stok yang habis di tengah treatment adalah situasi yang sangat tidak profesional.
 
 ### Sistem Komisi Terapis
-Banyak spa yang menggunakan sistem komisi untuk terapis — mereka mendapat persentase dari setiap treatment yang mereka kerjakan. Menghitung komisi secara manual untuk banyak terapis dengan berbagai jenis treatment bisa sangat rumit.
+Banyak spa yang menggunakan sistem komisi untuk terapis mereka mendapat persentase dari setiap treatment yang mereka kerjakan. Menghitung komisi secara manual untuk banyak terapis dengan berbagai jenis treatment bisa sangat rumit.
 
 ### Manajemen Membership dan Paket
 Banyak spa yang menawarkan membership atau paket treatment. Melacak sisa sesi, tanggal kadaluarsa, dan penggunaan paket untuk setiap member membutuhkan sistem yang baik.
@@ -28,7 +37,7 @@ Banyak spa yang menawarkan membership atau paket treatment. Melacak sisa sesi, t
 
 ### Sistem Booking yang Mudah
 
-Pelanggan harus bisa melakukan booking dengan mudah — baik melalui telepon, WhatsApp, atau platform booking online. Setiap booking harus mencatat:
+Pelanggan harus bisa melakukan booking dengan mudah baik melalui telepon, WhatsApp, atau platform booking online. Setiap booking harus mencatat:
 - Nama dan kontak pelanggan
 - Jenis treatment yang dipilih
 - Tanggal dan waktu
@@ -136,12 +145,12 @@ Kirim notifikasi ketika sesi hampir habis atau paket akan segera kadaluarsa.
 
 ## Laporan yang Perlu Dipantau
 
-- **Pendapatan per treatment** — treatment mana yang paling menguntungkan
-- **Kinerja per terapis** — berapa treatment yang dikerjakan, total komisi
-- **Tingkat booking** — berapa persen slot yang terisi
-- **Retensi pelanggan** — berapa persen pelanggan yang kembali
+- **Pendapatan per treatment** treatment mana yang paling menguntungkan
+- **Kinerja per terapis** berapa treatment yang dikerjakan, total komisi
+- **Tingkat booking** berapa persen slot yang terisi
+- **Retensi pelanggan** berapa persen pelanggan yang kembali
 
-BisnisRapi membantu spa dan wellness center mengelola semua aspek operasional ini — dari booking dan jadwal terapis hingga stok produk dan perhitungan komisi — dalam satu platform yang terintegrasi.
+BisnisRapi membantu spa dan wellness center mengelola semua aspek operasional ini dari booking dan jadwal terapis hingga stok produk dan perhitungan komisi dalam satu platform yang terintegrasi.
 
 ## Menciptakan Pengalaman yang Tak Terlupakan
 

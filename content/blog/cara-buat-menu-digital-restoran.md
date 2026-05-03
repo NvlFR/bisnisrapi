@@ -1,18 +1,28 @@
 ---
-title: "Cara Buat Menu Digital untuk Restoran dan Manfaatnya"
-date: "2025-06-15"
-excerpt: "Menu digital bukan hanya tren — ini solusi praktis yang meningkatkan efisiensi operasional dan pengalaman pelanggan restoran. Pelajari cara membuat dan manfaatnya."
-author: "BisnisRapi Team"
-category: "F&B"
-tags: ["menu digital", "restoran", "F&B", "QR code menu", "digitalisasi restoran"]
-image: "/blog/cara-buat-menu-digital-restoran/thumbnail.svg"
+title: Cara Buat Menu Digital untuk Restoran dan Manfaatnya
+date: '2025-06-15'
+excerpt: >-
+  Menu digital bukan hanya tren — ini solusi praktis yang meningkatkan efisiensi
+  operasional dan pengalaman pelanggan restoran. Pelajari cara membuat dan
+  manfaatnya.
+author: BisnisRapi Team
+category: F&B
+tags:
+  - menu digital
+  - restoran
+  - F&B
+  - QR code menu
+  - digitalisasi restoran
+image: /blog/cara-buat-menu-digital-restoran/thumbnail.svg
 ---
 
-Sejak pandemi, menu digital berbasis QR code menjadi sangat populer di restoran. Tapi banyak yang mengimplementasikannya setengah-setengah — hanya foto menu yang di-upload ke Google Drive, tanpa fitur yang benar-benar memudahkan pelanggan dan operasional.
+Sejak pandemi, menu digital berbasis QR code menjadi sangat populer di restoran. Tapi banyak yang mengimplementasikannya setengah-setengah hanya foto menu yang di-upload ke Google Drive, tanpa fitur yang benar-benar memudahkan pelanggan dan operasional.
 
 Menu digital yang baik bukan sekadar pengganti menu cetak. Ini bisa menjadi alat yang meningkatkan pengalaman pelanggan, mempercepat proses pemesanan, dan bahkan meningkatkan nilai transaksi rata-rata.
 
 ## Kenapa Menu Digital Lebih Baik dari Menu Cetak?
+
+![Ilustrasi Cara Buat Menu Digital untuk Restoran dan Manfaatnya](https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Menu Digital untuk Restoran dan Manfaatnya")
 
 **Mudah diupdate.** Harga naik? Tambah menu baru? Hapus menu yang tidak tersedia? Dengan menu digital, perubahan bisa dilakukan dalam hitungan menit tanpa biaya cetak ulang.
 
@@ -91,13 +101,13 @@ Pastikan QR code:
 
 ### Langkah 4: Desain dan Pasang
 
-Buat desain yang menarik untuk QR code — bisa berupa kartu meja, stiker, atau frame yang sesuai dengan konsep restoran. Pasang di tempat yang mudah terlihat dan mudah di-scan.
+Buat desain yang menarik untuk QR code bisa berupa kartu meja, stiker, atau frame yang sesuai dengan konsep restoran. Pasang di tempat yang mudah terlihat dan mudah di-scan.
 
 ## Tips Menu Digital yang Efektif
 
 **Foto yang berkualitas.** Ini investasi yang worth it. Foto makanan yang bagus bisa meningkatkan keinginan pelanggan untuk memesan menu tersebut.
 
-**Deskripsi yang menggugah selera.** Bukan hanya "Nasi Goreng Spesial" — tapi "Nasi goreng dengan bumbu rempah pilihan, telur mata sapi, dan ayam suwir yang gurih."
+**Deskripsi yang menggugah selera.** Bukan hanya "Nasi Goreng Spesial" tapi "Nasi goreng dengan bumbu rempah pilihan, telur mata sapi, dan ayam suwir yang gurih."
 
 **Highlight menu andalan.** Tandai menu yang paling populer atau yang ingin kamu promosikan.
 
@@ -113,6 +123,6 @@ Menu digital yang terintegrasi dengan sistem POS seperti BisnisRapi memungkinkan
 
 ## Kesimpulan
 
-Menu digital adalah investasi yang relatif kecil dengan manfaat yang signifikan — baik untuk efisiensi operasional maupun pengalaman pelanggan. Mulai dari yang paling sederhana: QR code yang mengarah ke halaman menu yang rapi dan informatif.
+Menu digital adalah investasi yang relatif kecil dengan manfaat yang signifikan baik untuk efisiensi operasional maupun pengalaman pelanggan. Mulai dari yang paling sederhana: QR code yang mengarah ke halaman menu yang rapi dan informatif.
 
 Dari sana, kembangkan ke sistem yang lebih interaktif sesuai kebutuhan dan pertumbuhan bisnis. Yang terpenting: pastikan menu digitalmu benar-benar memudahkan pelanggan, bukan justru mempersulit mereka.

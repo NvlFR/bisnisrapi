@@ -1,16 +1,25 @@
 ---
-title: "Cara Buat Proyeksi Keuangan Bisnis untuk 6-12 Bulan ke Depan"
-date: "2025-06-17"
-excerpt: "Panduan membuat proyeksi keuangan bisnis yang realistis untuk 6-12 bulan ke depan, lengkap dengan template dan cara menggunakannya."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["proyeksi keuangan", "financial forecast", "perencanaan bisnis", "cash flow projection", "keuangan umkm"]
-image: "/blog/cara-buat-proyeksi-keuangan-bisnis/thumbnail.svg"
+title: Cara Buat Proyeksi Keuangan Bisnis untuk 6-12 Bulan ke Depan
+date: '2025-06-17'
+excerpt: >-
+  Panduan membuat proyeksi keuangan bisnis yang realistis untuk 6-12 bulan ke
+  depan, lengkap dengan template dan cara menggunakannya.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - proyeksi keuangan
+  - financial forecast
+  - perencanaan bisnis
+  - cash flow projection
+  - keuangan umkm
+image: /blog/cara-buat-proyeksi-keuangan-bisnis/thumbnail.svg
 ---
 
 Proyeksi keuangan bukan soal meramal masa depan dengan tepat. Tidak ada yang bisa melakukan itu. Proyeksi keuangan adalah tentang membuat rencana yang terstruktur berdasarkan asumsi yang masuk akal, sehingga kamu bisa mengantisipasi masalah sebelum terjadi dan memanfaatkan peluang sebelum terlambat.
 
 ## Apa Bedanya Proyeksi dan Anggaran?
+
+![Ilustrasi Cara Buat Proyeksi Keuangan Bisnis untuk 6-12 Bulan ke Depan](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Proyeksi Keuangan Bisnis untuk 6-12 Bulan ke Depan")
 
 Keduanya sering digunakan bergantian, tapi ada perbedaan:
 
@@ -102,7 +111,7 @@ Buat tiga versi proyeksi:
 
 **Skenario Realistis**: Kondisi normal berdasarkan tren historis.
 
-**Skenario Pesimis**: Ada hambatan — penjualan turun 20%, ada pengeluaran tak terduga besar.
+**Skenario Pesimis**: Ada hambatan penjualan turun 20%, ada pengeluaran tak terduga besar.
 
 Dengan tiga skenario ini, kamu bisa mempersiapkan diri untuk berbagai kemungkinan. Jika skenario pesimis pun masih menunjukkan bisnis bisa bertahan, kamu bisa tidur lebih nyenyak.
 

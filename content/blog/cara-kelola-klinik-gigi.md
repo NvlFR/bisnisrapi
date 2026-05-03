@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Klinik Gigi: Rekam Medis Digital dan Reminder Kontrol"
-date: "2025-12-01"
-excerpt: "Klinik gigi yang terorganisir dengan baik memberikan pengalaman pasien yang lebih baik dan operasional yang lebih efisien."
-author: "BisnisRapi Team"
-category: "Kesehatan"
-tags: ["klinik gigi", "rekam medis digital", "reminder kontrol", "manajemen klinik", "kesehatan"]
-image: "/blog/cara-kelola-klinik-gigi/thumbnail.svg"
+title: 'Cara Kelola Klinik Gigi: Rekam Medis Digital dan Reminder Kontrol'
+date: '2025-12-01'
+excerpt: >-
+  Klinik gigi yang terorganisir dengan baik memberikan pengalaman pasien yang
+  lebih baik dan operasional yang lebih efisien.
+author: BisnisRapi Team
+category: Kesehatan
+tags:
+  - klinik gigi
+  - rekam medis digital
+  - reminder kontrol
+  - manajemen klinik
+  - kesehatan
+image: /blog/cara-kelola-klinik-gigi/thumbnail.svg
 ---
 
-Klinik gigi yang sukses bukan hanya soal keahlian dokter — tapi juga soal bagaimana klinik dikelola. Pasien yang datang ke klinik gigi ingin merasa diperhatikan, tidak harus menunggu terlalu lama, dan mendapat perawatan yang berkelanjutan. Semua ini membutuhkan sistem manajemen yang baik.
+Klinik gigi yang sukses bukan hanya soal keahlian dokter tapi juga soal bagaimana klinik dikelola. Pasien yang datang ke klinik gigi ingin merasa diperhatikan, tidak harus menunggu terlalu lama, dan mendapat perawatan yang berkelanjutan. Semua ini membutuhkan sistem manajemen yang baik.
 
 ## Tantangan Manajemen Klinik Gigi
+
+![Ilustrasi Cara Kelola Klinik Gigi: Rekam Medis Digital dan Reminder Kontrol](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Klinik Gigi: Rekam Medis Digital dan Reminder Kontrol")
 
 ### Rekam Medis yang Kompleks
 Rekam medis pasien gigi mencakup banyak informasi: riwayat perawatan, kondisi gigi saat ini, foto rontgen, rencana perawatan, dan catatan setiap kunjungan. Mengelola ini secara manual dengan kertas sangat tidak efisien dan berisiko.
@@ -19,7 +28,7 @@ Rekam medis pasien gigi mencakup banyak informasi: riwayat perawatan, kondisi gi
 Dokter gigi biasanya punya jadwal yang sangat padat. Manajemen jadwal yang buruk bisa menyebabkan pasien menunggu terlalu lama atau ada slot yang terbuang sia-sia.
 
 ### Follow-up Pasien
-Banyak perawatan gigi membutuhkan kunjungan lanjutan — kontrol setelah cabut gigi, sesi berikutnya untuk pemasangan kawat, atau pemeriksaan rutin 6 bulan sekali. Tanpa sistem reminder, pasien sering lupa dan tidak kembali.
+Banyak perawatan gigi membutuhkan kunjungan lanjutan kontrol setelah cabut gigi, sesi berikutnya untuk pemasangan kawat, atau pemeriksaan rutin 6 bulan sekali. Tanpa sistem reminder, pasien sering lupa dan tidak kembali.
 
 ### Manajemen Stok Bahan Medis
 Klinik gigi menggunakan berbagai bahan dan alat yang perlu dipantau stoknya: bahan tambal, anestesi, sarung tangan, masker, dan berbagai perlengkapan lainnya.
@@ -98,7 +107,7 @@ Tentukan durasi slot waktu yang realistis untuk setiap jenis prosedur:
 - Cabut gigi: 30-60 menit (tergantung kompleksitas)
 - Scaling: 45-60 menit
 
-Jangan terlalu optimis dalam mengisi jadwal — pasien yang menunggu terlalu lama akan kecewa.
+Jangan terlalu optimis dalam mengisi jadwal pasien yang menunggu terlalu lama akan kecewa.
 
 ### Buffer Waktu
 
@@ -135,4 +144,4 @@ Pada akhirnya, klinik gigi yang sukses dibangun di atas kepercayaan pasien. Sist
 - Jadwal yang teratur menghormati waktu pasien
 - Komunikasi yang transparan tentang biaya menghindari kejutan yang tidak menyenangkan
 
-Investasi dalam sistem manajemen yang baik adalah investasi dalam kepercayaan pasien — dan kepercayaan pasien adalah fondasi bisnis klinik yang berkelanjutan.
+Investasi dalam sistem manajemen yang baik adalah investasi dalam kepercayaan pasien dan kepercayaan pasien adalah fondasi bisnis klinik yang berkelanjutan.

@@ -1,18 +1,28 @@
 ---
-title: "Sistem Tracking Laundry: Cara Hindari Baju Pelanggan Tertukar"
-date: "2025-07-05"
-excerpt: "Baju pelanggan yang tertukar atau hilang adalah mimpi buruk bisnis laundry. Pelajari cara membangun sistem tracking yang mencegah masalah ini dan meningkatkan kepercayaan pelanggan."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["laundry", "tracking laundry", "manajemen laundry", "jasa layanan", "sistem bisnis"]
-image: "/blog/sistem-tracking-laundry/thumbnail.svg"
+title: 'Sistem Tracking Laundry: Cara Hindari Baju Pelanggan Tertukar'
+date: '2025-07-05'
+excerpt: >-
+  Baju pelanggan yang tertukar atau hilang adalah mimpi buruk bisnis laundry.
+  Pelajari cara membangun sistem tracking yang mencegah masalah ini dan
+  meningkatkan kepercayaan pelanggan.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - laundry
+  - tracking laundry
+  - manajemen laundry
+  - jasa layanan
+  - sistem bisnis
+image: /blog/sistem-tracking-laundry/thumbnail.svg
 ---
 
 Bisnis laundry terlihat sederhana: terima baju, cuci, kembalikan. Tapi di balik kesederhanaan itu, ada banyak potensi masalah yang bisa merusak reputasi bisnis: baju tertukar, baju hilang, baju rusak, atau pelanggan yang tidak tahu kapan laundry-nya selesai.
 
-Sistem tracking yang baik adalah solusi untuk semua masalah ini. Dan ini bukan hanya untuk laundry besar — laundry kecil pun bisa dan harus punya sistem yang terstruktur.
+Sistem tracking yang baik adalah solusi untuk semua masalah ini. Dan ini bukan hanya untuk laundry besar laundry kecil pun bisa dan harus punya sistem yang terstruktur.
 
 ## Masalah Umum Bisnis Laundry Tanpa Sistem
+
+![Ilustrasi Sistem Tracking Laundry: Cara Hindari Baju Pelanggan Tertukar](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Sistem Tracking Laundry: Cara Hindari Baju Pelanggan Tertukar")
 
 **Baju tertukar.** Ini masalah paling serius. Pelanggan pulang dengan baju orang lain, dan pemilik baju yang benar tidak bisa menemukan pakaiannya. Ini bisa berujung pada konflik dan kerugian finansial.
 
@@ -81,7 +91,7 @@ Bisa dilakukan via WhatsApp, SMS, atau aplikasi.
 ## Prosedur Penerimaan Laundry yang Benar
 
 1. **Hitung dan catat semua item** di depan pelanggan
-2. **Periksa kondisi** — catat noda, kerusakan, atau kondisi khusus yang sudah ada
+2. **Periksa kondisi** catat noda, kerusakan, atau kondisi khusus yang sudah ada
 3. **Beri label** pada setiap item dengan nomor order
 4. **Buat formulir** dengan semua detail
 5. **Berikan salinan** kepada pelanggan
@@ -108,7 +118,7 @@ Langkah ini mungkin terasa memakan waktu, tapi ini investasi yang mencegah masal
 
 **Pantau waktu penyelesaian.** Kalau ada order yang hampir melewati deadline, prioritaskan segera.
 
-Sistem manajemen laundry seperti yang tersedia di BisnisRapi membantu kamu mengelola semua aspek ini dalam satu platform — dari penerimaan order, tracking status, notifikasi pelanggan, sampai laporan keuangan.
+Sistem manajemen laundry seperti yang tersedia di BisnisRapi membantu kamu mengelola semua aspek ini dalam satu platform dari penerimaan order, tracking status, notifikasi pelanggan, sampai laporan keuangan.
 
 ## Kesimpulan
 

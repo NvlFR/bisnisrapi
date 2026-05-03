@@ -1,16 +1,25 @@
 ---
-title: "Cara Kelola Pengeluaran Operasional agar Tidak Membengkak"
-date: "2025-06-13"
-excerpt: "Strategi praktis mengelola dan memangkas pengeluaran operasional bisnis tanpa mengorbankan kualitas produk atau layanan."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["pengeluaran operasional", "efisiensi biaya", "cost control", "manajemen biaya", "hemat bisnis"]
-image: "/blog/cara-kelola-pengeluaran-operasional/thumbnail.svg"
+title: Cara Kelola Pengeluaran Operasional agar Tidak Membengkak
+date: '2025-06-13'
+excerpt: >-
+  Strategi praktis mengelola dan memangkas pengeluaran operasional bisnis tanpa
+  mengorbankan kualitas produk atau layanan.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - pengeluaran operasional
+  - efisiensi biaya
+  - cost control
+  - manajemen biaya
+  - hemat bisnis
+image: /blog/cara-kelola-pengeluaran-operasional/thumbnail.svg
 ---
 
-Pengeluaran operasional yang tidak terkontrol adalah salah satu penyebab paling umum bisnis UMKM tidak bisa berkembang. Omzet naik, tapi laba tidak ikut naik — bahkan bisa turun. Ini terjadi karena biaya operasional ikut membengkak seiring pertumbuhan bisnis, tapi tidak ada yang mengawasinya dengan serius.
+Pengeluaran operasional yang tidak terkontrol adalah salah satu penyebab paling umum bisnis UMKM tidak bisa berkembang. Omzet naik, tapi laba tidak ikut naik bahkan bisa turun. Ini terjadi karena biaya operasional ikut membengkak seiring pertumbuhan bisnis, tapi tidak ada yang mengawasinya dengan serius.
 
 ## Kenali Dulu Struktur Pengeluaran Kamu
+
+![Ilustrasi Cara Kelola Pengeluaran Operasional agar Tidak Membengkak](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Pengeluaran Operasional agar Tidak Membengkak")
 
 Sebelum bisa mengelola pengeluaran, kamu harus tahu dulu ke mana uang kamu pergi. Banyak pemilik UMKM terkejut ketika pertama kali melihat rincian pengeluaran mereka secara detail.
 

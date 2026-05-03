@@ -1,18 +1,28 @@
 ---
-title: "Cara Kelola Booking Salon Biar Nggak Tabrakan Jadwal"
-date: "2025-07-01"
-excerpt: "Jadwal yang tabrakan dan pelanggan yang menunggu lama adalah masalah klasik salon. Pelajari cara mengelola booking salon dengan sistem yang efisien dan profesional."
-author: "BisnisRapi Team"
-category: "Jasa & Layanan"
-tags: ["booking salon", "manajemen jadwal", "salon kecantikan", "jasa layanan", "digitalisasi"]
-image: "/blog/cara-kelola-booking-salon/thumbnail.svg"
+title: Cara Kelola Booking Salon Biar Nggak Tabrakan Jadwal
+date: '2025-07-01'
+excerpt: >-
+  Jadwal yang tabrakan dan pelanggan yang menunggu lama adalah masalah klasik
+  salon. Pelajari cara mengelola booking salon dengan sistem yang efisien dan
+  profesional.
+author: BisnisRapi Team
+category: Jasa & Layanan
+tags:
+  - booking salon
+  - manajemen jadwal
+  - salon kecantikan
+  - jasa layanan
+  - digitalisasi
+image: /blog/cara-kelola-booking-salon/thumbnail.svg
 ---
 
-"Maaf Kak, ternyata jadwalnya sudah penuh." Atau lebih parah: dua pelanggan datang di waktu yang sama untuk stylist yang sama. Situasi seperti ini tidak hanya membuat pelanggan kecewa — ini merusak reputasi salon yang sudah susah payah dibangun.
+"Maaf Kak, ternyata jadwalnya sudah penuh." Atau lebih parah: dua pelanggan datang di waktu yang sama untuk stylist yang sama. Situasi seperti ini tidak hanya membuat pelanggan kecewa ini merusak reputasi salon yang sudah susah payah dibangun.
 
 Manajemen booking yang baik adalah salah satu faktor terpenting dalam bisnis salon. Ini mempengaruhi kepuasan pelanggan, efisiensi kerja stylist, dan pada akhirnya profitabilitas bisnis.
 
 ## Masalah Umum Manajemen Booking Salon
+
+![Ilustrasi Cara Kelola Booking Salon Biar Nggak Tabrakan Jadwal](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Booking Salon Biar Nggak Tabrakan Jadwal")
 
 **Double booking.** Dua pelanggan dijadwalkan di waktu yang sama untuk stylist yang sama. Ini terjadi karena tidak ada sistem yang mencegahnya.
 
@@ -72,7 +82,7 @@ Dengan durasi standar, sistem bisa otomatis memblokir slot waktu yang tepat untu
 
 ### Langkah 2: Tentukan Kapasitas per Stylist
 
-Berapa pelanggan maksimum yang bisa dilayani setiap stylist per hari? Ini tergantung jenis layanan dan kemampuan stylist. Jangan overbooking — lebih baik sedikit tapi kualitas terjaga.
+Berapa pelanggan maksimum yang bisa dilayani setiap stylist per hari? Ini tergantung jenis layanan dan kemampuan stylist. Jangan overbooking lebih baik sedikit tapi kualitas terjaga.
 
 ### Langkah 3: Buat Kebijakan Booking yang Jelas
 

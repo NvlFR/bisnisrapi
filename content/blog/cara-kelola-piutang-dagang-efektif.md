@@ -1,18 +1,27 @@
 ---
-title: "Cara Kelola Piutang Dagang agar Tidak Mengganggu Cash Flow"
-date: "2025-07-15"
-excerpt: "Strategi efektif mengelola piutang dagang UMKM agar pembayaran dari pelanggan masuk tepat waktu dan tidak mengganggu arus kas bisnis."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["piutang dagang", "accounts receivable", "cash flow", "penagihan piutang", "manajemen kredit"]
-image: "/blog/cara-kelola-piutang-dagang-efektif/thumbnail.svg"
+title: Cara Kelola Piutang Dagang agar Tidak Mengganggu Cash Flow
+date: '2025-07-15'
+excerpt: >-
+  Strategi efektif mengelola piutang dagang UMKM agar pembayaran dari pelanggan
+  masuk tepat waktu dan tidak mengganggu arus kas bisnis.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - piutang dagang
+  - accounts receivable
+  - cash flow
+  - penagihan piutang
+  - manajemen kredit
+image: /blog/cara-kelola-piutang-dagang-efektif/thumbnail.svg
 ---
 
-Piutang dagang adalah uang yang seharusnya sudah ada di rekening kamu tapi masih "terjebak" di tangan pelanggan. Bagi banyak UMKM, piutang yang menumpuk adalah salah satu penyebab utama masalah arus kas — bisnis terlihat untung di atas kertas, tapi rekening hampir kosong karena pelanggan belum bayar.
+Piutang dagang adalah uang yang seharusnya sudah ada di rekening kamu tapi masih "terjebak" di tangan pelanggan. Bagi banyak UMKM, piutang yang menumpuk adalah salah satu penyebab utama masalah arus kas bisnis terlihat untung di atas kertas, tapi rekening hampir kosong karena pelanggan belum bayar.
 
 Mengelola piutang dengan baik bukan hanya soal menagih lebih keras. Ini soal membangun sistem yang mencegah piutang bermasalah sejak awal.
 
 ## Mengapa Piutang Bermasalah Berbahaya?
+
+![Ilustrasi Cara Kelola Piutang Dagang agar Tidak Mengganggu Cash Flow](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Piutang Dagang agar Tidak Mengganggu Cash Flow")
 
 Piutang yang tidak tertagih atau terlambat dibayar berdampak pada:
 
@@ -60,11 +69,11 @@ Kirim invoice segera setelah pekerjaan selesai atau barang dikirim. Jangan tunda
 
 Jangan tunggu piutang jatuh tempo baru mulai menagih. Buat sistem pengingat bertahap:
 
-**7 hari sebelum jatuh tempo**: Kirim pengingat ramah — "Halo, invoice #001 akan jatuh tempo pada tanggal X. Mohon konfirmasi jika ada pertanyaan."
+**7 hari sebelum jatuh tempo**: Kirim pengingat ramah "Halo, invoice #001 akan jatuh tempo pada tanggal X. Mohon konfirmasi jika ada pertanyaan."
 
-**Hari jatuh tempo**: Kirim konfirmasi — "Invoice #001 jatuh tempo hari ini. Apakah pembayaran sudah diproses?"
+**Hari jatuh tempo**: Kirim konfirmasi "Invoice #001 jatuh tempo hari ini. Apakah pembayaran sudah diproses?"
 
-**3 hari setelah jatuh tempo**: Tindak lanjut — "Invoice #001 sudah melewati jatuh tempo. Mohon segera lakukan pembayaran."
+**3 hari setelah jatuh tempo**: Tindak lanjut "Invoice #001 sudah melewati jatuh tempo. Mohon segera lakukan pembayaran."
 
 **7 hari setelah jatuh tempo**: Hubungi langsung via telepon.
 

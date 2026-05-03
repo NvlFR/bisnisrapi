@@ -1,18 +1,27 @@
 ---
-title: "Strategi Digital Marketing untuk UMKM yang Minim Budget"
-date: "2025-07-15"
-excerpt: "Digital marketing tidak harus mahal. Dengan strategi yang tepat, UMKM bisa menjangkau lebih banyak pelanggan tanpa menguras kantong."
-author: "BisnisRapi Team"
-category: "Pemasaran"
-tags: ["digital marketing", "pemasaran UMKM", "media sosial", "konten marketing", "SEO"]
-image: "/blog/strategi-digital-marketing-umkm/thumbnail.svg"
+title: Strategi Digital Marketing untuk UMKM yang Minim Budget
+date: '2025-07-15'
+excerpt: >-
+  Digital marketing tidak harus mahal. Dengan strategi yang tepat, UMKM bisa
+  menjangkau lebih banyak pelanggan tanpa menguras kantong.
+author: BisnisRapi Team
+category: Pemasaran
+tags:
+  - digital marketing
+  - pemasaran UMKM
+  - media sosial
+  - konten marketing
+  - SEO
+image: /blog/strategi-digital-marketing-umkm/thumbnail.svg
 ---
 
-Banyak pemilik UMKM yang merasa digital marketing itu mahal dan rumit. Padahal, dengan strategi yang tepat, kamu bisa menjangkau ribuan calon pelanggan dengan budget yang sangat terbatas — bahkan hampir gratis.
+Banyak pemilik UMKM yang merasa digital marketing itu mahal dan rumit. Padahal, dengan strategi yang tepat, kamu bisa menjangkau ribuan calon pelanggan dengan budget yang sangat terbatas bahkan hampir gratis.
 
 Kuncinya bukan seberapa besar budget kamu, tapi seberapa cerdas kamu menggunakannya.
 
 ## Fondasi Digital Marketing yang Kuat
+
+![Ilustrasi Strategi Digital Marketing untuk UMKM yang Minim Budget](https://images.unsplash.com/photo-1551836022-d5d8b5c9d107?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Digital Marketing untuk UMKM yang Minim Budget")
 
 Sebelum bicara tentang strategi spesifik, ada beberapa fondasi yang perlu kamu bangun:
 
@@ -28,15 +37,15 @@ Profil yang tidak lengkap membuat calon pelanggan ragu untuk menghubungi kamu.
 
 ### Google Business Profile (Gratis!)
 
-Jika bisnis kamu punya lokasi fisik, daftarkan di Google Business Profile. Ini gratis dan sangat powerful — bisnis kamu akan muncul di Google Maps dan hasil pencarian lokal.
+Jika bisnis kamu punya lokasi fisik, daftarkan di Google Business Profile. Ini gratis dan sangat powerful bisnis kamu akan muncul di Google Maps dan hasil pencarian lokal.
 
-Pastikan informasi selalu up-to-date: jam buka, nomor telepon, dan foto terbaru. Minta pelanggan yang puas untuk memberikan ulasan — ulasan positif sangat mempengaruhi keputusan calon pelanggan.
+Pastikan informasi selalu up-to-date: jam buka, nomor telepon, dan foto terbaru. Minta pelanggan yang puas untuk memberikan ulasan ulasan positif sangat mempengaruhi keputusan calon pelanggan.
 
 ## Strategi Konten Media Sosial
 
 ### Pilih Platform yang Tepat
 
-Jangan mencoba hadir di semua platform sekaligus — kamu akan kehabisan energi. Pilih 1-2 platform yang paling relevan dengan target pelanggan kamu:
+Jangan mencoba hadir di semua platform sekaligus kamu akan kehabisan energi. Pilih 1-2 platform yang paling relevan dengan target pelanggan kamu:
 
 - **Instagram:** cocok untuk bisnis visual (makanan, fashion, kecantikan, dekorasi)
 - **TikTok:** cocok untuk menjangkau audiens yang lebih muda dengan konten video
@@ -70,7 +79,7 @@ Hashtag membantu konten kamu ditemukan oleh orang yang belum mengikuti akun kamu
 
 ## WhatsApp Business: Aset yang Sering Diabaikan
 
-WhatsApp Business adalah salah satu tool digital marketing paling powerful untuk UMKM Indonesia — dan gratis.
+WhatsApp Business adalah salah satu tool digital marketing paling powerful untuk UMKM Indonesia dan gratis.
 
 ### Fitur yang Wajib Dimanfaatkan
 
@@ -89,7 +98,7 @@ Kirim broadcast ke pelanggan yang sudah pernah beli dari kamu untuk:
 - Promo spesial
 - Pengingat untuk pelanggan yang sudah lama tidak beli
 
-Pastikan konten broadcast relevan dan tidak terlalu sering — jangan sampai pelanggan merasa terganggu dan memblokir nomor kamu.
+Pastikan konten broadcast relevan dan tidak terlalu sering jangan sampai pelanggan merasa terganggu dan memblokir nomor kamu.
 
 ## SEO Lokal: Ditemukan di Google
 
@@ -109,7 +118,7 @@ Cari bisnis yang melayani target pelanggan yang sama tapi tidak bersaing langsun
 
 ### Bergabung dengan Komunitas UMKM
 
-Bergabung dengan komunitas UMKM lokal — baik online maupun offline. Ini membuka peluang untuk:
+Bergabung dengan komunitas UMKM lokal baik online maupun offline. Ini membuka peluang untuk:
 - Berbagi pengetahuan dan pengalaman
 - Mendapat referral dari sesama anggota
 - Kolaborasi yang saling menguntungkan
@@ -126,4 +135,4 @@ Dengan data ini, kamu bisa tahu strategi mana yang efektif dan mana yang perlu d
 
 Ingat, digital marketing adalah maraton, bukan sprint. Hasil yang signifikan biasanya baru terlihat setelah beberapa bulan konsistensi. Yang penting, mulai dari sekarang dan terus konsisten.
 
-Dan ketika bisnis kamu mulai berkembang berkat digital marketing, pastikan operasional kamu siap menangani peningkatan permintaan. Sistem manajemen bisnis yang baik — seperti BisnisRapi — memastikan kamu bisa melayani lebih banyak pelanggan tanpa kehilangan kualitas.
+Dan ketika bisnis kamu mulai berkembang berkat digital marketing, pastikan operasional kamu siap menangani peningkatan permintaan. Sistem manajemen bisnis yang baik seperti BisnisRapi memastikan kamu bisa melayani lebih banyak pelanggan tanpa kehilangan kualitas.

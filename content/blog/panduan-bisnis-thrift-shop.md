@@ -1,18 +1,27 @@
 ---
-title: "Panduan Bisnis Thrift Shop: Peluang dan Cara Mengelolanya"
-date: "2026-01-15"
-excerpt: "Panduan lengkap memulai dan mengelola bisnis thrift shop, dari sourcing barang bekas berkualitas, penetapan harga, hingga strategi pemasaran yang efektif."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["thrift shop", "bisnis baju bekas", "second hand fashion", "thrifting", "bisnis sustainable fashion"]
-image: "/blog/panduan-bisnis-thrift-shop/thumbnail.svg"
+title: 'Panduan Bisnis Thrift Shop: Peluang dan Cara Mengelolanya'
+date: '2026-01-15'
+excerpt: >-
+  Panduan lengkap memulai dan mengelola bisnis thrift shop, dari sourcing barang
+  bekas berkualitas, penetapan harga, hingga strategi pemasaran yang efektif.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - thrift shop
+  - bisnis baju bekas
+  - second hand fashion
+  - thrifting
+  - bisnis sustainable fashion
+image: /blog/panduan-bisnis-thrift-shop/thumbnail.svg
 ---
 
-Thrift shop — toko yang menjual pakaian dan barang bekas berkualitas — sedang mengalami kebangkitan yang luar biasa. Didorong oleh kesadaran lingkungan, tren sustainable fashion, dan daya beli yang beragam, thrifting kini bukan lagi sekadar pilihan terakhir tapi sudah menjadi gaya hidup dan pernyataan nilai.
+Thrift shop toko yang menjual pakaian dan barang bekas berkualitas sedang mengalami kebangkitan yang luar biasa. Didorong oleh kesadaran lingkungan, tren sustainable fashion, dan daya beli yang beragam, thrifting kini bukan lagi sekadar pilihan terakhir tapi sudah menjadi gaya hidup dan pernyataan nilai.
 
-Bisnis thrift shop punya karakteristik yang unik dan menarik — setiap item adalah satu-satunya, margin keuntungan bisa sangat tinggi, dan ada kepuasan tersendiri dalam memberikan "kehidupan kedua" pada pakaian yang masih layak pakai.
+Bisnis thrift shop punya karakteristik yang unik dan menarik setiap item adalah satu-satunya, margin keuntungan bisa sangat tinggi, dan ada kepuasan tersendiri dalam memberikan "kehidupan kedua" pada pakaian yang masih layak pakai.
 
 ## Mengapa Bisnis Thrift Shop Menarik?
+
+![Ilustrasi Panduan Bisnis Thrift Shop: Peluang dan Cara Mengelolanya](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Bisnis Thrift Shop: Peluang dan Cara Mengelolanya")
 
 **Modal awal yang fleksibel:** Kamu bisa mulai dengan modal yang relatif kecil, bahkan dari barang-barang di lemari sendiri atau keluarga.
 
@@ -45,7 +54,7 @@ Beberapa thrift store menjual barang dalam jumlah besar (bulk) dengan harga mura
 
 ### Impor Baju Bekas (Ballpress)
 
-Impor baju bekas dalam bentuk "ballpress" (karung besar berisi campuran pakaian bekas) dari luar negeri. Ini bisa memberikan volume yang besar dengan harga yang murah, tapi ada risiko — kamu tidak tahu persis apa yang ada di dalam sebelum membuka.
+Impor baju bekas dalam bentuk "ballpress" (karung besar berisi campuran pakaian bekas) dari luar negeri. Ini bisa memberikan volume yang besar dengan harga yang murah, tapi ada risiko kamu tidak tahu persis apa yang ada di dalam sebelum membuka.
 
 **Catatan penting:** Pastikan kamu memahami regulasi impor barang bekas di Indonesia. Ada regulasi yang mengatur impor pakaian bekas, dan melanggarnya bisa berakibat serius.
 
@@ -61,7 +70,7 @@ Tidak semua barang bekas layak dijual. Kemampuan untuk memilih barang yang tepat
 - Ritsleting dan kancing berfungsi
 
 **Kenali brand dan kualitas:**
-Kemampuan mengenali brand berkualitas — baik brand lokal maupun internasional — sangat berharga. Pakaian dari brand premium bisa dijual dengan harga yang jauh lebih tinggi.
+Kemampuan mengenali brand berkualitas baik brand lokal maupun internasional sangat berharga. Pakaian dari brand premium bisa dijual dengan harga yang jauh lebih tinggi.
 
 **Perhatikan tren:**
 Meski menjual barang bekas, kamu tetap perlu memperhatikan tren fashion. Barang yang sedang tren akan lebih mudah terjual.
@@ -111,6 +120,4 @@ Bisnis thrift shop yang sukses biasanya punya komunitas yang kuat di sekitarnya.
 - Behind the scene proses kurasi
 - Kolaborasi dengan sesama thrifter atau fashion influencer
 
----
-
-Mengelola inventori thrift shop yang terus berubah — dengan ratusan item unik yang masuk dan keluar — membutuhkan sistem pencatatan yang baik. BisnisRapi dapat membantu kamu melacak setiap item, memantau pergerakan stok, dan menganalisis kategori barang mana yang paling cepat terjual.
+Mengelola inventori thrift shop yang terus berubah dengan ratusan item unik yang masuk dan keluar membutuhkan sistem pencatatan yang baik. BisnisRapi dapat membantu kamu melacak setiap item, memantau pergerakan stok, dan menganalisis kategori barang mana yang paling cepat terjual.

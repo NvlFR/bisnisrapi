@@ -1,18 +1,28 @@
 ---
-title: "Cara Buat Rencana Bisnis (Business Plan) Sederhana tapi Efektif"
-date: "2025-09-10"
-excerpt: "Panduan membuat rencana bisnis yang sederhana namun efektif untuk UMKM — bukan dokumen tebal yang tidak pernah dibaca, tapi panduan nyata yang membantu bisnis berkembang."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["rencana bisnis", "business plan", "perencanaan bisnis", "strategi umkm", "pengembangan bisnis"]
-image: "/blog/cara-buat-rencana-bisnis-sederhana/thumbnail.svg"
+title: Cara Buat Rencana Bisnis (Business Plan) Sederhana tapi Efektif
+date: '2025-09-10'
+excerpt: >-
+  Panduan membuat rencana bisnis yang sederhana namun efektif untuk UMKM — bukan
+  dokumen tebal yang tidak pernah dibaca, tapi panduan nyata yang membantu
+  bisnis berkembang.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - rencana bisnis
+  - business plan
+  - perencanaan bisnis
+  - strategi umkm
+  - pengembangan bisnis
+image: /blog/cara-buat-rencana-bisnis-sederhana/thumbnail.svg
 ---
 
-"Business plan itu untuk perusahaan besar atau yang mau cari investor." Ini adalah kesalahpahaman yang umum. Rencana bisnis yang baik bermanfaat untuk bisnis dari semua ukuran — bukan karena kamu harus menyerahkannya ke bank atau investor, tapi karena proses membuatnya memaksa kamu berpikir secara sistematis tentang bisnis kamu.
+"Business plan itu untuk perusahaan besar atau yang mau cari investor." Ini adalah kesalahpahaman yang umum. Rencana bisnis yang baik bermanfaat untuk bisnis dari semua ukuran bukan karena kamu harus menyerahkannya ke bank atau investor, tapi karena proses membuatnya memaksa kamu berpikir secara sistematis tentang bisnis kamu.
 
 Rencana bisnis yang baik bukan dokumen tebal yang penuh jargon. Ini adalah panduan hidup yang membantu kamu membuat keputusan yang lebih baik setiap hari.
 
 ## Mengapa Banyak Business Plan Tidak Berguna?
+
+![Ilustrasi Cara Buat Rencana Bisnis (Business Plan) Sederhana tapi Efektif](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Rencana Bisnis (Business Plan) Sederhana tapi Efektif")
 
 Business plan yang tidak berguna biasanya punya ciri-ciri:
 - Dibuat sekali lalu disimpan dan tidak pernah dibuka lagi
@@ -47,7 +57,7 @@ Ringkasan singkat tentang bisnis kamu:
 
 ### 3. Analisis Pasar
 
-**Target Pelanggan**: Siapa pelanggan ideal kamu? Deskripsikan secara spesifik — bukan "semua orang" tapi "ibu rumah tangga usia 25-40 tahun di kota menengah yang peduli dengan makanan sehat untuk keluarga."
+**Target Pelanggan**: Siapa pelanggan ideal kamu? Deskripsikan secara spesifik bukan "semua orang" tapi "ibu rumah tangga usia 25-40 tahun di kota menengah yang peduli dengan makanan sehat untuk keluarga."
 
 **Ukuran Pasar**: Seberapa besar pasar yang kamu targetkan? (Estimasi, tidak perlu angka yang sangat presisi)
 
@@ -112,6 +122,6 @@ Tetapkan tujuan yang spesifik dan terukur untuk 3, 6, dan 12 bulan ke depan:
 
 **Libatkan tim.** Business plan yang dibuat bersama tim lebih mungkin dijalankan dengan komitmen penuh.
 
-**Mulai dari yang ada.** Jika bisnis sudah berjalan, mulai dari kondisi saat ini — bukan dari nol. Data historis adalah fondasi yang jauh lebih kuat dari asumsi.
+**Mulai dari yang ada.** Jika bisnis sudah berjalan, mulai dari kondisi saat ini bukan dari nol. Data historis adalah fondasi yang jauh lebih kuat dari asumsi.
 
 Rencana bisnis yang baik didukung oleh data yang akurat. BisnisRapi membantu kamu mengumpulkan dan menganalisis data operasional dan keuangan bisnis, sehingga proyeksi dalam business plan kamu didasarkan pada realita, bukan harapan semata.

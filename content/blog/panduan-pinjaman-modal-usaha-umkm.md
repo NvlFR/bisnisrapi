@@ -1,16 +1,25 @@
 ---
-title: "Panduan Pinjaman Modal Usaha untuk UMKM: KUR dan Alternatifnya"
-date: "2025-06-03"
-excerpt: "Panduan lengkap memilih pinjaman modal usaha yang tepat untuk UMKM, mulai dari KUR bank hingga alternatif pembiayaan lainnya."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["pinjaman modal usaha", "kur bank", "modal umkm", "kredit usaha rakyat", "pembiayaan umkm"]
-image: "/blog/panduan-pinjaman-modal-usaha-umkm/thumbnail.svg"
+title: 'Panduan Pinjaman Modal Usaha untuk UMKM: KUR dan Alternatifnya'
+date: '2025-06-03'
+excerpt: >-
+  Panduan lengkap memilih pinjaman modal usaha yang tepat untuk UMKM, mulai dari
+  KUR bank hingga alternatif pembiayaan lainnya.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - pinjaman modal usaha
+  - kur bank
+  - modal umkm
+  - kredit usaha rakyat
+  - pembiayaan umkm
+image: /blog/panduan-pinjaman-modal-usaha-umkm/thumbnail.svg
 ---
 
-Salah satu tantangan terbesar yang dihadapi pelaku UMKM adalah soal modal. Ide bisnis bagus, semangat membara, tapi dana terbatas. Kabar baiknya, ada banyak pilihan pinjaman modal usaha yang bisa kamu manfaatkan — mulai dari yang berbunga rendah hingga yang tanpa agunan. Kuncinya adalah tahu mana yang paling cocok untuk kondisi bisnismu.
+Salah satu tantangan terbesar yang dihadapi pelaku UMKM adalah soal modal. Ide bisnis bagus, semangat membara, tapi dana terbatas. Kabar baiknya, ada banyak pilihan pinjaman modal usaha yang bisa kamu manfaatkan mulai dari yang berbunga rendah hingga yang tanpa agunan. Kuncinya adalah tahu mana yang paling cocok untuk kondisi bisnismu.
 
 ## Mengenal KUR: Andalan Pembiayaan UMKM
+
+![Ilustrasi Panduan Pinjaman Modal Usaha untuk UMKM: KUR dan Alternatifnya](https://images.unsplash.com/photo-1543286386-713bcd549a07?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Pinjaman Modal Usaha untuk UMKM: KUR dan Alternatifnya")
 
 Kredit Usaha Rakyat (KUR) adalah program pinjaman bersubsidi pemerintah yang disalurkan melalui bank-bank mitra. Ini adalah opsi paling populer dan paling terjangkau untuk UMKM karena bunganya jauh di bawah kredit komersial biasa.
 

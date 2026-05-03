@@ -1,16 +1,25 @@
 ---
-title: "Strategi Rekrutmen Karyawan yang Tepat untuk UMKM"
-date: "2025-08-03"
-excerpt: "Panduan strategi rekrutmen karyawan yang efektif dan efisien untuk UMKM — dari menulis job description yang menarik hingga memilih kandidat yang tepat."
-author: "BisnisRapi Team"
-category: "Manajemen SDM"
-tags: ["rekrutmen karyawan", "hiring umkm", "seleksi karyawan", "manajemen sdm", "mencari karyawan"]
-image: "/blog/strategi-rekrutmen-karyawan-umkm/thumbnail.svg"
+title: Strategi Rekrutmen Karyawan yang Tepat untuk UMKM
+date: '2025-08-03'
+excerpt: >-
+  Panduan strategi rekrutmen karyawan yang efektif dan efisien untuk UMKM — dari
+  menulis job description yang menarik hingga memilih kandidat yang tepat.
+author: BisnisRapi Team
+category: Manajemen SDM
+tags:
+  - rekrutmen karyawan
+  - hiring umkm
+  - seleksi karyawan
+  - manajemen sdm
+  - mencari karyawan
+image: /blog/strategi-rekrutmen-karyawan-umkm/thumbnail.svg
 ---
 
 Merekrut karyawan yang salah adalah salah satu kesalahan paling mahal yang bisa dilakukan bisnis kecil. Biaya rekrutmen, waktu pelatihan, dan dampak pada produktivitas tim bisa sangat signifikan. Tapi dengan strategi yang tepat, kamu bisa meningkatkan peluang mendapatkan karyawan yang benar-benar cocok.
 
 ## Sebelum Merekrut: Pastikan Kamu Benar-Benar Butuh
+
+![Ilustrasi Strategi Rekrutmen Karyawan yang Tepat untuk UMKM](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Rekrutmen Karyawan yang Tepat untuk UMKM")
 
 Sebelum membuka lowongan, tanyakan dulu:
 - Apakah pekerjaan ini benar-benar membutuhkan karyawan baru, atau bisa diselesaikan dengan mengoptimalkan tim yang ada?
@@ -26,12 +35,12 @@ Job description yang baik menarik kandidat yang tepat dan menyaring yang tidak t
 - **Judul posisi yang jelas**: Hindari judul yang terlalu kreatif atau membingungkan
 - **Tanggung jawab utama**: 5-8 poin konkret tentang apa yang akan dikerjakan
 - **Kualifikasi yang dibutuhkan**: Bedakan antara "wajib" dan "lebih disukai"
-- **Informasi kompensasi**: Setidaknya range gaji — ini menghemat waktu kedua pihak
+- **Informasi kompensasi**: Setidaknya range gaji ini menghemat waktu kedua pihak
 - **Informasi tentang bisnis kamu**: Apa yang membuat bisnis kamu menarik sebagai tempat kerja?
 
 **Tips menulis job description:**
 - Fokus pada apa yang akan dikerjakan, bukan hanya kualifikasi
-- Hindari daftar persyaratan yang terlalu panjang — ini bisa menghalangi kandidat yang sebenarnya bagus
+- Hindari daftar persyaratan yang terlalu panjang ini bisa menghalangi kandidat yang sebenarnya bagus
 - Gunakan bahasa yang mencerminkan budaya bisnis kamu
 
 ## Langkah 2: Tentukan Saluran Rekrutmen

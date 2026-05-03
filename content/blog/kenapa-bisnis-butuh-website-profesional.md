@@ -1,21 +1,23 @@
 ---
-title: "Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)"
-date: "2025-02-01"
-excerpt: "Banyak UMKM yang mikir Instagram sudah cukup buat marketing. Nyatanya, bisnis tanpa website profesional kehilangan 70% potensi pelanggan. Ini alasannya dan cara mengatasinya."
-author: "BisnisRapi Team"
-category: "Tips Bisnis Digital"
-image: "/blog/kenapa-bisnis-butuh-website-profesional/thumbnail.svg"
+title: Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)
+date: '2025-02-01'
+excerpt: >-
+  Banyak UMKM yang mikir Instagram sudah cukup buat marketing. Nyatanya, bisnis
+  tanpa website profesional kehilangan 70% potensi pelanggan. Ini alasannya dan
+  cara mengatasinya.
+author: BisnisRapi Team
+category: Tips Bisnis Digital
+image: /blog/kenapa-bisnis-butuh-website-profesional/thumbnail.svg
 ---
 
-# Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)
 
 "Bisnis gue udah punya Instagram 10 ribu followers, buat apa bikin website?"
 
 Ini salah satu pertanyaan yang paling sering muncul dari pemilik UMKM yang sedang berkembang. Dan jawaban jujurnya: **karena Instagram bukan milik kamu**.
 
----
-
 ## Kenyataan yang Pahit tentang Bisnis Berbasis Media Sosial
+
+![Ilustrasi Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)](https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)")
 
 Bayangkan kamu sudah 5 tahun membangun bisnis di Instagram. Ratusan konten, ribuan followers, puluhan testimoni pelanggan. Lalu suatu hari:
 
@@ -27,8 +29,6 @@ Dalam semua skenario di atas, **bisnis kamu berhenti**. Tidak ada jalan lain.
 
 Ini yang disebut *platform dependency risk* ketergantungan fatal pada platform pihak ketiga yang tidak bisa kamu kontrol.
 
----
-
 ## Website vs Instagram: Perbandingan Jujur
 
 ### 1. Kepemilikan Data
@@ -39,7 +39,7 @@ Ini yang disebut *platform dependency risk* ketergantungan fatal pada platform p
 
 ### 2. Kepercayaan dan Kredibilitas
 
-Riset dari Stanford Web Credibility Project menunjukkan **75% orang menilai kredibilitas bisnis berdasarkan tampilan website-nya**. 
+Riset dari Stanford Web Credibility Project menunjukkan **75% orang menilai kredibilitas bisnis berdasarkan tampilan website-nya**.
 
 Coba bayangkan: kamu mau sewa jasa senilai Rp 50 juta dari seseorang yang tidak punya website. Hanya ada link Linktree dan akun Instagram. Seberapa yakin kamu?
 
@@ -56,8 +56,6 @@ Website bisa menampilkan semua informasi yang dibutuhkan calon pelanggan kapanpu
 ### 5. Kontrol Penuh atas Tampilan
 
 Di Instagram, kamu terkunci dengan layout grid yang sama untuk semua orang. Di website, brand kamu bisa tampil persis seperti yang kamu inginkan font, warna, layout, animasi, semuanya.
-
----
 
 ## 5 Fungsi Strategis Website Bisnis yang Tidak Bisa Digantikan Instagram
 
@@ -85,8 +83,6 @@ Newsletter mingguan dengan konten berguna bisa menjaga hubungan dengan ratusan c
 
 Marketplace seperti Tokopedia dan Shopee ambil 1-5% komisi per transaksi. Di website sendiri, 100% revenue masuk ke kantong kamu. Plus kamu bisa kontrol pengalaman belanja dari A sampai Z.
 
----
-
 ## "Tapi Bikin Website Mahal dan Ribet"
 
 Ini mitos yang perlu diluruskan.
@@ -99,24 +95,20 @@ Ya, di masa lalu membuat website membutuhkan skill coding atau budget jutaan rup
 - Dioptimasi untuk SEO sejak hari pertama
 - Mobile-friendly (penting karena 70%+ traffic dari HP)
 
----
-
 ## Berapa Biaya Website Bisnis Profesional?
 
 Tergantung kompleksitasnya, tapi ini gambaran umumnya:
 
-**Website Company Profile Sederhana:**  
+**Website Company Profile Sederhana:**
 Rp 3-8 juta (one-time) atau Rp 300-500rb/bulan
 
-**Website + Toko Online:**  
+**Website + Toko Online:**
 Rp 8-20 juta (one-time) atau Rp 500rb-1,5jt/bulan
 
-**Sistem Bisnis Digital Lengkap (Website + Operasional):**  
+**Sistem Bisnis Digital Lengkap (Website + Operasional):**
 Custom, tergantung kebutuhan spesifik
 
 **Yang perlu diingat:** Website adalah investasi yang balik modal. Kalau satu lead dari Google menghasilkan penjualan Rp 5 juta, website seharga Rp 10 juta sudah balik modal dari 2 transaksi saja.
-
----
 
 ## Cara Memulai
 
@@ -126,8 +118,6 @@ Custom, tergantung kebutuhan spesifik
 4. **Rencanakan konten** setidaknya punya 5-10 halaman yang informatif
 5. **Hubungkan dengan tools lain** Google Analytics, WhatsApp, payment gateway
 
----
-
 ## Kesimpulan
 
 Instagram dan media sosial lainnya adalah channel marketing yang valuable tapi mereka seharusnya jadi pintu masuk ke **ekosistem digital bisnis kamu yang sesungguhnya**, bukan fondasi utamanya.
@@ -135,7 +125,5 @@ Instagram dan media sosial lainnya adalah channel marketing yang valuable tapi m
 Website profesional adalah fondasi digital bisnis yang sesungguhnya: milik kamu, bekerja terus-menerus, dan membangun aset jangka panjang.
 
 Bisnis yang serius, butuh website yang serius.
-
----
 
 *Siap bikin website bisnis profesional? [BisnisRapi](#) bantu kamu dari desain sampai go-live, terintegrasi dengan sistem operasional bisnis kamu.*

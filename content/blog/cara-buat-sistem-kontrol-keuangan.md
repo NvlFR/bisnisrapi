@@ -1,18 +1,27 @@
 ---
-title: "Cara Buat Sistem Kontrol Keuangan Internal untuk UMKM"
-date: "2025-07-19"
-excerpt: "Panduan membangun sistem kontrol keuangan internal yang efektif untuk UMKM — mencegah kebocoran, kecurangan, dan kesalahan yang merugikan bisnis."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["kontrol keuangan", "internal control", "audit internal", "pencegahan fraud", "manajemen keuangan"]
-image: "/blog/cara-buat-sistem-kontrol-keuangan/thumbnail.svg"
+title: Cara Buat Sistem Kontrol Keuangan Internal untuk UMKM
+date: '2025-07-19'
+excerpt: >-
+  Panduan membangun sistem kontrol keuangan internal yang efektif untuk UMKM —
+  mencegah kebocoran, kecurangan, dan kesalahan yang merugikan bisnis.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - kontrol keuangan
+  - internal control
+  - audit internal
+  - pencegahan fraud
+  - manajemen keuangan
+image: /blog/cara-buat-sistem-kontrol-keuangan/thumbnail.svg
 ---
 
 Banyak pemilik UMKM yang baru menyadari ada masalah keuangan setelah kerugian sudah terjadi. Uang hilang, stok berkurang tanpa penjelasan, atau pengeluaran membengkak tanpa alasan yang jelas. Semua ini bisa dicegah dengan sistem kontrol keuangan internal yang baik.
 
-Kontrol keuangan bukan berarti kamu tidak percaya karyawan. Ini adalah sistem yang melindungi bisnis kamu — dan juga melindungi karyawan yang jujur dari tuduhan yang tidak berdasar.
+Kontrol keuangan bukan berarti kamu tidak percaya karyawan. Ini adalah sistem yang melindungi bisnis kamu dan juga melindungi karyawan yang jujur dari tuduhan yang tidak berdasar.
 
 ## Apa Itu Kontrol Keuangan Internal?
+
+![Ilustrasi Cara Buat Sistem Kontrol Keuangan Internal untuk UMKM](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Sistem Kontrol Keuangan Internal untuk UMKM")
 
 Kontrol keuangan internal adalah serangkaian prosedur, kebijakan, dan mekanisme yang dirancang untuk:
 - Memastikan akurasi laporan keuangan
@@ -49,9 +58,9 @@ Setiap transaksi harus didokumentasikan dengan bukti yang memadai:
 ### 4. Rekonsiliasi Berkala
 
 Bandingkan catatan internal dengan sumber eksternal secara berkala:
-- Rekonsiliasi rekening bank (catatan vs. mutasi bank) — minimal bulanan
-- Rekonsiliasi stok (catatan vs. stok fisik) — minimal bulanan
-- Rekonsiliasi piutang (catatan vs. konfirmasi pelanggan) — minimal kuartalan
+- Rekonsiliasi rekening bank (catatan vs. mutasi bank) minimal bulanan
+- Rekonsiliasi stok (catatan vs. stok fisik) minimal bulanan
+- Rekonsiliasi piutang (catatan vs. konfirmasi pelanggan) minimal kuartalan
 
 ## Kontrol Spesifik per Area
 
@@ -109,4 +118,4 @@ Kontrol keuangan yang baik bukan hanya soal prosedur, tapi juga budaya:
 - Lakukan audit mendadak secara berkala
 - Tunjukkan bahwa owner sendiri mematuhi prosedur yang sama
 
-Sistem kontrol keuangan yang baik didukung oleh teknologi yang tepat. BisnisRapi menyediakan jejak audit untuk setiap transaksi, sehingga kamu bisa melacak siapa yang melakukan apa dan kapan — fondasi penting untuk kontrol keuangan yang efektif.
+Sistem kontrol keuangan yang baik didukung oleh teknologi yang tepat. BisnisRapi menyediakan jejak audit untuk setiap transaksi, sehingga kamu bisa melacak siapa yang melakukan apa dan kapan fondasi penting untuk kontrol keuangan yang efektif.

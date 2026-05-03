@@ -1,18 +1,27 @@
 ---
-title: "Cara Buat Visi dan Misi Bisnis yang Bukan Sekadar Pajangan"
-date: "2025-09-01"
-excerpt: "Panduan membuat visi dan misi bisnis yang bermakna dan benar-benar memandu keputusan sehari-hari — bukan sekadar kalimat indah yang terpajang di dinding."
-author: "BisnisRapi Team"
-category: "Operasional Bisnis"
-tags: ["visi misi bisnis", "tujuan bisnis", "strategi bisnis", "perencanaan bisnis", "identitas bisnis"]
-image: "/blog/cara-buat-visi-misi-bisnis-umkm/thumbnail.svg"
+title: Cara Buat Visi dan Misi Bisnis yang Bukan Sekadar Pajangan
+date: '2025-09-01'
+excerpt: >-
+  Panduan membuat visi dan misi bisnis yang bermakna dan benar-benar memandu
+  keputusan sehari-hari — bukan sekadar kalimat indah yang terpajang di dinding.
+author: BisnisRapi Team
+category: Operasional Bisnis
+tags:
+  - visi misi bisnis
+  - tujuan bisnis
+  - strategi bisnis
+  - perencanaan bisnis
+  - identitas bisnis
+image: /blog/cara-buat-visi-misi-bisnis-umkm/thumbnail.svg
 ---
 
 "Menjadi perusahaan terkemuka yang memberikan nilai terbaik bagi pelanggan." Kalimat seperti ini terpajang di banyak dinding kantor dan website bisnis, tapi tidak ada yang benar-benar tahu apa artinya atau bagaimana itu mempengaruhi keputusan sehari-hari.
 
-Visi dan misi yang baik bukan tentang kalimat yang terdengar keren. Ini tentang pernyataan yang benar-benar memandu bisnis kamu — yang membantu kamu dan tim membuat keputusan yang konsisten, bahkan ketika kamu tidak ada.
+Visi dan misi yang baik bukan tentang kalimat yang terdengar keren. Ini tentang pernyataan yang benar-benar memandu bisnis kamu yang membantu kamu dan tim membuat keputusan yang konsisten, bahkan ketika kamu tidak ada.
 
 ## Apa Bedanya Visi dan Misi?
+
+![Ilustrasi Cara Buat Visi dan Misi Bisnis yang Bukan Sekadar Pajangan](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Buat Visi dan Misi Bisnis yang Bukan Sekadar Pajangan")
 
 **Visi** adalah gambaran tentang masa depan yang ingin kamu wujudkan. Ini menjawab pertanyaan: "Ke mana bisnis ini akan pergi? Seperti apa dunia yang lebih baik yang ingin kita ciptakan?"
 
@@ -83,8 +92,8 @@ Misi yang baik menjawab tiga pertanyaan:
 Selain visi dan misi, nilai-nilai inti adalah prinsip-prinsip yang memandu perilaku bisnis kamu sehari-hari.
 
 **Cara menentukan nilai-nilai inti:**
-- Pikirkan karyawan terbaik yang pernah kamu miliki — apa yang membuat mereka istimewa?
-- Pikirkan keputusan bisnis yang paling kamu banggakan — nilai apa yang tercermin?
+- Pikirkan karyawan terbaik yang pernah kamu miliki apa yang membuat mereka istimewa?
+- Pikirkan keputusan bisnis yang paling kamu banggakan nilai apa yang tercermin?
 - Apa yang tidak bisa kamu kompromikan, bahkan untuk keuntungan finansial?
 
 **Nilai-nilai yang baik:**

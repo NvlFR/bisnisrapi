@@ -1,18 +1,27 @@
 ---
-title: "Cara Kelola Toko Craft dan DIY: Multi-Satuan dan Stok Bahan"
-date: "2025-09-30"
-excerpt: "Toko craft dan DIY menjual bahan dalam berbagai satuan yang kompleks. Sistem yang tepat membuat pengelolaan stok jauh lebih mudah."
-author: "BisnisRapi Team"
-category: "Retail"
-tags: ["toko craft", "DIY", "multi-satuan", "stok bahan craft", "retail hobi"]
-image: "/blog/cara-kelola-toko-craft-diy/thumbnail.svg"
+title: 'Cara Kelola Toko Craft dan DIY: Multi-Satuan dan Stok Bahan'
+date: '2025-09-30'
+excerpt: >-
+  Toko craft dan DIY menjual bahan dalam berbagai satuan yang kompleks. Sistem
+  yang tepat membuat pengelolaan stok jauh lebih mudah.
+author: BisnisRapi Team
+category: Retail
+tags:
+  - toko craft
+  - DIY
+  - multi-satuan
+  - stok bahan craft
+  - retail hobi
+image: /blog/cara-kelola-toko-craft-diy/thumbnail.svg
 ---
 
-Toko craft dan DIY (Do It Yourself) adalah surga bagi para penghobi dan kreator. Dari benang rajut, kain patchwork, cat akrilik, hingga berbagai bahan dekorasi — toko craft menjual bahan-bahan yang memungkinkan orang menciptakan sesuatu dengan tangan mereka sendiri.
+Toko craft dan DIY (Do It Yourself) adalah surga bagi para penghobi dan kreator. Dari benang rajut, kain patchwork, cat akrilik, hingga berbagai bahan dekorasi toko craft menjual bahan-bahan yang memungkinkan orang menciptakan sesuatu dengan tangan mereka sendiri.
 
 Tapi dari sisi manajemen, toko craft punya kompleksitas yang unik: produk yang dijual dalam berbagai satuan (per meter, per gram, per lembar, per buah), variasi warna yang sangat banyak, dan pelanggan yang sering mencari bahan spesifik untuk proyek tertentu.
 
 ## Kompleksitas Multi-Satuan di Toko Craft
+
+![Ilustrasi Cara Kelola Toko Craft dan DIY: Multi-Satuan dan Stok Bahan](https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Cara Kelola Toko Craft dan DIY: Multi-Satuan dan Stok Bahan")
 
 ### Berbagai Satuan yang Berbeda
 
@@ -69,7 +78,7 @@ Produk craft yang populer bisa habis dengan cepat. Pantau stok secara rutin dan 
 
 ### Sistem Kode Warna yang Konsisten
 
-Gunakan sistem kode warna yang konsisten — bisa menggunakan kode warna standar industri (seperti kode warna benang dari produsen) atau membuat sistem sendiri.
+Gunakan sistem kode warna yang konsisten bisa menggunakan kode warna standar industri (seperti kode warna benang dari produsen) atau membuat sistem sendiri.
 
 ### Foto Produk yang Akurat
 

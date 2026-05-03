@@ -1,16 +1,26 @@
 ---
-title: "Strategi Bisnis Jual Beli Motor Bekas yang Aman dan Menguntungkan"
-date: "2026-01-15"
-excerpt: "Strategi lengkap menjalankan bisnis jual beli motor bekas yang menguntungkan, dari cara menilai kondisi motor, penetapan harga, hingga strategi pemasaran yang efektif."
-author: "BisnisRapi Team"
-category: "Otomotif"
-tags: ["jual beli motor bekas", "bisnis motor bekas", "dealer motor bekas", "otomotif", "motor second"]
-image: "/blog/strategi-bisnis-jual-beli-motor-bekas/thumbnail.svg"
+title: Strategi Bisnis Jual Beli Motor Bekas yang Aman dan Menguntungkan
+date: '2026-01-15'
+excerpt: >-
+  Strategi lengkap menjalankan bisnis jual beli motor bekas yang menguntungkan,
+  dari cara menilai kondisi motor, penetapan harga, hingga strategi pemasaran
+  yang efektif.
+author: BisnisRapi Team
+category: Otomotif
+tags:
+  - jual beli motor bekas
+  - bisnis motor bekas
+  - dealer motor bekas
+  - otomotif
+  - motor second
+image: /blog/strategi-bisnis-jual-beli-motor-bekas/thumbnail.svg
 ---
 
 Bisnis jual beli motor bekas adalah salah satu bisnis otomotif yang paling accessible untuk pemula. Modal awal bisa disesuaikan dengan kemampuan, perputaran uang relatif cepat, dan pasar motor bekas di Indonesia sangat besar. Tapi untuk sukses, kamu perlu memahami cara menilai kondisi motor, menetapkan harga yang tepat, dan mengelola risiko dengan baik.
 
 ## Memahami Pasar Motor Bekas
+
+![Ilustrasi Strategi Bisnis Jual Beli Motor Bekas yang Aman dan Menguntungkan](https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Strategi Bisnis Jual Beli Motor Bekas yang Aman dan Menguntungkan")
 
 Pasar motor bekas di Indonesia sangat aktif. Ada beberapa segmen yang perlu kamu pahami:
 
@@ -101,7 +111,7 @@ Foto yang bagus sangat penting untuk penjualan online. Foto dari berbagai sudut,
 
 ### Deskripsi yang Jujur
 
-Jelaskan kondisi motor dengan jujur — termasuk kekurangannya. Pembeli yang mendapatkan motor sesuai deskripsi akan puas dan mungkin merekomendasikan kamu kepada orang lain. Pembeli yang merasa ditipu akan memberikan reputasi buruk.
+Jelaskan kondisi motor dengan jujur termasuk kekurangannya. Pembeli yang mendapatkan motor sesuai deskripsi akan puas dan mungkin merekomendasikan kamu kepada orang lain. Pembeli yang merasa ditipu akan memberikan reputasi buruk.
 
 ## Aspek Legal dan Keamanan
 
@@ -110,7 +120,5 @@ Jelaskan kondisi motor dengan jujur — termasuk kekurangannya. Pembeli yang men
 **Kwitansi jual beli:** Selalu buat kwitansi jual beli yang ditandatangani kedua pihak. Ini melindungi kamu secara hukum.
 
 **Hati-hati dengan motor curian:** Selalu verifikasi dokumen dengan teliti. Membeli motor curian bisa berakibat serius secara hukum.
-
----
 
 Mengelola inventori motor bekas dengan berbagai kondisi dan harga membutuhkan sistem pencatatan yang rapi. BisnisRapi dapat membantu kamu mencatat setiap unit yang masuk dan keluar, melacak biaya perbaikan, menghitung keuntungan per unit, dan memantau kondisi keuangan bisnis motor bekas kamu.

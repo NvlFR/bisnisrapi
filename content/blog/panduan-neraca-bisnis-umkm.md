@@ -1,18 +1,27 @@
 ---
-title: "Panduan Membuat dan Membaca Neraca Bisnis untuk UMKM"
-date: "2025-06-27"
-excerpt: "Panduan praktis membuat dan membaca neraca bisnis (balance sheet) untuk pemilik UMKM yang ingin memahami kondisi keuangan bisnisnya secara menyeluruh."
-author: "BisnisRapi Team"
-category: "Keuangan Bisnis"
-tags: ["neraca bisnis", "balance sheet", "laporan keuangan umkm", "aset bisnis", "ekuitas bisnis"]
-image: "/blog/panduan-neraca-bisnis-umkm/thumbnail.svg"
+title: Panduan Membuat dan Membaca Neraca Bisnis untuk UMKM
+date: '2025-06-27'
+excerpt: >-
+  Panduan praktis membuat dan membaca neraca bisnis (balance sheet) untuk
+  pemilik UMKM yang ingin memahami kondisi keuangan bisnisnya secara menyeluruh.
+author: BisnisRapi Team
+category: Keuangan Bisnis
+tags:
+  - neraca bisnis
+  - balance sheet
+  - laporan keuangan umkm
+  - aset bisnis
+  - ekuitas bisnis
+image: /blog/panduan-neraca-bisnis-umkm/thumbnail.svg
 ---
 
-Laporan laba rugi menunjukkan apakah bisnis kamu untung atau rugi. Tapi neraca (balance sheet) menunjukkan sesuatu yang berbeda: kondisi keuangan bisnis kamu pada satu titik waktu tertentu. Ini seperti foto keuangan bisnis kamu — menunjukkan apa yang kamu miliki, apa yang kamu hutang, dan berapa nilai bersih bisnis kamu.
+Laporan laba rugi menunjukkan apakah bisnis kamu untung atau rugi. Tapi neraca (balance sheet) menunjukkan sesuatu yang berbeda: kondisi keuangan bisnis kamu pada satu titik waktu tertentu. Ini seperti foto keuangan bisnis kamu menunjukkan apa yang kamu miliki, apa yang kamu hutang, dan berapa nilai bersih bisnis kamu.
 
 Banyak pemilik UMKM yang tidak pernah membuat neraca karena dianggap terlalu rumit. Padahal, neraca sederhana bisa dibuat dalam waktu 30 menit jika kamu tahu caranya.
 
 ## Konsep Dasar Neraca: Persamaan Akuntansi
+
+![Ilustrasi Panduan Membuat dan Membaca Neraca Bisnis untuk UMKM](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Panduan Membuat dan Membaca Neraca Bisnis untuk UMKM")
 
 Neraca didasarkan pada satu persamaan fundamental:
 
@@ -21,7 +30,7 @@ Neraca didasarkan pada satu persamaan fundamental:
 Atau dengan kata lain:
 **Apa yang kamu miliki = Apa yang kamu hutang + Modal kamu sendiri**
 
-Persamaan ini selalu harus seimbang — itulah mengapa disebut "neraca."
+Persamaan ini selalu harus seimbang itulah mengapa disebut "neraca."
 
 ## Tiga Komponen Neraca
 
@@ -55,7 +64,7 @@ Catatan: Aset tidak lancar dicatat sebesar nilai perolehan dikurangi akumulasi p
 
 ### 3. Ekuitas (Modal Pemilik)
 
-Ekuitas adalah selisih antara aset dan kewajiban — ini adalah nilai bersih bisnis kamu.
+Ekuitas adalah selisih antara aset dan kewajiban ini adalah nilai bersih bisnis kamu.
 
 Komponen ekuitas:
 - Modal disetor (uang yang kamu investasikan ke bisnis)
@@ -82,8 +91,6 @@ Komponen ekuitas:
 
 **TOTAL ASET: Rp 98.000.000**
 
----
-
 **KEWAJIBAN**
 
 *Kewajiban Lancar:*
@@ -96,8 +103,6 @@ Komponen ekuitas:
 - **Total Kewajiban Jangka Panjang: Rp 30.000.000**
 
 **TOTAL KEWAJIBAN: Rp 48.000.000**
-
----
 
 **EKUITAS**
 - Modal pemilik: Rp 30.000.000
@@ -139,4 +144,4 @@ Neraca juga dibutuhkan saat:
 - Menjual bisnis
 - Mengevaluasi kesehatan keuangan bisnis secara menyeluruh
 
-Dengan sistem pencatatan yang rapi di BisnisRapi, data untuk membuat neraca sudah tersedia secara otomatis — kamu tinggal menyusunnya dalam format yang benar.
+Dengan sistem pencatatan yang rapi di BisnisRapi, data untuk membuat neraca sudah tersedia secara otomatis kamu tinggal menyusunnya dalam format yang benar.

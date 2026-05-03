@@ -1,16 +1,25 @@
 ---
-title: "Manajemen Agen Gas LPG: Stok Tabung dan Laporan Harian"
-date: "2025-11-05"
-excerpt: "Agen gas LPG mengelola stok tabung yang berputar cepat dengan sistem kredit yang perlu dipantau ketat. Ini cara mengelolanya."
-author: "BisnisRapi Team"
-category: "Distribusi"
-tags: ["agen gas LPG", "stok tabung gas", "distribusi gas", "laporan harian", "manajemen agen"]
-image: "/blog/manajemen-agen-gas-lpg/thumbnail.svg"
+title: 'Manajemen Agen Gas LPG: Stok Tabung dan Laporan Harian'
+date: '2025-11-05'
+excerpt: >-
+  Agen gas LPG mengelola stok tabung yang berputar cepat dengan sistem kredit
+  yang perlu dipantau ketat. Ini cara mengelolanya.
+author: BisnisRapi Team
+category: Distribusi
+tags:
+  - agen gas LPG
+  - stok tabung gas
+  - distribusi gas
+  - laporan harian
+  - manajemen agen
+image: /blog/manajemen-agen-gas-lpg/thumbnail.svg
 ---
 
-Bisnis agen gas LPG adalah bisnis distribusi yang sangat penting — hampir setiap rumah tangga dan usaha kuliner membutuhkan gas LPG. Tapi mengelola agen gas bukan perkara mudah: stok tabung yang berputar cepat, sistem kredit ke pengecer, dan laporan ke Pertamina yang harus akurat.
+Bisnis agen gas LPG adalah bisnis distribusi yang sangat penting hampir setiap rumah tangga dan usaha kuliner membutuhkan gas LPG. Tapi mengelola agen gas bukan perkara mudah: stok tabung yang berputar cepat, sistem kredit ke pengecer, dan laporan ke Pertamina yang harus akurat.
 
 ## Karakteristik Bisnis Agen Gas LPG
+
+![Ilustrasi Manajemen Agen Gas LPG: Stok Tabung dan Laporan Harian](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200 "Visualisasi pendukung untuk Manajemen Agen Gas LPG: Stok Tabung dan Laporan Harian")
 
 ### Stok yang Berputar Sangat Cepat
 Gas LPG adalah kebutuhan pokok yang permintaannya sangat stabil dan tinggi. Stok tabung bisa habis dalam hitungan jam di hari-hari tertentu.
@@ -23,7 +32,7 @@ Agen gas LPG biasanya mengelola dua jenis produk:
 Keduanya perlu dikelola secara terpisah karena aturan distribusi yang berbeda.
 
 ### Sistem Kredit ke Pengecer
-Banyak agen yang memberikan kredit kepada pengecer (warung, toko kelontong) — mereka ambil tabung dulu, bayar nanti. Ini perlu dipantau ketat agar tidak menumpuk.
+Banyak agen yang memberikan kredit kepada pengecer (warung, toko kelontong) mereka ambil tabung dulu, bayar nanti. Ini perlu dipantau ketat agar tidak menumpuk.
 
 ### Tabung sebagai Aset yang Perlu Dilacak
 Tabung gas adalah aset yang nilainya signifikan. Tabung yang tidak kembali atau rusak adalah kerugian langsung.
@@ -137,4 +146,4 @@ Agen gas LPG biasanya wajib membuat laporan distribusi ke Pertamina. Pastikan da
 
 **Siapkan untuk lonjakan permintaan.** Permintaan gas LPG bisa melonjak menjelang hari raya atau saat cuaca dingin. Siapkan stok lebih awal untuk mengantisipasi ini.
 
-Dengan sistem manajemen yang baik seperti BisnisRapi, agen gas LPG bisa mengelola stok, piutang pengecer, dan laporan harian dengan lebih efisien dan akurat — memastikan operasional yang lancar dan bisnis yang menguntungkan.
+Dengan sistem manajemen yang baik seperti BisnisRapi, agen gas LPG bisa mengelola stok, piutang pengecer, dan laporan harian dengan lebih efisien dan akurat memastikan operasional yang lancar dan bisnis yang menguntungkan.
