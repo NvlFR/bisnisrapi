@@ -1,58 +1,31 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Calendar, Clock, User, ArrowRight, Loader2 } from 'lucide-react';
-import { useInView } from 'react-intersection-observer';
+import { Calendar, Clock, User, ArrowRight, ChevronDown } from 'lucide-react';
 import { BlogPostSummary } from '@/lib/blog';
-import { getPaginatedPosts } from '@/app/blog/actions';
+
+const PAGE_SIZE = 9;
 
 interface BlogListProps {
   initialPosts: BlogPostSummary[];
   initialHasMore: boolean;
+  allPosts?: BlogPostSummary[]; // all remaining posts for client-side pagination
 }
 
-export function BlogList({ initialPosts, initialHasMore }: BlogListProps) {
-  const [posts, setPosts] = useState<BlogPostSummary[]>(initialPosts);
-  const [page, setPage] = useState(1);
-  const [hasMore, setHasMore] = useState(initialHasMore);
-  const [isLoading, setIsLoading] = useState(false);
-  
-  const { ref, inView } = useInView({
-    threshold: 0,
-    rootMargin: '400px', // Load earlier for better UX
-  });
+export function BlogList({ initialPosts, initialHasMore, allPosts = [] }: BlogListProps) {
+  const [visibleCount, setVisibleCount] = useState(initialPosts.length);
 
-  useEffect(() => {
-    async function loadMorePosts() {
-      if (inView && hasMore && !isLoading) {
-        setIsLoading(true);
-        try {
-          const nextPage = page + 1;
-          const result = await getPaginatedPosts(nextPage);
-          
-          if (result.posts.length > 0) {
-            setPosts((prev) => [...prev, ...result.posts]);
-            setPage(nextPage);
-          }
-          
-          setHasMore(result.hasMore);
-        } catch (error) {
-          console.error('Error loading more posts:', error);
-        } finally {
-          setIsLoading(false);
-        }
-      }
-    }
-
-    loadMorePosts();
-  }, [inView, hasMore, isLoading, page]);
+  // Combine initial + all for client-side slicing
+  const combined = [...initialPosts, ...allPosts];
+  const visible = combined.slice(0, visibleCount);
+  const hasMore = visibleCount < combined.length;
 
   return (
     <div className="space-y-12">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {posts.map((post) => (
+        {visible.map((post) => (
           <article
             key={post.slug}
             className="group relative flex flex-col bg-background rounded-3xl overflow-hidden border border-border/50 hover:border-primary/50 transition-all duration-500 hover:shadow-2xl hover:shadow-primary/5 shadow-sm"
@@ -117,18 +90,18 @@ export function BlogList({ initialPosts, initialHasMore }: BlogListProps) {
         ))}
       </div>
 
-      {/* Loading Sentinel */}
+      {/* Load More button — works with static export (no server action needed) */}
       {hasMore && (
-        <div ref={ref} className="flex justify-center py-12">
-          {isLoading && (
-            <div className="flex flex-col items-center gap-3">
-              <Loader2 className="w-8 h-8 text-primary animate-spin" />
-              <p className="text-sm text-muted-foreground animate-pulse">Memuat lebih banyak...</p>
-            </div>
-          )}
+        <div className="flex justify-center pt-4">
+          <button
+            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            className="inline-flex items-center gap-2 px-8 py-3 rounded-full border border-border bg-background text-foreground font-semibold hover:bg-secondary transition-all hover:shadow-sm"
+          >
+            <ChevronDown className="w-4 h-4" />
+            Muat Lebih Banyak ({combined.length - visibleCount} artikel lagi)
+          </button>
         </div>
       )}
     </div>
   );
 }
-

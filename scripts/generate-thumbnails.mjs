@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const publicBlogDir = path.join(__dirname, '..', 'public', 'blog');
 const contentDir = path.join(__dirname, '..', 'content', 'blog');
-const DOMAIN = 'bisnis-rapi.my.id';
+const DOMAIN = 'bisnisrapi.my.id';
 
 // Slugs to skip (original list from user, but we might want to regenerate them if they were generic)
 const existing = new Set([

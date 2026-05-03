@@ -13,11 +13,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Blog BisnisRapi | Edukasi & Tips Digitalisasi Bisnis UMKM',
     description: 'Temukan artikel menarik seputar manajemen bisnis, tips operasional, dan tren digitalisasi untuk membantu UMKM Indonesia naik kelas.',
-    url: 'https://bisnis-rapi.my.id/blog',
+    url: 'https://bisnisrapi.my.id/blog',
     type: 'website',
   },
   alternates: {
-    canonical: 'https://bisnis-rapi.my.id/blog',
+    canonical: 'https://bisnisrapi.my.id/blog',
   },
 };
 
@@ -142,9 +142,10 @@ export default function BlogPage() {
           {initialListPosts.length > 0 ? (
             <>
               <h2 className="text-2xl font-bold mb-8">Artikel Lainnya</h2>
-              <BlogList 
-                initialPosts={initialListPosts} 
-                initialHasMore={allPosts.length > 10} 
+              <BlogList
+                initialPosts={initialListPosts}
+                initialHasMore={allPosts.length > 10}
+                allPosts={allPosts.slice(10)}
               />
             </>
           ) : (

@@ -26,7 +26,7 @@ export const viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bisnisrapi.com'),
+  metadataBase: new URL('https://bisnisrapi.my.id'),
 
   title: {
     default: 'BisnisRapi | Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'BisnisRapi - Sistem Manajemen Bisnis Digital untuk UMKM Indonesia',
     description: 'Digitalisasi operasional bisnis UMKM dengan sistem kasir, manajemen stok, dan laporan otomatis. Solusi custom untuk 100+ industri. Konsultasi gratis!',
-    url: 'https://bisnisrapi.com',
+    url: 'https://bisnisrapi.my.id',
     siteName: 'BisnisRapi',
     images: [
       {
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
   },
 
   alternates: {
-    canonical: 'https://bisnisrapi.com',
+    canonical: 'https://bisnisrapi.my.id',
   },
 }
 
@@ -97,7 +97,7 @@ export default function RootLayout({
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
         {/* Google Analytics */}
-        {/* <Script
+        <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-B068PV07RS"
           strategy="afterInteractive"
         />
@@ -109,7 +109,7 @@ export default function RootLayout({
 
             gtag('config', 'G-B068PV07RS');
           `}
-        </Script> */}
+        </Script>
 
         <FramerProvider>
           <SmoothScroll>

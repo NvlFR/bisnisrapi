@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://bisnis-rapi.my.id/sitemap.xml',
+    sitemap: 'https://bisnisrapi.my.id/sitemap.xml',
   };
 }

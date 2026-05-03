@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description,
     },
     alternates: {
-      canonical: `https://bisnis-rapi.my.id/solusi/${industri}`,
+      canonical: `https://bisnisrapi.my.id/solusi/${industri}`,
     },
   };
 }
@@ -78,7 +78,7 @@ export default async function IndustrySolutionPage({ params }: Props) {
       provider: {
         '@type': 'Organization',
         name: 'BisnisRapi',
-        url: 'https://bisnis-rapi.my.id',
+        url: 'https://bisnisrapi.my.id',
         contactPoint: {
           '@type': 'ContactPoint',
           contactType: 'customer service',

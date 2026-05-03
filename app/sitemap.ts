@@ -5,7 +5,7 @@ import { industries } from '@/lib/industries';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://bisnis-rapi.my.id';
+  const baseUrl = 'https://bisnisrapi.my.id';
   const posts = getAllPosts();
   
   const blogPosts = posts.map((post) => ({

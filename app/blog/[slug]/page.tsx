@@ -28,7 +28,7 @@ import {
   ArticleImg,
 } from '@/components/blog/article-components';
 
-const BASE_URL = 'https://bisnis-rapi.my.id';
+const BASE_URL = 'https://bisnisrapi.my.id';
 
 interface Props {
   params: Promise<{ slug: string }>;

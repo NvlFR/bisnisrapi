@@ -21,10 +21,10 @@ export const metadata: Metadata = {
     description:
       "35+ solusi sistem bisnis yang dirancang khusus sesuai industri Anda. Pilih industri dan lihat solusi yang relevan.",
     type: "website",
-    url: "https://bisnis-rapi.my.id/solusi",
+    url: "https://bisnisrapi.my.id/solusi",
   },
   alternates: {
-    canonical: "https://bisnis-rapi.my.id/solusi",
+    canonical: "https://bisnisrapi.my.id/solusi",
   },
 };
 
@@ -34,13 +34,13 @@ const jsonLd = {
   name: "Solusi Bisnis Digital per Industri - BisnisRapi",
   description:
     "Direktori solusi sistem kasir dan manajemen bisnis untuk berbagai industri UMKM Indonesia",
-  url: "https://bisnis-rapi.my.id/solusi",
+  url: "https://bisnisrapi.my.id/solusi",
   numberOfItems: industries.length,
   itemListElement: industries.map((ind, i) => ({
     "@type": "ListItem",
     position: i + 1,
     name: `Sistem Bisnis untuk ${ind.name}`,
-    url: `https://bisnis-rapi.my.id/solusi/${ind.slug}`,
+    url: `https://bisnisrapi.my.id/solusi/${ind.slug}`,
   })),
 };
 
