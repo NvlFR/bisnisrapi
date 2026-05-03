@@ -5,7 +5,7 @@ excerpt: "TikTok bukan cuma platform hiburan — ini adalah mesin penemuan produ
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["tiktok bisnis", "tiktok marketing", "tiktok shop", "konten tiktok", "pemasaran umkm"]
-image: "/blog/panduan-tiktok-untuk-bisnis-umkm/thumbnail.webp"
+image: "/blog/panduan-tiktok-untuk-bisnis-umkm/thumbnail.svg"
 ---
 
 TikTok telah mengubah cara orang menemukan produk baru. Banyak bisnis kecil yang berhasil mendapatkan ribuan pelanggan baru hanya dari satu video yang viral — tanpa mengeluarkan biaya iklan sama sekali. Tapi TikTok juga punya kurva belajar yang cukup curam bagi pemilik bisnis yang belum familiar.

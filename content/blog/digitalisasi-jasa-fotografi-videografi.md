@@ -5,7 +5,7 @@ excerpt: "Fotografer dan videografer profesional butuh sistem booking dan invoic
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa fotografi", "videografi", "booking foto", "invoice fotografer", "bisnis kreatif"]
-image: "/blog/digitalisasi-jasa-fotografi-videografi/thumbnail.webp"
+image: "/blog/digitalisasi-jasa-fotografi-videografi/thumbnail.svg"
 ---
 
 Menjadi fotografer atau videografer profesional bukan hanya soal kemampuan teknis dan mata artistik. Di balik setiap sesi foto yang indah, ada proses bisnis yang perlu berjalan dengan mulus: booking yang terorganisir, kontrak yang jelas, dan invoice yang profesional.

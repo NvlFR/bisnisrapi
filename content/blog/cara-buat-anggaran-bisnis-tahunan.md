@@ -5,7 +5,7 @@ excerpt: "Panduan membuat anggaran bisnis tahunan yang realistis dan bisa dijala
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["anggaran bisnis", "budgeting umkm", "perencanaan keuangan", "rencana tahunan bisnis", "manajemen keuangan"]
-image: "/blog/cara-buat-anggaran-bisnis-tahunan/thumbnail.webp"
+image: "/blog/cara-buat-anggaran-bisnis-tahunan/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang menjalankan bisnis tanpa anggaran tahunan. Mereka beroperasi berdasarkan feeling — kalau ada uang masuk, belanja; kalau kurang, tahan dulu. Cara ini mungkin bisa bertahan, tapi sulit untuk tumbuh. Anggaran bisnis tahunan adalah peta jalan keuangan kamu — tanpanya, kamu hanya berjalan tanpa tujuan yang jelas.

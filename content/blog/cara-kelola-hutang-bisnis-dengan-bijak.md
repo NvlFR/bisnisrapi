@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola hutang bisnis secara bijak — dari strategi priorit
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["kelola hutang bisnis", "manajemen hutang", "restrukturisasi hutang", "cicilan bisnis", "keuangan sehat"]
-image: "/blog/cara-kelola-hutang-bisnis-dengan-bijak/thumbnail.webp"
+image: "/blog/cara-kelola-hutang-bisnis-dengan-bijak/thumbnail.svg"
 ---
 
 Hutang dalam bisnis bukan sesuatu yang harus ditakuti. Hampir semua bisnis yang berkembang pernah menggunakan hutang sebagai leverage untuk tumbuh lebih cepat. Yang berbahaya bukan hutangnya, tapi cara mengelolanya. Hutang yang tidak dikelola dengan baik bisa menggerogoti arus kas, membatasi fleksibilitas bisnis, dan pada akhirnya mengancam kelangsungan usaha.

@@ -5,7 +5,7 @@ excerpt: "Foto produk yang bagus bisa meningkatkan penjualan secara signifikan. 
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["foto produk", "fotografi produk hp", "foto produk umkm", "konten visual", "pemasaran visual"]
-image: "/blog/panduan-foto-produk-untuk-umkm/thumbnail.webp"
+image: "/blog/panduan-foto-produk-untuk-umkm/thumbnail.svg"
 ---
 
 Di dunia belanja online, foto produk adalah "tangan" yang memungkinkan pelanggan "menyentuh" produk kamu sebelum membeli. Foto yang buruk bisa membuat produk yang bagus terlihat tidak menarik, sementara foto yang bagus bisa membuat produk biasa terlihat premium.

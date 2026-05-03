@@ -5,7 +5,7 @@ excerpt: "Klinik kecantikan yang profesional butuh sistem yang mengelola booking
 author: "BisnisRapi Team"
 category: "Kesehatan"
 tags: ["klinik kecantikan", "manajemen klinik", "booking treatment", "stok produk kecantikan", "digitalisasi"]
-image: "/blog/manajemen-klinik-kecantikan/thumbnail.webp"
+image: "/blog/manajemen-klinik-kecantikan/thumbnail.svg"
 ---
 
 Klinik kecantikan adalah bisnis yang unik — menggabungkan aspek kesehatan, estetika, dan layanan pelanggan dalam satu tempat. Pengelolaannya pun lebih kompleks dari salon biasa: ada treatment medis yang perlu dicatat, produk yang perlu dikelola, dan jadwal dokter atau terapis yang perlu dikoordinasikan.

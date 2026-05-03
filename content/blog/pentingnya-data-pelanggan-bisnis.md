@@ -5,7 +5,7 @@ excerpt: "Di era digital, data pelanggan adalah aset bisnis yang nilainya terus 
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["data pelanggan", "CRM", "strategi bisnis", "loyalitas pelanggan", "digitalisasi"]
-image: "/blog/pentingnya-data-pelanggan-bisnis/thumbnail.webp"
+image: "/blog/pentingnya-data-pelanggan-bisnis/thumbnail.svg"
 ---
 
 Ada dua toko yang menjual produk yang sama dengan harga yang sama. Toko A tidak tahu siapa pelanggannya — setiap orang yang masuk adalah orang asing. Toko B punya database pelanggan yang lengkap — mereka tahu nama, preferensi, dan riwayat pembelian setiap pelanggan.

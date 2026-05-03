@@ -5,7 +5,7 @@ excerpt: "Gudang yang berantakan bukan hanya tidak nyaman — ini membuang waktu
 author: "BisnisRapi Team"
 category: "Manajemen Stok"
 tags: ["manajemen gudang", "manajemen stok", "UMKM", "warehouse", "operasional bisnis"]
-image: "/blog/manajemen-gudang-umkm/thumbnail.webp"
+image: "/blog/manajemen-gudang-umkm/thumbnail.svg"
 ---
 
 Gudang yang berantakan adalah tanda manajemen bisnis yang perlu diperbaiki. Barang susah dicari, stok tidak akurat, waktu terbuang untuk cari-cari produk, dan risiko kerusakan barang lebih tinggi. Semua ini berdampak langsung pada efisiensi dan profitabilitas bisnis.

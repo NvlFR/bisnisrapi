@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mengelola kas kecil (petty cash) bisnis dengan sistem 
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["kas kecil", "petty cash", "pengelolaan kas", "kontrol keuangan", "pembukuan bisnis"]
-image: "/blog/cara-kelola-kas-kecil-bisnis/thumbnail.webp"
+image: "/blog/cara-kelola-kas-kecil-bisnis/thumbnail.svg"
 ---
 
 Kas kecil atau petty cash adalah dana tunai dalam jumlah kecil yang disediakan untuk pengeluaran operasional sehari-hari yang nilainya terlalu kecil untuk diproses melalui transfer bank. Meski jumlahnya kecil, kas kecil yang tidak dikelola dengan baik bisa menjadi sumber kebocoran keuangan yang signifikan.

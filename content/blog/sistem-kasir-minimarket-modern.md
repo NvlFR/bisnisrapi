@@ -5,7 +5,7 @@ excerpt: "Minimarket dengan ratusan transaksi per hari butuh sistem kasir yang h
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["kasir minimarket", "sistem POS", "minimarket", "retail modern", "manajemen toko"]
-image: "/blog/sistem-kasir-minimarket-modern/thumbnail.webp"
+image: "/blog/sistem-kasir-minimarket-modern/thumbnail.svg"
 ---
 
 Minimarket adalah salah satu bisnis retail dengan volume transaksi tertinggi. Ratusan transaksi per hari, ribuan SKU, berbagai metode pembayaran, dan pelanggan yang ingin dilayani dengan cepat — semua ini membutuhkan sistem kasir yang handal dan lengkap.

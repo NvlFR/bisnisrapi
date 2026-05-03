@@ -5,7 +5,7 @@ excerpt: "Laporan keuangan bukan cuma urusan akuntan. Pelajari cara membaca nera
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["laporan keuangan", "UMKM", "keuangan bisnis", "neraca", "laba rugi"]
-image: "/blog/cara-baca-laporan-keuangan-umkm/thumbnail.webp"
+image: "/blog/cara-baca-laporan-keuangan-umkm/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang jujur mengaku: laporan keuangan itu bikin pusing. Angka-angka berjejer, istilah asing seperti "debit", "kredit", "ekuitas" — rasanya seperti baca buku teks kuliah akuntansi. Padahal, memahami laporan keuangan adalah salah satu skill paling penting yang bisa kamu miliki sebagai pemilik bisnis.

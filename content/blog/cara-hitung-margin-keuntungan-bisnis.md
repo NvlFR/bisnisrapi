@@ -5,7 +5,7 @@ excerpt: "Pelajari cara menghitung margin keuntungan bisnis dengan benar — gro
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["margin keuntungan", "gross margin", "net margin", "profitabilitas bisnis", "hitung laba"]
-image: "/blog/cara-hitung-margin-keuntungan-bisnis/thumbnail.webp"
+image: "/blog/cara-hitung-margin-keuntungan-bisnis/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang tahu omzetnya tapi tidak tahu margin keuntungannya. Padahal, omzet besar tidak selalu berarti untung besar. Ada bisnis dengan omzet ratusan juta tapi marginnya tipis sekali, sehingga laba bersihnya tidak seberapa. Memahami margin keuntungan adalah kunci untuk tahu apakah bisnis kamu benar-benar sehat secara finansial.

@@ -5,7 +5,7 @@ excerpt: "Panduan membuat visi dan misi bisnis yang bermakna dan benar-benar mem
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["visi misi bisnis", "tujuan bisnis", "strategi bisnis", "perencanaan bisnis", "identitas bisnis"]
-image: "/blog/cara-buat-visi-misi-bisnis-umkm/thumbnail.webp"
+image: "/blog/cara-buat-visi-misi-bisnis-umkm/thumbnail.svg"
 ---
 
 "Menjadi perusahaan terkemuka yang memberikan nilai terbaik bagi pelanggan." Kalimat seperti ini terpajang di banyak dinding kantor dan website bisnis, tapi tidak ada yang benar-benar tahu apa artinya atau bagaimana itu mempengaruhi keputusan sehari-hari.

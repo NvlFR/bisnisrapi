@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap sourcing produk fashion untuk bisnis retail, dari mene
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["sourcing produk fashion", "supplier fashion", "import fashion", "konveksi lokal", "bisnis fashion"]
-image: "/blog/panduan-sourcing-produk-fashion/thumbnail.webp"
+image: "/blog/panduan-sourcing-produk-fashion/thumbnail.svg"
 ---
 
 Sourcing produk adalah salah satu aspek paling krusial dalam bisnis fashion. Produk yang bagus dengan harga yang kompetitif adalah fondasi dari bisnis fashion yang menguntungkan. Tapi menemukan supplier yang tepat — yang konsisten dalam kualitas, harga, dan ketepatan pengiriman — bukan hal yang mudah.

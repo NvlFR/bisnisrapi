@@ -5,7 +5,7 @@ excerpt: "Grosir sembako punya dinamika harga yang cepat berubah dan pelanggan d
 author: "BisnisRapi Team"
 category: "Distribusi"
 tags: ["grosir sembako", "tier harga", "update harga massal", "distribusi", "manajemen stok"]
-image: "/blog/cara-kelola-grosir-sembako/thumbnail.webp"
+image: "/blog/cara-kelola-grosir-sembako/thumbnail.svg"
 ---
 
 Bisnis grosir sembako adalah salah satu bisnis yang paling dinamis sekaligus paling menantang untuk dikelola. Harga komoditas bisa berubah setiap hari, pelanggan datang dari berbagai segmen dengan kebutuhan harga yang berbeda, dan volume transaksi yang tinggi membuat pencatatan manual menjadi mimpi buruk.

@@ -5,7 +5,7 @@ excerpt: "Klinik fisioterapi perlu mengelola jadwal sesi yang padat dan rekam me
 author: "BisnisRapi Team"
 category: "Kesehatan"
 tags: ["klinik fisioterapi", "jadwal sesi", "rekam medis fisioterapi", "manajemen klinik", "rehabilitasi"]
-image: "/blog/manajemen-klinik-fisioterapi/thumbnail.webp"
+image: "/blog/manajemen-klinik-fisioterapi/thumbnail.svg"
 ---
 
 Klinik fisioterapi adalah tempat di mana pasien datang untuk pemulihan dan rehabilitasi. Setiap pasien punya kondisi yang unik, program terapi yang berbeda, dan perjalanan pemulihan yang perlu dipantau dengan cermat. Sistem manajemen yang baik memastikan setiap pasien mendapat perawatan yang optimal dan terstruktur.

@@ -5,7 +5,7 @@ excerpt: "WhatsApp adalah saluran komunikasi utama untuk banyak bisnis Indonesia
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["whatsapp bisnis", "kelola chat pelanggan", "customer service whatsapp", "whatsapp business", "layanan pelanggan"]
-image: "/blog/cara-kelola-chat-pelanggan-whatsapp/thumbnail.webp"
+image: "/blog/cara-kelola-chat-pelanggan-whatsapp/thumbnail.svg"
 ---
 
 WhatsApp adalah saluran komunikasi yang hampir tidak bisa dihindari untuk bisnis di Indonesia. Pelanggan mengharapkan bisa menghubungi bisnis melalui WhatsApp dan mendapat respons yang cepat. Tapi kalau tidak dikelola dengan baik, WhatsApp bisa menjadi sumber stres yang menguras waktu dan energi.

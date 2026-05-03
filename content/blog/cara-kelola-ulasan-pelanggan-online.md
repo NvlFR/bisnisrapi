@@ -5,7 +5,7 @@ excerpt: "Ulasan online bisa membuat atau menghancurkan bisnis. Pelajari cara me
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["ulasan pelanggan", "reputasi bisnis online", "review management", "kelola ulasan", "kepercayaan pelanggan"]
-image: "/blog/cara-kelola-ulasan-pelanggan-online/thumbnail.webp"
+image: "/blog/cara-kelola-ulasan-pelanggan-online/thumbnail.svg"
 ---
 
 Sebelum membeli sesuatu secara online, hampir semua orang membaca ulasan terlebih dahulu. Ulasan dari pelanggan nyata jauh lebih dipercaya daripada klaim dari bisnis itu sendiri. Ini berarti ulasan online adalah salah satu aset pemasaran paling berharga yang bisa kamu miliki — sekaligus salah satu risiko terbesar kalau tidak dikelola dengan baik.

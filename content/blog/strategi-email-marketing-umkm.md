@@ -5,7 +5,7 @@ excerpt: "Email marketing masih salah satu saluran pemasaran dengan ROI tertingg
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["email marketing", "newsletter bisnis", "pemasaran umkm", "email pelanggan", "strategi email"]
-image: "/blog/strategi-email-marketing-umkm/thumbnail.webp"
+image: "/blog/strategi-email-marketing-umkm/thumbnail.svg"
 ---
 
 Di era media sosial yang ramai, email marketing sering dianggap kuno. Padahal, email masih menjadi salah satu saluran pemasaran dengan tingkat konversi tertinggi. Kenapa? Karena orang yang memberikan alamat email mereka kepada kamu sudah menunjukkan minat yang nyata terhadap bisnis kamu.

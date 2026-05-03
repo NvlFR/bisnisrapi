@@ -5,7 +5,7 @@ excerpt: "Konten edukasi adalah cara paling efektif untuk membangun kepercayaan 
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["konten edukasi", "content marketing", "membangun kepercayaan", "thought leadership", "konten bisnis"]
-image: "/blog/cara-buat-konten-edukasi-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-konten-edukasi-bisnis/thumbnail.svg"
 ---
 
 Di era di mana semua orang bisa membuat konten, yang membedakan bisnis yang berhasil dari yang tidak adalah kualitas dan kegunaan konten yang mereka buat. Konten edukasi — konten yang benar-benar mengajarkan sesuatu yang berguna — adalah cara paling efektif untuk membangun kepercayaan, otoritas, dan loyalitas pelanggan.

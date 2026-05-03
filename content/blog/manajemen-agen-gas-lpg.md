@@ -5,7 +5,7 @@ excerpt: "Agen gas LPG mengelola stok tabung yang berputar cepat dengan sistem k
 author: "BisnisRapi Team"
 category: "Distribusi"
 tags: ["agen gas LPG", "stok tabung gas", "distribusi gas", "laporan harian", "manajemen agen"]
-image: "/blog/manajemen-agen-gas-lpg/thumbnail.webp"
+image: "/blog/manajemen-agen-gas-lpg/thumbnail.svg"
 ---
 
 Bisnis agen gas LPG adalah bisnis distribusi yang sangat penting — hampir setiap rumah tangga dan usaha kuliner membutuhkan gas LPG. Tapi mengelola agen gas bukan perkara mudah: stok tabung yang berputar cepat, sistem kredit ke pengecer, dan laporan ke Pertamina yang harus akurat.

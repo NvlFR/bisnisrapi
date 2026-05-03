@@ -5,7 +5,7 @@ excerpt: "Loyalty program tidak harus rumit atau mahal. Pelajari cara membuat pr
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["loyalty program", "retensi pelanggan", "strategi bisnis", "UMKM", "pelanggan setia"]
-image: "/blog/sistem-loyalty-program-umkm/thumbnail.webp"
+image: "/blog/sistem-loyalty-program-umkm/thumbnail.svg"
 ---
 
 Loyalty program adalah salah satu alat paling efektif untuk membuat pelanggan terus kembali. Tapi banyak pemilik UMKM yang berpikir ini hanya untuk bisnis besar dengan teknologi canggih dan budget marketing yang besar.

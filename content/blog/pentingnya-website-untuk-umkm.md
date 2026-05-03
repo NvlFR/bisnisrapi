@@ -5,7 +5,7 @@ excerpt: "Marketplace memang mudah, tapi mengandalkan platform orang lain sepenu
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["website UMKM", "marketplace vs website", "toko online", "digital presence", "branding"]
-image: "/blog/pentingnya-website-untuk-umkm/thumbnail.webp"
+image: "/blog/pentingnya-website-untuk-umkm/thumbnail.svg"
 ---
 
 "Ngapain bikin website? Di Tokopedia dan Shopee sudah ramai kok."

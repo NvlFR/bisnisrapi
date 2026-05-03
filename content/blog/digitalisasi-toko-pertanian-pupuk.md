@@ -5,7 +5,7 @@ excerpt: "Toko pertanian sering memberikan kredit kepada petani. Tanpa sistem ya
 author: "BisnisRapi Team"
 category: "Distribusi"
 tags: ["toko pertanian", "pupuk", "kredit petani", "manajemen piutang", "agribisnis"]
-image: "/blog/digitalisasi-toko-pertanian-pupuk/thumbnail.webp"
+image: "/blog/digitalisasi-toko-pertanian-pupuk/thumbnail.svg"
 ---
 
 Toko pertanian dan pupuk adalah bisnis yang sangat penting bagi ketahanan pangan lokal. Kamu menyediakan input pertanian yang dibutuhkan petani untuk berproduksi. Tapi ada tantangan unik yang sering dihadapi: sistem kredit kepada petani yang jika tidak dikelola dengan baik bisa menjadi bom waktu bagi bisnis kamu.

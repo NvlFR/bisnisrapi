@@ -5,7 +5,7 @@ excerpt: "Toko ikan hias punya tantangan unik: stok dihitung per ekor, mortalita
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko aquarium", "ikan hias", "stok per ekor", "manajemen ikan", "retail hobi"]
-image: "/blog/cara-kelola-toko-aquarium-ikan/thumbnail.webp"
+image: "/blog/cara-kelola-toko-aquarium-ikan/thumbnail.svg"
 ---
 
 Toko aquarium dan ikan hias adalah bisnis yang unik dan penuh tantangan. Produk utamamu adalah makhluk hidup yang perlu dirawat, bisa mati, dan harganya bisa sangat fluktuatif tergantung tren dan ketersediaan. Mengelola stok "per ekor" dengan semua kompleksitasnya membutuhkan pendekatan yang berbeda dari retail biasa.

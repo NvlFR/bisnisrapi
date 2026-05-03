@@ -5,7 +5,7 @@ excerpt: "Bundling produk adalah strategi yang bisa meningkatkan nilai transaksi
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["bundling produk", "paket produk", "strategi penjualan", "average order value", "strategi harga"]
-image: "/blog/cara-buat-paket-bundling-produk/thumbnail.webp"
+image: "/blog/cara-buat-paket-bundling-produk/thumbnail.svg"
 ---
 
 Pernahkah kamu pergi ke restoran cepat saji dan memilih paket combo karena terasa lebih hemat daripada membeli satu per satu? Itulah bundling dalam aksi. Strategi yang sama bisa diterapkan di hampir semua jenis bisnis — dan hasilnya bisa sangat signifikan untuk meningkatkan pendapatan.

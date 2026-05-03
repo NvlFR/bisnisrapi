@@ -5,7 +5,7 @@ excerpt: "Toko herbal dan jamu punya ratusan produk dengan masa simpan yang perl
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko herbal", "jamu", "manajemen stok", "expired date", "produk kesehatan"]
-image: "/blog/cara-kelola-toko-herbal-jamu/thumbnail.webp"
+image: "/blog/cara-kelola-toko-herbal-jamu/thumbnail.svg"
 ---
 
 Toko herbal dan jamu adalah bisnis yang unik: kamu menjual produk kesehatan yang dipercaya secara turun-temurun, tapi dengan standar modern yang semakin ketat. Ratusan produk dengan berbagai varian, masa simpan yang perlu dipantau, dan pelanggan yang semakin kritis tentang kualitas — semua ini membutuhkan sistem manajemen yang baik.

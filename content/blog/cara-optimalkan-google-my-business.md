@@ -5,7 +5,7 @@ excerpt: "Google My Business adalah alat gratis yang bisa membuat bisnis lokal k
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["google my business", "bisnis lokal", "seo lokal", "google maps bisnis", "pemasaran lokal"]
-image: "/blog/cara-optimalkan-google-my-business/thumbnail.webp"
+image: "/blog/cara-optimalkan-google-my-business/thumbnail.svg"
 ---
 
 Bayangkan ada orang di dekat toko kamu yang mengetik "toko kue terdekat" di Google. Apakah bisnis kamu muncul di hasil pencarian? Kalau belum, kamu mungkin kehilangan banyak calon pelanggan setiap harinya.

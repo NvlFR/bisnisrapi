@@ -5,7 +5,7 @@ excerpt: "Digital marketing tidak harus mahal. Dengan strategi yang tepat, UMKM 
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["digital marketing", "pemasaran UMKM", "media sosial", "konten marketing", "SEO"]
-image: "/blog/strategi-digital-marketing-umkm/thumbnail.webp"
+image: "/blog/strategi-digital-marketing-umkm/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang merasa digital marketing itu mahal dan rumit. Padahal, dengan strategi yang tepat, kamu bisa menjangkau ribuan calon pelanggan dengan budget yang sangat terbatas — bahkan hampir gratis.

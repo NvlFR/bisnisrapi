@@ -8,6 +8,24 @@ import Link from 'next/link';
 import { Calendar, User, ArrowLeft, Clock, ArrowRight } from 'lucide-react';
 import { Metadata } from 'next';
 import { ShareButtons } from '@/components/blog/share-buttons';
+import {
+  BlockquoteCallout,
+  ArticleH2,
+  ArticleH3,
+  ArticleTable,
+  ArticleThead,
+  ArticleTbody,
+  ArticleTr,
+  ArticleTh,
+  ArticleTd,
+  ArticleCode,
+  ArticleUl,
+  ArticleLi,
+  ArticleOl,
+  ArticleP,
+  ArticleHr,
+  ArticleStrong,
+} from '@/components/blog/article-components';
 
 const BASE_URL = 'https://bisnis-rapi.my.id';
 
@@ -143,7 +161,7 @@ export default async function BlogPostPage({ params }: Props) {
             </div>
 
             {post.image && (
-              <div className="relative aspect-[21/9] rounded-3xl overflow-hidden mb-12 shadow-2xl shadow-primary/5">
+              <div className="relative aspect-[21/9] rounded-3xl overflow-hidden mb-8 shadow-2xl shadow-primary/5">
                 <Image
                   src={post.image}
                   alt={post.title}
@@ -154,24 +172,76 @@ export default async function BlogPostPage({ params }: Props) {
               </div>
             )}
 
+            {/* Article meta card */}
+            <div className="mb-10 grid grid-cols-2 sm:grid-cols-4 gap-3">
+              {[
+                { icon: '📂', label: 'Kategori', value: post.category },
+                { icon: '⏱️', label: 'Waktu Baca', value: `${post.readingTime} menit` },
+                { icon: '📅', label: 'Diterbitkan', value: new Date(post.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' }) },
+                { icon: '✍️', label: 'Penulis', value: post.author },
+              ].map((item) => (
+                <div key={item.label} className="rounded-xl border border-border bg-secondary/30 px-4 py-3">
+                  <div className="text-lg mb-1">{item.icon}</div>
+                  <div className="text-xs text-muted-foreground mb-0.5">{item.label}</div>
+                  <div className="text-sm font-semibold text-foreground truncate">{item.value}</div>
+                </div>
+              ))}
+            </div>
+
             {/* Article Content */}
-            <div
-              className="prose prose-lg dark:prose-invert max-w-none
-                prose-headings:font-bold prose-headings:tracking-tight
-                prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
-                prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-                prose-p:text-muted-foreground prose-p:leading-relaxed
-                prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-                prose-strong:text-foreground
-                prose-ul:text-muted-foreground prose-ol:text-muted-foreground
-                prose-li:leading-relaxed
-                prose-blockquote:border-primary prose-blockquote:bg-primary/5 prose-blockquote:rounded-r-xl prose-blockquote:py-2
-                prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm
-                prose-img:rounded-3xl prose-img:shadow-xl
-                prose-hr:border-border
-                mb-16"
-            >
-              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            <div className="max-w-none mb-16">
+              <ReactMarkdown
+                remarkPlugins={[remarkGfm]}
+                components={{
+                  h2: ({ children }) => <ArticleH2>{children}</ArticleH2>,
+                  h3: ({ children }) => <ArticleH3>{children}</ArticleH3>,
+                  blockquote: ({ children }) => <BlockquoteCallout>{children}</BlockquoteCallout>,
+                  table: ({ children }) => <ArticleTable>{children}</ArticleTable>,
+                  thead: ({ children }) => <ArticleThead>{children}</ArticleThead>,
+                  tbody: ({ children }) => <ArticleTbody>{children}</ArticleTbody>,
+                  tr: ({ children }) => <ArticleTr>{children}</ArticleTr>,
+                  th: ({ children }) => <ArticleTh>{children}</ArticleTh>,
+                  td: ({ children }) => <ArticleTd>{children}</ArticleTd>,
+                  code: ({ children, className }) => (
+                    <ArticleCode className={className}>{children}</ArticleCode>
+                  ),
+                  ul: ({ children }) => <ArticleUl>{children}</ArticleUl>,
+                  li: ({ children }) => <ArticleLi>{children}</ArticleLi>,
+                  ol: ({ children }) => <ArticleOl>{children}</ArticleOl>,
+                  p: ({ children }) => <ArticleP>{children}</ArticleP>,
+                  hr: () => <ArticleHr />,
+                  strong: ({ children }) => <ArticleStrong>{children}</ArticleStrong>,
+                  // Inline images in content
+                  img: ({ src, alt }) => (
+                    <span className="not-prose my-8 block overflow-hidden rounded-2xl border border-border shadow-sm">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={src}
+                        alt={alt ?? ''}
+                        className="w-full object-cover"
+                        loading="lazy"
+                      />
+                    </span>
+                  ),
+                  // H1 inside content (some articles have it)
+                  h1: ({ children }) => (
+                    <h1 className="mt-0 mb-6 text-3xl font-bold tracking-tight text-foreground">
+                      {children}
+                    </h1>
+                  ),
+                  // Links
+                  a: ({ href, children }) => (
+                    <a
+                      href={href}
+                      className="font-medium text-brand-end underline underline-offset-2 hover:text-brand-start transition-colors"
+                      target={href?.startsWith('http') ? '_blank' : undefined}
+                      rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
+                    >
+                      {children}
+                    </a>
+                  ),
+                }}
+              >
                 {post.content}
               </ReactMarkdown>
             </div>

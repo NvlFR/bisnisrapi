@@ -5,7 +5,7 @@ excerpt: "Bisnis frozen food punya tantangan unik soal stok dan expired date. Be
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["frozen food", "manajemen stok", "low stock alert", "barcode", "retail makanan"]
-image: "/blog/cara-kelola-stok-frozen-food/thumbnail.webp"
+image: "/blog/cara-kelola-stok-frozen-food/thumbnail.svg"
 ---
 
 Bisnis frozen food sedang naik daun. Dari nugget, dimsum, bakso, sampai berbagai lauk siap masak — permintaannya terus tumbuh karena kepraktisannya. Tapi di balik peluang yang besar, ada tantangan operasional yang tidak bisa dianggap remeh: manajemen stok.

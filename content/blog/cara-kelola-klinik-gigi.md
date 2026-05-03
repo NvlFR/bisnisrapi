@@ -5,7 +5,7 @@ excerpt: "Klinik gigi yang terorganisir dengan baik memberikan pengalaman pasien
 author: "BisnisRapi Team"
 category: "Kesehatan"
 tags: ["klinik gigi", "rekam medis digital", "reminder kontrol", "manajemen klinik", "kesehatan"]
-image: "/blog/cara-kelola-klinik-gigi/thumbnail.webp"
+image: "/blog/cara-kelola-klinik-gigi/thumbnail.svg"
 ---
 
 Klinik gigi yang sukses bukan hanya soal keahlian dokter — tapi juga soal bagaimana klinik dikelola. Pasien yang datang ke klinik gigi ingin merasa diperhatikan, tidak harus menunggu terlalu lama, dan mendapat perawatan yang berkelanjutan. Semua ini membutuhkan sistem manajemen yang baik.

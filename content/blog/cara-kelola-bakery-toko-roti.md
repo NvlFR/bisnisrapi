@@ -5,7 +5,7 @@ excerpt: "Bakery punya tantangan unik: produk yang harus diproduksi setiap hari 
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["bakery", "toko roti", "manajemen produksi", "food waste", "promo roti"]
-image: "/blog/cara-kelola-bakery-toko-roti/thumbnail.webp"
+image: "/blog/cara-kelola-bakery-toko-roti/thumbnail.svg"
 ---
 
 Bakery adalah bisnis yang menggabungkan seni kuliner dengan manajemen yang ketat. Setiap hari kamu harus memutuskan: berapa banyak yang harus diproduksi? Produk apa yang paling laku? Bagaimana menangani sisa yang tidak terjual?

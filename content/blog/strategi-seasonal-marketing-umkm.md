@@ -5,7 +5,7 @@ excerpt: "Momen hari raya dan liburan adalah peluang emas untuk meningkatkan pen
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["seasonal marketing", "pemasaran hari raya", "promosi lebaran", "kampanye musiman", "strategi pemasaran"]
-image: "/blog/strategi-seasonal-marketing-umkm/thumbnail.webp"
+image: "/blog/strategi-seasonal-marketing-umkm/thumbnail.svg"
 ---
 
 Lebaran, Natal, Tahun Baru, Harbolnas, Valentine — setiap tahun ada puluhan momen yang bisa dimanfaatkan untuk meningkatkan penjualan bisnis kamu. Tapi banyak UMKM yang melewatkan peluang ini karena tidak mempersiapkan diri dengan baik, atau sebaliknya, ikut-ikutan tanpa strategi yang jelas.

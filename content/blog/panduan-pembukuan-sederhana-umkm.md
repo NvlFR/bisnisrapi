@@ -5,7 +5,7 @@ excerpt: "Panduan praktis pembukuan sederhana untuk pemilik UMKM yang tidak berl
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["pembukuan umkm", "akuntansi sederhana", "laporan keuangan", "pencatatan bisnis", "buku kas"]
-image: "/blog/panduan-pembukuan-sederhana-umkm/thumbnail.webp"
+image: "/blog/panduan-pembukuan-sederhana-umkm/thumbnail.svg"
 ---
 
 "Saya bukan akuntan, jadi tidak bisa buat pembukuan." Ini alasan yang sering terdengar dari pemilik UMKM. Padahal, pembukuan dasar tidak memerlukan gelar akuntansi. Yang dibutuhkan hanya konsistensi dan sistem yang sederhana. Artikel ini akan menunjukkan cara memulai pembukuan dari nol, bahkan jika kamu tidak tahu apa itu debit dan kredit.

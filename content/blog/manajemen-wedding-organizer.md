@@ -5,7 +5,7 @@ excerpt: "Wedding organizer mengelola banyak klien dengan detail yang sangat kom
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["wedding organizer", "manajemen event", "invoice klien", "paket pernikahan", "jasa WO"]
-image: "/blog/manajemen-wedding-organizer/thumbnail.webp"
+image: "/blog/manajemen-wedding-organizer/thumbnail.svg"
 ---
 
 Menjadi wedding organizer (WO) adalah pekerjaan yang penuh tekanan tapi juga sangat memuaskan. Kamu membantu pasangan mewujudkan salah satu hari terpenting dalam hidup mereka. Tapi di balik keindahan itu, ada kompleksitas operasional yang luar biasa: ratusan detail yang harus dikoordinasikan, puluhan vendor yang harus dikelola, dan klien yang (wajar saja) sangat perfeksionis.

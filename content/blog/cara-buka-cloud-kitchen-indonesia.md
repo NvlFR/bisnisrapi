@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka cloud kitchen di Indonesia, dari konsep bisnis
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["cloud kitchen", "ghost kitchen", "bisnis kuliner online", "gofood grabfood", "bisnis fnb digital"]
-image: "/blog/cara-buka-cloud-kitchen-indonesia/thumbnail.webp"
+image: "/blog/cara-buka-cloud-kitchen-indonesia/thumbnail.svg"
 ---
 
 Cloud kitchen — atau yang juga dikenal sebagai ghost kitchen atau dark kitchen — adalah konsep bisnis kuliner yang beroperasi tanpa ruang makan untuk pelanggan. Semua pesanan datang melalui platform pesan antar seperti GoFood, GrabFood, atau ShopeeFood, dan makanan langsung dikirim ke pelanggan.

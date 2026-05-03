@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka usaha jasa les bahasa yang sukses, dari menent
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["les bahasa", "kursus bahasa", "bisnis pendidikan", "les inggris", "usaha les"]
-image: "/blog/cara-buka-usaha-jasa-les-bahasa/thumbnail.webp"
+image: "/blog/cara-buka-usaha-jasa-les-bahasa/thumbnail.svg"
 ---
 
 Bisnis les bahasa adalah salah satu bisnis jasa yang paling stabil dan terus berkembang. Kemampuan berbahasa asing — terutama Inggris — adalah kebutuhan yang semakin penting di dunia kerja dan pendidikan. Ditambah dengan meningkatnya minat pada bahasa Mandarin, Korea, Jepang, dan bahasa lainnya, pasar untuk les bahasa terus berkembang.

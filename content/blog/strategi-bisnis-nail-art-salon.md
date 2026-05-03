@@ -5,7 +5,7 @@ excerpt: "Strategi lengkap membangun bisnis nail art dan salon kecantikan yang s
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["nail art", "salon kecantikan", "bisnis nail art", "usaha salon", "jasa kecantikan"]
-image: "/blog/strategi-bisnis-nail-art-salon/thumbnail.webp"
+image: "/blog/strategi-bisnis-nail-art-salon/thumbnail.svg"
 ---
 
 Bisnis nail art dan salon kecantikan adalah industri yang terus berkembang. Perawatan kuku bukan lagi sekadar kebutuhan — ini sudah menjadi bagian dari self-care dan ekspresi diri. Pelanggan rela mengeluarkan uang lebih untuk nail art yang bagus dan pengalaman salon yang menyenangkan.

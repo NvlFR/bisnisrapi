@@ -5,7 +5,7 @@ excerpt: "Meningkatkan average order value berarti mendapat lebih banyak pendapa
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["average order value", "upselling", "cross-selling", "strategi penjualan", "peningkatan pendapatan"]
-image: "/blog/cara-tingkatkan-average-order-value/thumbnail.webp"
+image: "/blog/cara-tingkatkan-average-order-value/thumbnail.svg"
 ---
 
 Banyak pemilik bisnis yang terlalu fokus pada mendapatkan pelanggan baru, padahal ada cara yang lebih mudah dan lebih murah untuk meningkatkan pendapatan: membuat setiap pelanggan yang sudah ada membelanjakan lebih banyak per transaksi.

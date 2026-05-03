@@ -5,7 +5,7 @@ excerpt: "Toko furnitur sering menerima pesanan indent yang butuh waktu produksi
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko furnitur", "mebel", "indent", "tracking produksi", "manajemen pesanan"]
-image: "/blog/digitalisasi-toko-furnitur-mebel/thumbnail.webp"
+image: "/blog/digitalisasi-toko-furnitur-mebel/thumbnail.svg"
 ---
 
 Bisnis furnitur dan mebel punya karakteristik yang sangat berbeda dari retail biasa. Produk yang dijual besar, mahal, dan sering kali dibuat berdasarkan pesanan (indent). Pelanggan yang memesan furnitur custom harus menunggu berminggu-minggu atau bahkan berbulan-bulan — dan selama waktu itu, mereka ingin tahu perkembangan pesanan mereka.

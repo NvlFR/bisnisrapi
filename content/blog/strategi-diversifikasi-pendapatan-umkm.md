@@ -5,7 +5,7 @@ excerpt: "Panduan strategi diversifikasi pendapatan untuk UMKM agar bisnis lebih
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["diversifikasi pendapatan", "multiple income stream", "stabilitas bisnis", "strategi umkm", "pengembangan bisnis"]
-image: "/blog/strategi-diversifikasi-pendapatan-umkm/thumbnail.webp"
+image: "/blog/strategi-diversifikasi-pendapatan-umkm/thumbnail.svg"
 ---
 
 "Jangan taruh semua telur dalam satu keranjang." Pepatah ini sangat relevan untuk bisnis. UMKM yang hanya mengandalkan satu sumber pendapatan sangat rentan — satu perubahan pasar, satu kompetitor baru, atau satu bencana bisa langsung mengancam kelangsungan bisnis.

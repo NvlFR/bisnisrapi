@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg-764619908" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <filter id="blur-764619908">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <filter id="shadow-764619908">
+      <feDropShadow dx="0" dy="12" stdDeviation="25" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="grid-764619908" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M 50 0 L 0 0 0 50" fill="none" stroke="white" stroke-opacity="0.05" stroke-width="1"/></pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg-764619908)"/>
+
+  <!-- Decorative dynamic shapes -->
+  <circle cx="116.32373113854595" cy="169.28755144032922" r="242.89008916323732" fill="white" opacity="0.08" filter="url(#blur-764619908)"/>
+  <circle cx="983.7028463648834" cy="562.4382716049383" r="290.3142146776406" fill="white" opacity="0.06" filter="url(#blur-764619908)"/>
+  <polygon points="667.5874485596707,311.7197359396434 619.9738511659807,406.94693072702336 715.2010459533608,406.94693072702336" fill="white" opacity="0.055100737311385456" transform="rotate(162.1712962962963, 667.5874485596707, 359.33333333333337)" />
+<rect x="360.58641975308643" y="35.63464506172839" width="110.6241426611797" height="110.6241426611797" rx="27.656035665294926" fill="white" opacity="0.056853780864197526" transform="rotate(198.58950617283952, 360.58641975308643, 35.63464506172839)" />
+<circle cx="692.283950617284" cy="622.9702932098766" r="67.83007544581619" fill="white" opacity="0.07183191872427984" />
+<rect x="427.5668724279836" y="132.85956790123456" width="186.4994855967078" height="186.4994855967078" rx="46.62487139917695" fill="white" opacity="0.035994941700960216" transform="rotate(140.5354938271605, 427.5668724279836, 132.85956790123456)" />
+<polygon points="1181.0596707818931,143.01718964334705 1067.0456104252403,371.045310356653 1295.073731138546,371.045310356653" fill="white" opacity="0.05045374657064472" transform="rotate(6.212962962962963, 1181.0596707818931, 257.03125)" />
+
+  <!-- Pattern Overlay -->
+  <rect width="1200" height="630" fill="url(#grid-764619908)"/>
+
+  <!-- Glass Card -->
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.2" stroke-width="1.5" filter="url(#shadow-764619908)"/>
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="none" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
+
+  <!-- Badge -->
+  <rect x="130" y="130" width="161" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+  <text x="210.5" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">TIPS BISNIS</text>
+
+  <!-- Emoji -->
+  <text x="600" y="300" font-size="140" text-anchor="middle" dominant-baseline="middle">📈</text>
+
+  <!-- Title -->
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-0.5">Cara Optimalkan Google My</text>
+  <text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle" opacity="0.9" letter-spacing="-0.5">Business</text>
+
+  <!-- Branding -->
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">BISNISRAPI.MY.ID</text>
+
+  <!-- Accent line -->
+  <rect x="540" y="550" width="120" height="4" rx="2" fill="white" opacity="0.3"/>
+</svg>

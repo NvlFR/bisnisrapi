@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap PPN untuk UMKM — kapan wajib daftar PKP, apa konseku
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["ppn umkm", "pkp pajak", "pajak pertambahan nilai", "kewajiban pajak", "administrasi pajak"]
-image: "/blog/panduan-ppn-untuk-umkm/thumbnail.webp"
+image: "/blog/panduan-ppn-untuk-umkm/thumbnail.svg"
 ---
 
 PPN (Pajak Pertambahan Nilai) adalah salah satu jenis pajak yang paling sering menimbulkan kebingungan di kalangan pelaku UMKM. Kapan harus daftar PKP? Apa bedanya PKP dan non-PKP? Bagaimana cara mengelola PPN agar tidak membebani bisnis? Artikel ini menjawab semua pertanyaan itu.

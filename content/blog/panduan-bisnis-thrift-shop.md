@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai dan mengelola bisnis thrift shop, dari sourcin
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["thrift shop", "bisnis baju bekas", "second hand fashion", "thrifting", "bisnis sustainable fashion"]
-image: "/blog/panduan-bisnis-thrift-shop/thumbnail.webp"
+image: "/blog/panduan-bisnis-thrift-shop/thumbnail.svg"
 ---
 
 Thrift shop — toko yang menjual pakaian dan barang bekas berkualitas — sedang mengalami kebangkitan yang luar biasa. Didorong oleh kesadaran lingkungan, tren sustainable fashion, dan daya beli yang beragam, thrifting kini bukan lagi sekadar pilihan terakhir tapi sudah menjadi gaya hidup dan pernyataan nilai.

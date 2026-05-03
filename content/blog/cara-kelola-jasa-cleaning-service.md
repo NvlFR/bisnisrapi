@@ -5,7 +5,7 @@ excerpt: "Bisnis cleaning service yang berkembang butuh sistem untuk mengelola j
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["cleaning service", "jasa kebersihan", "jadwal tim", "invoice klien", "manajemen jasa"]
-image: "/blog/cara-kelola-jasa-cleaning-service/thumbnail.webp"
+image: "/blog/cara-kelola-jasa-cleaning-service/thumbnail.svg"
 ---
 
 Bisnis jasa cleaning service adalah bisnis yang sangat bergantung pada kepercayaan dan konsistensi. Klien mempercayakan kebersihan rumah atau kantor mereka kepada kamu — dan mereka mengharapkan hasil yang konsisten setiap kali.

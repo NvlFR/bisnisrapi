@@ -5,7 +5,7 @@ excerpt: "Stok barang yang kacau bisa bikin toko rugi diam-diam. Pelajari cara m
 author: "BisnisRapi Team"
 category: "Manajemen Stok"
 tags: ["manajemen stok", "toko retail", "inventaris", "digitalisasi", "UMKM"]
-image: "/blog/manajemen-stok-toko-retail/thumbnail.webp"
+image: "/blog/manajemen-stok-toko-retail/thumbnail.svg"
 ---
 
 Pernah kejadian pelanggan minta produk tertentu, kamu yakin masih ada stok, tapi setelah dicari-cari ternyata kosong? Atau sebaliknya — kamu baru sadar punya 200 unit produk yang sudah hampir expired karena tidak pernah terpantau?

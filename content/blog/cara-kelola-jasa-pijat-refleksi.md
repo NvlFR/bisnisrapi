@@ -5,7 +5,7 @@ excerpt: "Usaha pijat dan refleksi butuh sistem booking yang efisien dan perhitu
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa pijat", "refleksi", "booking pijat", "komisi terapis", "manajemen wellness"]
-image: "/blog/cara-kelola-jasa-pijat-refleksi/thumbnail.webp"
+image: "/blog/cara-kelola-jasa-pijat-refleksi/thumbnail.svg"
 ---
 
 Usaha pijat dan refleksi adalah bisnis yang menjual relaksasi dan kesehatan. Pelanggan datang untuk melepas stres dan memulihkan kondisi tubuh — dan mereka mengharapkan pengalaman yang menyenangkan dari awal hingga akhir, termasuk proses booking yang mudah dan pelayanan yang profesional.

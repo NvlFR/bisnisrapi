@@ -5,7 +5,7 @@ excerpt: "Laporan penjualan harian adalah kompas bisnis kamu setiap hari. Pelaja
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["laporan penjualan", "laporan harian", "keuangan bisnis", "manajemen toko", "UMKM"]
-image: "/blog/cara-buat-laporan-penjualan-harian/thumbnail.webp"
+image: "/blog/cara-buat-laporan-penjualan-harian/thumbnail.svg"
 ---
 
 Setiap hari bisnis kamu beroperasi, ada data berharga yang dihasilkan: berapa yang terjual, produk apa yang laku, berapa uang yang masuk. Kalau data ini tidak dicatat dan dianalisis, kamu kehilangan informasi yang bisa membantu bisnis tumbuh lebih cepat.

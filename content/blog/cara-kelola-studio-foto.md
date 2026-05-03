@@ -5,7 +5,7 @@ excerpt: "Studio foto yang profesional butuh sistem yang mengelola booking, pake
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["studio foto", "booking studio", "paket foto", "manajemen jasa", "digitalisasi"]
-image: "/blog/cara-kelola-studio-foto/thumbnail.webp"
+image: "/blog/cara-kelola-studio-foto/thumbnail.svg"
 ---
 
 Studio foto adalah bisnis yang sangat bergantung pada manajemen waktu dan pengalaman pelanggan. Satu sesi foto yang berjalan lancar bisa menghasilkan pelanggan yang loyal dan banyak referral. Sebaliknya, jadwal yang kacau atau proses yang tidak profesional bisa merusak reputasi yang sudah dibangun.

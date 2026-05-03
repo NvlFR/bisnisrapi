@@ -5,7 +5,7 @@ excerpt: "Panduan menentukan waktu yang tepat untuk membuka cabang restoran, ind
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["buka cabang restoran", "ekspansi bisnis fnb", "strategi restoran", "manajemen multi outlet", "bisnis kuliner"]
-image: "/blog/strategi-buka-cabang-restoran/thumbnail.webp"
+image: "/blog/strategi-buka-cabang-restoran/thumbnail.svg"
 ---
 
 Restoran kamu ramai, pelanggan puas, dan keuangan mulai stabil. Pikiran untuk membuka cabang pun mulai muncul. Tapi kapan waktu yang tepat? Dan bagaimana caranya agar ekspansi tidak justru membebani bisnis yang sudah berjalan?

@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis kontrakan rumah secara profesional dengan mem
 author: "BisnisRapi Team"
 category: "Properti"
 tags: ["kontrakan rumah", "bisnis kontrakan", "manajemen properti", "sewa rumah", "properti digital"]
-image: "/blog/cara-kelola-bisnis-kontrakan-rumah/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-kontrakan-rumah/thumbnail.svg"
 ---
 
 Bisnis kontrakan rumah adalah salah satu investasi properti yang paling umum di Indonesia. Tapi banyak pemilik kontrakan yang mengelolanya secara informal — tanpa perjanjian yang jelas, tanpa sistem penagihan yang teratur, dan tanpa pencatatan yang rapi. Akibatnya, sering terjadi masalah — penyewa yang menunggak, kerusakan yang tidak ditangani, atau ketidakjelasan hak dan kewajiban.

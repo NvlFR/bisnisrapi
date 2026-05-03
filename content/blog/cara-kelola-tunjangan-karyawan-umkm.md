@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap mengelola tunjangan karyawan UMKM yang sesuai aturan k
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["tunjangan karyawan", "thr karyawan", "hak karyawan", "ketenagakerjaan umkm", "manajemen sdm"]
-image: "/blog/cara-kelola-tunjangan-karyawan-umkm/thumbnail.webp"
+image: "/blog/cara-kelola-tunjangan-karyawan-umkm/thumbnail.svg"
 ---
 
 Tunjangan karyawan adalah komponen penting dari paket kompensasi yang mempengaruhi kepuasan, loyalitas, dan produktivitas karyawan. Sebagai pengusaha, kamu perlu memahami mana tunjangan yang wajib secara hukum dan mana yang opsional — serta bagaimana mengelolanya dengan baik.

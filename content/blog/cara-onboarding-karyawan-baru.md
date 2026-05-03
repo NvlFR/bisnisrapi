@@ -5,7 +5,7 @@ excerpt: "Onboarding yang buruk bikin karyawan baru bingung dan cepat resign. Pe
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["onboarding karyawan", "SDM", "manajemen toko", "training karyawan", "UMKM"]
-image: "/blog/cara-onboarding-karyawan-baru/thumbnail.webp"
+image: "/blog/cara-onboarding-karyawan-baru/thumbnail.svg"
 ---
 
 Hari pertama kerja adalah momen yang menentukan. Karyawan baru yang disambut dengan baik dan diberi panduan yang jelas akan lebih cepat produktif dan lebih loyal. Sebaliknya, karyawan yang dibiarkan bingung di hari pertama cenderung tidak betah dan resign lebih cepat.

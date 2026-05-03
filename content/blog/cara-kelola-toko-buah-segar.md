@@ -5,7 +5,7 @@ excerpt: "Toko buah segar menghadapi tantangan waste yang tinggi. Begini cara me
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko buah", "manajemen stok", "food waste", "masa simpan", "retail segar"]
-image: "/blog/cara-kelola-toko-buah-segar/thumbnail.webp"
+image: "/blog/cara-kelola-toko-buah-segar/thumbnail.svg"
 ---
 
 Bisnis toko buah segar punya daya tarik tersendiri: produk yang selalu dibutuhkan, margin yang bisa cukup baik, dan permintaan yang relatif stabil. Tapi ada satu tantangan besar yang membuat banyak pemilik toko buah pusing: waste atau pemborosan akibat buah yang tidak terjual sebelum rusak.

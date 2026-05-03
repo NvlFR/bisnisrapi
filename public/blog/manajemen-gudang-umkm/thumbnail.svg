@@ -1,52 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg-666296886" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.12" />
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.04" />
-    </linearGradient>
-    <filter id="blur1">
-      <feGaussianBlur stdDeviation="60"/>
+    <filter id="blur-666296886">
+      <feGaussianBlur stdDeviation="80"/>
     </filter>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="8" stdDeviation="20" flood-color="#000000" flood-opacity="0.25"/>
+    <filter id="shadow-666296886">
+      <feDropShadow dx="0" dy="12" stdDeviation="25" flood-color="#000000" flood-opacity="0.3"/>
     </filter>
+    <pattern id="grid-666296886" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M 50 0 L 0 0 0 50" fill="none" stroke="white" stroke-opacity="0.05" stroke-width="1"/></pattern>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg-666296886)"/>
 
-  <!-- Decorative blobs -->
-  <circle cx="150" cy="150" r="220" fill="white" opacity="0.06" filter="url(#blur1)"/>
-  <circle cx="1050" cy="480" r="280" fill="white" opacity="0.06" filter="url(#blur1)"/>
-  <circle cx="900" cy="100" r="160" fill="white" opacity="0.04" filter="url(#blur1)"/>
+  <!-- Decorative dynamic shapes -->
+  <circle cx="201.66152263374488" cy="296.0862482853223" r="220.22976680384087" fill="white" opacity="0.08" filter="url(#blur-666296886)"/>
+  <circle cx="1056.3863168724279" cy="591.3974622770919" r="265.03043552812073" fill="white" opacity="0.06" filter="url(#blur-666296886)"/>
+  <polygon points="414.79938271604937,38.410150891632355 294.3214163237311,279.3660836762689 535.2773491083676,279.3660836762689" fill="white" opacity="0.06084876543209877" transform="rotate(251.52006172839506, 414.79938271604937, 158.8881172839506)" />
+<polygon points="1004.7119341563787,308.0263631687243 956.1136831275721,405.2228652263375 1053.3101851851852,405.2228652263375" fill="white" opacity="0.034232467421124825" transform="rotate(192.5679012345679, 1004.7119341563787, 356.6246141975309)" />
+<rect x="1001.7232510288065" y="252.8101851851852" width="164.49674211248288" height="164.49674211248288" rx="41.12418552812072" fill="white" opacity="0.07411565500685871" transform="rotate(217.9675925925926, 1001.7232510288065, 252.8101851851852)" />
+<circle cx="113.05041152263374" cy="281.11805555555554" r="74.5503257887517" fill="white" opacity="0.07435613854595335" />
+<rect x="844.9382716049383" y="117.83603395061729" width="226.5346364883402" height="226.5346364883402" rx="56.63365912208505" fill="white" opacity="0.0777295524691358" transform="rotate(310.5617283950617, 844.9382716049383, 117.83603395061729)" />
 
-  <!-- Grid dots pattern -->
-  <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-    <circle cx="2" cy="2" r="1.5" fill="white" opacity="0.08"/>
-  </pattern>
-  <rect width="1200" height="630" fill="url(#dots)"/>
+  <!-- Pattern Overlay -->
+  <rect width="1200" height="630" fill="url(#grid-666296886)"/>
 
-  <!-- Card -->
-  <rect x="80" y="80" width="1040" height="470" rx="32" fill="url(#card)" stroke="white" stroke-opacity="0.15" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- Glass Card -->
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.2" stroke-width="1.5" filter="url(#shadow-666296886)"/>
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="none" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
 
-  <!-- Category badge -->
-  <rect x="120" y="120" width="186" height="36" rx="18" fill="white" opacity="0.2"/>
-  <text x="213" y="143" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle" letter-spacing="0.5">MANAJEMEN STOK</text>
+  <!-- Badge -->
+  <rect x="130" y="130" width="194" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+  <text x="227" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">MANAJEMEN STOK</text>
 
   <!-- Emoji -->
-  <text x="600" y="310" font-size="120" text-anchor="middle" dominant-baseline="middle">🏭</text>
+  <text x="600" y="300" font-size="140" text-anchor="middle" dominant-baseline="middle">🏭</text>
 
-  <!-- Title line 1 -->
-  <text x="600" y="415" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800" fill="white" text-anchor="middle" opacity="0.95">Manajemen Gudang UMKM</text>
+  <!-- Title -->
+  <text x="600" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-0.5">Manajemen Gudang UMKM</text>
   
 
-  <!-- BisnisRapi branding -->
-  <text x="600" y="510" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="2">bisnisrapi.com</text>
+  <!-- Branding -->
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">BISNISRAPI.MY.ID</text>
 
-  <!-- Bottom accent line -->
-  <rect x="540" y="530" width="120" height="3" rx="2" fill="white" opacity="0.4"/>
+  <!-- Accent line -->
+  <rect x="540" y="550" width="120" height="4" rx="2" fill="white" opacity="0.3"/>
 </svg>

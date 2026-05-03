@@ -5,7 +5,7 @@ excerpt: "Panduan menghitung ROI (Return on Investment) untuk berbagai jenis inv
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["roi bisnis", "return on investment", "evaluasi investasi", "keputusan keuangan", "analisis bisnis"]
-image: "/blog/cara-hitung-roi-investasi-bisnis/thumbnail.webp"
+image: "/blog/cara-hitung-roi-investasi-bisnis/thumbnail.svg"
 ---
 
 Setiap kali kamu mengeluarkan uang untuk bisnis — beli mesin baru, pasang iklan, rekrut karyawan, renovasi toko — kamu sedang berinvestasi. Pertanyaannya: apakah investasi itu worth it? Apakah uang yang kamu keluarkan menghasilkan lebih banyak uang daripada yang kamu keluarkan?

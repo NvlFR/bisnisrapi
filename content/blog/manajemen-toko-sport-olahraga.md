@@ -5,7 +5,7 @@ excerpt: "Toko olahraga punya tantangan varian ukuran yang kompleks dan tren pro
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko olahraga", "perlengkapan olahraga", "varian ukuran", "manajemen stok", "retail sport"]
-image: "/blog/manajemen-toko-sport-olahraga/thumbnail.webp"
+image: "/blog/manajemen-toko-sport-olahraga/thumbnail.svg"
 ---
 
 Toko perlengkapan olahraga adalah bisnis yang menarik: kamu melayani pelanggan yang passionate tentang olahraga dan gaya hidup aktif. Tapi dari sisi manajemen, ada kompleksitas yang cukup tinggi — terutama soal varian ukuran dan tren produk yang cepat berubah.

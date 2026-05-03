@@ -5,7 +5,7 @@ excerpt: "Flash sale bisa mendatangkan lonjakan penjualan yang signifikan, tapi 
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["flash sale", "strategi diskon", "promosi penjualan", "strategi harga", "peningkatan penjualan"]
-image: "/blog/strategi-flash-sale-yang-efektif/thumbnail.webp"
+image: "/blog/strategi-flash-sale-yang-efektif/thumbnail.svg"
 ---
 
 Flash sale adalah salah satu strategi promosi yang paling powerful — bisa mendatangkan lonjakan penjualan dalam waktu singkat, menghabiskan stok yang menumpuk, dan menarik pelanggan baru. Tapi flash sale yang tidak direncanakan dengan baik bisa berakhir dengan kerugian, pelanggan yang kecewa karena stok habis, atau bahkan merusak persepsi nilai brand kamu.

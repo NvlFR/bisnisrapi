@@ -5,7 +5,7 @@ excerpt: "Memahami kompetitor bukan berarti meniru mereka — ini tentang menemu
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["analisis kompetitor", "riset pasar", "strategi bisnis", "competitive analysis", "positioning bisnis"]
-image: "/blog/cara-analisis-kompetitor-bisnis/thumbnail.webp"
+image: "/blog/cara-analisis-kompetitor-bisnis/thumbnail.svg"
 ---
 
 Mengetahui apa yang dilakukan kompetitor kamu adalah bagian penting dari strategi bisnis yang cerdas. Tapi ada garis tipis antara belajar dari kompetitor dan meniru mereka secara tidak etis. Artikel ini akan membahas cara melakukan analisis kompetitor yang efektif, etis, dan benar-benar berguna untuk bisnis kamu.

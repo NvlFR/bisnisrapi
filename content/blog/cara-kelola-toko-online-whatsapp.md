@@ -5,7 +5,7 @@ excerpt: "Berjualan via WhatsApp bisa sangat menguntungkan, tapi tanpa sistem ya
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["toko online WhatsApp", "jualan WhatsApp", "WhatsApp Business", "manajemen order", "UMKM online"]
-image: "/blog/cara-kelola-toko-online-whatsapp/thumbnail.webp"
+image: "/blog/cara-kelola-toko-online-whatsapp/thumbnail.svg"
 ---
 
 WhatsApp adalah platform jualan yang luar biasa populer di Indonesia. Hampir semua orang punya WhatsApp, dan banyak pelanggan lebih nyaman memesan melalui chat daripada melalui marketplace yang terasa lebih formal.

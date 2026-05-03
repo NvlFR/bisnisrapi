@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola toko pakaian anak dengan efektif, termasuk strategi 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko pakaian anak", "bisnis fashion anak", "manajemen stok fashion", "tren pakaian anak", "retail anak"]
-image: "/blog/cara-kelola-toko-pakaian-anak/thumbnail.webp"
+image: "/blog/cara-kelola-toko-pakaian-anak/thumbnail.svg"
 ---
 
 Bisnis pakaian anak punya karakteristik unik yang membedakannya dari fashion dewasa. Anak-anak tumbuh cepat, tren berubah sesuai musim dan momen tertentu, dan keputusan pembelian melibatkan dua pihak — orang tua yang membayar dan anak yang (kadang) punya pendapat sendiri. Memahami dinamika ini adalah kunci untuk mengelola toko pakaian anak dengan sukses.

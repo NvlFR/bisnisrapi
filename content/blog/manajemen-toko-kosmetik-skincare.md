@@ -5,7 +5,7 @@ excerpt: "Toko kosmetik dengan ratusan varian produk dan pelanggan yang loyal bu
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko kosmetik", "skincare", "manajemen stok varian", "program member", "retail kecantikan"]
-image: "/blog/manajemen-toko-kosmetik-skincare/thumbnail.webp"
+image: "/blog/manajemen-toko-kosmetik-skincare/thumbnail.svg"
 ---
 
 Toko kosmetik dan skincare adalah bisnis yang sangat dinamis. Produk baru terus bermunculan, tren berubah cepat, dan pelanggan yang loyal bisa menjadi aset yang sangat berharga. Tapi mengelola ratusan SKU dengan berbagai varian warna dan ukuran, sambil mempertahankan program member yang efektif, adalah tantangan yang membutuhkan sistem yang tepat.

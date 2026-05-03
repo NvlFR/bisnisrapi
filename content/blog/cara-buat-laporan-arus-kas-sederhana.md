@@ -5,7 +5,7 @@ excerpt: "Panduan membuat laporan arus kas sederhana untuk UMKM — memahami uan
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["laporan arus kas", "cash flow statement", "keuangan umkm", "manajemen kas", "laporan keuangan"]
-image: "/blog/cara-buat-laporan-arus-kas-sederhana/thumbnail.webp"
+image: "/blog/cara-buat-laporan-arus-kas-sederhana/thumbnail.svg"
 ---
 
 Laporan arus kas (cash flow statement) adalah laporan keuangan yang menunjukkan dari mana uang masuk ke bisnis kamu dan ke mana uang itu pergi dalam periode tertentu. Berbeda dengan laporan laba rugi yang bisa menunjukkan "keuntungan" meski uang belum benar-benar diterima, laporan arus kas hanya mencatat uang yang benar-benar bergerak.

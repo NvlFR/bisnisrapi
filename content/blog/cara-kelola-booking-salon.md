@@ -5,7 +5,7 @@ excerpt: "Jadwal yang tabrakan dan pelanggan yang menunggu lama adalah masalah k
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["booking salon", "manajemen jadwal", "salon kecantikan", "jasa layanan", "digitalisasi"]
-image: "/blog/cara-kelola-booking-salon/thumbnail.webp"
+image: "/blog/cara-kelola-booking-salon/thumbnail.svg"
 ---
 
 "Maaf Kak, ternyata jadwalnya sudah penuh." Atau lebih parah: dua pelanggan datang di waktu yang sama untuk stylist yang sama. Situasi seperti ini tidak hanya membuat pelanggan kecewa — ini merusak reputasi salon yang sudah susah payah dibangun.

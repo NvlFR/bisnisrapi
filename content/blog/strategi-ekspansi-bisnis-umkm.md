@@ -5,7 +5,7 @@ excerpt: "Ekspansi terlalu cepat bisa menghancurkan bisnis yang sudah berjalan b
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["ekspansi bisnis", "scale up", "pertumbuhan bisnis", "UMKM", "strategi bisnis"]
-image: "/blog/strategi-ekspansi-bisnis-umkm/thumbnail.webp"
+image: "/blog/strategi-ekspansi-bisnis-umkm/thumbnail.svg"
 ---
 
 Ekspansi bisnis adalah impian banyak pemilik UMKM. Buka cabang baru, tambah lini produk, masuk ke pasar baru — semua terdengar menarik. Tapi ekspansi yang dilakukan terlalu cepat atau tanpa persiapan yang matang bisa menghancurkan bisnis yang sudah berjalan baik.

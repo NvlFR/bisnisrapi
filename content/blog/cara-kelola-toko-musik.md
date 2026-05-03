@@ -5,7 +5,7 @@ excerpt: "Toko alat musik punya produk bernilai tinggi yang perlu dilacak dengan
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko alat musik", "serial number", "stok instrumen", "garansi alat musik", "retail musik"]
-image: "/blog/cara-kelola-toko-musik/thumbnail.webp"
+image: "/blog/cara-kelola-toko-musik/thumbnail.svg"
 ---
 
 Toko alat musik adalah bisnis yang penuh passion — kamu melayani musisi dari berbagai level, dari pemula yang baru belajar gitar hingga profesional yang mencari instrumen berkualitas tinggi. Tapi dari sisi manajemen, ada tantangan unik yang perlu diatasi: produk bernilai tinggi, serial number yang perlu dilacak, dan garansi yang perlu dikelola.

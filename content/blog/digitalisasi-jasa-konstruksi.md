@@ -5,7 +5,7 @@ excerpt: "Bisnis konstruksi yang tidak terdigitalisasi rentan terhadap pembengka
 author: "BisnisRapi Team"
 category: "Konstruksi"
 tags: ["jasa konstruksi", "RAB", "manajemen material", "laporan proyek", "digitalisasi konstruksi"]
-image: "/blog/digitalisasi-jasa-konstruksi/thumbnail.webp"
+image: "/blog/digitalisasi-jasa-konstruksi/thumbnail.svg"
 ---
 
 Bisnis jasa konstruksi — dari kontraktor rumah tinggal hingga renovasi komersial — adalah bisnis yang kompleks dengan banyak variabel yang harus dikelola secara bersamaan. Material, tenaga kerja, jadwal, dan anggaran semuanya harus berjalan selaras agar proyek selesai tepat waktu dan menguntungkan.

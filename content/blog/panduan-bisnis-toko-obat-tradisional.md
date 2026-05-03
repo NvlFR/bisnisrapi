@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis toko obat tradisional dan herbal, dari 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko obat tradisional", "bisnis herbal", "jamu", "obat tradisional", "bisnis kesehatan"]
-image: "/blog/panduan-bisnis-toko-obat-tradisional/thumbnail.webp"
+image: "/blog/panduan-bisnis-toko-obat-tradisional/thumbnail.svg"
 ---
 
 Minat masyarakat terhadap produk kesehatan alami dan herbal terus meningkat. Kesadaran akan pentingnya kesehatan, ditambah dengan tren "back to nature" yang semakin kuat, membuat bisnis toko obat tradisional dan herbal punya prospek yang menjanjikan.

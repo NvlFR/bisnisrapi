@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap BPJS Ketenagakerjaan untuk UMKM — kewajiban pendafta
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["bpjs ketenagakerjaan", "jaminan sosial karyawan", "kewajiban pengusaha", "perlindungan karyawan", "sdm umkm"]
-image: "/blog/panduan-bpjs-ketenagakerjaan-umkm/thumbnail.webp"
+image: "/blog/panduan-bpjs-ketenagakerjaan-umkm/thumbnail.svg"
 ---
 
 BPJS Ketenagakerjaan adalah kewajiban hukum bagi setiap pengusaha yang mempekerjakan karyawan. Tapi lebih dari sekadar kewajiban, ini adalah bentuk perlindungan nyata bagi karyawan kamu — dan secara tidak langsung, bagi bisnis kamu juga. Karyawan yang merasa terlindungi bekerja dengan lebih tenang dan loyal.

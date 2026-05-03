@@ -5,7 +5,7 @@ excerpt: "Brand identity bukan cuma logo — ini adalah keseluruhan cara bisnis 
 author: "BisnisRapi Team"
 category: "Branding"
 tags: ["brand identity", "branding umkm", "logo bisnis", "identitas merek", "membangun brand"]
-image: "/blog/cara-buat-brand-identity-umkm/thumbnail.webp"
+image: "/blog/cara-buat-brand-identity-umkm/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang berpikir branding adalah urusan perusahaan besar dengan budget marketing yang besar. Padahal, brand identity yang kuat justru lebih penting untuk bisnis kecil — karena ini yang membedakan kamu dari ratusan kompetitor yang menjual produk serupa.

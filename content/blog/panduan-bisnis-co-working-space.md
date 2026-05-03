@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis co-working space, dari analisis pasar, 
 author: "BisnisRapi Team"
 category: "Properti"
 tags: ["co-working space", "bisnis coworking", "ruang kerja bersama", "properti komersial", "bisnis workspace"]
-image: "/blog/panduan-bisnis-co-working-space/thumbnail.webp"
+image: "/blog/panduan-bisnis-co-working-space/thumbnail.svg"
 ---
 
 Tren bekerja dari mana saja (work from anywhere) yang semakin kuat telah menciptakan permintaan yang besar untuk co-working space. Freelancer, remote worker, startup, dan bahkan karyawan perusahaan besar yang tidak ingin bekerja dari rumah setiap hari — semua ini adalah pasar potensial untuk bisnis co-working space.

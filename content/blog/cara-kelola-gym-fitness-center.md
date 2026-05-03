@@ -5,7 +5,7 @@ excerpt: "Gym modern mengelola membership, kontrol akses, jadwal kelas, dan penj
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["gym", "fitness center", "membership gym", "manajemen gym", "jasa layanan"]
-image: "/blog/cara-kelola-gym-fitness-center/thumbnail.webp"
+image: "/blog/cara-kelola-gym-fitness-center/thumbnail.svg"
 ---
 
 Gym dan fitness center modern adalah bisnis yang kompleks. Bukan hanya soal menyediakan peralatan olahraga — tapi mengelola ratusan atau ribuan member dengan berbagai jenis membership, mengontrol akses, mengelola jadwal kelas, dan menjual suplemen dan merchandise. Semua ini membutuhkan sistem yang terintegrasi.

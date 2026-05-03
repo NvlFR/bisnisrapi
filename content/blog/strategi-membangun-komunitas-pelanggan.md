@@ -5,7 +5,7 @@ excerpt: "Komunitas pelanggan yang kuat adalah aset bisnis yang luar biasa — m
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["komunitas pelanggan", "loyalitas pelanggan", "brand community", "customer engagement", "retensi pelanggan"]
-image: "/blog/strategi-membangun-komunitas-pelanggan/thumbnail.webp"
+image: "/blog/strategi-membangun-komunitas-pelanggan/thumbnail.svg"
 ---
 
 Ada perbedaan besar antara pelanggan yang membeli sekali dan pelanggan yang menjadi bagian dari komunitas bisnis kamu. Pelanggan biasa membeli karena harga atau kenyamanan. Anggota komunitas membeli karena mereka merasa terhubung dengan brand kamu, nilai-nilai yang kamu pegang, dan orang-orang lain yang ada di komunitas tersebut.

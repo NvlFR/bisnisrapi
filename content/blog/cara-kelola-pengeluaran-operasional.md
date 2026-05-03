@@ -5,7 +5,7 @@ excerpt: "Strategi praktis mengelola dan memangkas pengeluaran operasional bisni
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["pengeluaran operasional", "efisiensi biaya", "cost control", "manajemen biaya", "hemat bisnis"]
-image: "/blog/cara-kelola-pengeluaran-operasional/thumbnail.webp"
+image: "/blog/cara-kelola-pengeluaran-operasional/thumbnail.svg"
 ---
 
 Pengeluaran operasional yang tidak terkontrol adalah salah satu penyebab paling umum bisnis UMKM tidak bisa berkembang. Omzet naik, tapi laba tidak ikut naik — bahkan bisa turun. Ini terjadi karena biaya operasional ikut membengkak seiring pertumbuhan bisnis, tapi tidak ada yang mengawasinya dengan serius.

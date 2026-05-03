@@ -5,7 +5,7 @@ excerpt: "Usaha cuci mobil yang ramai bisa kacau tanpa sistem antrean yang baik.
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["cuci mobil", "manajemen antrean", "laporan harian", "jasa otomotif", "digitalisasi"]
-image: "/blog/manajemen-car-wash-digital/thumbnail.webp"
+image: "/blog/manajemen-car-wash-digital/thumbnail.svg"
 ---
 
 Usaha cuci mobil yang ramai adalah impian setiap pemilik. Tapi tanpa sistem yang baik, keramaian itu bisa berubah menjadi kekacauan: antrean yang tidak teratur, pelanggan yang tidak sabar, karyawan yang bingung, dan di akhir hari kamu tidak tahu berapa sebenarnya pendapatan hari itu.

@@ -5,7 +5,7 @@ excerpt: "Panduan membangun sistem kontrol keuangan internal yang efektif untuk 
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["kontrol keuangan", "internal control", "audit internal", "pencegahan fraud", "manajemen keuangan"]
-image: "/blog/cara-buat-sistem-kontrol-keuangan/thumbnail.webp"
+image: "/blog/cara-buat-sistem-kontrol-keuangan/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang baru menyadari ada masalah keuangan setelah kerugian sudah terjadi. Uang hilang, stok berkurang tanpa penjelasan, atau pengeluaran membengkak tanpa alasan yang jelas. Semua ini bisa dicegah dengan sistem kontrol keuangan internal yang baik.

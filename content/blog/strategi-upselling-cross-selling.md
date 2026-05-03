@@ -5,7 +5,7 @@ excerpt: "Upselling dan cross-selling adalah cara meningkatkan nilai transaksi t
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["upselling", "cross-selling", "strategi penjualan", "retail", "meningkatkan omzet"]
-image: "/blog/strategi-upselling-cross-selling/thumbnail.webp"
+image: "/blog/strategi-upselling-cross-selling/thumbnail.svg"
 ---
 
 Mendapatkan pelanggan baru itu mahal. Biaya iklan, promosi, dan waktu yang dibutuhkan untuk meyakinkan orang yang belum pernah beli dari kamu jauh lebih besar dibanding memaksimalkan nilai dari pelanggan yang sudah ada.

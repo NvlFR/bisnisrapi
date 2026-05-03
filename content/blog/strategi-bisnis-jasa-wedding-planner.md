@@ -5,7 +5,7 @@ excerpt: "Strategi membangun bisnis jasa wedding planner yang profesional, dari 
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["wedding planner", "bisnis wedding", "jasa pernikahan", "event organizer pernikahan", "wedding organizer"]
-image: "/blog/strategi-bisnis-jasa-wedding-planner/thumbnail.webp"
+image: "/blog/strategi-bisnis-jasa-wedding-planner/thumbnail.svg"
 ---
 
 Bisnis wedding planner adalah bisnis yang penuh dengan tekanan tapi juga sangat memuaskan. Kamu membantu pasangan mewujudkan salah satu hari terpenting dalam hidup mereka. Tapi untuk sukses di bisnis ini, kamu butuh lebih dari sekadar kreativitas dan passion — kamu butuh kemampuan manajemen yang solid, jaringan vendor yang kuat, dan kemampuan mengelola ekspektasi klien yang kadang sangat tinggi.

@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis travel agent lokal di era digital, dari difer
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["travel agent lokal", "bisnis travel", "agen perjalanan", "wisata indonesia", "bisnis pariwisata"]
-image: "/blog/cara-kelola-bisnis-travel-agent-lokal/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-travel-agent-lokal/thumbnail.svg"
 ---
 
 Di era di mana orang bisa memesan tiket pesawat dan hotel sendiri dalam hitungan menit melalui aplikasi, banyak yang mempertanyakan relevansi travel agent lokal. Tapi kenyataannya, travel agent yang bisa beradaptasi dan menemukan nilai uniknya justru bisa berkembang pesat — karena ada hal-hal yang tidak bisa digantikan oleh algoritma.

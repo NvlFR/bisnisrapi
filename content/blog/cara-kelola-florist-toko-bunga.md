@@ -5,7 +5,7 @@ excerpt: "Florist punya tantangan unik: produk yang sangat perishable dan permin
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["florist", "toko bunga", "pre-order", "jadwal pengiriman", "manajemen bisnis"]
-image: "/blog/cara-kelola-florist-toko-bunga/thumbnail.webp"
+image: "/blog/cara-kelola-florist-toko-bunga/thumbnail.svg"
 ---
 
 Bisnis florist adalah perpaduan antara seni dan manajemen yang ketat. Di satu sisi, kamu harus punya kreativitas untuk merangkai bunga yang indah. Di sisi lain, kamu harus mengelola produk yang sangat perishable, permintaan yang sangat fluktuatif, dan logistik pengiriman yang kompleks.

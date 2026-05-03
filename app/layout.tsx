@@ -97,7 +97,7 @@ export default function RootLayout({
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
         {/* Google Analytics */}
-        <Script
+        {/* <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-B068PV07RS"
           strategy="afterInteractive"
         />
@@ -109,7 +109,7 @@ export default function RootLayout({
 
             gtag('config', 'G-B068PV07RS');
           `}
-        </Script>
+        </Script> */}
 
         <FramerProvider>
           <SmoothScroll>

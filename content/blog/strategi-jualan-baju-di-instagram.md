@@ -5,7 +5,7 @@ excerpt: "Strategi lengkap jualan baju di Instagram, dari optimasi profil, konte
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["jualan baju instagram", "instagram bisnis fashion", "instagram shopping", "konten fashion", "pemasaran instagram"]
-image: "/blog/strategi-jualan-baju-di-instagram/thumbnail.webp"
+image: "/blog/strategi-jualan-baju-di-instagram/thumbnail.svg"
 ---
 
 Instagram adalah salah satu platform terbaik untuk bisnis fashion. Visual-first, audiens yang besar, dan fitur belanja yang terus berkembang membuat Instagram menjadi channel penjualan yang sangat efektif — kalau kamu tahu cara menggunakannya dengan benar.

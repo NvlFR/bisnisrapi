@@ -5,7 +5,7 @@ excerpt: "Cross-promotion memungkinkan dua bisnis saling mempromosikan kepada au
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["cross promotion", "kolaborasi pemasaran", "co-marketing", "kemitraan bisnis", "pemasaran hemat"]
-image: "/blog/strategi-cross-promotion-bisnis/thumbnail.webp"
+image: "/blog/strategi-cross-promotion-bisnis/thumbnail.svg"
 ---
 
 Cross-promotion adalah strategi di mana dua atau lebih bisnis saling mempromosikan kepada audiens masing-masing. Ini adalah salah satu cara paling cost-effective untuk menjangkau pelanggan baru — karena kamu memanfaatkan kepercayaan yang sudah dibangun oleh bisnis mitra kepada audiensnya.

@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka toko fashion online di Indonesia, dari memilih
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko fashion online", "bisnis fashion", "jualan baju online", "marketplace fashion", "bisnis online indonesia"]
-image: "/blog/cara-buka-toko-fashion-online/thumbnail.webp"
+image: "/blog/cara-buka-toko-fashion-online/thumbnail.svg"
 ---
 
 Bisnis fashion online adalah salah satu kategori paling kompetitif di e-commerce Indonesia. Tapi justru karena pasarnya besar, peluangnya juga besar — kalau kamu tahu cara memposisikan diri dengan tepat. Kunci suksesnya bukan bersaing dengan semua orang, tapi menemukan niche yang tepat dan melayaninya dengan sangat baik.

@@ -5,7 +5,7 @@ excerpt: "Piutang yang tidak terkelola bisa menghancurkan arus kas bisnis. Pelaj
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["piutang usaha", "manajemen keuangan", "arus kas", "UMKM", "penagihan hutang"]
-image: "/blog/manajemen-piutang-usaha/thumbnail.webp"
+image: "/blog/manajemen-piutang-usaha/thumbnail.svg"
 ---
 
 "Omzetnya besar, tapi kok uangnya nggak ada?" Ini pertanyaan yang sering muncul dari pemilik bisnis yang punya banyak pelanggan kredit. Jawabannya hampir selalu sama: piutang yang tidak terkelola dengan baik.

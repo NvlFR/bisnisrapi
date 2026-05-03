@@ -5,7 +5,7 @@ excerpt: "Bisnis katering harian butuh sistem yang mengelola order, produksi, da
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["katering harian", "manajemen katering", "order katering", "bahan baku", "F&B"]
-image: "/blog/manajemen-katering-harian/thumbnail.webp"
+image: "/blog/manajemen-katering-harian/thumbnail.svg"
 ---
 
 Bisnis katering harian punya ritme yang unik: setiap hari ada order yang harus dipenuhi, bahan baku yang harus disiapkan, dan pengiriman yang harus tepat waktu. Satu hari yang kacau bisa merusak reputasi yang sudah dibangun berbulan-bulan.

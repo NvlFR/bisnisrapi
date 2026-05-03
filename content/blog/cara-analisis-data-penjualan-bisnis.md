@@ -5,7 +5,7 @@ excerpt: "Data penjualan menyimpan banyak insight berharga tentang bisnis kamu. 
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["analisis data penjualan", "laporan penjualan", "data bisnis", "keputusan berbasis data", "analitik bisnis"]
-image: "/blog/cara-analisis-data-penjualan-bisnis/thumbnail.webp"
+image: "/blog/cara-analisis-data-penjualan-bisnis/thumbnail.svg"
 ---
 
 Banyak pemilik bisnis yang membuat keputusan berdasarkan intuisi atau perasaan. Kadang intuisi memang benar, tapi sering kali data memberitahu cerita yang berbeda — dan lebih akurat.

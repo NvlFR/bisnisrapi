@@ -5,7 +5,7 @@ excerpt: "Google Ads bisa mendatangkan pelanggan yang sudah siap membeli langsun
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["google ads", "iklan google", "ppc umkm", "digital advertising", "iklan berbayar"]
-image: "/blog/panduan-google-ads-untuk-umkm/thumbnail.webp"
+image: "/blog/panduan-google-ads-untuk-umkm/thumbnail.svg"
 ---
 
 Google Ads adalah salah satu platform iklan paling powerful yang ada — karena kamu bisa menjangkau orang yang sedang aktif mencari produk atau layanan yang kamu tawarkan. Berbeda dengan iklan di media sosial yang muncul kepada orang yang mungkin tidak sedang mencari, iklan Google muncul tepat saat seseorang mengetik kata kunci yang relevan.

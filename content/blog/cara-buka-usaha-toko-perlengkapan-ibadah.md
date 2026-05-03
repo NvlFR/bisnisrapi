@@ -5,7 +5,7 @@ excerpt: "Panduan membuka usaha toko perlengkapan ibadah yang sukses, dari pemil
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko perlengkapan ibadah", "bisnis islami", "toko muslim", "perlengkapan sholat", "bisnis religi"]
-image: "/blog/cara-buka-usaha-toko-perlengkapan-ibadah/thumbnail.webp"
+image: "/blog/cara-buka-usaha-toko-perlengkapan-ibadah/thumbnail.svg"
 ---
 
 Bisnis toko perlengkapan ibadah adalah bisnis yang punya dimensi lebih dari sekadar mencari keuntungan — ada nilai ibadah dan kontribusi sosial di dalamnya. Tapi seperti bisnis apapun, untuk bisa terus beroperasi dan memberikan manfaat, bisnis ini perlu dikelola dengan profesional dan menguntungkan.

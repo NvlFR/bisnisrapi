@@ -5,7 +5,7 @@ excerpt: "EO yang profesional butuh sistem untuk mengelola budget, vendor, dan l
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["event organizer", "manajemen event", "budget event", "vendor management", "laporan keuangan"]
-image: "/blog/cara-kelola-event-organizer/thumbnail.webp"
+image: "/blog/cara-kelola-event-organizer/thumbnail.svg"
 ---
 
 Event organizer (EO) adalah bisnis yang sangat dinamis. Setiap event adalah proyek baru dengan klien, budget, vendor, dan tantangan yang berbeda. Kemampuan untuk mengelola semua ini secara bersamaan — sambil memastikan setiap event berjalan sukses — adalah yang membedakan EO profesional dari yang amatir.

@@ -5,7 +5,7 @@ excerpt: "Konter pulsa menjual produk fisik dan digital sekaligus. Begini cara m
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["konter pulsa", "manajemen stok", "produk digital", "laporan keuangan", "retail"]
-image: "/blog/manajemen-konter-pulsa/thumbnail.webp"
+image: "/blog/manajemen-konter-pulsa/thumbnail.svg"
 ---
 
 Konter pulsa adalah salah satu bisnis yang paling unik dari sisi manajemen: kamu menjual produk fisik (kartu perdana, aksesori HP, casing) sekaligus produk digital (pulsa, paket data, token listrik, voucher game). Keduanya punya karakteristik yang sangat berbeda dan perlu dikelola dengan cara yang berbeda pula.

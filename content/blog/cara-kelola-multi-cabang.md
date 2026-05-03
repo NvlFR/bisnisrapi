@@ -5,7 +5,7 @@ excerpt: "Membuka cabang kedua atau ketiga adalah pencapaian besar, tapi juga ta
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["multi-cabang", "ekspansi bisnis", "manajemen operasional", "UMKM", "scale up"]
-image: "/blog/cara-kelola-multi-cabang/thumbnail.webp"
+image: "/blog/cara-kelola-multi-cabang/thumbnail.svg"
 ---
 
 Membuka cabang kedua adalah momen yang membanggakan. Tapi banyak pemilik bisnis yang tidak siap dengan kompleksitas yang datang bersamanya. Tiba-tiba ada dua tempat yang harus dipantau, dua tim yang harus dikelola, dua set stok yang harus dikontrol — dan semuanya harus berjalan konsisten.

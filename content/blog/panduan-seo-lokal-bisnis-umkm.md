@@ -5,7 +5,7 @@ excerpt: "SEO lokal membantu bisnis kamu muncul di pencarian Google saat orang m
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["seo lokal", "pencarian lokal", "google bisnis lokal", "seo umkm", "optimasi pencarian"]
-image: "/blog/panduan-seo-lokal-bisnis-umkm/thumbnail.webp"
+image: "/blog/panduan-seo-lokal-bisnis-umkm/thumbnail.svg"
 ---
 
 Ketika seseorang mengetik "bengkel motor terdekat" atau "toko kue di Bandung" di Google, apakah bisnis kamu muncul? Kalau tidak, kamu kehilangan pelanggan potensial setiap harinya kepada kompetitor yang lebih terlihat secara online.

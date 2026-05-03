@@ -5,7 +5,7 @@ excerpt: "Petshop modern mengelola penjualan produk, layanan grooming, dan jadwa
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["petshop", "manajemen petshop", "grooming hewan", "vaksin hewan", "digitalisasi"]
-image: "/blog/manajemen-petshop-digital/thumbnail.webp"
+image: "/blog/manajemen-petshop-digital/thumbnail.svg"
 ---
 
 Petshop modern bukan hanya toko yang menjual makanan dan aksesoris hewan. Banyak petshop sekarang juga menawarkan layanan grooming, vaksinasi, konsultasi dokter hewan, dan bahkan penitipan hewan. Mengelola semua ini sekaligus adalah tantangan yang membutuhkan sistem yang terstruktur.

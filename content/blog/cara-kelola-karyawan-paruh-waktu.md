@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mengelola karyawan paruh waktu di bisnis UMKM — dari
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["karyawan paruh waktu", "part time", "manajemen sdm", "penjadwalan karyawan", "fleksibilitas kerja"]
-image: "/blog/cara-kelola-karyawan-paruh-waktu/thumbnail.webp"
+image: "/blog/cara-kelola-karyawan-paruh-waktu/thumbnail.svg"
 ---
 
 Karyawan paruh waktu adalah solusi yang sangat praktis untuk banyak UMKM. Kamu bisa mendapatkan tenaga kerja tambahan di jam-jam sibuk tanpa harus menanggung biaya karyawan penuh waktu sepanjang hari. Tapi mengelola karyawan paruh waktu punya tantangan tersendiri yang perlu dipahami.

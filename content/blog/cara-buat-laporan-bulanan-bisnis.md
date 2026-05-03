@@ -5,7 +5,7 @@ excerpt: "Laporan bulanan yang baik bukan sekadar angka — tapi insight yang me
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["laporan bulanan", "laporan keuangan", "analisis bisnis", "manajemen keuangan", "UMKM"]
-image: "/blog/cara-buat-laporan-bulanan-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-laporan-bulanan-bisnis/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang tidak membuat laporan bulanan — bukan karena tidak mau, tapi karena tidak tahu harus mulai dari mana, atau merasa prosesnya terlalu rumit dan memakan waktu.

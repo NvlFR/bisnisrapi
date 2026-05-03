@@ -5,7 +5,7 @@ excerpt: "Strategi lengkap membangun bisnis aksesoris fashion yang menguntungkan
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["bisnis aksesoris fashion", "bisnis tas", "bisnis perhiasan", "aksesoris wanita", "retail fashion"]
-image: "/blog/strategi-bisnis-aksesoris-fashion/thumbnail.webp"
+image: "/blog/strategi-bisnis-aksesoris-fashion/thumbnail.svg"
 ---
 
 Bisnis aksesoris fashion — tas, perhiasan, ikat pinggang, topi, syal, dan sejenisnya — punya daya tarik tersendiri. Margin keuntungannya bisa sangat tinggi, tidak ada masalah ukuran seperti di bisnis pakaian, dan pelanggan sering membeli aksesoris sebagai "treat" untuk diri sendiri atau sebagai hadiah.

@@ -5,7 +5,7 @@ excerpt: "Cash flow yang buruk adalah penyebab utama bisnis tutup meski omzetnya
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["cash flow", "keuangan UMKM", "manajemen keuangan", "arus kas", "bisnis sehat"]
-image: "/blog/manajemen-cashflow-umkm/thumbnail.webp"
+image: "/blog/manajemen-cashflow-umkm/thumbnail.svg"
 ---
 
 Ada fenomena yang cukup sering terjadi di dunia UMKM: bisnis yang omzetnya besar tapi selalu kekurangan uang. Pemiliknya bingung — "Kok bisa ramai tapi dompet kosong?"

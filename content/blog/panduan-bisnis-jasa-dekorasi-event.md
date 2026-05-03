@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis jasa dekorasi event, dari investasi per
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa dekorasi event", "bisnis dekorasi", "dekorasi pernikahan", "event decoration", "bisnis kreatif"]
-image: "/blog/panduan-bisnis-jasa-dekorasi-event/thumbnail.webp"
+image: "/blog/panduan-bisnis-jasa-dekorasi-event/thumbnail.svg"
 ---
 
 Bisnis jasa dekorasi event adalah bisnis kreatif yang menggabungkan seni, manajemen, dan kemampuan teknis. Dari dekorasi pernikahan yang romantis hingga dekorasi ulang tahun yang meriah, dari backdrop foto yang instagrammable hingga dekorasi gala dinner yang elegan — setiap event adalah kanvas baru untuk kreativitas kamu.

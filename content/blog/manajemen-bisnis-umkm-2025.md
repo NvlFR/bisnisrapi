@@ -5,7 +5,7 @@ excerpt: "Panduan komprehensif untuk pemilik UMKM yang ingin mengelola bisnis le
 author: "BisnisRapi Team"
 category: "Panduan Bisnis"
 tags: ["manajemen UMKM", "bisnis digital 2025", "panduan bisnis", "digitalisasi UMKM", "strategi bisnis"]
-image: "/blog/manajemen-bisnis-umkm-2025/thumbnail.webp"
+image: "/blog/manajemen-bisnis-umkm-2025/thumbnail.svg"
 ---
 
 UMKM (Usaha Mikro, Kecil, dan Menengah) adalah tulang punggung ekonomi Indonesia. Jutaan UMKM beroperasi di seluruh penjuru negeri, menyerap tenaga kerja dan menggerakkan ekonomi lokal. Tapi di era digital yang terus berkembang, UMKM yang tidak beradaptasi akan semakin tertinggal.

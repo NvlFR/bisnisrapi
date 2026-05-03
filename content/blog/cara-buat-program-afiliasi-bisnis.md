@@ -5,7 +5,7 @@ excerpt: "Program afiliasi memungkinkan orang lain mempromosikan bisnis kamu dan
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["program afiliasi", "affiliate marketing", "strategi penjualan", "komisi penjualan", "jaringan reseller"]
-image: "/blog/cara-buat-program-afiliasi-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-program-afiliasi-bisnis/thumbnail.svg"
 ---
 
 Bayangkan punya puluhan atau ratusan orang yang aktif mempromosikan produk kamu — dan kamu hanya membayar mereka saat ada penjualan yang berhasil. Itulah konsep dasar program afiliasi: model pemasaran berbasis performa yang sangat efisien dari sisi biaya.

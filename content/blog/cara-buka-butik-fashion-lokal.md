@@ -5,7 +5,7 @@ excerpt: "Panduan membuka butik fashion lokal yang punya identitas kuat, dari me
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["butik fashion lokal", "brand fashion lokal", "buka butik", "bisnis fashion", "brand lokal indonesia"]
-image: "/blog/cara-buka-butik-fashion-lokal/thumbnail.webp"
+image: "/blog/cara-buka-butik-fashion-lokal/thumbnail.svg"
 ---
 
 Di tengah dominasi brand internasional dan marketplace yang menjual segalanya, butik fashion lokal yang punya karakter kuat justru punya tempat tersendiri di hati pelanggan. Orang-orang semakin menghargai produk lokal yang punya cerita, identitas, dan nilai yang mereka bisa relate.

@@ -5,7 +5,7 @@ excerpt: "Studio rekaman dan sekolah musik perlu mengelola jadwal studio, jadwal
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["studio rekaman", "sekolah musik", "jadwal studio", "SPP musik", "manajemen seni"]
-image: "/blog/manajemen-studio-rekaman-musik/thumbnail.webp"
+image: "/blog/manajemen-studio-rekaman-musik/thumbnail.svg"
 ---
 
 Studio rekaman dan sekolah musik adalah bisnis yang menggabungkan passion dengan profesionalisme. Di satu sisi, kamu melayani musisi dan pelajar yang passionate tentang musik. Di sisi lain, kamu perlu mengelola jadwal, pembayaran, dan operasional dengan cara yang bisnis.

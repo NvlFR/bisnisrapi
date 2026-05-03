@@ -5,7 +5,7 @@ excerpt: "Spa dan wellness center punya kompleksitas unik: jadwal terapis, stok 
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["spa", "wellness center", "manajemen terapis", "sistem komisi", "booking treatment"]
-image: "/blog/cara-kelola-spa-wellness/thumbnail.webp"
+image: "/blog/cara-kelola-spa-wellness/thumbnail.svg"
 ---
 
 Bisnis spa dan wellness center adalah bisnis yang menjual pengalaman. Pelanggan datang bukan hanya untuk treatment — mereka datang untuk relaksasi, pemulihan, dan perasaan diperhatikan. Memberikan pengalaman yang konsisten dan berkualitas tinggi membutuhkan sistem operasional yang baik di balik layar.

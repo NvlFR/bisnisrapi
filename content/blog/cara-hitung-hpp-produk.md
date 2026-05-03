@@ -5,7 +5,7 @@ excerpt: "Salah hitung HPP berarti salah tentukan harga jual — dan itu bisa bi
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["HPP", "harga pokok penjualan", "keuangan UMKM", "pricing", "akuntansi"]
-image: "/blog/cara-hitung-hpp-produk/thumbnail.webp"
+image: "/blog/cara-hitung-hpp-produk/thumbnail.svg"
 ---
 
 Salah satu kesalahan paling umum yang dilakukan pemilik UMKM adalah menentukan harga jual berdasarkan feeling atau ikut-ikutan kompetitor — tanpa tahu berapa sebenarnya biaya untuk menghasilkan produk tersebut.

@@ -5,7 +5,7 @@ excerpt: "Influencer marketing tidak harus mahal. Dengan strategi yang tepat, UM
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["influencer marketing", "micro influencer", "kolaborasi influencer", "pemasaran umkm", "brand ambassador"]
-image: "/blog/panduan-influencer-marketing-umkm/thumbnail.webp"
+image: "/blog/panduan-influencer-marketing-umkm/thumbnail.svg"
 ---
 
 Influencer marketing sering dianggap sebagai strategi yang hanya bisa dilakukan oleh brand besar dengan budget marketing yang besar. Padahal, dengan pendekatan yang tepat, UMKM bisa memanfaatkan kekuatan influencer marketing dengan biaya yang jauh lebih terjangkau — bahkan kadang tanpa biaya sama sekali.

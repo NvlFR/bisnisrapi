@@ -5,7 +5,7 @@ excerpt: "Depot air minum isi ulang punya pelanggan tetap yang perlu dikelola de
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["depot air minum", "air isi ulang", "manajemen pelanggan", "bisnis air", "digitalisasi"]
-image: "/blog/cara-kelola-depot-air-minum/thumbnail.webp"
+image: "/blog/cara-kelola-depot-air-minum/thumbnail.svg"
 ---
 
 Depot air minum isi ulang adalah salah satu bisnis yang paling stabil — kebutuhan air minum adalah kebutuhan dasar yang tidak pernah berhenti. Tapi "stabil" bukan berarti tidak perlu dikelola dengan baik. Depot yang dikelola dengan sistem yang baik bisa jauh lebih menguntungkan dan berkembang lebih cepat.

@@ -5,7 +5,7 @@ excerpt: "Usaha percetakan digital punya banyak order dengan spesifikasi berbeda
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["percetakan digital", "tracking order", "manajemen pesanan", "jasa cetak", "digitalisasi"]
-image: "/blog/cara-kelola-percetakan-digital/thumbnail.webp"
+image: "/blog/cara-kelola-percetakan-digital/thumbnail.svg"
 ---
 
 Usaha percetakan digital adalah bisnis yang sangat detail-oriented. Setiap order punya spesifikasi yang berbeda: ukuran, bahan, jumlah, desain, finishing, dan deadline. Satu kesalahan kecil — salah ukuran, salah bahan, atau terlewat deadline — bisa berarti harus cetak ulang dengan biaya yang ditanggung sendiri.

@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memilih pinjaman modal usaha yang tepat untuk UMKM, mu
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["pinjaman modal usaha", "kur bank", "modal umkm", "kredit usaha rakyat", "pembiayaan umkm"]
-image: "/blog/panduan-pinjaman-modal-usaha-umkm/thumbnail.webp"
+image: "/blog/panduan-pinjaman-modal-usaha-umkm/thumbnail.svg"
 ---
 
 Salah satu tantangan terbesar yang dihadapi pelaku UMKM adalah soal modal. Ide bisnis bagus, semangat membara, tapi dana terbatas. Kabar baiknya, ada banyak pilihan pinjaman modal usaha yang bisa kamu manfaatkan — mulai dari yang berbunga rendah hingga yang tanpa agunan. Kuncinya adalah tahu mana yang paling cocok untuk kondisi bisnismu.

@@ -5,7 +5,7 @@ excerpt: "Strategi efektif mengelola piutang dagang UMKM agar pembayaran dari pe
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["piutang dagang", "accounts receivable", "cash flow", "penagihan piutang", "manajemen kredit"]
-image: "/blog/cara-kelola-piutang-dagang-efektif/thumbnail.webp"
+image: "/blog/cara-kelola-piutang-dagang-efektif/thumbnail.svg"
 ---
 
 Piutang dagang adalah uang yang seharusnya sudah ada di rekening kamu tapi masih "terjebak" di tangan pelanggan. Bagi banyak UMKM, piutang yang menumpuk adalah salah satu penyebab utama masalah arus kas — bisnis terlihat untung di atas kertas, tapi rekening hampir kosong karena pelanggan belum bayar.

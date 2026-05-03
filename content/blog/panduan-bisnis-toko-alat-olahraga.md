@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis toko alat olahraga, dari memilih katego
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko alat olahraga", "bisnis olahraga", "peralatan fitness", "retail olahraga", "bisnis sport"]
-image: "/blog/panduan-bisnis-toko-alat-olahraga/thumbnail.webp"
+image: "/blog/panduan-bisnis-toko-alat-olahraga/thumbnail.svg"
 ---
 
 Kesadaran masyarakat Indonesia tentang pentingnya olahraga dan gaya hidup sehat terus meningkat. Ini menciptakan pasar yang berkembang untuk alat dan perlengkapan olahraga. Tapi bisnis toko alat olahraga juga punya tantangan tersendiri — produk yang beragam, target pasar yang berbeda-beda, dan persaingan dari toko online yang menawarkan harga lebih murah.

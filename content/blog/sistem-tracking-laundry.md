@@ -5,7 +5,7 @@ excerpt: "Baju pelanggan yang tertukar atau hilang adalah mimpi buruk bisnis lau
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["laundry", "tracking laundry", "manajemen laundry", "jasa layanan", "sistem bisnis"]
-image: "/blog/sistem-tracking-laundry/thumbnail.webp"
+image: "/blog/sistem-tracking-laundry/thumbnail.svg"
 ---
 
 Bisnis laundry terlihat sederhana: terima baju, cuci, kembalikan. Tapi di balik kesederhanaan itu, ada banyak potensi masalah yang bisa merusak reputasi bisnis: baju tertukar, baju hilang, baju rusak, atau pelanggan yang tidak tahu kapan laundry-nya selesai.

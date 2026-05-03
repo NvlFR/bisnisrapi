@@ -5,7 +5,7 @@ excerpt: "Toko tanaman hias menghadapi harga yang sangat fluktuatif dan produk y
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko tanaman hias", "tanaman hias", "harga fluktuatif", "manajemen stok", "retail tanaman"]
-image: "/blog/cara-kelola-toko-tanaman-hias/thumbnail.webp"
+image: "/blog/cara-kelola-toko-tanaman-hias/thumbnail.svg"
 ---
 
 Bisnis tanaman hias mengalami booming yang luar biasa dalam beberapa tahun terakhir. Dari monstera, aglonema, hingga berbagai jenis kaktus dan sukulen — permintaan terus tinggi. Tapi di balik peluang yang besar, ada tantangan manajemen yang unik: harga yang sangat fluktuatif, produk yang butuh perawatan, dan tren yang cepat berubah.

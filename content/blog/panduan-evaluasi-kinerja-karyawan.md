@@ -5,7 +5,7 @@ excerpt: "Panduan melakukan evaluasi kinerja karyawan yang konstruktif dan efekt
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["evaluasi kinerja", "performance review", "penilaian karyawan", "manajemen sdm", "pengembangan karyawan"]
-image: "/blog/panduan-evaluasi-kinerja-karyawan/thumbnail.webp"
+image: "/blog/panduan-evaluasi-kinerja-karyawan/thumbnail.svg"
 ---
 
 Evaluasi kinerja yang dilakukan dengan buruk adalah salah satu hal yang paling ditakuti karyawan dan paling tidak disukai manajer. Tapi evaluasi yang dilakukan dengan baik adalah salah satu alat manajemen yang paling powerful — membantu karyawan berkembang, memperkuat hubungan kerja, dan mendorong bisnis ke arah yang benar.

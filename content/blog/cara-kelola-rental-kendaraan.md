@@ -5,7 +5,7 @@ excerpt: "Bisnis rental kendaraan butuh sistem yang mengelola ketersediaan unit,
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["rental kendaraan", "manajemen rental", "deposit rental", "kalender unit", "jasa layanan"]
-image: "/blog/cara-kelola-rental-kendaraan/thumbnail.webp"
+image: "/blog/cara-kelola-rental-kendaraan/thumbnail.svg"
 ---
 
 Bisnis rental kendaraan terlihat sederhana: pelanggan sewa, bayar, kembalikan. Tapi di balik kesederhanaan itu, ada banyak detail yang perlu dikelola dengan cermat: ketersediaan unit, kondisi kendaraan, deposit, asuransi, dan jadwal perawatan.

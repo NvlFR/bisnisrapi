@@ -5,7 +5,7 @@ excerpt: "Strategi lengkap menjalankan bisnis dropship di Indonesia, dari memili
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["dropship", "bisnis dropship", "dropshipping indonesia", "jualan online tanpa stok", "bisnis online"]
-image: "/blog/strategi-bisnis-dropship-indonesia/thumbnail.webp"
+image: "/blog/strategi-bisnis-dropship-indonesia/thumbnail.svg"
 ---
 
 Dropship adalah model bisnis di mana kamu menjual produk tanpa menyimpan stok sendiri. Ketika ada pesanan, kamu meneruskan ke supplier yang langsung mengirimkan produk ke pelanggan atas nama kamu. Modal awal sangat kecil, risiko stok tidak ada, dan kamu bisa mulai dari mana saja.

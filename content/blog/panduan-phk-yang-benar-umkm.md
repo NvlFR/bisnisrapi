@@ -5,7 +5,7 @@ excerpt: "Panduan melakukan PHK yang benar dan sesuai hukum ketenagakerjaan Indo
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["phk karyawan", "pemutusan hubungan kerja", "hukum ketenagakerjaan", "pesangon", "manajemen sdm"]
-image: "/blog/panduan-phk-yang-benar-umkm/thumbnail.webp"
+image: "/blog/panduan-phk-yang-benar-umkm/thumbnail.svg"
 ---
 
 PHK (Pemutusan Hubungan Kerja) adalah salah satu keputusan paling berat yang harus diambil seorang pemilik bisnis. Selain dampak emosional, ada aspek hukum yang kompleks yang harus dipatuhi. PHK yang tidak dilakukan dengan benar bisa berujung pada tuntutan hukum yang jauh lebih mahal dari pesangon yang seharusnya dibayarkan.

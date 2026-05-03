@@ -5,7 +5,7 @@ excerpt: "Diskon yang salah bisa merusak margin dan melatih pelanggan untuk sela
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["program diskon", "strategi promo", "pricing", "strategi bisnis", "UMKM"]
-image: "/blog/cara-buat-program-diskon-efektif/thumbnail.webp"
+image: "/blog/cara-buat-program-diskon-efektif/thumbnail.svg"
 ---
 
 Diskon adalah alat marketing yang powerful — tapi juga berbahaya kalau tidak digunakan dengan benar. Banyak bisnis yang terjebak dalam siklus diskon yang tidak berujung: pelanggan hanya mau beli saat ada promo, margin terus tergerus, dan bisnis akhirnya tidak sustainable.

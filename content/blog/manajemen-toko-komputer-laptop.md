@@ -5,7 +5,7 @@ excerpt: "Toko komputer dan laptop mengelola produk bernilai tinggi dengan garan
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko komputer", "laptop", "garansi", "serial number", "retail elektronik"]
-image: "/blog/manajemen-toko-komputer-laptop/thumbnail.webp"
+image: "/blog/manajemen-toko-komputer-laptop/thumbnail.svg"
 ---
 
 Toko komputer dan laptop adalah bisnis dengan margin yang bisa sangat tipis tapi volume yang bisa sangat besar. Di tengah persaingan yang ketat dengan marketplace online, toko fisik komputer perlu memberikan nilai tambah yang tidak bisa diberikan oleh toko online — dan itu dimulai dari sistem manajemen yang baik.

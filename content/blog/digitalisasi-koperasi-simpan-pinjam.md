@@ -5,7 +5,7 @@ excerpt: "Koperasi simpan pinjam yang masih manual rentan terhadap kesalahan dan
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["koperasi simpan pinjam", "digitalisasi koperasi", "manajemen keuangan", "transparansi", "UMKM"]
-image: "/blog/digitalisasi-koperasi-simpan-pinjam/thumbnail.webp"
+image: "/blog/digitalisasi-koperasi-simpan-pinjam/thumbnail.svg"
 ---
 
 Koperasi simpan pinjam adalah lembaga keuangan yang sangat penting bagi masyarakat, terutama yang tidak terjangkau oleh perbankan formal. Tapi banyak koperasi yang masih mengelola operasionalnya secara manual — dengan buku besar, kartu anggota fisik, dan perhitungan bunga yang dilakukan secara manual.

@@ -5,7 +5,7 @@ excerpt: "Panduan merancang program training karyawan yang efektif dan terjangka
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["training karyawan", "pelatihan sdm", "pengembangan karyawan", "manajemen sdm", "produktivitas karyawan"]
-image: "/blog/strategi-training-karyawan-umkm/thumbnail.webp"
+image: "/blog/strategi-training-karyawan-umkm/thumbnail.svg"
 ---
 
 "Bagaimana kalau kita latih karyawan dan mereka pergi?" Ini pertanyaan yang sering muncul dari pemilik UMKM yang ragu berinvestasi dalam pelatihan. Jawaban yang lebih tepat: "Bagaimana kalau kita tidak melatih mereka dan mereka tetap?"

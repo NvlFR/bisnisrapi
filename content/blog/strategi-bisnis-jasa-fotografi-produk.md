@@ -5,7 +5,7 @@ excerpt: "Strategi membangun bisnis jasa fotografi produk yang sukses, dari memb
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["fotografi produk", "bisnis fotografi", "product photography", "jasa foto produk", "umkm fotografi"]
-image: "/blog/strategi-bisnis-jasa-fotografi-produk/thumbnail.webp"
+image: "/blog/strategi-bisnis-jasa-fotografi-produk/thumbnail.svg"
 ---
 
 Pertumbuhan e-commerce dan bisnis online di Indonesia menciptakan permintaan yang besar untuk jasa fotografi produk. Setiap UMKM yang berjualan online butuh foto produk yang menarik — dan banyak yang tidak punya kemampuan atau peralatan untuk melakukannya sendiri. Ini adalah peluang bisnis yang nyata bagi fotografer yang ingin mengkhususkan diri di bidang ini.

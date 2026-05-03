@@ -5,7 +5,7 @@ excerpt: "Pelajari strategi menu engineering untuk mendesain menu restoran yang 
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["menu engineering", "desain menu restoran", "strategi menu", "profitabilitas fnb", "psikologi menu"]
-image: "/blog/strategi-menu-engineering-restoran/thumbnail.webp"
+image: "/blog/strategi-menu-engineering-restoran/thumbnail.svg"
 ---
 
 Menu bukan sekadar daftar makanan dan harga. Menu adalah alat pemasaran yang, kalau dirancang dengan baik, bisa secara halus mengarahkan pelanggan untuk memilih item yang paling menguntungkan bagi bisnis kamu. Inilah yang disebut menu engineering.

@@ -5,7 +5,7 @@ excerpt: "Pusat oleh-oleh wisata menghadapi lonjakan pengunjung yang tiba-tiba. 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["oleh-oleh wisata", "toko oleh-oleh", "kasir cepat", "manajemen stok", "retail wisata"]
-image: "/blog/cara-kelola-toko-oleh-oleh-wisata/thumbnail.webp"
+image: "/blog/cara-kelola-toko-oleh-oleh-wisata/thumbnail.svg"
 ---
 
 Pusat oleh-oleh wisata adalah bisnis yang sangat bergantung pada arus wisatawan. Di hari-hari biasa mungkin sepi, tapi saat musim liburan atau akhir pekan, toko bisa dipenuhi ratusan pengunjung dalam waktu singkat. Kemampuan untuk melayani lonjakan pengunjung ini dengan cepat dan efisien adalah kunci profitabilitas.

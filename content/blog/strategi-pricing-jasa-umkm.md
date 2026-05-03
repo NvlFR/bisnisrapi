@@ -5,7 +5,7 @@ excerpt: "Panduan menentukan harga jasa yang tepat untuk UMKM — tidak terlalu 
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["pricing jasa", "strategi harga", "menentukan harga", "harga jasa umkm", "profitabilitas jasa"]
-image: "/blog/strategi-pricing-jasa-umkm/thumbnail.webp"
+image: "/blog/strategi-pricing-jasa-umkm/thumbnail.svg"
 ---
 
 Menentukan harga jasa adalah salah satu keputusan paling sulit bagi pemilik bisnis jasa. Terlalu murah, kamu kerja keras tapi tidak untung. Terlalu mahal, pelanggan lari ke kompetitor. Dan yang lebih rumit lagi, harga jasa tidak bisa dihitung semudah harga produk fisik karena ada banyak komponen tidak berwujud yang harus diperhitungkan.

@@ -5,7 +5,7 @@ excerpt: "Toko sepatu dan tas dengan banyak varian ukuran dan warna butuh sistem
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko sepatu", "toko tas", "multi-cabang", "manajemen stok", "varian produk"]
-image: "/blog/digitalisasi-toko-sepatu-tas/thumbnail.webp"
+image: "/blog/digitalisasi-toko-sepatu-tas/thumbnail.svg"
 ---
 
 Mengelola toko sepatu dan tas adalah tantangan tersendiri. Satu model sepatu saja bisa hadir dalam 8 ukuran dan 5 warna — artinya 40 kombinasi yang masing-masing perlu dilacak stoknya. Kalikan dengan ratusan model, dan kamu punya ribuan SKU yang perlu dikelola.

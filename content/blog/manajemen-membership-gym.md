@@ -5,7 +5,7 @@ excerpt: "Membership gym yang tidak terkelola dengan baik berarti pendapatan yan
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["manajemen gym", "membership", "fitness center", "jasa layanan", "digitalisasi"]
-image: "/blog/manajemen-membership-gym/thumbnail.webp"
+image: "/blog/manajemen-membership-gym/thumbnail.svg"
 ---
 
 Gym dan fitness center adalah bisnis yang sangat bergantung pada sistem membership yang baik. Pendapatan utama datang dari iuran member bulanan atau tahunan — dan kalau pengelolaannya kacau, pendapatan bisa bocor tanpa disadari.

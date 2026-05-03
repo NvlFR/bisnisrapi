@@ -5,7 +5,7 @@ excerpt: "Panduan membuat kontrak kerja karyawan yang sah secara hukum dan melin
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["kontrak kerja", "perjanjian kerja", "hukum ketenagakerjaan", "karyawan umkm", "manajemen sdm"]
-image: "/blog/cara-buat-kontrak-kerja-karyawan/thumbnail.webp"
+image: "/blog/cara-buat-kontrak-kerja-karyawan/thumbnail.svg"
 ---
 
 Kontrak kerja adalah fondasi hubungan kerja yang sehat. Tanpa kontrak yang jelas, baik kamu maupun karyawan berada dalam posisi yang tidak pasti — dan ketidakpastian sering berujung pada konflik. Kontrak kerja yang baik melindungi kedua pihak dan menetapkan ekspektasi yang jelas sejak awal.

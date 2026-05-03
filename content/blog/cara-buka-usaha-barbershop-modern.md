@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka barbershop modern yang profesional, dari konse
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["barbershop", "usaha barbershop", "bisnis barbershop", "buka barbershop", "jasa potong rambut"]
-image: "/blog/cara-buka-usaha-barbershop-modern/thumbnail.webp"
+image: "/blog/cara-buka-usaha-barbershop-modern/thumbnail.svg"
 ---
 
 Barbershop modern bukan sekadar tempat potong rambut — ini adalah pengalaman. Pelanggan datang bukan hanya untuk rambut yang rapi, tapi juga untuk suasana yang nyaman, pelayanan yang personal, dan momen "me time" yang menyenangkan. Inilah yang membedakan barbershop modern dari tukang cukur biasa, dan inilah yang membuat bisnis ini bisa sangat menguntungkan kalau dikelola dengan baik.

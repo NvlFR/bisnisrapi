@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis jasa pengiriman lokal, dari model bisni
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa pengiriman lokal", "bisnis kurir", "ekspedisi lokal", "bisnis logistik", "kurir motor"]
-image: "/blog/panduan-bisnis-jasa-pengiriman-lokal/thumbnail.webp"
+image: "/blog/panduan-bisnis-jasa-pengiriman-lokal/thumbnail.svg"
 ---
 
 Pertumbuhan e-commerce di Indonesia telah menciptakan permintaan yang sangat besar untuk jasa pengiriman. Tapi di balik dominasi pemain besar seperti JNE, J&T, atau SiCepat, ada ruang yang cukup besar untuk jasa pengiriman lokal yang melayani kebutuhan spesifik — pengiriman same-day dalam satu kota, pengiriman untuk UMKM lokal, atau layanan kurir personal.

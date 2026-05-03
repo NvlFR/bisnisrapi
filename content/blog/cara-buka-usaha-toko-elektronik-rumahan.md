@@ -5,7 +5,7 @@ excerpt: "Panduan membuka usaha toko elektronik dari rumah yang menguntungkan, d
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko elektronik", "bisnis elektronik", "jual elektronik online", "gadget", "retail elektronik"]
-image: "/blog/cara-buka-usaha-toko-elektronik-rumahan/thumbnail.webp"
+image: "/blog/cara-buka-usaha-toko-elektronik-rumahan/thumbnail.svg"
 ---
 
 Bisnis toko elektronik rumahan adalah peluang yang menarik di era digital ini. Permintaan untuk gadget, aksesoris elektronik, dan perangkat rumah tangga elektronik terus meningkat. Dan dengan model bisnis yang tepat, kamu bisa memulai dari rumah dengan modal yang terjangkau.

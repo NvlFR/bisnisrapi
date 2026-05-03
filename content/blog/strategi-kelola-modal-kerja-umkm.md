@@ -5,7 +5,7 @@ excerpt: "Pelajari strategi praktis mengelola modal kerja UMKM agar arus kas tet
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["modal kerja", "working capital", "arus kas umkm", "manajemen kas", "keuangan bisnis"]
-image: "/blog/strategi-kelola-modal-kerja-umkm/thumbnail.webp"
+image: "/blog/strategi-kelola-modal-kerja-umkm/thumbnail.svg"
 ---
 
 Pernah mengalami situasi di mana bisnis kamu ramai pembeli tapi rekening hampir kosong? Atau stok habis tapi tidak ada dana untuk restock? Itu tanda ada masalah dengan modal kerja. Modal kerja yang tidak dikelola dengan baik adalah salah satu penyebab utama UMKM kesulitan berkembang — bahkan bisa berujung tutup meski omzetnya bagus.

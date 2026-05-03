@@ -5,7 +5,7 @@ excerpt: "Panduan memilih asuransi bisnis yang tepat untuk UMKM — dari asurans
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["asuransi bisnis", "proteksi umkm", "manajemen risiko", "asuransi usaha", "perlindungan bisnis"]
-image: "/blog/panduan-asuransi-bisnis-umkm/thumbnail.webp"
+image: "/blog/panduan-asuransi-bisnis-umkm/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM menganggap asuransi bisnis sebagai pengeluaran yang bisa ditunda. "Nanti kalau sudah besar." Padahal, justru bisnis kecil yang paling rentan terhadap risiko yang tidak terduga — karena tidak punya cadangan finansial yang besar untuk menanggung kerugian besar.

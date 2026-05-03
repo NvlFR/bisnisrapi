@@ -5,7 +5,7 @@ excerpt: "Panduan membuka usaha jasa desain interior dari rumah, dari membangun 
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa desain interior", "bisnis desain interior", "interior designer", "usaha kreatif", "freelance desain"]
-image: "/blog/cara-buka-usaha-jasa-desain-interior/thumbnail.webp"
+image: "/blog/cara-buka-usaha-jasa-desain-interior/thumbnail.svg"
 ---
 
 Jasa desain interior adalah bisnis yang bisa dimulai dari rumah dengan modal yang relatif kecil — terutama kalau kamu sudah punya kemampuan desain dan perangkat yang diperlukan. Tapi seperti bisnis jasa lainnya, membangun reputasi dan mendapatkan klien pertama adalah tantangan terbesar.

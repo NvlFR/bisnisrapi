@@ -5,7 +5,7 @@ excerpt: "SOP bukan hanya untuk perusahaan besar. UMKM yang punya SOP yang jelas
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["SOP", "operasional bisnis", "UMKM", "prosedur kerja", "manajemen bisnis"]
-image: "/blog/cara-buat-sop-bisnis-umkm/thumbnail.webp"
+image: "/blog/cara-buat-sop-bisnis-umkm/thumbnail.svg"
 ---
 
 "Kalau saya tidak ada, bisnis langsung kacau." Ini keluhan yang sangat sering terdengar dari pemilik UMKM. Semua bergantung pada mereka — dari buka toko, layani pelanggan, sampai tutup kasir. Karyawan tidak tahu harus berbuat apa tanpa instruksi langsung.

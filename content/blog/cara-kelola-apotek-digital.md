@@ -5,7 +5,7 @@ excerpt: "Apotek yang tidak terkelola dengan baik bisa membahayakan pasien dan m
 author: "BisnisRapi Team"
 category: "Kesehatan"
 tags: ["apotek digital", "manajemen apotek", "stok obat", "expired obat", "digitalisasi kesehatan"]
-image: "/blog/cara-kelola-apotek-digital/thumbnail.webp"
+image: "/blog/cara-kelola-apotek-digital/thumbnail.svg"
 ---
 
 Apotek bukan bisnis biasa. Di sini, kesalahan dalam pengelolaan stok bisa berdampak langsung pada keselamatan pasien — obat yang expired, obat yang salah diberikan, atau obat yang habis saat dibutuhkan. Ini bukan hanya masalah bisnis, tapi masalah etika dan hukum.

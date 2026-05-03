@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis toko mainan edukatif, dari pemilihan produk y
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["mainan edukatif", "toko mainan", "bisnis mainan anak", "educational toys", "retail anak"]
-image: "/blog/cara-kelola-bisnis-toko-mainan-edukatif/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-toko-mainan-edukatif/thumbnail.svg"
 ---
 
 Bisnis mainan edukatif adalah segmen yang menarik dalam industri retail anak. Orang tua semakin sadar akan pentingnya stimulasi yang tepat untuk perkembangan anak, dan mereka bersedia berinvestasi pada mainan yang tidak hanya menghibur tapi juga mendidik. Ini menciptakan pasar yang bersedia membayar lebih untuk produk yang berkualitas dan terbukti bermanfaat.

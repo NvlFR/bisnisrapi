@@ -5,7 +5,7 @@ excerpt: "Panduan membuat standard recipe untuk bisnis F&B agar kualitas produk 
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["resep standar", "standard recipe", "food cost", "manajemen dapur", "bisnis fnb"]
-image: "/blog/cara-buat-resep-standar-fnb/thumbnail.webp"
+image: "/blog/cara-buat-resep-standar-fnb/thumbnail.svg"
 ---
 
 Pernah makan di sebuah restoran, rasanya enak banget. Balik lagi minggu depan, tapi rasanya beda — lebih asin, atau porsinya lebih kecil. Pengalaman seperti ini langsung menurunkan kepercayaan pelanggan. Dan penyebabnya hampir selalu sama: tidak ada resep standar.

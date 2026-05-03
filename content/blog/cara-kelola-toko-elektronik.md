@@ -5,7 +5,7 @@ excerpt: "Toko elektronik punya tantangan unik: setiap unit punya serial number 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko elektronik", "serial number", "garansi produk", "manajemen stok", "retail elektronik"]
-image: "/blog/cara-kelola-toko-elektronik/thumbnail.webp"
+image: "/blog/cara-kelola-toko-elektronik/thumbnail.svg"
 ---
 
 Toko elektronik adalah salah satu bisnis retail yang paling kompleks untuk dikelola. Setiap unit produk punya serial number yang unik, garansi yang perlu dilacak, dan nilai yang tinggi sehingga kesalahan pencatatan bisa berdampak finansial yang signifikan.

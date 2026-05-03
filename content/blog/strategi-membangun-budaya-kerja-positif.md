@@ -5,7 +5,7 @@ excerpt: "Panduan membangun budaya kerja yang positif di bisnis kecil — dari m
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["budaya kerja", "culture perusahaan", "lingkungan kerja positif", "manajemen sdm", "kepemimpinan bisnis"]
-image: "/blog/strategi-membangun-budaya-kerja-positif/thumbnail.webp"
+image: "/blog/strategi-membangun-budaya-kerja-positif/thumbnail.svg"
 ---
 
 Budaya kerja adalah "kepribadian" bisnis kamu — cara orang berinteraksi, nilai-nilai yang dipegang, dan bagaimana pekerjaan dilakukan sehari-hari. Budaya yang positif menarik karyawan terbaik, membuat mereka bertahan, dan mendorong mereka untuk memberikan yang terbaik. Budaya yang negatif melakukan sebaliknya.

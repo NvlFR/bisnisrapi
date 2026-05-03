@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka dan mengelola usaha kos-kosan yang menguntungk
 author: "BisnisRapi Team"
 category: "Properti"
 tags: ["usaha kos-kosan", "bisnis kos", "properti sewa", "investasi kos", "manajemen kos"]
-image: "/blog/cara-buka-usaha-kos-kosan/thumbnail.webp"
+image: "/blog/cara-buka-usaha-kos-kosan/thumbnail.svg"
 ---
 
 Usaha kos-kosan adalah salah satu investasi properti yang paling populer di Indonesia. Dengan lokasi yang tepat dan pengelolaan yang baik, kos-kosan bisa menghasilkan pendapatan pasif yang stabil dan terus meningkat seiring waktu. Tapi seperti bisnis apapun, ada strategi dan manajemen yang perlu diperhatikan agar investasi ini benar-benar menguntungkan.

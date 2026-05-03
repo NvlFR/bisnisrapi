@@ -5,7 +5,7 @@ excerpt: "Sistem POS bukan sekadar kasir digital. Untuk restoran, POS yang tepat
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["sistem POS", "restoran", "F&B", "kasir restoran", "manajemen restoran"]
-image: "/blog/sistem-pos-untuk-restoran/thumbnail.webp"
+image: "/blog/sistem-pos-untuk-restoran/thumbnail.svg"
 ---
 
 Kalau kamu pernah makan di restoran yang pesanannya lama, salah, atau struk-nya tidak sesuai — kemungkinan besar restoran itu tidak punya sistem POS yang baik. Dan kalau kamu punya restoran sendiri, kamu tahu betapa kacaunya operasional tanpa sistem yang tepat.

@@ -5,7 +5,7 @@ excerpt: "Strategi cerdas mengoptimalkan biaya operasional bisnis UMKM tanpa men
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["optimasi biaya", "efisiensi operasional", "cost optimization", "manajemen biaya umkm", "hemat operasional"]
-image: "/blog/cara-optimalkan-biaya-operasional/thumbnail.webp"
+image: "/blog/cara-optimalkan-biaya-operasional/thumbnail.svg"
 ---
 
 Ada perbedaan besar antara memotong biaya dan mengoptimalkan biaya. Memotong biaya sering kali berarti mengorbankan sesuatu — kualitas, kecepatan, atau kepuasan karyawan. Mengoptimalkan biaya berarti mendapatkan hasil yang sama (atau lebih baik) dengan pengeluaran yang lebih efisien.

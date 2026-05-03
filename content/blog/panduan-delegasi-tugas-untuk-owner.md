@@ -5,7 +5,7 @@ excerpt: "Panduan praktis delegasi tugas untuk owner bisnis UMKM — cara melepa
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["delegasi tugas", "manajemen bisnis", "owner umkm", "kepemimpinan", "operasional bisnis"]
-image: "/blog/panduan-delegasi-tugas-untuk-owner/thumbnail.webp"
+image: "/blog/panduan-delegasi-tugas-untuk-owner/thumbnail.svg"
 ---
 
 "Kalau saya tidak ada, bisnis ini tidak bisa jalan." Ini adalah kalimat yang sering diucapkan pemilik UMKM dengan nada bangga, padahal sebenarnya ini adalah masalah serius. Bisnis yang terlalu bergantung pada satu orang adalah bisnis yang rapuh — dan owner yang tidak bisa mendelegasikan adalah bottleneck terbesar dalam pertumbuhan bisnisnya sendiri.

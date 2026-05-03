@@ -5,7 +5,7 @@ excerpt: "Punya toko online sendiri berarti kamu kontrol penuh atas bisnis — t
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["toko online sendiri", "website toko online", "jualan online", "e-commerce umkm", "toko online tanpa marketplace"]
-image: "/blog/cara-buat-toko-online-sendiri/thumbnail.webp"
+image: "/blog/cara-buat-toko-online-sendiri/thumbnail.svg"
 ---
 
 Berjualan di marketplace seperti Tokopedia atau Shopee memang mudah dan cepat. Tapi ada harga yang harus dibayar: komisi yang terus naik, persaingan harga yang brutal, dan yang paling penting — kamu tidak punya kontrol penuh atas bisnis kamu sendiri.

@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap mengelola bisnis catering pernikahan secara profesiona
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["catering pernikahan", "bisnis catering", "wedding catering", "manajemen event fnb", "usaha catering"]
-image: "/blog/cara-kelola-bisnis-catering-pernikahan/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-catering-pernikahan/thumbnail.svg"
 ---
 
 Bisnis catering pernikahan adalah salah satu segmen F&B yang paling menjanjikan sekaligus paling menantang. Satu event pernikahan bisa menghasilkan pendapatan yang signifikan, tapi satu kesalahan bisa merusak reputasi yang sudah dibangun bertahun-tahun. Kunci suksesnya adalah profesionalisme di setiap aspek — dari penawaran pertama hingga beres-beres setelah acara.

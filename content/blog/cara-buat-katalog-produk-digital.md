@@ -5,7 +5,7 @@ excerpt: "Katalog produk digital yang profesional memudahkan pelanggan menemukan
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["katalog produk digital", "katalog online", "presentasi produk", "brosur digital", "pemasaran produk"]
-image: "/blog/cara-buat-katalog-produk-digital/thumbnail.webp"
+image: "/blog/cara-buat-katalog-produk-digital/thumbnail.svg"
 ---
 
 Di era digital, katalog produk tidak lagi harus dicetak dan dibagikan secara fisik. Katalog digital lebih mudah dibuat, lebih mudah dibagikan, lebih mudah diperbarui, dan lebih ramah lingkungan. Tapi katalog digital yang dibuat asal-asalan justru bisa merusak kesan profesional bisnis kamu.

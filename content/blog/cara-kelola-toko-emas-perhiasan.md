@@ -5,7 +5,7 @@ excerpt: "Toko emas punya tantangan unik: harga yang berubah setiap hari dan nil
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko emas", "perhiasan", "harga emas", "manajemen stok", "retail emas"]
-image: "/blog/cara-kelola-toko-emas-perhiasan/thumbnail.webp"
+image: "/blog/cara-kelola-toko-emas-perhiasan/thumbnail.svg"
 ---
 
 Toko emas dan perhiasan adalah bisnis yang sangat unik. Harga produk berubah setiap hari mengikuti harga emas dunia, nilai stok bisa mencapai miliaran rupiah, dan setiap transaksi melibatkan perhitungan yang kompleks. Kesalahan kecil dalam pencatatan bisa berarti kerugian yang sangat besar.

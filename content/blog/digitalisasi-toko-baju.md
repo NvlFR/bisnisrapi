@@ -5,7 +5,7 @@ excerpt: "Toko baju dengan ratusan SKU dan varian warna-ukuran butuh sistem yang
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["digitalisasi toko", "toko baju", "retail fashion", "manajemen stok", "UMKM"]
-image: "/blog/digitalisasi-toko-baju/thumbnail.webp"
+image: "/blog/digitalisasi-toko-baju/thumbnail.svg"
 ---
 
 Toko baju punya tantangan unik yang tidak dimiliki bisnis retail lain: setiap produk hadir dalam berbagai kombinasi warna dan ukuran. Satu model baju bisa punya 5 warna × 5 ukuran = 25 SKU berbeda. Kalau kamu punya 100 model, itu 2.500 SKU yang harus dikelola.

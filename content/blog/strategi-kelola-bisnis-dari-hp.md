@@ -5,7 +5,7 @@ excerpt: "Pemilik bisnis yang aktif bergerak butuh cara untuk tetap mengontrol b
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["kelola bisnis dari HP", "mobile business", "aplikasi bisnis", "remote management", "UMKM digital"]
-image: "/blog/strategi-kelola-bisnis-dari-hp/thumbnail.webp"
+image: "/blog/strategi-kelola-bisnis-dari-hp/thumbnail.svg"
 ---
 
 Sebagai pemilik bisnis, kamu tidak selalu bisa berada di toko atau kantor. Kamu mungkin sedang meeting dengan supplier, menghadiri pameran, atau bahkan sedang liburan — tapi bisnis tetap harus berjalan dan kamu perlu tetap tahu apa yang terjadi.

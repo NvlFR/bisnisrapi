@@ -5,7 +5,7 @@ excerpt: "Pelajari strategi pricing psikologis yang efektif untuk meningkatkan p
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["pricing psikologis", "strategi harga", "psikologi harga", "meningkatkan penjualan", "strategi marketing"]
-image: "/blog/strategi-pricing-psikologis-bisnis/thumbnail.webp"
+image: "/blog/strategi-pricing-psikologis-bisnis/thumbnail.svg"
 ---
 
 Harga bukan hanya angka. Cara kamu menyajikan harga bisa mempengaruhi keputusan pembelian pelanggan secara signifikan — bahkan tanpa mereka sadari. Inilah yang disebut pricing psikologis: menggunakan pemahaman tentang cara kerja pikiran manusia untuk membuat harga terasa lebih menarik.

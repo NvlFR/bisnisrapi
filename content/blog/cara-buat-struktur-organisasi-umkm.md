@@ -5,7 +5,7 @@ excerpt: "Panduan membuat struktur organisasi UMKM yang jelas dan efektif — da
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["struktur organisasi", "org chart umkm", "manajemen bisnis", "peran karyawan", "operasional bisnis"]
-image: "/blog/cara-buat-struktur-organisasi-umkm/thumbnail.webp"
+image: "/blog/cara-buat-struktur-organisasi-umkm/thumbnail.svg"
 ---
 
 "Siapa yang bertanggung jawab untuk ini?" Jika pertanyaan ini sering muncul di bisnis kamu, itu tanda bahwa struktur organisasi perlu diperjelas. Tanpa struktur yang jelas, pekerjaan jatuh di antara celah, konflik tanggung jawab sering terjadi, dan karyawan tidak tahu kepada siapa mereka harus melapor.

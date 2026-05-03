@@ -5,7 +5,7 @@ excerpt: "Lembaga kursus dengan banyak siswa dan pengajar butuh sistem jadwal da
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["lembaga kursus", "les privat", "jadwal kursus", "SPP otomatis", "manajemen pendidikan"]
-image: "/blog/cara-kelola-kursus-les-privat/thumbnail.webp"
+image: "/blog/cara-kelola-kursus-les-privat/thumbnail.svg"
 ---
 
 Lembaga kursus dan les privat adalah bisnis yang sangat bergantung pada kepercayaan orang tua dan kualitas pengajaran. Tapi di balik kualitas pengajaran yang baik, ada sistem operasional yang perlu berjalan dengan mulus: jadwal yang teratur, pengajar yang tepat untuk setiap siswa, dan penagihan SPP yang konsisten.

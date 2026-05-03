@@ -5,7 +5,7 @@ excerpt: "Komplain pelanggan bukan musuh bisnis — ini adalah kesempatan untuk 
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["komplain pelanggan", "layanan pelanggan", "customer service", "kepuasan pelanggan", "penanganan keluhan"]
-image: "/blog/cara-kelola-komplain-pelanggan/thumbnail.webp"
+image: "/blog/cara-kelola-komplain-pelanggan/thumbnail.svg"
 ---
 
 Tidak ada bisnis yang sempurna. Suatu saat, pasti ada pelanggan yang kecewa — produk yang tidak sesuai ekspektasi, pengiriman yang terlambat, atau layanan yang kurang memuaskan. Yang membedakan bisnis yang baik dari yang biasa adalah bagaimana mereka menangani situasi tersebut.

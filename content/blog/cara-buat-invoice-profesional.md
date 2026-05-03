@@ -5,7 +5,7 @@ excerpt: "Invoice yang profesional dan jelas bukan hanya soal estetika — ini t
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["invoice", "faktur", "keuangan bisnis", "pembayaran", "UMKM profesional"]
-image: "/blog/cara-buat-invoice-profesional/thumbnail.webp"
+image: "/blog/cara-buat-invoice-profesional/thumbnail.svg"
 ---
 
 Pernah kirim invoice tapi pembayarannya lama sekali datang? Atau pelanggan bilang "invoice-nya belum saya terima" padahal sudah dikirim? Atau ada perselisihan tentang jumlah yang harus dibayar?

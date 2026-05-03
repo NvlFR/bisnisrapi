@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola toko sepatu yang beroperasi di channel online dan of
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko sepatu", "omnichannel retail", "manajemen stok sepatu", "bisnis sepatu", "online offline retail"]
-image: "/blog/cara-kelola-toko-sepatu-online-offline/thumbnail.webp"
+image: "/blog/cara-kelola-toko-sepatu-online-offline/thumbnail.svg"
 ---
 
 Mengelola toko sepatu di dua channel sekaligus — online dan offline — memberikan jangkauan yang lebih luas tapi juga kompleksitas yang lebih tinggi. Tantangan terbesar adalah menjaga konsistensi stok, harga, dan pengalaman pelanggan di kedua channel. Kalau tidak dikelola dengan baik, kamu bisa menghadapi masalah seperti overselling (menjual barang yang stoknya sudah habis) atau inkonsistensi harga yang membingungkan pelanggan.

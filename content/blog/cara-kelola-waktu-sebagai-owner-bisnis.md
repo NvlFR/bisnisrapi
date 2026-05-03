@@ -5,7 +5,7 @@ excerpt: "Strategi manajemen waktu yang efektif untuk owner bisnis UMKM — cara
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["manajemen waktu", "produktivitas owner", "time management", "burnout bisnis", "work life balance"]
-image: "/blog/cara-kelola-waktu-sebagai-owner-bisnis/thumbnail.webp"
+image: "/blog/cara-kelola-waktu-sebagai-owner-bisnis/thumbnail.svg"
 ---
 
 Menjadi owner bisnis sering terasa seperti berlari di atas treadmill yang tidak bisa dimatikan. Ada selalu lebih banyak yang harus dilakukan daripada waktu yang tersedia. Email yang belum dibalas, karyawan yang butuh arahan, pelanggan yang perlu dilayani, laporan yang harus dibuat — semuanya terasa mendesak sekaligus.

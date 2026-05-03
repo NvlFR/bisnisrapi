@@ -5,7 +5,7 @@ excerpt: "Toko HP dan servis handphone perlu melacak IMEI setiap unit untuk meng
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko HP", "servis handphone", "IMEI", "garansi HP", "retail elektronik"]
-image: "/blog/cara-kelola-toko-hp-servis/thumbnail.webp"
+image: "/blog/cara-kelola-toko-hp-servis/thumbnail.svg"
 ---
 
 Bisnis toko HP dan servis handphone adalah salah satu bisnis yang paling dinamis di Indonesia. Permintaan selalu ada, tapi persaingan juga sangat ketat. Di tengah persaingan ini, toko yang dikelola dengan sistem yang baik — terutama dalam hal tracking IMEI dan manajemen garansi — punya keunggulan yang signifikan.

@@ -5,7 +5,7 @@ excerpt: "Strategi dan taktik negosiasi harga dengan supplier yang efektif untuk
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["negosiasi supplier", "harga beli", "manajemen supplier", "pengadaan barang", "strategi pembelian"]
-image: "/blog/strategi-negosiasi-harga-supplier/thumbnail.webp"
+image: "/blog/strategi-negosiasi-harga-supplier/thumbnail.svg"
 ---
 
 Negosiasi dengan supplier adalah salah satu cara paling langsung untuk meningkatkan margin keuntungan bisnis kamu. Penurunan harga beli 5-10% bisa berdampak signifikan pada profitabilitas, terutama untuk bisnis dengan volume pembelian yang besar. Tapi banyak pemilik UMKM yang tidak pernah mencoba negosiasi karena merasa tidak punya posisi tawar.

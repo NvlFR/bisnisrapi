@@ -5,7 +5,7 @@ excerpt: "Toko craft dan DIY menjual bahan dalam berbagai satuan yang kompleks. 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko craft", "DIY", "multi-satuan", "stok bahan craft", "retail hobi"]
-image: "/blog/cara-kelola-toko-craft-diy/thumbnail.webp"
+image: "/blog/cara-kelola-toko-craft-diy/thumbnail.svg"
 ---
 
 Toko craft dan DIY (Do It Yourself) adalah surga bagi para penghobi dan kreator. Dari benang rajut, kain patchwork, cat akrilik, hingga berbagai bahan dekorasi — toko craft menjual bahan-bahan yang memungkinkan orang menciptakan sesuatu dengan tangan mereka sendiri.

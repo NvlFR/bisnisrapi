@@ -5,7 +5,7 @@ excerpt: "Rebranding bukan sekadar ganti logo — ini adalah transformasi identi
 author: "BisnisRapi Team"
 category: "Branding"
 tags: ["rebranding bisnis", "brand refresh", "identitas bisnis baru", "strategi branding", "transformasi brand"]
-image: "/blog/strategi-rebranding-bisnis-umkm/thumbnail.webp"
+image: "/blog/strategi-rebranding-bisnis-umkm/thumbnail.svg"
 ---
 
 Rebranding adalah salah satu keputusan terbesar yang bisa diambil oleh pemilik bisnis. Dilakukan dengan benar, rebranding bisa merevitalisasi bisnis yang stagnan, menjangkau pasar baru, atau mencerminkan evolusi bisnis yang sudah berkembang. Dilakukan dengan salah, rebranding bisa membingungkan pelanggan setia dan merusak ekuitas brand yang sudah dibangun.

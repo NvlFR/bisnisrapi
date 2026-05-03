@@ -5,7 +5,7 @@ excerpt: "Food waste adalah salah satu penyebab utama margin tipis di bisnis F&B
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["food waste", "F&B", "efisiensi bisnis", "manajemen bahan baku", "profitabilitas"]
-image: "/blog/cara-kurangi-waste-fnb/thumbnail.webp"
+image: "/blog/cara-kurangi-waste-fnb/thumbnail.svg"
 ---
 
 Di bisnis F&B, ada musuh diam-diam yang terus menggerogoti profit kamu setiap hari: food waste. Bahan baku yang terbuang, porsi yang tidak habis, produk yang expired sebelum sempat dijual — semua ini adalah uang yang hilang begitu saja.

@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap memulai bisnis aksesoris motor dan mobil, dari memilih
 author: "BisnisRapi Team"
 category: "Otomotif"
 tags: ["aksesoris motor", "aksesoris mobil", "bisnis otomotif", "toko aksesoris", "spare part motor"]
-image: "/blog/panduan-bisnis-aksesoris-motor-mobil/thumbnail.webp"
+image: "/blog/panduan-bisnis-aksesoris-motor-mobil/thumbnail.svg"
 ---
 
 Bisnis aksesoris motor dan mobil adalah segmen yang menarik dalam industri otomotif. Dengan jumlah kendaraan bermotor yang terus bertambah di Indonesia, permintaan untuk aksesoris — baik untuk kebutuhan fungsional maupun estetika — terus meningkat. Tapi bisnis ini juga punya tantangan tersendiri, terutama dalam hal manajemen stok yang sangat beragam.

@@ -5,7 +5,7 @@ excerpt: "Toko buku dan ATK punya ribuan item dengan variasi yang kompleks. Begi
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko buku", "ATK", "manajemen stok", "digitalisasi toko", "retail"]
-image: "/blog/digitalisasi-toko-buku-atk/thumbnail.webp"
+image: "/blog/digitalisasi-toko-buku-atk/thumbnail.svg"
 ---
 
 Kalau kamu pernah mengelola toko buku atau alat tulis kantor (ATK), kamu pasti tahu betapa rumitnya manajemen stoknya. Bayangkan: ribuan judul buku dengan berbagai penulis, penerbit, dan edisi. Ditambah ratusan item ATK dari pensil, pulpen, kertas, sampai peralatan kantor yang lebih besar.

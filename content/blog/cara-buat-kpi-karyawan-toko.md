@@ -5,7 +5,7 @@ excerpt: "Panduan membuat KPI (Key Performance Indicator) karyawan toko yang ter
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["kpi karyawan", "key performance indicator", "evaluasi kinerja", "manajemen sdm", "produktivitas toko"]
-image: "/blog/cara-buat-kpi-karyawan-toko/thumbnail.webp"
+image: "/blog/cara-buat-kpi-karyawan-toko/thumbnail.svg"
 ---
 
 KPI (Key Performance Indicator) adalah metrik yang digunakan untuk mengukur seberapa baik karyawan mencapai tujuan yang ditetapkan. KPI yang baik memberikan arah yang jelas kepada karyawan, memudahkan evaluasi yang objektif, dan menciptakan dasar yang adil untuk keputusan kompensasi dan promosi.

@@ -5,7 +5,7 @@ excerpt: "Newsletter yang bagus bukan sekadar email promosi — ini adalah konte
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["newsletter bisnis", "email marketing", "konten email", "membangun audiens", "pemasaran konten"]
-image: "/blog/cara-buat-newsletter-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-newsletter-bisnis/thumbnail.svg"
 ---
 
 Inbox email kita penuh dengan newsletter yang tidak pernah dibuka. Kita subscribe, lalu lupa, lalu suatu hari unsubscribe karena merasa terganggu. Tapi ada juga newsletter yang kita tunggu-tunggu setiap minggunya — yang selalu kita buka dan baca sampai habis.

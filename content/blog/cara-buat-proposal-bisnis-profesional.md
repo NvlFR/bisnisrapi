@@ -5,7 +5,7 @@ excerpt: "Proposal bisnis yang baik bisa membuka pintu kerjasama, mendapatkan kl
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["proposal bisnis", "dokumen bisnis", "kerjasama bisnis", "presentasi bisnis", "profesionalisme bisnis"]
-image: "/blog/cara-buat-proposal-bisnis-profesional/thumbnail.webp"
+image: "/blog/cara-buat-proposal-bisnis-profesional/thumbnail.svg"
 ---
 
 Proposal bisnis adalah dokumen yang menjelaskan apa yang kamu tawarkan, mengapa pihak lain harus memilih kamu, dan bagaimana kerjasama atau transaksi akan berjalan. Proposal yang baik bisa membuka peluang yang luar biasa — mendapatkan klien besar, mengamankan kerjasama strategis, atau mendapat dukungan dari investor.

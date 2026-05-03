@@ -5,7 +5,7 @@ excerpt: "WhatsApp bukan cuma alat chat — ini bisa jadi saluran pemasaran pali
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["whatsapp marketing", "whatsapp bisnis", "pemasaran umkm", "whatsapp business", "strategi pemasaran"]
-image: "/blog/strategi-whatsapp-marketing-umkm/thumbnail.webp"
+image: "/blog/strategi-whatsapp-marketing-umkm/thumbnail.svg"
 ---
 
 WhatsApp adalah aplikasi yang hampir semua orang Indonesia gunakan setiap hari. Bagi pemilik UMKM, ini adalah peluang emas yang sering dimanfaatkan dengan cara yang kurang tepat — entah terlalu agresif sampai dianggap spam, atau terlalu pasif sampai tidak ada dampaknya sama sekali.

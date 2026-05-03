@@ -5,7 +5,7 @@ excerpt: "Panduan praktis membuka usaha kuliner dari nol, mulai dari riset pasar
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["usaha kuliner", "bisnis fnb", "buka usaha makanan", "umkm kuliner", "bisnis pemula"]
-image: "/blog/cara-buka-usaha-kuliner-dari-nol/thumbnail.webp"
+image: "/blog/cara-buka-usaha-kuliner-dari-nol/thumbnail.svg"
 ---
 
 Bisnis kuliner adalah salah satu sektor yang paling banyak diminati oleh calon pengusaha di Indonesia. Alasannya masuk akal: semua orang butuh makan, pasarnya luas, dan modal awalnya bisa disesuaikan dengan kemampuan. Tapi di balik peluang yang besar itu, banyak usaha kuliner yang tutup dalam tahun pertama karena kurang persiapan.

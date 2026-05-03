@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis rental motor secara profesional, dari manajem
 author: "BisnisRapi Team"
 category: "Otomotif"
 tags: ["rental motor", "bisnis rental", "sewa motor", "manajemen armada", "bisnis otomotif"]
-image: "/blog/cara-kelola-bisnis-rental-motor/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-rental-motor/thumbnail.svg"
 ---
 
 Bisnis rental motor adalah bisnis yang menarik — modal awal yang relatif terjangkau, permintaan yang stabil (terutama di kota wisata), dan potensi pendapatan yang konsisten. Tapi tanpa sistem yang baik, bisnis ini bisa menjadi sangat merepotkan — motor yang tidak terawat, penyewa yang tidak bertanggung jawab, atau keuangan yang tidak terkontrol.

@@ -5,7 +5,7 @@ excerpt: "Panduan merancang dan mengelola sistem bonus karyawan yang adil, trans
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["bonus karyawan", "sistem bonus", "motivasi karyawan", "manajemen sdm", "insentif kerja"]
-image: "/blog/strategi-kelola-bonus-karyawan/thumbnail.webp"
+image: "/blog/strategi-kelola-bonus-karyawan/thumbnail.svg"
 ---
 
 Bonus karyawan bisa menjadi alat motivasi yang sangat powerful — atau bisa menjadi sumber ketidakpuasan yang merusak moral tim. Perbedaannya ada pada bagaimana sistem bonus dirancang dan dikomunikasikan. Bonus yang diberikan tanpa sistem yang jelas sering kali tidak memotivasi dan justru menciptakan ekspektasi yang sulit dikelola.

@@ -5,7 +5,7 @@ excerpt: "Layout toko yang tepat bisa mendorong pelanggan belanja lebih banyak t
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["layout toko", "desain toko", "strategi penjualan", "retail", "UMKM"]
-image: "/blog/cara-optimalkan-layout-toko/thumbnail.webp"
+image: "/blog/cara-optimalkan-layout-toko/thumbnail.svg"
 ---
 
 Pernah masuk ke sebuah toko dan tiba-tiba kamu beli banyak barang padahal niatnya cuma mau beli satu? Itu bukan kebetulan. Layout toko yang dirancang dengan baik memang bisa "mengarahkan" perilaku belanja pelanggan secara alami.

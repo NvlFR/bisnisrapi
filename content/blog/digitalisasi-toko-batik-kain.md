@@ -5,7 +5,7 @@ excerpt: "Toko batik dan kain tradisional punya ratusan motif yang perlu dikatal
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko batik", "kain tradisional", "katalog motif", "manajemen stok", "retail fashion"]
-image: "/blog/digitalisasi-toko-batik-kain/thumbnail.webp"
+image: "/blog/digitalisasi-toko-batik-kain/thumbnail.svg"
 ---
 
 Toko batik dan kain tradisional adalah bisnis yang menjual warisan budaya. Di balik keindahan setiap motif, ada kompleksitas manajemen yang unik: ratusan motif yang berbeda, berbagai jenis kain, dan pelanggan yang sering mencari motif spesifik yang mungkin sulit dideskripsikan dengan kata-kata.

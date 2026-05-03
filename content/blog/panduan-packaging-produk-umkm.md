@@ -5,7 +5,7 @@ excerpt: "Packaging yang baik bukan sekadar pelindung produk — ini adalah bagi
 author: "BisnisRapi Team"
 category: "Branding"
 tags: ["packaging produk", "kemasan produk umkm", "desain kemasan", "unboxing experience", "branding produk"]
-image: "/blog/panduan-packaging-produk-umkm/thumbnail.webp"
+image: "/blog/panduan-packaging-produk-umkm/thumbnail.svg"
 ---
 
 Packaging adalah hal pertama yang disentuh pelanggan saat menerima produk kamu. Ini adalah kesempatan terakhir untuk membuat kesan yang baik sebelum pelanggan melihat produk itu sendiri. Packaging yang bagus bisa meningkatkan persepsi nilai produk, mendorong pelanggan untuk memfoto dan membagikannya di media sosial, dan membangun loyalitas.

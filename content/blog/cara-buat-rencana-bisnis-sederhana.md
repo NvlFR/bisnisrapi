@@ -5,7 +5,7 @@ excerpt: "Panduan membuat rencana bisnis yang sederhana namun efektif untuk UMKM
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["rencana bisnis", "business plan", "perencanaan bisnis", "strategi umkm", "pengembangan bisnis"]
-image: "/blog/cara-buat-rencana-bisnis-sederhana/thumbnail.webp"
+image: "/blog/cara-buat-rencana-bisnis-sederhana/thumbnail.svg"
 ---
 
 "Business plan itu untuk perusahaan besar atau yang mau cari investor." Ini adalah kesalahpahaman yang umum. Rencana bisnis yang baik bermanfaat untuk bisnis dari semua ukuran — bukan karena kamu harus menyerahkannya ke bank atau investor, tapi karena proses membuatnya memaksa kamu berpikir secara sistematis tentang bisnis kamu.

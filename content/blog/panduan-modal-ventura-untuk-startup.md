@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap tentang modal ventura dan angel investor untuk startup
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["modal ventura", "angel investor", "pendanaan startup", "venture capital", "investasi startup"]
-image: "/blog/panduan-modal-ventura-untuk-startup/thumbnail.webp"
+image: "/blog/panduan-modal-ventura-untuk-startup/thumbnail.svg"
 ---
 
 Tidak semua bisnis cocok dengan pinjaman bank. Startup dengan model bisnis yang inovatif, pertumbuhan cepat, tapi belum menghasilkan profit sering kali tidak memenuhi syarat kredit konvensional. Di sinilah modal ventura dan angel investor berperan.

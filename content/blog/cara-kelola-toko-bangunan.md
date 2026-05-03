@@ -5,7 +5,7 @@ excerpt: "Toko bangunan punya tantangan unik: ribuan SKU material, kasbon kontra
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko bangunan", "material bangunan", "kasbon kontraktor", "manajemen stok", "retail"]
-image: "/blog/cara-kelola-toko-bangunan/thumbnail.webp"
+image: "/blog/cara-kelola-toko-bangunan/thumbnail.svg"
 ---
 
 Toko bangunan adalah salah satu bisnis retail yang paling kompleks untuk dikelola. Ribuan jenis material dengan satuan yang berbeda-beda (sak, batang, lembar, meter, liter), kasbon kontraktor yang bisa mencapai puluhan juta, dan stok yang sulit dihitung karena ukurannya besar — semua ini membuat manajemen toko bangunan menjadi tantangan tersendiri.

@@ -5,7 +5,7 @@ excerpt: "Data bisnis yang hilang bisa menghancurkan bisnis yang sudah dibangun 
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["backup data", "keamanan data", "teknologi bisnis", "UMKM", "manajemen risiko"]
-image: "/blog/pentingnya-backup-data-bisnis/thumbnail.webp"
+image: "/blog/pentingnya-backup-data-bisnis/thumbnail.svg"
 ---
 
 Bayangkan kamu bangun pagi, buka laptop untuk cek laporan penjualan, dan semua data bisnis kamu — data pelanggan, riwayat transaksi, stok barang, laporan keuangan — hilang. Semua. Tidak ada yang tersisa.

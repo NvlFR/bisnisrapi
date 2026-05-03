@@ -5,7 +5,7 @@ excerpt: "Strategi lengkap menjalankan bisnis jual beli motor bekas yang mengunt
 author: "BisnisRapi Team"
 category: "Otomotif"
 tags: ["jual beli motor bekas", "bisnis motor bekas", "dealer motor bekas", "otomotif", "motor second"]
-image: "/blog/strategi-bisnis-jual-beli-motor-bekas/thumbnail.webp"
+image: "/blog/strategi-bisnis-jual-beli-motor-bekas/thumbnail.svg"
 ---
 
 Bisnis jual beli motor bekas adalah salah satu bisnis otomotif yang paling accessible untuk pemula. Modal awal bisa disesuaikan dengan kemampuan, perputaran uang relatif cepat, dan pasar motor bekas di Indonesia sangat besar. Tapi untuk sukses, kamu perlu memahami cara menilai kondisi motor, menetapkan harga yang tepat, dan mengelola risiko dengan baik.

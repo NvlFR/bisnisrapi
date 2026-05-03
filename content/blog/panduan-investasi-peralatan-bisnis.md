@@ -5,7 +5,7 @@ excerpt: "Panduan memilih antara membeli, menyewa, atau leasing peralatan bisnis
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["investasi peralatan", "beli vs sewa", "leasing bisnis", "aset bisnis", "keputusan investasi"]
-image: "/blog/panduan-investasi-peralatan-bisnis/thumbnail.webp"
+image: "/blog/panduan-investasi-peralatan-bisnis/thumbnail.svg"
 ---
 
 Bisnis kamu butuh peralatan baru — mesin produksi, kendaraan operasional, peralatan dapur, atau komputer. Pertanyaannya: apakah lebih baik beli langsung, sewa, atau leasing? Keputusan ini berdampak signifikan pada arus kas, neraca, dan fleksibilitas bisnis kamu.

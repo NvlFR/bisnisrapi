@@ -5,7 +5,7 @@ excerpt: "Pilihan antara berjualan di marketplace atau membangun toko sendiri ti
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["marketplace vs toko sendiri", "tokopedia shopee", "toko online", "strategi penjualan online", "e-commerce umkm"]
-image: "/blog/panduan-marketplace-vs-toko-sendiri/thumbnail.webp"
+image: "/blog/panduan-marketplace-vs-toko-sendiri/thumbnail.svg"
 ---
 
 "Lebih baik jualan di Shopee atau buat website sendiri?" — ini adalah pertanyaan yang sering ditanyakan oleh pemilik UMKM yang ingin mulai atau mengembangkan penjualan online. Jawabannya tidak sesederhana memilih salah satu, karena keduanya punya kelebihan dan kekurangan yang berbeda.

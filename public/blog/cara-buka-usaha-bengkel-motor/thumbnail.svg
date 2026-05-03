@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg-996131081" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <filter id="blur-996131081">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <filter id="shadow-996131081">
+      <feDropShadow dx="0" dy="12" stdDeviation="25" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="lines-996131081" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="30" stroke="white" stroke-opacity="0.05" stroke-width="1"/></pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg-996131081)"/>
+
+  <!-- Decorative dynamic shapes -->
+  <circle cx="189.9948559670782" cy="184.41958161865568" r="214.39643347050753" fill="white" opacity="0.08" filter="url(#blur-996131081)"/>
+  <circle cx="944.7196502057614" cy="579.7307956104253" r="309.19710219478736" fill="white" opacity="0.06" filter="url(#blur-996131081)"/>
+  <rect x="504.79423868312756" y="496.0196759259259" width="88.77400548696845" height="88.77400548696845" rx="22.193501371742112" fill="white" opacity="0.049822316529492455" transform="rotate(201.11111111111111, 504.79423868312756, 496.0196759259259)" />
+<polygon points="1059.8302469135804,464.9500171467764 1034.056498628258,516.4975137174212 1085.6039951989028,516.4975137174212" fill="white" opacity="0.038882458847736626" transform="rotate(189.4737654320988, 1059.8302469135804, 490.7237654320988)" />
+<rect x="959.0020576131686" y="174.15470679012347" width="118.59053497942386" height="118.59053497942386" rx="29.647633744855966" fill="white" opacity="0.030707518861454047" transform="rotate(296.63271604938274, 959.0020576131686, 174.15470679012347)" />
+<rect x="643.0504115226337" y="244.36805555555554" width="237.43398491083676" height="237.43398491083676" rx="59.35849622770919" fill="white" opacity="0.0714394718792867" transform="rotate(281.47685185185185, 643.0504115226337, 244.36805555555554)" />
+<polygon points="774.9382716049383,288.65204903978054 667.5042866941016,503.5200188614541 882.3722565157751,503.5200188614541" fill="white" opacity="0.049812885802469134" transform="rotate(289.5617283950617, 774.9382716049383, 396.0860339506173)" />
+
+  <!-- Pattern Overlay -->
+  <rect width="1200" height="630" fill="url(#lines-996131081)"/>
+
+  <!-- Glass Card -->
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.2" stroke-width="1.5" filter="url(#shadow-996131081)"/>
+  <rect x="80" y="80" width="1040" height="470" rx="48" fill="none" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
+
+  <!-- Badge -->
+  <rect x="130" y="130" width="161" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+  <text x="210.5" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">TIPS BISNIS</text>
+
+  <!-- Emoji -->
+  <text x="600" y="300" font-size="140" text-anchor="middle" dominant-baseline="middle">📝</text>
+
+  <!-- Title -->
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-0.5">Cara Buka Usaha Bengkel</text>
+  <text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle" opacity="0.9" letter-spacing="-0.5">Motor</text>
+
+  <!-- Branding -->
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="middle" opacity="0.6" letter-spacing="4">BISNISRAPI.MY.ID</text>
+
+  <!-- Accent line -->
+  <rect x="540" y="550" width="120" height="4" rx="2" fill="white" opacity="0.3"/>
+</svg>

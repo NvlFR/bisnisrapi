@@ -5,7 +5,7 @@ excerpt: "Panduan transformasi digital warung kelontong, dari pencatatan manual 
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["warung kelontong digital", "digitalisasi warung", "warung go digital", "umkm digital", "toko kelontong"]
-image: "/blog/strategi-bisnis-warung-kelontong-digital/thumbnail.webp"
+image: "/blog/strategi-bisnis-warung-kelontong-digital/thumbnail.svg"
 ---
 
 Warung kelontong adalah tulang punggung ekonomi lokal Indonesia. Ada jutaan warung kelontong yang tersebar di seluruh pelosok negeri, melayani kebutuhan sehari-hari masyarakat. Tapi banyak warung yang masih dikelola dengan cara yang sama seperti puluhan tahun lalu — pencatatan di buku tulis, stok yang dihitung dengan ingatan, dan keuangan yang bercampur dengan keuangan pribadi.

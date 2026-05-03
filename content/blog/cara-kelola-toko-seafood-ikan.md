@@ -5,7 +5,7 @@ excerpt: "Toko seafood menghadapi tantangan harga yang berubah setiap hari dan p
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko seafood", "ikan segar", "harga harian", "manajemen stok", "produk segar"]
-image: "/blog/cara-kelola-toko-seafood-ikan/thumbnail.webp"
+image: "/blog/cara-kelola-toko-seafood-ikan/thumbnail.svg"
 ---
 
 Bisnis toko seafood dan ikan segar adalah bisnis yang sangat dinamis. Harga berubah setiap hari tergantung hasil tangkapan dan permintaan pasar. Produk yang tidak terjual hari ini bisa tidak layak jual besok. Dan pelanggan mengharapkan kesegaran yang konsisten.

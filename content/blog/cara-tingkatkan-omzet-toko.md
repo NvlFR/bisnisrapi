@@ -5,7 +5,7 @@ excerpt: "Meningkatkan omzet tidak selalu butuh modal besar. Ada 8 strategi yang
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["tingkatkan omzet", "strategi penjualan", "toko retail", "UMKM", "pertumbuhan bisnis"]
-image: "/blog/cara-tingkatkan-omzet-toko/thumbnail.webp"
+image: "/blog/cara-tingkatkan-omzet-toko/thumbnail.svg"
 ---
 
 Banyak pemilik toko yang berpikir satu-satunya cara meningkatkan omzet adalah dengan tambah modal — beli lebih banyak stok, buka cabang baru, atau pasang iklan besar-besaran. Padahal, ada banyak cara meningkatkan omzet yang tidak butuh modal tambahan yang signifikan.

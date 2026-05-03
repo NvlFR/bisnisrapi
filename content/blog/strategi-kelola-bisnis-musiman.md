@@ -5,7 +5,7 @@ excerpt: "Bisnis musiman punya pola permintaan yang sangat fluktuatif. Persiapan
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["bisnis musiman", "persiapan stok", "manajemen karyawan musiman", "strategi bisnis", "UMKM"]
-image: "/blog/strategi-kelola-bisnis-musiman/thumbnail.webp"
+image: "/blog/strategi-kelola-bisnis-musiman/thumbnail.svg"
 ---
 
 Bisnis musiman adalah bisnis yang permintaannya sangat dipengaruhi oleh waktu tertentu dalam setahun. Toko pakaian yang ramai menjelang lebaran, toko kembang api yang hanya laku di akhir tahun, atau toko perlengkapan sekolah yang puncaknya di Juli-Agustus — semua ini adalah contoh bisnis musiman.

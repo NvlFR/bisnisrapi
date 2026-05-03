@@ -5,7 +5,7 @@ excerpt: "Panduan membangun sistem reward karyawan yang efektif dan terjangkau u
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["reward karyawan", "motivasi karyawan", "non-monetary reward", "manajemen sdm", "retensi karyawan"]
-image: "/blog/cara-buat-sistem-reward-karyawan/thumbnail.webp"
+image: "/blog/cara-buat-sistem-reward-karyawan/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM berpikir bahwa satu-satunya cara memotivasi karyawan adalah dengan uang. Padahal, penelitian di bidang psikologi kerja secara konsisten menunjukkan bahwa setelah kebutuhan finansial dasar terpenuhi, faktor-faktor non-finansial sering kali lebih berpengaruh terhadap motivasi dan kepuasan kerja.

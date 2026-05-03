@@ -4,7 +4,7 @@ date: "2025-02-01"
 excerpt: "Banyak UMKM yang mikir Instagram sudah cukup buat marketing. Nyatanya, bisnis tanpa website profesional kehilangan 70% potensi pelanggan. Ini alasannya dan cara mengatasinya."
 author: "BisnisRapi Team"
 category: "Tips Bisnis Digital"
-image: "/blog/kenapa-bisnis-butuh-website/thumbnail.webp"
+image: "/blog/kenapa-bisnis-butuh-website-profesional/thumbnail.svg"
 ---
 
 # Kenapa Bisnis Kamu Butuh Website Profesional (Bukan Cuma Instagram)

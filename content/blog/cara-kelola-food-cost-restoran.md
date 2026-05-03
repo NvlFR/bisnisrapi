@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mengelola food cost restoran, cara menghitung food cos
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["food cost", "food cost ratio", "profitabilitas restoran", "manajemen biaya fnb", "bisnis kuliner"]
-image: "/blog/cara-kelola-food-cost-restoran/thumbnail.webp"
+image: "/blog/cara-kelola-food-cost-restoran/thumbnail.svg"
 ---
 
 Banyak pemilik restoran yang fokus pada omzet tapi lupa memperhatikan food cost. Padahal, restoran dengan omzet besar pun bisa merugi kalau food cost-nya tidak terkontrol. Food cost adalah salah satu variabel terbesar yang menentukan apakah bisnis F&B kamu menguntungkan atau tidak.

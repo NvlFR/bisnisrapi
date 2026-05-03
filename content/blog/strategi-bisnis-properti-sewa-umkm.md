@@ -5,7 +5,7 @@ excerpt: "Strategi memulai bisnis properti sewa untuk UMKM pemula, dari memilih 
 author: "BisnisRapi Team"
 category: "Properti"
 tags: ["bisnis properti sewa", "investasi properti", "properti umkm", "sewa properti", "investasi pemula"]
-image: "/blog/strategi-bisnis-properti-sewa-umkm/thumbnail.webp"
+image: "/blog/strategi-bisnis-properti-sewa-umkm/thumbnail.svg"
 ---
 
 Bisnis properti sewa sering dianggap sebagai domain orang kaya dengan modal besar. Padahal, dengan strategi yang tepat, UMKM pemula pun bisa memulai bisnis properti sewa dengan modal yang lebih terjangkau dan membangun portofolio secara bertahap.

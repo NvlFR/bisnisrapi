@@ -5,7 +5,7 @@ excerpt: "Testimoni autentik dari pelanggan nyata jauh lebih meyakinkan dari tes
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["testimoni pelanggan", "social proof", "ulasan autentik", "kepercayaan pelanggan", "bukti sosial"]
-image: "/blog/cara-buat-konten-testimonial-tanpa-palsu/thumbnail.webp"
+image: "/blog/cara-buat-konten-testimonial-tanpa-palsu/thumbnail.svg"
 ---
 
 Testimoni palsu adalah salah satu praktik yang paling merusak kepercayaan dalam bisnis online. Pelanggan semakin cerdas dan bisa mendeteksi testimoni yang tidak autentik — dan ketika mereka menyadarinya, kepercayaan yang sudah dibangun bisa hancur seketika.

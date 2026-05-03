@@ -5,7 +5,7 @@ excerpt: "Panduan praktis membuat dan membaca neraca bisnis (balance sheet) untu
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["neraca bisnis", "balance sheet", "laporan keuangan umkm", "aset bisnis", "ekuitas bisnis"]
-image: "/blog/panduan-neraca-bisnis-umkm/thumbnail.webp"
+image: "/blog/panduan-neraca-bisnis-umkm/thumbnail.svg"
 ---
 
 Laporan laba rugi menunjukkan apakah bisnis kamu untung atau rugi. Tapi neraca (balance sheet) menunjukkan sesuatu yang berbeda: kondisi keuangan bisnis kamu pada satu titik waktu tertentu. Ini seperti foto keuangan bisnis kamu — menunjukkan apa yang kamu miliki, apa yang kamu hutang, dan berapa nilai bersih bisnis kamu.

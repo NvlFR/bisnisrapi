@@ -5,7 +5,7 @@ excerpt: "Reputasi online bisnis kamu terbentuk dari ribuan interaksi kecil seti
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["reputasi bisnis online", "online reputation management", "brand reputation", "kepercayaan bisnis", "manajemen reputasi"]
-image: "/blog/cara-kelola-reputasi-bisnis-online/thumbnail.webp"
+image: "/blog/cara-kelola-reputasi-bisnis-online/thumbnail.svg"
 ---
 
 Di era digital, reputasi bisnis kamu terbentuk bukan hanya dari apa yang kamu katakan tentang diri sendiri, tapi dari apa yang orang lain katakan tentang kamu — di ulasan Google, di media sosial, di forum online, dan di percakapan sehari-hari.

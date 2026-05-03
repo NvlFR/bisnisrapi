@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka bengkel motor yang profesional, dari kebutuhan
 author: "BisnisRapi Team"
 category: "Otomotif"
 tags: ["bengkel motor", "usaha bengkel", "bisnis otomotif", "servis motor", "bengkel profesional"]
-image: "/blog/cara-buka-usaha-bengkel-motor/thumbnail.webp"
+image: "/blog/cara-buka-usaha-bengkel-motor/thumbnail.svg"
 ---
 
 Motor adalah kendaraan yang paling banyak digunakan di Indonesia. Dengan jumlah motor yang terus bertambah setiap tahun, kebutuhan akan jasa perawatan dan perbaikan motor juga terus meningkat. Bengkel motor adalah bisnis yang punya demand yang stabil dan tidak terlalu terpengaruh oleh kondisi ekonomi — orang tetap butuh servis motor meski ekonomi sedang sulit.

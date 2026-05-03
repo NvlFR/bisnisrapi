@@ -5,7 +5,7 @@ excerpt: "Copywriting yang baik bisa mengubah pengunjung menjadi pembeli. Kamu t
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["copywriting", "menulis konten bisnis", "teks pemasaran", "caption media sosial", "deskripsi produk"]
-image: "/blog/panduan-copywriting-untuk-umkm/thumbnail.webp"
+image: "/blog/panduan-copywriting-untuk-umkm/thumbnail.svg"
 ---
 
 Copywriting adalah seni menulis teks yang mendorong pembaca untuk mengambil tindakan — membeli, mendaftar, menghubungi, atau melakukan sesuatu yang kamu inginkan. Ini adalah keterampilan yang sangat berharga untuk pemilik bisnis, karena hampir semua komunikasi bisnis — dari caption Instagram hingga deskripsi produk, dari email marketing hingga halaman website — adalah copywriting.

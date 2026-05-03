@@ -5,7 +5,7 @@ excerpt: "Referral program adalah cara paling cost-effective untuk mendapatkan p
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["referral program", "word of mouth", "akuisisi pelanggan", "program loyalitas", "strategi pertumbuhan"]
-image: "/blog/strategi-referral-program-bisnis/thumbnail.webp"
+image: "/blog/strategi-referral-program-bisnis/thumbnail.svg"
 ---
 
 Pelanggan yang datang melalui rekomendasi dari orang yang mereka percaya cenderung lebih loyal, lebih mudah dikonversi, dan memiliki nilai seumur hidup yang lebih tinggi dibandingkan pelanggan yang datang dari iklan. Ini bukan sekadar teori — ini adalah pola yang konsisten terlihat di berbagai jenis bisnis.

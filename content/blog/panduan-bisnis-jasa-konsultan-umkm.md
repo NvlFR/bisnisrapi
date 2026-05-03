@@ -5,7 +5,7 @@ excerpt: "Panduan memulai bisnis jasa konsultan untuk UMKM Indonesia, dari menen
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa konsultan", "konsultan umkm", "bisnis konsultasi", "konsultan bisnis", "advisor umkm"]
-image: "/blog/panduan-bisnis-jasa-konsultan-umkm/thumbnail.webp"
+image: "/blog/panduan-bisnis-jasa-konsultan-umkm/thumbnail.svg"
 ---
 
 Jutaan UMKM di Indonesia membutuhkan bantuan untuk tumbuh dan berkembang — dari strategi pemasaran, manajemen keuangan, operasional, hingga transformasi digital. Tapi banyak yang tidak tahu harus mulai dari mana atau tidak punya akses ke konsultan yang tepat. Ini adalah peluang besar bagi profesional yang ingin berbagi keahlian mereka melalui bisnis konsultasi.

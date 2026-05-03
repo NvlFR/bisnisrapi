@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap mengelola bisnis event catering secara profesional, da
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["event catering", "bisnis catering", "catering perusahaan", "manajemen event fnb", "catering profesional"]
-image: "/blog/cara-kelola-bisnis-event-catering/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-event-catering/thumbnail.svg"
 ---
 
 Bisnis event catering berbeda dari catering pernikahan dalam beberapa hal penting. Klien kamu adalah perusahaan, lembaga pemerintah, atau organisasi yang mengadakan berbagai jenis event — seminar, rapat, peluncuran produk, gathering karyawan, atau acara perusahaan lainnya. Ini berarti kamu berhadapan dengan klien yang lebih profesional, ekspektasi yang lebih terstruktur, dan potensi kontrak jangka panjang yang sangat menarik.

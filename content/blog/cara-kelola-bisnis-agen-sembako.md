@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis agen sembako secara profesional, dari manajem
 author: "BisnisRapi Team"
 category: "Distribusi"
 tags: ["agen sembako", "bisnis distribusi", "grosir sembako", "agen beras", "distribusi sembako"]
-image: "/blog/cara-kelola-bisnis-agen-sembako/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-agen-sembako/thumbnail.svg"
 ---
 
 Bisnis agen sembako beroperasi di level yang berbeda dari toko sembako biasa. Sebagai agen, kamu membeli dalam jumlah besar dari produsen atau distributor utama, lalu mendistribusikan ke toko-toko kelontong, warung, dan pengecer di area kamu. Margin per unit mungkin lebih kecil, tapi volume yang besar bisa menghasilkan keuntungan yang signifikan.

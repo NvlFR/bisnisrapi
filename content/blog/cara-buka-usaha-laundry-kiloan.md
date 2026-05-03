@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap membuka usaha laundry kiloan, dari kebutuhan peralatan
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["usaha laundry", "laundry kiloan", "bisnis laundry", "jasa laundry", "usaha jasa"]
-image: "/blog/cara-buka-usaha-laundry-kiloan/thumbnail.webp"
+image: "/blog/cara-buka-usaha-laundry-kiloan/thumbnail.svg"
 ---
 
 Usaha laundry kiloan adalah salah satu bisnis jasa yang paling stabil dan tahan banting. Orang selalu butuh mencuci pakaian, dan semakin banyak orang — terutama di perkotaan — yang memilih menggunakan jasa laundry karena keterbatasan waktu atau fasilitas. Ini membuat laundry kiloan menjadi bisnis dengan demand yang konsisten sepanjang tahun.

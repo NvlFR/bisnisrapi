@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mengelola krisis bisnis UMKM — dari mengidentifikasi
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["krisis bisnis", "manajemen krisis", "ketahanan bisnis", "pemulihan bisnis", "strategi umkm"]
-image: "/blog/cara-kelola-krisis-bisnis-umkm/thumbnail.webp"
+image: "/blog/cara-kelola-krisis-bisnis-umkm/thumbnail.svg"
 ---
 
 Tidak ada bisnis yang kebal dari krisis. Kebakaran, pandemi, kehilangan pelanggan besar, karyawan kunci yang resign mendadak, atau reputasi yang rusak karena satu kejadian — semua ini bisa terjadi pada bisnis manapun, kapanpun.

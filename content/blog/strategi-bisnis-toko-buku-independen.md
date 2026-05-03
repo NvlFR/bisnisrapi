@@ -5,7 +5,7 @@ excerpt: "Strategi membangun toko buku independen yang relevan di era digital, d
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko buku independen", "bisnis buku", "bookstore", "komunitas baca", "literasi"]
-image: "/blog/strategi-bisnis-toko-buku-independen/thumbnail.webp"
+image: "/blog/strategi-bisnis-toko-buku-independen/thumbnail.svg"
 ---
 
 Di era di mana buku bisa dibeli online dalam hitungan menit dan dibaca di perangkat digital, toko buku fisik — terutama yang independen — menghadapi tantangan yang nyata. Tapi di sisi lain, ada gerakan yang semakin kuat untuk mendukung toko buku independen, dan banyak toko buku independen yang justru berkembang pesat dengan strategi yang tepat.

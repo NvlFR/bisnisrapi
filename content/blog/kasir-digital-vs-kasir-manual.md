@@ -5,7 +5,7 @@ excerpt: "Masih pakai kasir manual? Bandingkan kasir digital dan manual dari sis
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["kasir digital", "POS", "kasir manual", "teknologi bisnis", "UMKM"]
-image: "/blog/kasir-digital-vs-kasir-manual/thumbnail.webp"
+image: "/blog/kasir-digital-vs-kasir-manual/thumbnail.svg"
 ---
 
 Kalau kamu masih pakai mesin kasir lama atau bahkan hanya kalkulator dan buku nota, pertanyaan ini mungkin sudah pernah terlintas: "Apakah worth it beralih ke kasir digital?"

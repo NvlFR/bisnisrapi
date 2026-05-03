@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap menggunakan Instagram untuk toko retail — cara memba
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["instagram bisnis", "instagram toko retail", "reels instagram", "pemasaran instagram", "toko retail online"]
-image: "/blog/panduan-instagram-untuk-toko-retail/thumbnail.webp"
+image: "/blog/panduan-instagram-untuk-toko-retail/thumbnail.svg"
 ---
 
 Instagram adalah salah satu platform paling visual di dunia, dan toko retail punya keunggulan alami di sini: produk fisik yang bisa difoto dan divideo dengan menarik. Tapi banyak toko retail yang belum memanfaatkan Instagram secara optimal — feed-nya tidak konsisten, Reels-nya jarang dibuat, dan konversi dari followers ke pembeli masih rendah.

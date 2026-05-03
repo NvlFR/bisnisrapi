@@ -5,7 +5,7 @@ excerpt: "Sistem shift yang buruk bisa menurunkan moral karyawan dan produktivit
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["sistem shift", "manajemen karyawan", "jadwal kerja", "SDM", "UMKM"]
-image: "/blog/cara-buat-sistem-shift-karyawan/thumbnail.webp"
+image: "/blog/cara-buat-sistem-shift-karyawan/thumbnail.svg"
 ---
 
 Salah satu sumber konflik yang paling umum antara pemilik bisnis dan karyawan adalah masalah jadwal shift. Karyawan merasa jadwalnya tidak adil, sering berubah mendadak, atau tidak sesuai dengan kebutuhan pribadi mereka. Pemilik bisnis di sisi lain kesulitan memastikan semua shift terisi tanpa kekurangan atau kelebihan tenaga.

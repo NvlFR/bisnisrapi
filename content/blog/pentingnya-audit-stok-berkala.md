@@ -5,7 +5,7 @@ excerpt: "Audit stok bukan sekadar formalitas — ini cara untuk memastikan data
 author: "BisnisRapi Team"
 category: "Manajemen Stok"
 tags: ["audit stok", "stock opname", "manajemen inventori", "stok barang", "UMKM"]
-image: "/blog/pentingnya-audit-stok-berkala/thumbnail.webp"
+image: "/blog/pentingnya-audit-stok-berkala/thumbnail.svg"
 ---
 
 Pernah kamu mendapati situasi di mana sistem menunjukkan stok masih ada, tapi saat dicari di gudang ternyata kosong? Atau sebaliknya, ada barang di gudang yang tidak tercatat di sistem? Ini adalah tanda bahwa data stok kamu tidak akurat — dan ini masalah yang lebih serius dari yang terlihat.

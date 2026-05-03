@@ -5,7 +5,7 @@ excerpt: "Stok bahan baku yang tidak terkelola adalah sumber kerugian terbesar d
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["stok bahan baku", "F&B", "manajemen stok", "food cost", "operasional restoran"]
-image: "/blog/cara-kelola-stok-bahan-baku-fnb/thumbnail.webp"
+image: "/blog/cara-kelola-stok-bahan-baku-fnb/thumbnail.svg"
 ---
 
 Di bisnis F&B, bahan baku adalah nyawa sekaligus sumber kerugian terbesar. Terlalu banyak beli, bahan expired dan terbuang. Terlalu sedikit, kehabisan di tengah jam sibuk dan pelanggan kecewa. Menemukan keseimbangan yang tepat adalah seni tersendiri.

@@ -5,7 +5,7 @@ excerpt: "Panduan strategi reinvestasi keuntungan bisnis yang cerdas — kapan h
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["reinvestasi bisnis", "alokasi keuntungan", "pertumbuhan bisnis", "investasi umkm", "strategi keuangan"]
-image: "/blog/strategi-reinvestasi-keuntungan-bisnis/thumbnail.webp"
+image: "/blog/strategi-reinvestasi-keuntungan-bisnis/thumbnail.svg"
 ---
 
 Bisnis kamu mulai menghasilkan keuntungan yang konsisten. Selamat! Tapi sekarang muncul pertanyaan yang tidak kalah penting: uang ini mau diapakan? Diambil semua sebagai penghasilan pribadi? Disimpan di tabungan? Atau diinvestasikan kembali ke bisnis?

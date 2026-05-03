@@ -5,7 +5,7 @@ excerpt: "Harga yang salah bisa bikin bisnis rugi atau kehilangan pelanggan. Pel
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["pricing", "strategi harga", "UMKM", "harga produk", "profitabilitas"]
-image: "/blog/strategi-pricing-produk-umkm/thumbnail.webp"
+image: "/blog/strategi-pricing-produk-umkm/thumbnail.svg"
 ---
 
 "Harga saya ikutin kompetitor aja." Ini jawaban yang sering terdengar dari pemilik UMKM saat ditanya soal strategi pricing. Dan ini adalah salah satu keputusan bisnis yang paling berbahaya.

@@ -5,7 +5,7 @@ excerpt: "Analisis mendalam cara menghitung dan membandingkan biaya sewa vs. bel
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["sewa vs beli tempat", "properti usaha", "investasi properti bisnis", "biaya tempat usaha", "keputusan bisnis"]
-image: "/blog/cara-hitung-biaya-sewa-vs-beli-tempat/thumbnail.webp"
+image: "/blog/cara-hitung-biaya-sewa-vs-beli-tempat/thumbnail.svg"
 ---
 
 "Lebih baik beli tempat usaha sendiri daripada buang uang untuk sewa." Kalimat ini sering terdengar, tapi apakah selalu benar? Keputusan sewa vs. beli tempat usaha adalah salah satu keputusan finansial terbesar yang akan kamu buat sebagai pemilik bisnis. Dan jawabannya tidak sesederhana yang terlihat.

@@ -5,7 +5,7 @@ excerpt: "Kasbon pelanggan yang tidak terkelola bisa jadi bom waktu untuk arus k
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["kasbon", "piutang pelanggan", "keuangan bisnis", "manajemen kredit", "UMKM"]
-image: "/blog/cara-kelola-kasbon-pelanggan/thumbnail.webp"
+image: "/blog/cara-kelola-kasbon-pelanggan/thumbnail.svg"
 ---
 
 "Nanti bayarnya ya, lagi nggak bawa uang." Kalimat ini mungkin sudah sangat familiar bagi kamu yang punya toko atau warung. Kasbon — atau hutang pelanggan — adalah praktik yang sangat umum di bisnis UMKM Indonesia, terutama di warung, toko kelontong, dan bisnis yang melayani komunitas lokal.

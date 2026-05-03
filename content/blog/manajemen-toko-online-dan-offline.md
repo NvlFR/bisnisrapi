@@ -5,7 +5,7 @@ excerpt: "Mengelola toko online dan offline secara bersamaan bisa sangat membing
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["omnichannel", "toko online", "toko offline", "manajemen stok", "retail modern"]
-image: "/blog/manajemen-toko-online-dan-offline/thumbnail.webp"
+image: "/blog/manajemen-toko-online-dan-offline/thumbnail.svg"
 ---
 
 Punya toko fisik sekaligus jualan online adalah strategi yang semakin umum di kalangan UMKM. Tapi banyak yang tidak siap dengan kompleksitas yang datang bersamanya: stok yang tidak sinkron, pesanan yang terlewat, dan pelanggan yang kecewa karena produk yang "tersedia" di online ternyata sudah habis di toko.

@@ -5,7 +5,7 @@ excerpt: "Klinik dokter umum yang ramai butuh sistem antrean dan rekam medis yan
 author: "BisnisRapi Team"
 category: "Kesehatan"
 tags: ["klinik dokter umum", "antrean digital", "rekam medis", "manajemen klinik", "pelayanan kesehatan"]
-image: "/blog/manajemen-klinik-umum/thumbnail.webp"
+image: "/blog/manajemen-klinik-umum/thumbnail.svg"
 ---
 
 Klinik dokter umum yang ramai adalah tanda kepercayaan masyarakat. Tapi keramaian tanpa sistem yang baik bisa berubah menjadi kekacauan: pasien menunggu berjam-jam, rekam medis yang sulit ditemukan, dan dokter yang kelelahan karena tidak ada manajemen waktu yang baik.

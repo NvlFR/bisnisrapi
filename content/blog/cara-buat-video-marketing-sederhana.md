@@ -5,7 +5,7 @@ excerpt: "Video adalah format konten yang paling efektif saat ini. Kamu tidak pe
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["video marketing", "buat video hp", "konten video bisnis", "reels tiktok", "video produk"]
-image: "/blog/cara-buat-video-marketing-sederhana/thumbnail.webp"
+image: "/blog/cara-buat-video-marketing-sederhana/thumbnail.svg"
 ---
 
 Video telah menjadi format konten yang paling dominan di hampir semua platform digital. Instagram Reels, TikTok, YouTube Shorts — semua platform besar mendorong konten video karena pengguna menghabiskan lebih banyak waktu menonton video dibandingkan melihat foto atau membaca teks.

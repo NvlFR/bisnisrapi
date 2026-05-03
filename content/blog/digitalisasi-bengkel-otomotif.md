@@ -5,7 +5,7 @@ excerpt: "Bengkel yang masih pakai buku servis manual kehilangan banyak efisiens
 author: "BisnisRapi Team"
 category: "Otomotif"
 tags: ["bengkel otomotif", "digitalisasi bengkel", "manajemen bengkel", "servis kendaraan", "UMKM"]
-image: "/blog/digitalisasi-bengkel-otomotif/thumbnail.webp"
+image: "/blog/digitalisasi-bengkel-otomotif/thumbnail.svg"
 ---
 
 Bengkel otomotif adalah salah satu bisnis yang paling lambat beradaptasi dengan teknologi digital. Banyak bengkel masih mengandalkan buku servis manual, catatan tangan, dan ingatan mekanik untuk mengelola operasional sehari-hari.

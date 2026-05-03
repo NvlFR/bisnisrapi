@@ -5,7 +5,7 @@ excerpt: "Bersaing di harga adalah permainan yang tidak ada habisnya. Pelajari s
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["harga premium", "strategi harga", "nilai produk", "diferensiasi bisnis", "positioning premium"]
-image: "/blog/strategi-mempertahankan-harga-premium/thumbnail.webp"
+image: "/blog/strategi-mempertahankan-harga-premium/thumbnail.svg"
 ---
 
 Salah satu tekanan terbesar yang dihadapi pemilik bisnis adalah tekanan untuk menurunkan harga. Kompetitor menawarkan harga lebih murah, pelanggan menawar, dan kamu mulai bertanya-tanya apakah harga kamu terlalu tinggi.

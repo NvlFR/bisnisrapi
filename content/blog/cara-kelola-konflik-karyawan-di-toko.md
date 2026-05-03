@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mengelola konflik antar karyawan di bisnis UMKM — da
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["konflik karyawan", "manajemen konflik", "harmoni tim", "manajemen sdm", "kepemimpinan bisnis"]
-image: "/blog/cara-kelola-konflik-karyawan-di-toko/thumbnail.webp"
+image: "/blog/cara-kelola-konflik-karyawan-di-toko/thumbnail.svg"
 ---
 
 Konflik antar karyawan adalah hal yang hampir tidak bisa dihindari di setiap bisnis. Dua orang dengan kepribadian, latar belakang, dan cara kerja yang berbeda, bekerja dalam ruang yang sama setiap hari — gesekan adalah hal yang wajar. Yang membedakan bisnis yang sehat adalah bagaimana konflik tersebut dikelola.

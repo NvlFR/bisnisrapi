@@ -5,7 +5,7 @@ excerpt: "Database pelanggan yang terkelola dengan baik adalah salah satu aset b
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["database pelanggan", "data pelanggan", "CRM umkm", "manajemen pelanggan", "loyalitas pelanggan"]
-image: "/blog/cara-kelola-database-pelanggan/thumbnail.webp"
+image: "/blog/cara-kelola-database-pelanggan/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang tidak menyadari bahwa mereka sudah punya aset bisnis yang sangat berharga: data pelanggan. Nama, nomor telepon, riwayat pembelian, dan preferensi pelanggan — semua ini adalah informasi yang bisa digunakan untuk meningkatkan penjualan, membangun loyalitas, dan mengembangkan bisnis.

@@ -5,7 +5,7 @@ excerpt: "Mengelola karyawan toko bisa jadi tantangan tersendiri. Panduan ini me
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["manajemen karyawan", "SDM", "toko retail", "owner bisnis", "tim kerja"]
-image: "/blog/cara-kelola-karyawan-toko/thumbnail.webp"
+image: "/blog/cara-kelola-karyawan-toko/thumbnail.svg"
 ---
 
 Salah satu hal yang paling sering dikeluhkan owner toko adalah urusan karyawan. Mulai dari yang sering telat, yang tidak jujur, yang tidak mau belajar, sampai yang tiba-tiba resign tanpa pemberitahuan. Mengelola orang memang jauh lebih kompleks dari mengelola barang atau keuangan.

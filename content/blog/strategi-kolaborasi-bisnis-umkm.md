@@ -5,7 +5,7 @@ excerpt: "Kolaborasi dengan bisnis lain bisa membuka peluang yang tidak bisa kam
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["kolaborasi bisnis", "kemitraan umkm", "co-marketing", "jaringan bisnis", "strategi pertumbuhan"]
-image: "/blog/strategi-kolaborasi-bisnis-umkm/thumbnail.webp"
+image: "/blog/strategi-kolaborasi-bisnis-umkm/thumbnail.svg"
 ---
 
 Ada pepatah lama yang mengatakan "kalau mau cepat, jalan sendiri; kalau mau jauh, jalan bersama." Dalam konteks bisnis, kolaborasi dengan bisnis lain bisa membuka peluang yang jauh lebih besar dari yang bisa kamu capai sendiri — dengan sumber daya yang lebih efisien.

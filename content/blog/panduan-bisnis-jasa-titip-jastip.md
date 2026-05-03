@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap menjalankan bisnis jasa titip (jastip) secara profesio
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa titip", "jastip", "bisnis jastip", "jastip luar negeri", "usaha jasa titip"]
-image: "/blog/panduan-bisnis-jasa-titip-jastip/thumbnail.webp"
+image: "/blog/panduan-bisnis-jasa-titip-jastip/thumbnail.svg"
 ---
 
 Jasa titip atau jastip adalah bisnis yang memanfaatkan perjalanan — baik ke luar negeri maupun ke kota lain — untuk membelikan produk yang dipesan oleh pelanggan. Bisnis ini bisa dimulai dengan modal yang sangat kecil dan bisa dijalankan secara paruh waktu, tapi kalau dikelola dengan baik, bisa berkembang menjadi bisnis yang cukup menguntungkan.

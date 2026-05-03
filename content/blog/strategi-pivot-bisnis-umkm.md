@@ -5,7 +5,7 @@ excerpt: "Panduan strategi pivot bisnis untuk UMKM — cara mengenali kapan haru
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["pivot bisnis", "strategi bisnis", "perubahan bisnis", "adaptasi bisnis", "transformasi umkm"]
-image: "/blog/strategi-pivot-bisnis-umkm/thumbnail.webp"
+image: "/blog/strategi-pivot-bisnis-umkm/thumbnail.svg"
 ---
 
 Pivot adalah salah satu kata yang paling sering digunakan di dunia startup, tapi konsepnya sama relevannya untuk UMKM. Pivot berarti mengubah arah bisnis secara signifikan — bukan sekadar penyesuaian kecil, tapi perubahan fundamental dalam model bisnis, produk, atau target pasar.

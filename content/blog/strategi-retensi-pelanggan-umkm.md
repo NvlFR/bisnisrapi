@@ -5,7 +5,7 @@ excerpt: "Mendapatkan pelanggan baru jauh lebih mahal dari mempertahankan yang l
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["retensi pelanggan", "loyalitas pelanggan", "strategi bisnis", "UMKM", "customer retention"]
-image: "/blog/strategi-retensi-pelanggan-umkm/thumbnail.webp"
+image: "/blog/strategi-retensi-pelanggan-umkm/thumbnail.svg"
 ---
 
 Ada prinsip bisnis yang sudah terbukti berulang kali: mempertahankan pelanggan yang sudah ada jauh lebih hemat daripada mencari pelanggan baru. Biaya akuisisi pelanggan baru bisa beberapa kali lipat lebih mahal dibanding biaya mempertahankan pelanggan lama.

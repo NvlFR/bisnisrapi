@@ -5,7 +5,7 @@ excerpt: "Panduan membuat proyeksi keuangan bisnis yang realistis untuk 6-12 bul
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["proyeksi keuangan", "financial forecast", "perencanaan bisnis", "cash flow projection", "keuangan umkm"]
-image: "/blog/cara-buat-proyeksi-keuangan-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-proyeksi-keuangan-bisnis/thumbnail.svg"
 ---
 
 Proyeksi keuangan bukan soal meramal masa depan dengan tepat. Tidak ada yang bisa melakukan itu. Proyeksi keuangan adalah tentang membuat rencana yang terstruktur berdasarkan asumsi yang masuk akal, sehingga kamu bisa mengantisipasi masalah sebelum terjadi dan memanfaatkan peluang sebelum terlambat.

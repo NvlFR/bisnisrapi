@@ -5,7 +5,7 @@ excerpt: "Panduan membuka toko sembako modern yang kompetitif di era minimarket,
 author: "BisnisRapi Team"
 category: "Retail"
 tags: ["toko sembako", "usaha sembako", "bisnis sembako", "toko kelontong modern", "retail sembako"]
-image: "/blog/cara-buka-usaha-toko-sembako-modern/thumbnail.webp"
+image: "/blog/cara-buka-usaha-toko-sembako-modern/thumbnail.svg"
 ---
 
 Di era minimarket yang ada di mana-mana, membuka toko sembako terdengar seperti pertarungan yang tidak seimbang. Tapi kenyataannya, toko sembako yang dikelola dengan baik masih bisa sangat kompetitif — bahkan mengalahkan minimarket dalam beberapa aspek. Kuncinya adalah memahami keunggulan yang kamu miliki dan memaksimalkannya.

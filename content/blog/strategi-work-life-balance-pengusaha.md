@@ -5,7 +5,7 @@ excerpt: "Panduan praktis mencapai work-life balance sebagai pengusaha UMKM — 
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["work life balance", "kesehatan pengusaha", "burnout bisnis", "manajemen waktu", "kesejahteraan owner"]
-image: "/blog/strategi-work-life-balance-pengusaha/thumbnail.webp"
+image: "/blog/strategi-work-life-balance-pengusaha/thumbnail.svg"
 ---
 
 "Work-life balance itu mitos untuk pengusaha." Kalimat ini sering terdengar, dan ada benarnya — terutama di tahun-tahun awal membangun bisnis. Tapi ada perbedaan antara periode intensif yang disengaja dan kondisi kronis di mana bisnis menggerogoti semua aspek kehidupan kamu.

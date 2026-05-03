@@ -5,7 +5,7 @@ excerpt: "Panduan praktis manajemen risiko bisnis untuk UMKM — cara mengidenti
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["manajemen risiko", "risk management", "risiko bisnis", "mitigasi risiko", "ketahanan bisnis"]
-image: "/blog/panduan-manajemen-risiko-bisnis/thumbnail.webp"
+image: "/blog/panduan-manajemen-risiko-bisnis/thumbnail.svg"
 ---
 
 Setiap bisnis menghadapi risiko. Yang membedakan bisnis yang bertahan dengan yang tidak bukan ketiadaan risiko, tapi kemampuan untuk mengidentifikasi, menilai, dan mengelola risiko tersebut secara proaktif.

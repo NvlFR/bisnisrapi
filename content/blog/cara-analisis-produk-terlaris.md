@@ -5,7 +5,7 @@ excerpt: "Tahu produk mana yang paling menguntungkan adalah kunci untuk alokasi 
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["analisis produk", "produk terlaris", "manajemen stok", "strategi bisnis", "data bisnis"]
-image: "/blog/cara-analisis-produk-terlaris/thumbnail.webp"
+image: "/blog/cara-analisis-produk-terlaris/thumbnail.svg"
 ---
 
 Punya 200 SKU di toko tapi tidak tahu mana yang benar-benar menghasilkan uang? Kamu tidak sendirian. Banyak pemilik toko yang mengelola ratusan produk tapi tidak punya gambaran jelas tentang mana yang worth it dan mana yang hanya memakan tempat dan modal.

@@ -5,7 +5,7 @@ excerpt: "Panduan strategi rekrutmen karyawan yang efektif dan efisien untuk UMK
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["rekrutmen karyawan", "hiring umkm", "seleksi karyawan", "manajemen sdm", "mencari karyawan"]
-image: "/blog/strategi-rekrutmen-karyawan-umkm/thumbnail.webp"
+image: "/blog/strategi-rekrutmen-karyawan-umkm/thumbnail.svg"
 ---
 
 Merekrut karyawan yang salah adalah salah satu kesalahan paling mahal yang bisa dilakukan bisnis kecil. Biaya rekrutmen, waktu pelatihan, dan dampak pada produktivitas tim bisa sangat signifikan. Tapi dengan strategi yang tepat, kamu bisa meningkatkan peluang mendapatkan karyawan yang benar-benar cocok.

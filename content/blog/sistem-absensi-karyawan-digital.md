@@ -5,7 +5,7 @@ excerpt: "Absensi manual rentan manipulasi dan memakan waktu untuk rekap. Sistem
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["absensi karyawan", "sistem absensi", "SDM digital", "manajemen karyawan", "UMKM"]
-image: "/blog/sistem-absensi-karyawan-digital/thumbnail.webp"
+image: "/blog/sistem-absensi-karyawan-digital/thumbnail.svg"
 ---
 
 Buku absensi yang ditandatangani karyawan setiap hari terlihat sederhana dan tidak masalah. Tapi coba hitung: berapa waktu yang kamu habiskan setiap bulan untuk rekap absensi, hitung keterlambatan, dan kalkulasi gaji berdasarkan kehadiran? Dan seberapa yakin kamu bahwa data absensi itu akurat?

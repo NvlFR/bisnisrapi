@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap manajemen dapur restoran yang efisien, mencakup desain
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["manajemen dapur", "operasional restoran", "sop dapur", "layout dapur", "bisnis fnb"]
-image: "/blog/manajemen-dapur-restoran-efisien/thumbnail.webp"
+image: "/blog/manajemen-dapur-restoran-efisien/thumbnail.svg"
 ---
 
 Dapur adalah jantung dari setiap restoran. Seberapa bagus pun dekorasi ruang makan kamu, kalau dapur tidak dikelola dengan baik, semua akan berantakan — pesanan lambat, kualitas tidak konsisten, dan karyawan stres. Manajemen dapur yang efisien adalah kunci untuk memberikan pengalaman makan yang baik kepada pelanggan secara konsisten.

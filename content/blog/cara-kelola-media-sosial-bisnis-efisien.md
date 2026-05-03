@@ -5,7 +5,7 @@ excerpt: "Sebagai pemilik UMKM, waktu kamu sangat terbatas. Pelajari cara mengel
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["kelola media sosial", "efisiensi media sosial", "manajemen konten", "jadwal posting", "tools media sosial"]
-image: "/blog/cara-kelola-media-sosial-bisnis-efisien/thumbnail.webp"
+image: "/blog/cara-kelola-media-sosial-bisnis-efisien/thumbnail.svg"
 ---
 
 Salah satu keluhan paling umum dari pemilik UMKM adalah: "Saya tahu media sosial penting, tapi saya tidak punya waktu untuk mengelolanya dengan baik." Ini adalah dilema yang nyata — media sosial membutuhkan konsistensi, tapi bisnis juga membutuhkan perhatian kamu di banyak area lain.

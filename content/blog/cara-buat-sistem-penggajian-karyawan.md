@@ -5,7 +5,7 @@ excerpt: "Panduan membuat sistem penggajian karyawan yang transparan, akurat, da
 author: "BisnisRapi Team"
 category: "Manajemen SDM"
 tags: ["sistem penggajian", "gaji karyawan", "payroll umkm", "manajemen sdm", "slip gaji"]
-image: "/blog/cara-buat-sistem-penggajian-karyawan/thumbnail.webp"
+image: "/blog/cara-buat-sistem-penggajian-karyawan/thumbnail.svg"
 ---
 
 Sistem penggajian yang buruk adalah salah satu penyebab paling umum karyawan tidak puas dan akhirnya resign. Gaji yang terlambat, tidak transparan, atau sering salah hitung menciptakan ketidakpercayaan yang sulit diperbaiki. Sebaliknya, sistem penggajian yang rapi dan tepat waktu adalah fondasi hubungan kerja yang sehat.

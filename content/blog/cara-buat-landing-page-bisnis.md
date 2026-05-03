@@ -5,7 +5,7 @@ excerpt: "Landing page yang baik bisa mengubah pengunjung menjadi pelanggan. Pel
 author: "BisnisRapi Team"
 category: "Teknologi Bisnis"
 tags: ["landing page", "halaman penjualan", "konversi website", "digital marketing", "website bisnis"]
-image: "/blog/cara-buat-landing-page-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-landing-page-bisnis/thumbnail.svg"
 ---
 
 Landing page adalah halaman web yang dirancang khusus untuk satu tujuan: mengkonversi pengunjung menjadi pelanggan, subscriber, atau prospek. Berbeda dengan halaman website biasa yang punya banyak navigasi dan tujuan, landing page fokus pada satu tindakan yang ingin kamu dorong.

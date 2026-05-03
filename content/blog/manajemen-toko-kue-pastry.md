@@ -5,7 +5,7 @@ excerpt: "Toko kue yang sukses butuh sistem pre-order yang baik dan jadwal produ
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["toko kue", "pastry", "pre-order kue", "jadwal produksi", "manajemen F&B"]
-image: "/blog/manajemen-toko-kue-pastry/thumbnail.webp"
+image: "/blog/manajemen-toko-kue-pastry/thumbnail.svg"
 ---
 
 Toko kue dan pastry adalah bisnis yang penuh kreativitas — tapi di balik kue-kue yang indah, ada manajemen produksi yang perlu berjalan dengan presisi. Terutama untuk kue custom dan kue pesanan, sistem pre-order dan jadwal produksi yang baik adalah kunci agar bisnis bisa berjalan lancar tanpa kamu kewalahan.

@@ -5,7 +5,7 @@ excerpt: "Live streaming telah menjadi salah satu cara paling efektif untuk berj
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["live streaming jualan", "live tiktok shop", "live shopee", "jualan live", "live commerce"]
-image: "/blog/panduan-live-streaming-jualan/thumbnail.webp"
+image: "/blog/panduan-live-streaming-jualan/thumbnail.svg"
 ---
 
 Live streaming untuk jualan — atau yang sering disebut live commerce — telah menjadi fenomena yang mengubah cara orang berbelanja online. Di platform seperti TikTok Shop, Shopee Live, dan Instagram Live, penjual bisa berinteraksi langsung dengan calon pembeli, menampilkan produk secara real-time, dan mendorong pembelian dengan cara yang jauh lebih personal dari toko online biasa.

@@ -5,7 +5,7 @@ excerpt: "Memahami customer journey membantu kamu mengoptimalkan setiap titik ko
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["customer journey", "pengalaman pelanggan", "customer experience", "peta perjalanan pelanggan", "strategi pelanggan"]
-image: "/blog/panduan-customer-journey-umkm/thumbnail.webp"
+image: "/blog/panduan-customer-journey-umkm/thumbnail.svg"
 ---
 
 Sebelum seseorang menjadi pelanggan setia bisnis kamu, mereka melewati serangkaian tahapan — dari pertama kali mendengar tentang bisnis kamu, hingga memutuskan untuk membeli, hingga menjadi pelanggan yang kembali lagi dan merekomendasikan kepada orang lain.

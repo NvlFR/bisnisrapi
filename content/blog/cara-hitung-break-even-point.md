@@ -5,7 +5,7 @@ excerpt: "Break even point adalah angka yang wajib diketahui setiap pemilik bisn
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["break even point", "BEP", "keuangan bisnis", "analisis bisnis", "UMKM"]
-image: "/blog/cara-hitung-break-even-point/thumbnail.webp"
+image: "/blog/cara-hitung-break-even-point/thumbnail.svg"
 ---
 
 "Bisnis saya sudah untung belum ya?" Ini pertanyaan yang sering tidak bisa dijawab dengan pasti oleh banyak pemilik UMKM. Mereka tahu ada uang masuk, tapi tidak yakin apakah sudah menutup semua biaya.

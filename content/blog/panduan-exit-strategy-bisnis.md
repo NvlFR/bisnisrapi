@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap exit strategy untuk pemilik UMKM — mulai dari menjua
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["exit strategy", "jual bisnis", "wariskan bisnis", "UMKM", "strategi bisnis"]
-image: "/blog/panduan-exit-strategy-bisnis/thumbnail.webp"
+image: "/blog/panduan-exit-strategy-bisnis/thumbnail.svg"
 ---
 
 Banyak pengusaha UMKM yang fokus penuh membangun bisnis dari nol, tapi jarang memikirkan satu pertanyaan penting: *bagaimana nanti kalau saya mau keluar dari bisnis ini?*

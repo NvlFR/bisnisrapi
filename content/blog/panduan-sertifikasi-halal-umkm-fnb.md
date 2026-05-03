@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap proses sertifikasi halal untuk UMKM F&B Indonesia, dar
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["sertifikasi halal", "halal umkm", "bpjph", "sertifikat halal", "bisnis fnb halal"]
-image: "/blog/panduan-sertifikasi-halal-umkm-fnb/thumbnail.webp"
+image: "/blog/panduan-sertifikasi-halal-umkm-fnb/thumbnail.svg"
 ---
 
 Sertifikasi halal bukan sekadar label di kemasan. Bagi bisnis F&B di Indonesia — negara dengan populasi Muslim terbesar di dunia — sertifikat halal adalah bukti komitmen terhadap kualitas dan kepercayaan pelanggan. Dan sejak regulasi terbaru, sertifikasi halal semakin menjadi keharusan bagi pelaku usaha F&B.

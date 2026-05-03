@@ -5,7 +5,7 @@ excerpt: "Keuangan cafe yang tidak terkelola dengan baik bisa bikin bisnis yang 
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["manajemen keuangan", "cafe", "F&B", "keuangan bisnis", "digitalisasi cafe"]
-image: "/blog/manajemen-keuangan-cafe/thumbnail.webp"
+image: "/blog/manajemen-keuangan-cafe/thumbnail.svg"
 ---
 
 Cafe yang selalu ramai belum tentu menguntungkan. Ini bukan paradoks — ini kenyataan yang dialami banyak pemilik cafe. Antrian panjang, Instagram penuh foto pelanggan, tapi di akhir bulan uangnya entah ke mana.

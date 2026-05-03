@@ -5,7 +5,7 @@ excerpt: "Panduan mengelola bisnis jasa penerjemah dan interpreter secara profes
 author: "BisnisRapi Team"
 category: "Jasa & Layanan"
 tags: ["jasa penerjemah", "bisnis penerjemahan", "translator", "interpreter", "jasa bahasa"]
-image: "/blog/cara-kelola-bisnis-jasa-penerjemah/thumbnail.webp"
+image: "/blog/cara-kelola-bisnis-jasa-penerjemah/thumbnail.svg"
 ---
 
 Bisnis jasa penerjemah dan interpreter adalah bisnis yang bisa dimulai dengan modal yang sangat kecil — yang kamu butuhkan adalah kemampuan bahasa yang solid, komputer, dan koneksi internet. Tapi untuk sukses, kamu perlu lebih dari sekadar kemampuan bahasa — kamu butuh spesialisasi, profesionalisme, dan kemampuan mengelola bisnis dengan baik.

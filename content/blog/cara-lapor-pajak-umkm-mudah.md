@@ -5,7 +5,7 @@ excerpt: "Panduan praktis lapor pajak untuk pelaku UMKM Indonesia, dari memilih 
 author: "BisnisRapi Team"
 category: "Keuangan Bisnis"
 tags: ["pajak umkm", "lapor pajak", "spt tahunan", "pph final", "kewajiban pajak"]
-image: "/blog/cara-lapor-pajak-umkm-mudah/thumbnail.webp"
+image: "/blog/cara-lapor-pajak-umkm-mudah/thumbnail.svg"
 ---
 
 Bicara soal pajak, banyak pemilik UMKM langsung merasa pusing. Padahal, kalau kamu tahu alurnya, lapor pajak itu tidak serumit yang dibayangkan. Artikel ini akan memandu kamu langkah demi langkah, dari memahami kewajiban pajak UMKM hingga cara lapor yang benar.

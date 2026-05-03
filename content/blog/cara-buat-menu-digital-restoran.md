@@ -5,7 +5,7 @@ excerpt: "Menu digital bukan hanya tren — ini solusi praktis yang meningkatkan
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["menu digital", "restoran", "F&B", "QR code menu", "digitalisasi restoran"]
-image: "/blog/cara-buat-menu-digital-restoran/thumbnail.webp"
+image: "/blog/cara-buat-menu-digital-restoran/thumbnail.svg"
 ---
 
 Sejak pandemi, menu digital berbasis QR code menjadi sangat populer di restoran. Tapi banyak yang mengimplementasikannya setengah-setengah — hanya foto menu yang di-upload ke Google Drive, tanpa fitur yang benar-benar memudahkan pelanggan dan operasional.

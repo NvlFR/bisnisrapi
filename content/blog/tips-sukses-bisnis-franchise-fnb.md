@@ -5,7 +5,7 @@ excerpt: "Panduan lengkap menjalankan bisnis franchise F&B di Indonesia, dari me
 author: "BisnisRapi Team"
 category: "F&B"
 tags: ["bisnis franchise", "franchise fnb", "waralaba makanan", "investasi franchise", "bisnis kuliner"]
-image: "/blog/tips-sukses-bisnis-franchise-fnb/thumbnail.webp"
+image: "/blog/tips-sukses-bisnis-franchise-fnb/thumbnail.svg"
 ---
 
 Bisnis franchise F&B menawarkan daya tarik yang jelas: kamu mendapatkan brand yang sudah dikenal, sistem yang sudah terbukti, dan dukungan dari franchisor. Tapi banyak franchisee yang kecewa karena ekspektasi tidak sesuai kenyataan. Keuntungan tidak sebesar yang dijanjikan, atau operasional ternyata lebih rumit dari yang dibayangkan.

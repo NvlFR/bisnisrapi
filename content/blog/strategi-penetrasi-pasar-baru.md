@@ -5,7 +5,7 @@ excerpt: "Ekspansi ke pasar baru adalah langkah besar yang penuh peluang sekalig
 author: "BisnisRapi Team"
 category: "Strategi Bisnis"
 tags: ["penetrasi pasar", "ekspansi bisnis", "pasar baru", "strategi ekspansi", "pertumbuhan umkm"]
-image: "/blog/strategi-penetrasi-pasar-baru/thumbnail.webp"
+image: "/blog/strategi-penetrasi-pasar-baru/thumbnail.svg"
 ---
 
 Bisnis yang tidak berkembang cenderung stagnan. Salah satu cara untuk terus tumbuh adalah dengan memasuki pasar baru — baik itu pasar geografis yang baru, segmen pelanggan yang berbeda, atau saluran penjualan yang belum pernah dicoba.

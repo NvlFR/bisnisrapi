@@ -5,7 +5,7 @@ excerpt: "Retur barang yang tidak dikelola dengan baik bisa merugikan bisnis dan
 author: "BisnisRapi Team"
 category: "Operasional Bisnis"
 tags: ["retur barang", "manajemen retur", "layanan pelanggan", "operasional toko", "UMKM"]
-image: "/blog/cara-kelola-retur-barang/thumbnail.webp"
+image: "/blog/cara-kelola-retur-barang/thumbnail.svg"
 ---
 
 Retur barang adalah bagian yang tidak bisa dihindari dari bisnis retail. Pelanggan membeli produk yang ternyata tidak sesuai, rusak, atau tidak cocok — dan mereka ingin mengembalikannya. Bagaimana kamu menangani situasi ini bisa membuat perbedaan besar antara pelanggan yang kecewa dan pelanggan yang justru semakin loyal.

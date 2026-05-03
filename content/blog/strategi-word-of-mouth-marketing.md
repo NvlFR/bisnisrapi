@@ -5,7 +5,7 @@ excerpt: "Word of mouth adalah bentuk pemasaran paling terpercaya dan paling efe
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["word of mouth", "rekomendasi pelanggan", "pemasaran organik", "bisnis lokal", "kepuasan pelanggan"]
-image: "/blog/strategi-word-of-mouth-marketing/thumbnail.webp"
+image: "/blog/strategi-word-of-mouth-marketing/thumbnail.svg"
 ---
 
 Tidak ada iklan yang lebih efektif dari rekomendasi dari seseorang yang kita percaya. Ketika teman atau keluarga merekomendasikan sebuah bisnis, kita jauh lebih mungkin untuk mencobanya dibandingkan kalau kita melihat iklan di media sosial atau billboard.

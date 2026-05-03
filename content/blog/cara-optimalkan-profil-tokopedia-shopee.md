@@ -5,7 +5,7 @@ excerpt: "Profil toko yang dioptimalkan dengan baik bisa meningkatkan visibilita
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["tokopedia", "shopee", "optimasi toko online", "marketplace indonesia", "jualan online"]
-image: "/blog/cara-optimalkan-profil-tokopedia-shopee/thumbnail.webp"
+image: "/blog/cara-optimalkan-profil-tokopedia-shopee/thumbnail.svg"
 ---
 
 Berjualan di Tokopedia atau Shopee bukan sekadar upload produk dan tunggu pembeli datang. Ada banyak hal yang bisa kamu optimalkan untuk meningkatkan visibilitas toko kamu di hasil pencarian marketplace dan meningkatkan konversi dari pengunjung menjadi pembeli.

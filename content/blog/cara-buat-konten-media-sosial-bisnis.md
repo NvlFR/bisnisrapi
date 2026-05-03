@@ -5,7 +5,7 @@ excerpt: "Panduan praktis membuat konten media sosial yang menarik perhatian, me
 author: "BisnisRapi Team"
 category: "Pemasaran"
 tags: ["konten media sosial", "pemasaran umkm", "instagram bisnis", "content marketing", "media sosial umkm"]
-image: "/blog/cara-buat-konten-media-sosial-bisnis/thumbnail.webp"
+image: "/blog/cara-buat-konten-media-sosial-bisnis/thumbnail.svg"
 ---
 
 Banyak pemilik UMKM yang sudah punya akun Instagram atau Facebook, tapi bingung mau posting apa. Akhirnya feed-nya sepi, atau malah isinya promosi terus sampai followers kabur. Padahal, konten media sosial yang bagus bisa jadi mesin pemasaran gratis yang bekerja 24 jam.

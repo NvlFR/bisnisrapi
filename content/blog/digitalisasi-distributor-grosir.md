@@ -5,7 +5,7 @@ excerpt: "Bisnis distribusi dan grosir dengan jaringan agen yang luas butuh sist
 author: "BisnisRapi Team"
 category: "Distribusi"
 tags: ["distributor", "grosir", "manajemen agen", "supply chain", "digitalisasi bisnis"]
-image: "/blog/digitalisasi-distributor-grosir/thumbnail.webp"
+image: "/blog/digitalisasi-distributor-grosir/thumbnail.svg"
 ---
 
 Bisnis distribusi dan grosir adalah tulang punggung rantai pasokan. Tapi mengelola jaringan agen yang tersebar, stok yang besar, dan piutang dari ratusan pelanggan adalah pekerjaan yang sangat kompleks — terutama kalau masih mengandalkan sistem manual.
